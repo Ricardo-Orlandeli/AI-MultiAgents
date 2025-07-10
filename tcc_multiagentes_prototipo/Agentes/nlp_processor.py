@@ -1,6 +1,7 @@
 import spacy
 import re
 from datetime import datetime
+from typing import Optional, Dict, Any
 
 # Carregar o modelo de linguagem spaCy (menor para protótipo)
 # Certifique-se de ter baixado: python -m spacy download pt_core_news_sm
@@ -18,16 +19,16 @@ class StatusTextProcessor:
         self.patterns = {
             "project_id": r"PROJ[ -]?(\d+)",
             "completion_percentage": r"(\d{1,3}(?:[.,]\d{1,2})?)\s*%\s*(?:conclu[ií]do|completo|de progresso)",
-            "spi": r"SPI(?:\s*[:=-])?\s*(\d(?:[.,]\d{1,2})?)",
-            "cpi": r"CPI(?:\s*[:=-])?\s*(\d(?:[.,]\d{1,2})?)",
-            "budget": r"or[çc]amento(?:\s*total)?(?:\s*[:=-])?\s*R\$\s*([\d.,]+)",
-            "actual_cost": r"custo\s*atual(?:\s*[:=-])?\s*R\$\s*([\d.,]+)",
+            "spi": r"SPI(?:\s*[:=-])?\s*(\d+(?:[.,]\d{1,2})?)",
+            "cpi": r"CPI(?:\s*[:=-])?\s*(\d+(?:[.,]\d{1,2})?)",
+            "budget": r"or[çc]amento(?:\s*total)?(?:\s*[:=-])?\s*R\$ *([\d.,]+)",
+            "actual_cost": r"custo\s*atual(?:\s*[:=-])?\s*R\$ *([\d.,]+)",
             "delay_days": r"atraso(?:\s*de)?\s*(\d+)\s*dias?",
             "scope_change_keywords": ["mudan[cç]a de escopo", "altera[cç][aã]o de escopo", "escopo alterado"],
             "risk_keywords": ["risco identificado", "novo risco", "amea[cç]a", "problema potencial"]
         }
 
-    def _extract_with_regex(self, text, pattern_key):
+    def _extract_with_regex(self, text: str, pattern_key: str) -> Optional[Any]:
         match = re.search(self.patterns[pattern_key], text, re.IGNORECASE)
         if match:
             if pattern_key in ["budget", "actual_cost"]:
@@ -39,7 +40,7 @@ class StatusTextProcessor:
             return match.group(1)
         return None
 
-    def _extract_entities(self, doc):
+    def _extract_entities(self, doc) -> Dict[str, list]:
         entities = {
             "dates": [],
             "orgs": [],
@@ -53,11 +54,11 @@ class StatusTextProcessor:
                 entities["orgs"].append(ent.text)
             elif ent.label_ == "PERSON":
                 entities["persons"].append(ent.text)
-            elif ent.label_ == "LOC":
+            elif ent.label_ in ["LOC", "GPE"]:
                 entities["locations"].append(ent.text)
         return entities
 
-    def process_status_file(self, file_path):
+    def process_status_file(self, file_path: str) -> Dict[str, Any]:
         try:
             with open(file_path, "r", encoding="utf-8") as f:
                 text = f.read()
@@ -68,11 +69,15 @@ class StatusTextProcessor:
 
         doc = nlp(text)
 
+        # Tentativa de extrair data e gerente
+        dates = [ent.text for ent in doc.ents if ent.label_ == "DATE"]
+        persons = [ent.text for ent in doc.ents if ent.label_ == "PERSON"]
+
         extracted_info = {
             "file_path": file_path,
             "project_id": self._extract_with_regex(text, "project_id"),
-            "report_date": None, # Implementar extração de data de relatório
-            "manager": None, # Implementar extração de nome do gerente
+            "report_date": dates[0] if dates else None,
+            "manager": persons[0] if persons else None,
             "raw_text": text,
             "entities": self._extract_entities(doc)
         }
@@ -110,7 +115,11 @@ if __name__ == "__main__":
         os.makedirs("../status_files")
     if not os.path.exists(example_file):
         with open(example_file, "w", encoding="utf-8") as f:
-            f.write("Status do PROJ-001: O projeto está 50% concluído. O SPI atual é de 0.85. Temos um atraso de 10 dias. O orçamento é R$ 100.000,00 e o custo atual R$ 60.000,00. Foi identificada uma mudança de escopo e um novo risco.")
+            f.write(
+                "Status do PROJ-001: O projeto está 50% concluído. O SPI atual é de 0.85. "
+                "Temos um atraso de 10 dias. O orçamento é R$ 100.000,00 e o custo atual R$ 60.000,00. "
+                "Foi identificado um novo risco. Gerente: João Silva. Data do relatório: 10/07/2025."
+            )
 
     result = processor.process_status_file(example_file)
     if result["status"] == "success":
@@ -118,4 +127,3 @@ if __name__ == "__main__":
         print("Métricas Extraídas:", result["metrics"])
     else:
         print("Erro:", result["error"])
-
