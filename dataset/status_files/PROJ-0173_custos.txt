@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A vantagem de concretizar seus projetos naturalmente (PROJ-0173)
+Data: 11/07/2025
+Gerente: Bento da Mata
+
+Orçamento inicial: R$ 1285659.00
+Custo real atual: R$ 1254382.64
+Desvio orçamentário: -2.43%
+Índice de Desempenho de Custo (CPI): 1.02
+Valor Agregado (EV): R$ 1285659.00
+Estimativa para conclusão: R$ 0.00
+Estimativa no término (EAC): R$ 1254382.64
+Variação no término (VAC): R$ 31276.36
+
+Detalhamento por categoria:
+- Pessoal: R$ 608467.23 (48.5%)
+- Equipamentos: R$ 198232.76 (15.8%)
+- Software: R$ 158000.36 (12.6%)
+- Serviços: R$ 217440.07 (17.3%)
+- Outros: R$ 72242.22 (5.8%)

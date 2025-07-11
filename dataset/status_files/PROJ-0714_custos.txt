@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O poder de evoluir antes de tudo (PROJ-0714)
+Data: 11/07/2025
+Gerente: Sra. Liz Lopes
+
+Orçamento inicial: R$ 4477733.00
+Custo real atual: R$ 4268561.50
+Desvio orçamentário: -4.67%
+Índice de Desempenho de Custo (CPI): 1.04
+Valor Agregado (EV): R$ 4446872.82
+Estimativa para conclusão: R$ 29622.74
+Estimativa no término (EAC): R$ 4298184.24
+Variação no término (VAC): R$ 179548.76
+
+Detalhamento por categoria:
+- Pessoal: R$ 1947306.08 (45.6%)
+- Equipamentos: R$ 683744.53 (16.0%)
+- Software: R$ 677590.53 (15.9%)
+- Serviços: R$ 568041.47 (13.3%)
+- Outros: R$ 391878.90 (9.2%)

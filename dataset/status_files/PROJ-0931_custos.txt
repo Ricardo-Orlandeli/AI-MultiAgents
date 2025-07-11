@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A possibilidade de mudar direto da fonte (PROJ-0931)
+Data: 11/07/2025
+Gerente: Srta. Julia Rezende
+
+Orçamento inicial: R$ 870543.00
+Custo real atual: R$ 417693.19
+Desvio orçamentário: -19.31%
+Índice de Desempenho de Custo (CPI): 1.13
+Valor Agregado (EV): R$ 471605.41
+Estimativa para conclusão: R$ 353332.49
+Estimativa no término (EAC): R$ 771025.68
+Variação no término (VAC): R$ 99517.32
+
+Detalhamento por categoria:
+- Pessoal: R$ 197840.45 (47.4%)
+- Equipamentos: R$ 58550.34 (14.0%)
+- Software: R$ 39784.33 (9.5%)
+- Serviços: R$ 82298.00 (19.7%)
+- Outros: R$ 39220.07 (9.4%)

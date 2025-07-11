@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O poder de evoluir com toda a tranquilidade (PROJ-0702)
+Data: 11/07/2025
+Gerente: Dr. Vicente Monteiro
+
+Orçamento inicial: R$ 4329537.00
+Custo real atual: R$ 3971810.38
+Desvio orçamentário: -8.26%
+Índice de Desempenho de Custo (CPI): 1.09
+Valor Agregado (EV): R$ 4325207.46
+Estimativa para conclusão: R$ 3975.79
+Estimativa no término (EAC): R$ 3975786.17
+Variação no término (VAC): R$ 353750.83
+
+Detalhamento por categoria:
+- Pessoal: R$ 2145464.19 (54.0%)
+- Equipamentos: R$ 456600.53 (11.5%)
+- Software: R$ 339039.91 (8.5%)
+- Serviços: R$ 671808.42 (16.9%)
+- Outros: R$ 358897.33 (9.0%)

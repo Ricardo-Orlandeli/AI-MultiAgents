@@ -1,0 +1,26 @@
+RELATÓRIO DE STATUS DE ESCOPO
+Projeto: A simplicidade de inovar de maneira eficaz (PROJ-0785)
+Data: 11/07/2025
+Gerente: Sra. Lavínia Brito
+
+Escopo original: Sistema para a simplicidade de inovar de maneira eficaz
+Houve mudança de escopo: Sim
+Descrição das mudanças: Alteração nas especificações técnicas
+Impacto no cronograma: 5 dias
+Impacto no custo: R$ 562906.55
+
+Solicitações de mudança:
+- SCM-01: Mudança no banco de dados
+- SCM-02: Adição de relatórios gerenciais
+- SCM-03: Adição de relatórios gerenciais
+- SCM-04: Adição de funcionalidade de autenticação biométrica
+- SCM-05: Mudança no banco de dados
+
+Requisitos atuais:
+- REQ-01: O sistema deve ter interface responsiva
+- REQ-02: O sistema deve processar transações em menos de 2 seconds
+- REQ-03: O sistema deve implementar criptografia de dados sensíveis
+- REQ-04: O sistema deve ter interface responsiva
+- REQ-05: O sistema deve ter alta disponibilidade (99.9%)
+- REQ-06: O sistema deve ser escalável para suportar até 10.000 usuários simultâneos
+- REQ-07: O sistema deve permitir autenticação de usuários

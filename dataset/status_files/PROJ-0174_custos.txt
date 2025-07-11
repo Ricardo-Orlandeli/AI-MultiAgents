@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A arte de mudar com força total (PROJ-0174)
+Data: 11/07/2025
+Gerente: Luiz Fernando Lima
+
+Orçamento inicial: R$ 2796412.00
+Custo real atual: R$ 2948161.76
+Desvio orçamentário: 43.31%
+Índice de Desempenho de Custo (CPI): 0.95
+Valor Agregado (EV): R$ 2796412.00
+Estimativa para conclusão: R$ 0.00
+Estimativa no término (EAC): R$ 2948161.76
+Variação no término (VAC): R$ -151749.76
+
+Detalhamento por categoria:
+- Pessoal: R$ 1688134.86 (57.3%)
+- Equipamentos: R$ 447509.18 (15.2%)
+- Software: R$ 185030.63 (6.3%)
+- Serviços: R$ 408830.49 (13.9%)
+- Outros: R$ 218656.59 (7.4%)

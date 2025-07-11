@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A possibilidade de mudar com confiança (PROJ-0106)
+Data: 11/07/2025
+Gerente: Ísis Abreu
+
+Orçamento inicial: R$ 1967469.00
+Custo real atual: R$ 1376601.84
+Desvio orçamentário: -30.03%
+Índice de Desempenho de Custo (CPI): 1.19
+Valor Agregado (EV): R$ 1644782.44
+Estimativa para conclusão: R$ 270072.74
+Estimativa no término (EAC): R$ 1646674.58
+Variação no término (VAC): R$ 320794.42
+
+Detalhamento por categoria:
+- Pessoal: R$ 647939.33 (47.1%)
+- Equipamentos: R$ 170553.61 (12.4%)
+- Software: R$ 226299.08 (16.4%)
+- Serviços: R$ 229632.02 (16.7%)
+- Outros: R$ 102177.80 (7.4%)

@@ -1,0 +1,23 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A liberdade de realizar seus sonhos com confiança (PROJ-0124)
+Data: 11/07/2025
+Gerente: Nicolas Cunha
+
+Status atual: Em andamento
+Percentual de conclusão: 99.8%
+Data de início: 09/09/2023
+Data de término planejada: 30/12/2023
+Data de término real/prevista: 18/12/2023
+Atraso atual: 559 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 1.04
+Valor Planejado (PV): R$ 4726887.00
+Valor Agregado (EV): R$ 4717163.02
+
+Tarefas críticas:
+- Integração com sistema de pagamentos
+- Implementação da API REST
+- Testes de aceitação do usuário
+- Integração com sistema de pagamentos
+
+Tarefas atrasadas:

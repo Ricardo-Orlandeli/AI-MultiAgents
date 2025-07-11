@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O prazer de evoluir sem preocupação (PROJ-0991)
+Data: 11/07/2025
+Gerente: Benjamin Siqueira
+
+Orçamento inicial: R$ 4452136.00
+Custo real atual: R$ 2323733.02
+Desvio orçamentário: -4.40%
+Índice de Desempenho de Custo (CPI): 0.91
+Valor Agregado (EV): R$ 2112364.19
+Estimativa para conclusão: R$ 2573895.65
+Estimativa no término (EAC): R$ 4897628.68
+Variação no término (VAC): R$ -445492.68
+
+Detalhamento por categoria:
+- Pessoal: R$ 1201112.54 (51.7%)
+- Equipamentos: R$ 368008.93 (15.8%)
+- Software: R$ 190426.94 (8.2%)
+- Serviços: R$ 389895.98 (16.8%)
+- Outros: R$ 174288.64 (7.5%)

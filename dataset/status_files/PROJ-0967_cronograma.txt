@@ -1,0 +1,24 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A arte de avançar direto da fonte (PROJ-0967)
+Data: 11/07/2025
+Gerente: Srta. Julia Castro
+
+Status atual: Em andamento
+Percentual de conclusão: 84.0%
+Data de início: 25/04/2025
+Data de término planejada: 12/06/2025
+Data de término real/prevista: 06/07/2025
+Atraso atual: 29 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 0.96
+Valor Planejado (PV): R$ 910525.00
+Valor Agregado (EV): R$ 765249.23
+
+Tarefas críticas:
+- Implementação do módulo de exportação de dados
+- Testes de aceitação do usuário
+- Desenvolvimento do módulo de autenticação
+- Implementação do módulo de relatórios
+- Migração de dados legados
+
+Tarefas atrasadas:

@@ -1,0 +1,26 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A liberdade de avançar em estado puro (PROJ-0356)
+Data: 11/07/2025
+Gerente: Stella Cirino
+
+Status atual: Cancelado
+Percentual de conclusão: 59.4%
+Data de início: 29/06/2024
+Data de término planejada: 07/02/2025
+Data de término real/prevista: 08/11/2024
+Atraso atual: 154 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 0.59
+Valor Planejado (PV): R$ 4240270.00
+Valor Agregado (EV): R$ 2518142.98
+
+Tarefas críticas:
+- Implementação do módulo de relatórios
+- Implementação do módulo de notificações
+- Implementação do módulo de análise de dados
+- Implementação do módulo de exportação de dados
+- Desenvolvimento da interface do usuário
+- Implementação da API REST
+- Testes de segurança
+
+Tarefas atrasadas:

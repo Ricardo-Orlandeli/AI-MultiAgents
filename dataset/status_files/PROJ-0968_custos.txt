@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A certeza de concretizar seus projetos com toda a tranquilidade (PROJ-0968)
+Data: 11/07/2025
+Gerente: Ana Gonçalves
+
+Orçamento inicial: R$ 2192977.00
+Custo real atual: R$ 2034682.69
+Desvio orçamentário: -7.22%
+Índice de Desempenho de Custo (CPI): 1.08
+Valor Agregado (EV): R$ 2190784.02
+Estimativa para conclusão: R$ 2036.72
+Estimativa no término (EAC): R$ 2036719.41
+Variação no término (VAC): R$ 156257.59
+
+Detalhamento por categoria:
+- Pessoal: R$ 1130606.95 (55.6%)
+- Equipamentos: R$ 236498.83 (11.6%)
+- Software: R$ 218948.03 (10.8%)
+- Serviços: R$ 264223.52 (13.0%)
+- Outros: R$ 184405.35 (9.1%)

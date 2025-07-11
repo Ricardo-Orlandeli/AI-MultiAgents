@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A vantagem de mudar sem preocupação (PROJ-0392)
+Data: 11/07/2025
+Gerente: Henry Abreu
+
+Orçamento inicial: R$ 1137692.00
+Custo real atual: R$ 949724.15
+Desvio orçamentário: -16.52%
+Índice de Desempenho de Custo (CPI): 1.20
+Valor Agregado (EV): R$ 1137692.00
+Estimativa para conclusão: R$ 0.00
+Estimativa no término (EAC): R$ 949724.15
+Variação no término (VAC): R$ 187967.85
+
+Detalhamento por categoria:
+- Pessoal: R$ 494249.73 (52.0%)
+- Equipamentos: R$ 149686.86 (15.8%)
+- Software: R$ 80112.01 (8.4%)
+- Serviços: R$ 135579.75 (14.3%)
+- Outros: R$ 90095.79 (9.5%)

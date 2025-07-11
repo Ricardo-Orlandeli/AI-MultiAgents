@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A arte de atingir seus objetivos antes de tudo (PROJ-0341)
+Data: 11/07/2025
+Gerente: Vitor Hugo Cavalcanti
+
+Orçamento inicial: R$ 1706652.00
+Custo real atual: R$ 1209519.10
+Desvio orçamentário: -29.13%
+Índice de Desempenho de Custo (CPI): 0.74
+Valor Agregado (EV): R$ 896372.21
+Estimativa para conclusão: R$ 1093350.37
+Estimativa no término (EAC): R$ 2302869.47
+Variação no término (VAC): R$ -596217.47
+
+Detalhamento por categoria:
+- Pessoal: R$ 628221.09 (51.9%)
+- Equipamentos: R$ 200792.06 (16.6%)
+- Software: R$ 112645.32 (9.3%)
+- Serviços: R$ 194225.70 (16.1%)
+- Outros: R$ 73634.93 (6.1%)

@@ -1,0 +1,22 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A vantagem de atingir seus objetivos mais facilmente (PROJ-0773)
+Data: 11/07/2025
+Gerente: Ana Vitória Pires
+
+Status atual: Em andamento
+Percentual de conclusão: 82.6%
+Data de início: 11/07/2023
+Data de término planejada: 08/04/2024
+Data de término real/prevista: 13/04/2024
+Atraso atual: 459 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 1.00
+Valor Planejado (PV): R$ 4819551.00
+Valor Agregado (EV): R$ 3981357.21
+
+Tarefas críticas:
+- Desenvolvimento do módulo de autenticação
+- Implementação do sistema de backup
+- Migração de dados legados
+
+Tarefas atrasadas:

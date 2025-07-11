@@ -1,0 +1,25 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A segurança de evoluir simplesmente (PROJ-0234)
+Data: 11/07/2025
+Gerente: Dr. Arthur Gabriel Duarte
+
+Status atual: Atrasado
+Percentual de conclusão: 78.1%
+Data de início: 11/09/2024
+Data de término planejada: 07/05/2025
+Data de término real/prevista: 20/10/2025
+Atraso atual: 65 dias
+Motivo do atraso: Mudanças de requisitos não planejadas
+Índice de Desempenho de Cronograma (SPI): 0.78
+Valor Planejado (PV): R$ 4589204.00
+Valor Agregado (EV): R$ 3582276.18
+
+Tarefas críticas:
+- Implementação da API REST
+- Testes de aceitação do usuário
+- Configuração do ambiente de produção
+
+Tarefas atrasadas:
+- Implementação da API REST
+- Testes de aceitação do usuário
+- Configuração do ambiente de produção

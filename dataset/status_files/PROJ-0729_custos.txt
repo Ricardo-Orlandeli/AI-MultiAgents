@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O direito de evoluir antes de tudo (PROJ-0729)
+Data: 11/07/2025
+Gerente: Srta. Bianca Aragão
+
+Orçamento inicial: R$ 2748528.00
+Custo real atual: R$ 996181.05
+Desvio orçamentário: -32.91%
+Índice de Desempenho de Custo (CPI): 0.92
+Valor Agregado (EV): R$ 916501.97
+Estimativa para conclusão: R$ 1991299.17
+Estimativa no término (EAC): R$ 2987480.22
+Variação no término (VAC): R$ -238952.22
+
+Detalhamento por categoria:
+- Pessoal: R$ 447635.67 (44.9%)
+- Equipamentos: R$ 114285.14 (11.5%)
+- Software: R$ 155604.00 (15.6%)
+- Serviços: R$ 204573.13 (20.5%)
+- Outros: R$ 74083.11 (7.4%)

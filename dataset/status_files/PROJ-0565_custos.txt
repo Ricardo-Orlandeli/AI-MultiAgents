@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A possibilidade de avançar com força total (PROJ-0565)
+Data: 11/07/2025
+Gerente: Murilo Aragão
+
+Orçamento inicial: R$ 3893821.00
+Custo real atual: R$ 3390759.40
+Desvio orçamentário: -12.92%
+Índice de Desempenho de Custo (CPI): 1.15
+Valor Agregado (EV): R$ 3889927.18
+Estimativa para conclusão: R$ 3394.15
+Estimativa no término (EAC): R$ 3394153.56
+Variação no término (VAC): R$ 499667.44
+
+Detalhamento por categoria:
+- Pessoal: R$ 1554515.78 (45.8%)
+- Equipamentos: R$ 670389.25 (19.8%)
+- Software: R$ 432457.85 (12.8%)
+- Serviços: R$ 467543.71 (13.8%)
+- Outros: R$ 265852.81 (7.8%)

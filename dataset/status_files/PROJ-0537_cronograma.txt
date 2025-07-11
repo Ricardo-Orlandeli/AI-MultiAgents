@@ -1,0 +1,25 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A certeza de concretizar seus projetos com força total (PROJ-0537)
+Data: 11/07/2025
+Gerente: Julia Machado
+
+Status atual: Em andamento
+Percentual de conclusão: 95.1%
+Data de início: 20/03/2025
+Data de término planejada: 09/08/2025
+Data de término real/prevista: 07/08/2025
+Atraso atual: 0 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 0.95
+Valor Planejado (PV): R$ 793735.87
+Valor Agregado (EV): R$ 948112.42
+
+Tarefas críticas:
+- Migração de dados legados
+- Configuração da infraestrutura
+- Implementação do módulo de análise de dados
+- Testes de aceitação do usuário
+- Desenvolvimento do painel administrativo
+- Implementação do módulo de notificações
+
+Tarefas atrasadas:

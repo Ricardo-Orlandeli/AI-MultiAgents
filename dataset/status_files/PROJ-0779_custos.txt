@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O conforto de ganhar sem preocupação (PROJ-0779)
+Data: 11/07/2025
+Gerente: Breno da Mata
+
+Orçamento inicial: R$ 3647805.00
+Custo real atual: R$ 2537329.22
+Desvio orçamentário: -30.44%
+Índice de Desempenho de Custo (CPI): 0.99
+Valor Agregado (EV): R$ 2518310.06
+Estimativa para conclusão: R$ 1138025.29
+Estimativa no término (EAC): R$ 3675354.51
+Variação no término (VAC): R$ -27549.51
+
+Detalhamento por categoria:
+- Pessoal: R$ 1412642.43 (55.7%)
+- Equipamentos: R$ 374208.46 (14.7%)
+- Software: R$ 239907.23 (9.5%)
+- Serviços: R$ 284530.32 (11.2%)
+- Outros: R$ 226040.79 (8.9%)

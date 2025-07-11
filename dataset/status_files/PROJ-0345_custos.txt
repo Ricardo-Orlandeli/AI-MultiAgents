@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O poder de concretizar seus projetos de maneira eficaz (PROJ-0345)
+Data: 11/07/2025
+Gerente: Daniel Campos
+
+Orçamento inicial: R$ 2984557.00
+Custo real atual: R$ 2981979.98
+Desvio orçamentário: -0.09%
+Índice de Desempenho de Custo (CPI): 0.80
+Valor Agregado (EV): R$ 2377088.56
+Estimativa para conclusão: R$ 762049.32
+Estimativa no término (EAC): R$ 3744029.30
+Variação no término (VAC): R$ -759472.30
+
+Detalhamento por categoria:
+- Pessoal: R$ 1606215.49 (53.9%)
+- Equipamentos: R$ 530798.02 (17.8%)
+- Software: R$ 247141.41 (8.3%)
+- Serviços: R$ 378202.43 (12.7%)
+- Outros: R$ 219622.62 (7.4%)

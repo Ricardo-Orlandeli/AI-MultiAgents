@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O prazer de realizar seus sonhos antes de tudo (PROJ-0746)
+Data: 11/07/2025
+Gerente: Isis Mendes
+
+Orçamento inicial: R$ 1032518.00
+Custo real atual: R$ 903790.08
+Desvio orçamentário: -12.47%
+Índice de Desempenho de Custo (CPI): 1.14
+Valor Agregado (EV): R$ 1031485.48
+Estimativa para conclusão: R$ 904.69
+Estimativa no término (EAC): R$ 904694.77
+Variação no término (VAC): R$ 127823.23
+
+Detalhamento por categoria:
+- Pessoal: R$ 512714.97 (56.7%)
+- Equipamentos: R$ 118045.12 (13.1%)
+- Software: R$ 83108.55 (9.2%)
+- Serviços: R$ 111394.11 (12.3%)
+- Outros: R$ 78527.32 (8.7%)

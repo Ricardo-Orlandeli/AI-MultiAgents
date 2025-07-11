@@ -1,0 +1,25 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A certeza de mudar com toda a tranquilidade (PROJ-0694)
+Data: 11/07/2025
+Gerente: Mariana Monteiro
+
+Status atual: Em andamento
+Percentual de conclusão: 99.9%
+Data de início: 19/07/2024
+Data de término planejada: 03/09/2024
+Data de término real/prevista: 11/09/2024
+Atraso atual: 311 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 1.14
+Valor Planejado (PV): R$ 4545898.00
+Valor Agregado (EV): R$ 4541352.10
+
+Tarefas críticas:
+- Testes de segurança
+- Implementação do módulo de notificações
+- Desenvolvimento do módulo de autenticação
+- Configuração da infraestrutura
+- Implementação do módulo de notificações
+- Testes de aceitação do usuário
+
+Tarefas atrasadas:

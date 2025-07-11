@@ -1,0 +1,28 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A simplicidade de mudar com força total (PROJ-0881)
+Data: 11/07/2025
+Gerente: Rhavi Novais
+
+Status atual: Atrasado
+Percentual de conclusão: 71.7%
+Data de início: 17/03/2024
+Data de término planejada: 19/07/2024
+Data de término real/prevista: 17/12/2024
+Atraso atual: 357 dias
+Motivo do atraso: Recursos insuficientes
+Índice de Desempenho de Cronograma (SPI): 0.72
+Valor Planejado (PV): R$ 3388494.00
+Valor Agregado (EV): R$ 2430498.91
+
+Tarefas críticas:
+- Implementação do sistema de backup
+- Implementação do módulo de exportação de dados
+- Desenvolvimento da interface do usuário
+- Implementação do módulo de notificações
+- Testes de segurança
+- Implementação do módulo de relatórios
+
+Tarefas atrasadas:
+- Testes de segurança
+- Implementação do sistema de backup
+- Implementação do módulo de exportação de dados

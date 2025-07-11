@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O direito de ganhar mais rapidamente (PROJ-0005)
+Data: 11/07/2025
+Gerente: Enzo Garcia
+
+Orçamento inicial: R$ 4022518.00
+Custo real atual: R$ 4689312.07
+Desvio orçamentário: 25.90%
+Índice de Desempenho de Custo (CPI): 0.85
+Valor Agregado (EV): R$ 3977017.13
+Estimativa para conclusão: R$ 53650.20
+Estimativa no término (EAC): R$ 4742962.27
+Variação no término (VAC): R$ -720444.27
+
+Detalhamento por categoria:
+- Pessoal: R$ 2156988.25 (46.0%)
+- Equipamentos: R$ 654337.74 (14.0%)
+- Software: R$ 528621.43 (11.3%)
+- Serviços: R$ 938673.60 (20.0%)
+- Outros: R$ 410691.05 (8.8%)

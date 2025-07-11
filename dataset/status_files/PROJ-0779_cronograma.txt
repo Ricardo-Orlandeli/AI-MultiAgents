@@ -1,0 +1,30 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: O conforto de ganhar sem preocupação (PROJ-0779)
+Data: 11/07/2025
+Gerente: Breno da Mata
+
+Status atual: Atrasado
+Percentual de conclusão: 69.0%
+Data de início: 25/08/2024
+Data de término planejada: 18/02/2025
+Data de término real/prevista: 15/06/2025
+Atraso atual: 143 dias
+Motivo do atraso: Problemas técnicos inesperados
+Índice de Desempenho de Cronograma (SPI): 0.69
+Valor Planejado (PV): R$ 3647805.00
+Valor Agregado (EV): R$ 2518310.06
+
+Tarefas críticas:
+- Testes de segurança
+- Desenvolvimento do painel administrativo
+- Implementação do módulo de relatórios
+- Implementação do sistema de backup
+- Implementação do módulo de análise de dados
+- Desenvolvimento do módulo de autenticação
+- Configuração da infraestrutura
+- Implementação do módulo de exportação de dados
+
+Tarefas atrasadas:
+- Desenvolvimento do painel administrativo
+- Testes de segurança
+- Implementação do módulo de exportação de dados

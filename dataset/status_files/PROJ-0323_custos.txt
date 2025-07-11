@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A liberdade de avançar sem preocupação (PROJ-0323)
+Data: 11/07/2025
+Gerente: João Pastor
+
+Orçamento inicial: R$ 207532.00
+Custo real atual: R$ 181551.73
+Desvio orçamentário: -12.52%
+Índice de Desempenho de Custo (CPI): 1.08
+Valor Agregado (EV): R$ 195524.23
+Estimativa para conclusão: R$ 11149.67
+Estimativa no término (EAC): R$ 192701.40
+Variação no término (VAC): R$ 14830.60
+
+Detalhamento por categoria:
+- Pessoal: R$ 90280.54 (49.7%)
+- Equipamentos: R$ 29225.30 (16.1%)
+- Software: R$ 21449.61 (11.8%)
+- Serviços: R$ 30644.39 (16.9%)
+- Outros: R$ 9951.89 (5.5%)

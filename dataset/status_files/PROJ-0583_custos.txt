@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O poder de ganhar com toda a tranquilidade (PROJ-0583)
+Data: 11/07/2025
+Gerente: Fernanda Pereira
+
+Orçamento inicial: R$ 1503484.00
+Custo real atual: R$ 1251335.17
+Desvio orçamentário: -16.77%
+Índice de Desempenho de Custo (CPI): 1.20
+Valor Agregado (EV): R$ 1501980.52
+Estimativa para conclusão: R$ 1252.59
+Estimativa no término (EAC): R$ 1252587.76
+Variação no término (VAC): R$ 250896.24
+
+Detalhamento por categoria:
+- Pessoal: R$ 724681.46 (57.9%)
+- Equipamentos: R$ 136611.30 (10.9%)
+- Software: R$ 112203.36 (9.0%)
+- Serviços: R$ 148401.50 (11.9%)
+- Outros: R$ 129437.55 (10.3%)

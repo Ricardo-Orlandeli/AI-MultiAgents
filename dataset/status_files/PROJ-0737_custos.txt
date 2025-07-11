@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A arte de ganhar de maneira eficaz (PROJ-0737)
+Data: 11/07/2025
+Gerente: Lavínia Vieira
+
+Orçamento inicial: R$ 4158590.00
+Custo real atual: R$ 4653889.71
+Desvio orçamentário: 11.91%
+Índice de Desempenho de Custo (CPI): 0.79
+Valor Agregado (EV): R$ 3672533.03
+Estimativa para conclusão: R$ 615938.79
+Estimativa no término (EAC): R$ 5269828.49
+Variação no término (VAC): R$ -1111238.49
+
+Detalhamento por categoria:
+- Pessoal: R$ 2558608.03 (55.0%)
+- Equipamentos: R$ 538177.54 (11.6%)
+- Software: R$ 595937.90 (12.8%)
+- Serviços: R$ 553729.89 (11.9%)
+- Outros: R$ 407436.35 (8.8%)

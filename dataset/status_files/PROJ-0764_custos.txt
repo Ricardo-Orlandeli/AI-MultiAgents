@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O conforto de realizar seus sonhos mais rapidamente (PROJ-0764)
+Data: 11/07/2025
+Gerente: Isis da Cruz
+
+Orçamento inicial: R$ 1713974.00
+Custo real atual: R$ 1607304.59
+Desvio orçamentário: -6.22%
+Índice de Desempenho de Custo (CPI): 1.07
+Valor Agregado (EV): R$ 1712260.03
+Estimativa para conclusão: R$ 1608.91
+Estimativa no término (EAC): R$ 1608913.51
+Variação no término (VAC): R$ 105060.49
+
+Detalhamento por categoria:
+- Pessoal: R$ 830163.00 (51.6%)
+- Equipamentos: R$ 210695.18 (13.1%)
+- Software: R$ 131898.25 (8.2%)
+- Serviços: R$ 297535.49 (18.5%)
+- Outros: R$ 137012.67 (8.5%)

@@ -1,0 +1,29 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A certeza de inovar direto da fonte (PROJ-0818)
+Data: 11/07/2025
+Gerente: Marina Rodrigues
+
+Status atual: Atrasado
+Percentual de conclusão: 70.9%
+Data de início: 22/09/2024
+Data de término planejada: 23/01/2025
+Data de término real/prevista: 18/03/2025
+Atraso atual: 169 dias
+Motivo do atraso: Atraso na entrega de componentes por fornecedores
+Índice de Desempenho de Cronograma (SPI): 0.71
+Valor Planejado (PV): R$ 2074261.00
+Valor Agregado (EV): R$ 1471063.03
+
+Tarefas críticas:
+- Desenvolvimento do módulo de autenticação
+- Configuração da infraestrutura
+- Desenvolvimento do módulo de autenticação
+- Implementação do módulo de análise de dados
+- Configuração do ambiente de produção
+- Implementação do módulo de exportação de dados
+- Testes de aceitação do usuário
+
+Tarefas atrasadas:
+- Testes de aceitação do usuário
+- Desenvolvimento do módulo de autenticação
+- Implementação do módulo de análise de dados

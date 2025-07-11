@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A simplicidade de realizar seus sonhos com toda a tranquilidade (PROJ-0284)
+Data: 11/07/2025
+Gerente: Ester Pacheco
+
+Orçamento inicial: R$ 1734864.00
+Custo real atual: R$ 1488577.93
+Desvio orçamentário: -14.20%
+Índice de Desempenho de Custo (CPI): 1.17
+Valor Agregado (EV): R$ 1734864.00
+Estimativa para conclusão: R$ 0.00
+Estimativa no término (EAC): R$ 1488577.93
+Variação no término (VAC): R$ 246286.07
+
+Detalhamento por categoria:
+- Pessoal: R$ 854031.57 (57.4%)
+- Equipamentos: R$ 161142.22 (10.8%)
+- Software: R$ 180257.22 (12.1%)
+- Serviços: R$ 212371.70 (14.3%)
+- Outros: R$ 80775.21 (5.4%)

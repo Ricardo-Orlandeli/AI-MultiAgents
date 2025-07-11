@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A liberdade de realizar seus sonhos com força total (PROJ-0837)
+Data: 11/07/2025
+Gerente: Maria Sophia da Paz
+
+Orçamento inicial: R$ 4934783.00
+Custo real atual: R$ 5193359.86
+Desvio orçamentário: 5.24%
+Índice de Desempenho de Custo (CPI): 0.75
+Valor Agregado (EV): R$ 3920102.16
+Estimativa para conclusão: R$ 1344251.38
+Estimativa no término (EAC): R$ 6537611.24
+Variação no término (VAC): R$ -1602828.24
+
+Detalhamento por categoria:
+- Pessoal: R$ 2456243.31 (47.3%)
+- Equipamentos: R$ 800857.29 (15.4%)
+- Software: R$ 435771.39 (8.4%)
+- Serviços: R$ 973689.41 (18.7%)
+- Outros: R$ 526798.46 (10.1%)

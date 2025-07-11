@@ -1,0 +1,22 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: O prazer de conseguir com força total (PROJ-0977)
+Data: 11/07/2025
+Gerente: Vitor Hugo Pimenta
+
+Status atual: Cancelado
+Percentual de conclusão: 55.7%
+Data de início: 11/12/2023
+Data de término planejada: 30/05/2024
+Data de término real/prevista: 15/03/2024
+Atraso atual: 407 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 0.56
+Valor Planejado (PV): R$ 3050263.00
+Valor Agregado (EV): R$ 1699940.17
+
+Tarefas críticas:
+- Implementação do módulo de relatórios
+- Desenvolvimento do painel administrativo
+- Implementação do módulo de análise de dados
+
+Tarefas atrasadas:

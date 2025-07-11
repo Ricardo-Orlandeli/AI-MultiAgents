@@ -1,0 +1,25 @@
+RELATÓRIO DE STATUS DE ESCOPO
+Projeto: O direito de avançar com confiança (PROJ-0893)
+Data: 11/07/2025
+Gerente: Pedro Henrique da Rocha
+
+Escopo original: Sistema para o direito de avançar com confiança
+Houve mudança de escopo: Sim
+Descrição das mudanças: Adição de novos requisitos de segurança
+Impacto no cronograma: 48 dias
+Impacto no custo: R$ 347303.66
+
+Solicitações de mudança:
+- SCM-01: Implementação de módulo de exportação de dados
+- SCM-02: Adição de funcionalidade de autenticação biométrica
+- SCM-03: Adição de funcionalidade de autenticação biométrica
+
+Requisitos atuais:
+- REQ-01: O sistema deve passar por testes de segurança
+- REQ-02: O sistema deve ter alta disponibilidade (99.9%)
+- REQ-03: O sistema deve permitir exportação de dados em formato CSV
+- REQ-04: O sistema deve permitir exportação de dados em formato CSV
+- REQ-05: O sistema deve permitir autenticação de usuários
+- REQ-06: O sistema deve ter alta disponibilidade (99.9%)
+- REQ-07: O sistema deve ser compatível com navegadores modernos
+- REQ-08: O sistema deve ter documentação completa

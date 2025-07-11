@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A liberdade de evoluir naturalmente (PROJ-0447)
+Data: 11/07/2025
+Gerente: Isaac Fernandes
+
+Orçamento inicial: R$ 3295083.00
+Custo real atual: R$ 3168801.36
+Desvio orçamentário: -3.83%
+Índice de Desempenho de Custo (CPI): 0.98
+Valor Agregado (EV): R$ 3112956.91
+Estimativa para conclusão: R$ 185393.31
+Estimativa no término (EAC): R$ 3354194.68
+Variação no término (VAC): R$ -59111.68
+
+Detalhamento por categoria:
+- Pessoal: R$ 1612681.56 (50.9%)
+- Equipamentos: R$ 544372.05 (17.2%)
+- Software: R$ 250995.88 (7.9%)
+- Serviços: R$ 496225.55 (15.7%)
+- Outros: R$ 264526.33 (8.3%)

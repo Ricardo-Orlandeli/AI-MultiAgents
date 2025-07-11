@@ -1,0 +1,24 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A vantagem de ganhar simplesmente (PROJ-0754)
+Data: 11/07/2025
+Gerente: Luísa Mendes
+
+Status atual: Concluído
+Percentual de conclusão: 100.0%
+Data de início: 18/10/2023
+Data de término planejada: 15/06/2024
+Data de término real/prevista: 12/06/2024
+Atraso atual: 391 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 0.95
+Valor Planejado (PV): R$ 1292866.00
+Valor Agregado (EV): R$ 1292866.00
+
+Tarefas críticas:
+- Configuração da infraestrutura
+- Implementação do módulo de análise de dados
+- Configuração do ambiente de produção
+- Testes de segurança
+- Implementação do módulo de relatórios
+
+Tarefas atrasadas:

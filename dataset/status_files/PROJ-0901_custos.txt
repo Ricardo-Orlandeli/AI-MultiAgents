@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A possibilidade de realizar seus sonhos antes de tudo (PROJ-0901)
+Data: 11/07/2025
+Gerente: Sr. Bento Machado
+
+Orçamento inicial: R$ 1946910.00
+Custo real atual: R$ 1647404.15
+Desvio orçamentário: -15.38%
+Índice de Desempenho de Custo (CPI): 1.16
+Valor Agregado (EV): R$ 1908311.92
+Estimativa para conclusão: R$ 33320.88
+Estimativa no término (EAC): R$ 1680725.03
+Variação no término (VAC): R$ 266184.97
+
+Detalhamento por categoria:
+- Pessoal: R$ 718336.09 (43.6%)
+- Equipamentos: R$ 206746.21 (12.5%)
+- Software: R$ 225060.41 (13.7%)
+- Serviços: R$ 351630.40 (21.3%)
+- Outros: R$ 145631.05 (8.8%)

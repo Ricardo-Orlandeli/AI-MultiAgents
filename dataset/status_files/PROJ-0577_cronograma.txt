@@ -1,0 +1,30 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A arte de inovar naturalmente (PROJ-0577)
+Data: 11/07/2025
+Gerente: Rhavi Ramos
+
+Status atual: Atrasado
+Percentual de conclusão: 82.2%
+Data de início: 17/04/2024
+Data de término planejada: 08/02/2025
+Data de término real/prevista: 05/08/2025
+Atraso atual: 153 dias
+Motivo do atraso: Dependências externas não cumpridas
+Índice de Desempenho de Cronograma (SPI): 0.82
+Valor Planejado (PV): R$ 4082966.00
+Valor Agregado (EV): R$ 3356708.99
+
+Tarefas críticas:
+- Implementação do módulo de análise de dados
+- Implementação do módulo de análise de dados
+- Integração com sistema de pagamentos
+- Testes de aceitação do usuário
+- Testes de segurança
+- Desenvolvimento do módulo de autenticação
+- Implementação da API REST
+- Testes de segurança
+
+Tarefas atrasadas:
+- Testes de segurança
+- Testes de aceitação do usuário
+- Desenvolvimento do módulo de autenticação

@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A simplicidade de avançar simplesmente (PROJ-0121)
+Data: 11/07/2025
+Gerente: Erick Pimenta
+
+Orçamento inicial: R$ 2711934.00
+Custo real atual: R$ 2813083.39
+Desvio orçamentário: 3.73%
+Índice de Desempenho de Custo (CPI): 0.70
+Valor Agregado (EV): R$ 1979945.67
+Estimativa para conclusão: R$ 1040000.36
+Estimativa no término (EAC): R$ 3853083.75
+Variação no término (VAC): R$ -1141149.75
+
+Detalhamento por categoria:
+- Pessoal: R$ 1421417.43 (50.5%)
+- Equipamentos: R$ 466560.94 (16.6%)
+- Software: R$ 249906.76 (8.9%)
+- Serviços: R$ 501459.52 (17.8%)
+- Outros: R$ 173738.74 (6.2%)

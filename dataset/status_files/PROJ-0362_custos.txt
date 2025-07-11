@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A simplicidade de realizar seus sonhos de maneira eficaz (PROJ-0362)
+Data: 11/07/2025
+Gerente: Caio Gomes
+
+Orçamento inicial: R$ 2110957.00
+Custo real atual: R$ 2154162.50
+Desvio orçamentário: 2.05%
+Índice de Desempenho de Custo (CPI): 0.93
+Valor Agregado (EV): R$ 2006481.91
+Estimativa para conclusão: R$ 112164.64
+Estimativa no término (EAC): R$ 2266327.14
+Variação no término (VAC): R$ -155370.14
+
+Detalhamento por categoria:
+- Pessoal: R$ 992551.47 (46.1%)
+- Equipamentos: R$ 391857.17 (18.2%)
+- Software: R$ 167757.84 (7.8%)
+- Serviços: R$ 426150.41 (19.8%)
+- Outros: R$ 175845.61 (8.2%)

@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A possibilidade de realizar seus sonhos sem preocupação (PROJ-0524)
+Data: 11/07/2025
+Gerente: Vinicius Garcia
+
+Orçamento inicial: R$ 3394980.00
+Custo real atual: R$ 2787078.57
+Desvio orçamentário: -17.91%
+Índice de Desempenho de Custo (CPI): 1.22
+Valor Agregado (EV): R$ 3394980.00
+Estimativa para conclusão: R$ 0.00
+Estimativa no término (EAC): R$ 2787078.57
+Variação no término (VAC): R$ 607901.43
+
+Detalhamento por categoria:
+- Pessoal: R$ 1553941.55 (55.8%)
+- Equipamentos: R$ 342460.53 (12.3%)
+- Software: R$ 241600.89 (8.7%)
+- Serviços: R$ 350526.49 (12.6%)
+- Outros: R$ 298549.10 (10.7%)

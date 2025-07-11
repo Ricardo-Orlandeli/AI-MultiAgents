@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A possibilidade de realizar seus sonhos naturalmente (PROJ-0484)
+Data: 11/07/2025
+Gerente: Laura Siqueira
+
+Orçamento inicial: R$ 1616449.00
+Custo real atual: R$ 1654870.09
+Desvio orçamentário: 2.38%
+Índice de Desempenho de Custo (CPI): 0.98
+Valor Agregado (EV): R$ 1616449.00
+Estimativa para conclusão: R$ 0.00
+Estimativa no término (EAC): R$ 1654870.09
+Variação no término (VAC): R$ -38421.09
+
+Detalhamento por categoria:
+- Pessoal: R$ 918226.22 (55.5%)
+- Equipamentos: R$ 206512.66 (12.5%)
+- Software: R$ 207203.36 (12.5%)
+- Serviços: R$ 204230.63 (12.3%)
+- Outros: R$ 118697.22 (7.2%)

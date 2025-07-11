@@ -1,0 +1,23 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: O poder de atingir seus objetivos mais facilmente (PROJ-0440)
+Data: 11/07/2025
+Gerente: Srta. Isadora Pimenta
+
+Status atual: Em andamento
+Percentual de conclusão: 99.9%
+Data de início: 04/06/2024
+Data de término planejada: 27/12/2024
+Data de término real/prevista: 13/01/2025
+Atraso atual: 196 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 1.00
+Valor Planejado (PV): R$ 4144497.00
+Valor Agregado (EV): R$ 4140352.50
+
+Tarefas críticas:
+- Implementação da API REST
+- Implementação do módulo de notificações
+- Implementação da API REST
+- Configuração do ambiente de produção
+
+Tarefas atrasadas:

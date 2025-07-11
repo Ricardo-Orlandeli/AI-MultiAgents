@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O prazer de inovar em estado puro (PROJ-0181)
+Data: 11/07/2025
+Gerente: Rebeca Brito
+
+Orçamento inicial: R$ 1533386.00
+Custo real atual: R$ 1299835.04
+Desvio orçamentário: 146.01%
+Índice de Desempenho de Custo (CPI): 1.18
+Valor Agregado (EV): R$ 1533386.00
+Estimativa para conclusão: R$ 0.00
+Estimativa no término (EAC): R$ 1299835.04
+Variação no término (VAC): R$ 233550.96
+
+Detalhamento por categoria:
+- Pessoal: R$ 666596.24 (51.3%)
+- Equipamentos: R$ 244452.62 (18.8%)
+- Software: R$ 113544.48 (8.7%)
+- Serviços: R$ 155679.45 (12.0%)
+- Outros: R$ 119562.25 (9.2%)

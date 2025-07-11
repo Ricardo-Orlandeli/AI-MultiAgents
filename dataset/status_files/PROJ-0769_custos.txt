@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A certeza de atingir seus objetivos mais rapidamente (PROJ-0769)
+Data: 11/07/2025
+Gerente: Sr. Enzo Caldeira
+
+Orçamento inicial: R$ 978295.00
+Custo real atual: R$ 903669.76
+Desvio orçamentário: -7.63%
+Índice de Desempenho de Custo (CPI): 0.98
+Valor Agregado (EV): R$ 884858.78
+Estimativa para conclusão: R$ 95422.56
+Estimativa no término (EAC): R$ 999092.32
+Variação no término (VAC): R$ -20797.32
+
+Detalhamento por categoria:
+- Pessoal: R$ 489441.96 (54.2%)
+- Equipamentos: R$ 112928.05 (12.5%)
+- Software: R$ 80650.08 (8.9%)
+- Serviços: R$ 140704.14 (15.6%)
+- Outros: R$ 79945.52 (8.8%)

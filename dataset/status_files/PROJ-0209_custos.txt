@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A possibilidade de mudar com toda a tranquilidade (PROJ-0209)
+Data: 11/07/2025
+Gerente: Elisa da Rosa
+
+Orçamento inicial: R$ 2135006.00
+Custo real atual: R$ 346055.09
+Desvio orçamentário: -7.11%
+Índice de Desempenho de Custo (CPI): 1.13
+Valor Agregado (EV): R$ 391785.66
+Estimativa para conclusão: R$ 1539745.68
+Estimativa no término (EAC): R$ 1885800.77
+Variação no término (VAC): R$ 249205.23
+
+Detalhamento por categoria:
+- Pessoal: R$ 168734.32 (48.8%)
+- Equipamentos: R$ 49569.47 (14.3%)
+- Software: R$ 50890.13 (14.7%)
+- Serviços: R$ 43603.28 (12.6%)
+- Outros: R$ 33257.89 (9.6%)

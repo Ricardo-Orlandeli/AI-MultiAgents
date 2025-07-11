@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A simplicidade de avançar antes de tudo (PROJ-0922)
+Data: 11/07/2025
+Gerente: Emanuella Mendes
+
+Orçamento inicial: R$ 467904.00
+Custo real atual: R$ 456794.59
+Desvio orçamentário: -2.37%
+Índice de Desempenho de Custo (CPI): 0.92
+Valor Agregado (EV): R$ 421850.79
+Estimativa para conclusão: R$ 49868.00
+Estimativa no término (EAC): R$ 506662.59
+Variação no término (VAC): R$ -38758.59
+
+Detalhamento por categoria:
+- Pessoal: R$ 208332.96 (45.6%)
+- Equipamentos: R$ 95561.54 (20.9%)
+- Software: R$ 39818.29 (8.7%)
+- Serviços: R$ 80504.21 (17.6%)
+- Outros: R$ 32577.59 (7.1%)

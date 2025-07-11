@@ -1,0 +1,24 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A vantagem de inovar simplesmente (PROJ-0206)
+Data: 11/07/2025
+Gerente: Bernardo da Mota
+
+Status atual: Concluído
+Percentual de conclusão: 100.0%
+Data de início: 30/01/2025
+Data de término planejada: 06/05/2025
+Data de término real/prevista: 17/04/2025
+Atraso atual: 66 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 1.07
+Valor Planejado (PV): R$ 3568542.00
+Valor Agregado (EV): R$ 3568542.00
+
+Tarefas críticas:
+- Implementação do módulo de relatórios
+- Desenvolvimento da interface do usuário
+- Implementação do módulo de análise de dados
+- Implementação do módulo de análise de dados
+- Testes de aceitação do usuário
+
+Tarefas atrasadas:

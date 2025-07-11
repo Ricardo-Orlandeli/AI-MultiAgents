@@ -1,0 +1,25 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: O direito de mudar com força total (PROJ-0739)
+Data: 11/07/2025
+Gerente: Heitor Novaes
+
+Status atual: Atrasado
+Percentual de conclusão: 86.5%
+Data de início: 21/10/2023
+Data de término planejada: 15/02/2024
+Data de término real/prevista: 18/07/2024
+Atraso atual: 512 dias
+Motivo do atraso: Mudanças de requisitos não planejadas
+Índice de Desempenho de Cronograma (SPI): 0.87
+Valor Planejado (PV): R$ 1772909.00
+Valor Agregado (EV): R$ 1533663.91
+
+Tarefas críticas:
+- Implementação do módulo de análise de dados
+- Implementação do módulo de notificações
+- Implementação do sistema de backup
+- Testes de segurança
+
+Tarefas atrasadas:
+- Testes de segurança
+- Implementação do módulo de notificações

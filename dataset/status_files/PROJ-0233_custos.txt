@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O direito de evoluir sem preocupação (PROJ-0233)
+Data: 11/07/2025
+Gerente: João Lucas Carvalho
+
+Orçamento inicial: R$ 3117213.00
+Custo real atual: R$ 1408673.08
+Desvio orçamentário: -34.10%
+Índice de Desempenho de Custo (CPI): 0.77
+Valor Agregado (EV): R$ 1083526.93
+Estimativa para conclusão: R$ 2643957.20
+Estimativa no término (EAC): R$ 4052630.28
+Variação no término (VAC): R$ -935417.28
+
+Detalhamento por categoria:
+- Pessoal: R$ 638093.80 (45.3%)
+- Equipamentos: R$ 300536.96 (21.3%)
+- Software: R$ 110242.15 (7.8%)
+- Serviços: R$ 277560.99 (19.7%)
+- Outros: R$ 82239.18 (5.8%)

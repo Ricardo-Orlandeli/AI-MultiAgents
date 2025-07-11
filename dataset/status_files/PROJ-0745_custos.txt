@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O conforto de realizar seus sonhos direto da fonte (PROJ-0745)
+Data: 11/07/2025
+Gerente: Luiza Moraes
+
+Orçamento inicial: R$ 4726428.00
+Custo real atual: R$ 3879614.39
+Desvio orçamentário: -17.92%
+Índice de Desempenho de Custo (CPI): 1.03
+Valor Agregado (EV): R$ 3977361.74
+Estimativa para conclusão: R$ 730657.26
+Estimativa no término (EAC): R$ 4610271.65
+Variação no término (VAC): R$ 116156.35
+
+Detalhamento por categoria:
+- Pessoal: R$ 1958861.02 (50.5%)
+- Equipamentos: R$ 633700.38 (16.3%)
+- Software: R$ 513960.59 (13.2%)
+- Serviços: R$ 594015.66 (15.3%)
+- Outros: R$ 179076.74 (4.6%)

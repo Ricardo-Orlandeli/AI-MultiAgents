@@ -1,0 +1,24 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: O prazer de realizar seus sonhos direto da fonte (PROJ-0889)
+Data: 11/07/2025
+Gerente: Maria Flor Porto
+
+Status atual: Em andamento
+Percentual de conclusão: 76.7%
+Data de início: 10/11/2024
+Data de término planejada: 20/09/2025
+Data de término real/prevista: 15/09/2025
+Atraso atual: 0 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 0.91
+Valor Planejado (PV): R$ 1167560.83
+Valor Agregado (EV): R$ 1156621.89
+
+Tarefas críticas:
+- Configuração da infraestrutura
+- Implementação do sistema de backup
+- Implementação do módulo de exportação de dados
+- Configuração da infraestrutura
+- Migração de dados legados
+
+Tarefas atrasadas:

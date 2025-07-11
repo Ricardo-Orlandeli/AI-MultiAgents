@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O conforto de realizar seus sonhos com confiança (PROJ-0228)
+Data: 11/07/2025
+Gerente: Mateus Almeida
+
+Orçamento inicial: R$ 4961336.00
+Custo real atual: R$ 1283436.31
+Desvio orçamentário: -74.13%
+Índice de Desempenho de Custo (CPI): 0.99
+Valor Agregado (EV): R$ 1264857.66
+Estimativa para conclusão: R$ 3750773.44
+Estimativa no término (EAC): R$ 5034209.74
+Variação no término (VAC): R$ -72873.74
+
+Detalhamento por categoria:
+- Pessoal: R$ 663282.32 (51.7%)
+- Equipamentos: R$ 192135.49 (15.0%)
+- Software: R$ 110670.24 (8.6%)
+- Serviços: R$ 234276.59 (18.3%)
+- Outros: R$ 83071.67 (6.5%)

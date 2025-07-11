@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A arte de concretizar seus projetos com toda a tranquilidade (PROJ-0897)
+Data: 11/07/2025
+Gerente: Dra. Ana Cecília Novais
+
+Orçamento inicial: R$ 115357.00
+Custo real atual: R$ 119552.70
+Desvio orçamentário: 3.64%
+Índice de Desempenho de Custo (CPI): 0.84
+Valor Agregado (EV): R$ 100935.90
+Estimativa para conclusão: R$ 17080.96
+Estimativa no término (EAC): R$ 136633.65
+Variação no término (VAC): R$ -21276.65
+
+Detalhamento por categoria:
+- Pessoal: R$ 58432.80 (48.9%)
+- Equipamentos: R$ 14650.64 (12.3%)
+- Software: R$ 13146.60 (11.0%)
+- Serviços: R$ 25200.17 (21.1%)
+- Outros: R$ 8122.49 (6.8%)

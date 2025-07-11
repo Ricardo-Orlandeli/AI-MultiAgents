@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O conforto de atingir seus objetivos antes de tudo (PROJ-0637)
+Data: 11/07/2025
+Gerente: João Gabriel da Luz
+
+Orçamento inicial: R$ 1244499.00
+Custo real atual: R$ 1047817.43
+Desvio orçamentário: -15.80%
+Índice de Desempenho de Custo (CPI): 1.07
+Valor Agregado (EV): R$ 1121073.57
+Estimativa para conclusão: R$ 115360.24
+Estimativa no término (EAC): R$ 1163177.67
+Variação no término (VAC): R$ 81321.33
+
+Detalhamento por categoria:
+- Pessoal: R$ 663205.69 (63.3%)
+- Equipamentos: R$ 128624.27 (12.3%)
+- Software: R$ 65210.98 (6.2%)
+- Serviços: R$ 122566.12 (11.7%)
+- Outros: R$ 68210.37 (6.5%)

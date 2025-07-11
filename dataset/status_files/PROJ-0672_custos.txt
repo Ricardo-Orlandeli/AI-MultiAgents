@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O poder de realizar seus sonhos de maneira eficaz (PROJ-0672)
+Data: 11/07/2025
+Gerente: Larissa Abreu
+
+Orçamento inicial: R$ 1233300.00
+Custo real atual: R$ 990396.85
+Desvio orçamentário: -19.70%
+Índice de Desempenho de Custo (CPI): 0.84
+Valor Agregado (EV): R$ 829518.87
+Estimativa para conclusão: R$ 482090.98
+Estimativa no término (EAC): R$ 1472487.82
+Variação no término (VAC): R$ -239187.82
+
+Detalhamento por categoria:
+- Pessoal: R$ 478374.28 (48.3%)
+- Equipamentos: R$ 145459.04 (14.7%)
+- Software: R$ 122316.95 (12.4%)
+- Serviços: R$ 142866.46 (14.4%)
+- Outros: R$ 101380.11 (10.2%)

@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A simplicidade de avançar direto da fonte (PROJ-0604)
+Data: 11/07/2025
+Gerente: Sra. Anna Liz Moreira
+
+Orçamento inicial: R$ 453169.00
+Custo real atual: R$ 423952.32
+Desvio orçamentário: -6.45%
+Índice de Desempenho de Custo (CPI): 1.07
+Valor Agregado (EV): R$ 452715.83
+Estimativa para conclusão: R$ 424.38
+Estimativa no término (EAC): R$ 424376.69
+Variação no término (VAC): R$ 28792.31
+
+Detalhamento por categoria:
+- Pessoal: R$ 213374.19 (50.3%)
+- Equipamentos: R$ 73143.32 (17.3%)
+- Software: R$ 40303.96 (9.5%)
+- Serviços: R$ 62100.30 (14.6%)
+- Outros: R$ 35030.54 (8.3%)

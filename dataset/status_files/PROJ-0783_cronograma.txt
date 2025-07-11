@@ -1,0 +1,27 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A simplicidade de concretizar seus projetos com força total (PROJ-0783)
+Data: 11/07/2025
+Gerente: Cecília Lopes
+
+Status atual: Em andamento
+Percentual de conclusão: 95.2%
+Data de início: 04/10/2024
+Data de término planejada: 13/11/2024
+Data de término real/prevista: 19/11/2024
+Atraso atual: 240 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 0.99
+Valor Planejado (PV): R$ 1467603.00
+Valor Agregado (EV): R$ 1396578.26
+
+Tarefas críticas:
+- Configuração da infraestrutura
+- Implementação da API REST
+- Testes de aceitação do usuário
+- Implementação da API REST
+- Configuração da infraestrutura
+- Configuração da infraestrutura
+- Desenvolvimento do módulo de autenticação
+- Testes de segurança
+
+Tarefas atrasadas:

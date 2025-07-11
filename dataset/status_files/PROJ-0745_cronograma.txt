@@ -1,0 +1,23 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: O conforto de realizar seus sonhos direto da fonte (PROJ-0745)
+Data: 11/07/2025
+Gerente: Luiza Moraes
+
+Status atual: Em andamento
+Percentual de conclusão: 84.2%
+Data de início: 24/08/2023
+Data de término planejada: 12/11/2023
+Data de término real/prevista: 24/11/2023
+Atraso atual: 607 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 1.05
+Valor Planejado (PV): R$ 4726428.00
+Valor Agregado (EV): R$ 3977361.74
+
+Tarefas críticas:
+- Configuração do ambiente de produção
+- Testes de segurança
+- Implementação do módulo de análise de dados
+- Migração de dados legados
+
+Tarefas atrasadas:

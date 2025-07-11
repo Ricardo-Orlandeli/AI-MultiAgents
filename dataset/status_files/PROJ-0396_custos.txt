@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O direito de realizar seus sonhos sem preocupação (PROJ-0396)
+Data: 11/07/2025
+Gerente: Heloísa Teixeira
+
+Orçamento inicial: R$ 2123974.00
+Custo real atual: R$ 1845729.53
+Desvio orçamentário: -13.10%
+Índice de Desempenho de Custo (CPI): 0.74
+Valor Agregado (EV): R$ 1361233.43
+Estimativa para conclusão: R$ 1034218.50
+Estimativa no término (EAC): R$ 2879948.03
+Variação no término (VAC): R$ -755974.03
+
+Detalhamento por categoria:
+- Pessoal: R$ 1023576.80 (55.5%)
+- Equipamentos: R$ 293864.83 (15.9%)
+- Software: R$ 128235.53 (6.9%)
+- Serviços: R$ 263820.61 (14.3%)
+- Outros: R$ 136231.77 (7.4%)

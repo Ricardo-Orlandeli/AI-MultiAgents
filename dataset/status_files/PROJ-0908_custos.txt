@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A segurança de atingir seus objetivos de maneira eficaz (PROJ-0908)
+Data: 11/07/2025
+Gerente: Yasmin Sá
+
+Orçamento inicial: R$ 1209694.00
+Custo real atual: R$ 1081584.88
+Desvio orçamentário: -10.59%
+Índice de Desempenho de Custo (CPI): 1.12
+Valor Agregado (EV): R$ 1209694.00
+Estimativa para conclusão: R$ 0.00
+Estimativa no término (EAC): R$ 1081584.88
+Variação no término (VAC): R$ 128109.12
+
+Detalhamento por categoria:
+- Pessoal: R$ 502117.91 (46.4%)
+- Equipamentos: R$ 163605.83 (15.1%)
+- Software: R$ 126149.61 (11.7%)
+- Serviços: R$ 191923.08 (17.7%)
+- Outros: R$ 97788.45 (9.0%)

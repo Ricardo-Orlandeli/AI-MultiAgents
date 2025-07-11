@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A simplicidade de avançar em estado puro (PROJ-0224)
+Data: 11/07/2025
+Gerente: Paulo Siqueira
+
+Orçamento inicial: R$ 1258170.00
+Custo real atual: R$ 1499021.88
+Desvio orçamentário: 19.14%
+Índice de Desempenho de Custo (CPI): 0.84
+Valor Agregado (EV): R$ 1256911.83
+Estimativa para conclusão: R$ 1500.52
+Estimativa no término (EAC): R$ 1500522.41
+Variação no término (VAC): R$ -242352.41
+
+Detalhamento por categoria:
+- Pessoal: R$ 694460.42 (46.3%)
+- Equipamentos: R$ 243245.09 (16.2%)
+- Software: R$ 228214.01 (15.2%)
+- Serviços: R$ 234040.22 (15.6%)
+- Outros: R$ 99062.14 (6.6%)

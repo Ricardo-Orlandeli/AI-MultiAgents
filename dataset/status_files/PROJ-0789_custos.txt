@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A simplicidade de ganhar simplesmente (PROJ-0789)
+Data: 11/07/2025
+Gerente: Sr. Pedro da Luz
+
+Orçamento inicial: R$ 806725.00
+Custo real atual: R$ 459970.05
+Desvio orçamentário: 10.72%
+Índice de Desempenho de Custo (CPI): 0.73
+Valor Agregado (EV): R$ 334565.10
+Estimativa para conclusão: R$ 649139.48
+Estimativa no término (EAC): R$ 1109109.53
+Variação no término (VAC): R$ -302384.53
+
+Detalhamento por categoria:
+- Pessoal: R$ 239739.89 (52.1%)
+- Equipamentos: R$ 86215.33 (18.7%)
+- Software: R$ 35391.09 (7.7%)
+- Serviços: R$ 55525.16 (12.1%)
+- Outros: R$ 43098.58 (9.4%)

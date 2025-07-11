@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O conforto de ganhar de maneira eficaz (PROJ-0625)
+Data: 11/07/2025
+Gerente: Sra. Lorena da Rosa
+
+Orçamento inicial: R$ 4331474.00
+Custo real atual: R$ 5116739.76
+Desvio orçamentário: 18.13%
+Índice de Desempenho de Custo (CPI): 0.85
+Valor Agregado (EV): R$ 4331474.00
+Estimativa para conclusão: R$ 0.00
+Estimativa no término (EAC): R$ 5116739.76
+Variação no término (VAC): R$ -785265.76
+
+Detalhamento por categoria:
+- Pessoal: R$ 2553103.81 (49.9%)
+- Equipamentos: R$ 664979.54 (13.0%)
+- Software: R$ 613717.45 (12.0%)
+- Serviços: R$ 867172.35 (16.9%)
+- Outros: R$ 417766.60 (8.2%)

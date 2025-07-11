@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A possibilidade de realizar seus sonhos mais rapidamente (PROJ-0599)
+Data: 11/07/2025
+Gerente: Milena Souza
+
+Orçamento inicial: R$ 2646182.00
+Custo real atual: R$ 2318345.16
+Desvio orçamentário: -12.39%
+Índice de Desempenho de Custo (CPI): 1.08
+Valor Agregado (EV): R$ 2509326.54
+Estimativa para conclusão: R$ 126439.58
+Estimativa no término (EAC): R$ 2444784.74
+Variação no término (VAC): R$ 201397.26
+
+Detalhamento por categoria:
+- Pessoal: R$ 1032933.38 (44.6%)
+- Equipamentos: R$ 448402.12 (19.3%)
+- Software: R$ 301688.86 (13.0%)
+- Serviços: R$ 386213.91 (16.7%)
+- Outros: R$ 149106.89 (6.4%)

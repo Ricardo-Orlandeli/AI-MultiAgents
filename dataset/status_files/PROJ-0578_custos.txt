@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O conforto de avançar simplesmente (PROJ-0578)
+Data: 11/07/2025
+Gerente: Vitor Sales
+
+Orçamento inicial: R$ 730357.00
+Custo real atual: R$ 828716.65
+Desvio orçamentário: 13.47%
+Índice de Desempenho de Custo (CPI): 0.88
+Valor Agregado (EV): R$ 730357.00
+Estimativa para conclusão: R$ 0.00
+Estimativa no término (EAC): R$ 828716.65
+Variação no término (VAC): R$ -98359.65
+
+Detalhamento por categoria:
+- Pessoal: R$ 395375.25 (47.7%)
+- Equipamentos: R$ 137098.04 (16.5%)
+- Software: R$ 77925.23 (9.4%)
+- Serviços: R$ 171018.30 (20.6%)
+- Outros: R$ 47299.83 (5.7%)

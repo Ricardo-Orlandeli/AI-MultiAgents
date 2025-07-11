@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O poder de evoluir com força total (PROJ-0397)
+Data: 11/07/2025
+Gerente: Pedro Henrique Cirino
+
+Orçamento inicial: R$ 4646481.00
+Custo real atual: R$ 4614096.33
+Desvio orçamentário: -0.70%
+Índice de Desempenho de Custo (CPI): 0.88
+Valor Agregado (EV): R$ 4044345.66
+Estimativa para conclusão: R$ 686961.68
+Estimativa no término (EAC): R$ 5301058.00
+Variação no término (VAC): R$ -654577.00
+
+Detalhamento por categoria:
+- Pessoal: R$ 2139054.83 (46.4%)
+- Equipamentos: R$ 934681.67 (20.3%)
+- Software: R$ 441842.05 (9.6%)
+- Serviços: R$ 640909.04 (13.9%)
+- Outros: R$ 457608.74 (9.9%)

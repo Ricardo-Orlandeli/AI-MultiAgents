@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A arte de ganhar direto da fonte (PROJ-0539)
+Data: 11/07/2025
+Gerente: Dr. Dom Pastor
+
+Orçamento inicial: R$ 3075316.00
+Custo real atual: R$ 2042418.00
+Desvio orçamentário: -23.37%
+Índice de Desempenho de Custo (CPI): 1.15
+Valor Agregado (EV): R$ 2341094.30
+Estimativa para conclusão: R$ 640549.86
+Estimativa no término (EAC): R$ 2682967.86
+Variação no término (VAC): R$ 392348.14
+
+Detalhamento por categoria:
+- Pessoal: R$ 1165248.05 (57.1%)
+- Equipamentos: R$ 341951.35 (16.7%)
+- Software: R$ 161058.90 (7.9%)
+- Serviços: R$ 276189.58 (13.5%)
+- Outros: R$ 97970.12 (4.8%)

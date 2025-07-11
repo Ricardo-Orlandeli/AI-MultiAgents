@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O direito de avançar com força total (PROJ-0013)
+Data: 11/07/2025
+Gerente: Leandro da Cunha
+
+Orçamento inicial: R$ 862115.00
+Custo real atual: R$ 679279.12
+Desvio orçamentário: -6.03%
+Índice de Desempenho de Custo (CPI): 0.87
+Valor Agregado (EV): R$ 592912.23
+Estimativa para conclusão: R$ 308416.33
+Estimativa no término (EAC): R$ 987695.45
+Variação no término (VAC): R$ -125580.45
+
+Detalhamento por categoria:
+- Pessoal: R$ 337228.38 (49.6%)
+- Equipamentos: R$ 108265.48 (15.9%)
+- Software: R$ 74753.45 (11.0%)
+- Serviços: R$ 110054.85 (16.2%)
+- Outros: R$ 48976.96 (7.2%)

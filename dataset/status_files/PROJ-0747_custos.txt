@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A simplicidade de conseguir com força total (PROJ-0747)
+Data: 11/07/2025
+Gerente: Dr. Benício Nogueira
+
+Orçamento inicial: R$ 2295447.00
+Custo real atual: R$ 1662226.59
+Desvio orçamentário: -27.59%
+Índice de Desempenho de Custo (CPI): 0.83
+Valor Agregado (EV): R$ 1387577.28
+Estimativa para conclusão: R$ 1087568.39
+Estimativa no término (EAC): R$ 2749794.98
+Variação no término (VAC): R$ -454347.98
+
+Detalhamento por categoria:
+- Pessoal: R$ 829465.77 (49.9%)
+- Equipamentos: R$ 335336.96 (20.2%)
+- Software: R$ 171490.78 (10.3%)
+- Serviços: R$ 218848.57 (13.2%)
+- Outros: R$ 107084.52 (6.4%)

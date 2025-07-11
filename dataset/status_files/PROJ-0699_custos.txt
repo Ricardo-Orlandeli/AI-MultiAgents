@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O poder de conseguir com toda a tranquilidade (PROJ-0699)
+Data: 11/07/2025
+Gerente: Maria Cecília da Conceição
+
+Orçamento inicial: R$ 4679482.00
+Custo real atual: R$ 4360815.81
+Desvio orçamentário: -6.81%
+Índice de Desempenho de Custo (CPI): 1.07
+Valor Agregado (EV): R$ 4679482.00
+Estimativa para conclusão: R$ 0.00
+Estimativa no término (EAC): R$ 4360815.81
+Variação no término (VAC): R$ 318666.19
+
+Detalhamento por categoria:
+- Pessoal: R$ 1956706.27 (44.9%)
+- Equipamentos: R$ 887331.14 (20.3%)
+- Software: R$ 401141.20 (9.2%)
+- Serviços: R$ 775041.63 (17.8%)
+- Outros: R$ 340595.55 (7.8%)

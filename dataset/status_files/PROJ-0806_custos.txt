@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A simplicidade de avançar simplesmente (PROJ-0806)
+Data: 11/07/2025
+Gerente: Isaque Duarte
+
+Orçamento inicial: R$ 1500363.00
+Custo real atual: R$ 1229805.15
+Desvio orçamentário: -18.03%
+Índice de Desempenho de Custo (CPI): 1.22
+Valor Agregado (EV): R$ 1500363.00
+Estimativa para conclusão: R$ 0.00
+Estimativa no término (EAC): R$ 1229805.15
+Variação no término (VAC): R$ 270557.85
+
+Detalhamento por categoria:
+- Pessoal: R$ 582489.15 (47.4%)
+- Equipamentos: R$ 237468.31 (19.3%)
+- Software: R$ 130654.05 (10.6%)
+- Serviços: R$ 197538.21 (16.1%)
+- Outros: R$ 81655.42 (6.6%)

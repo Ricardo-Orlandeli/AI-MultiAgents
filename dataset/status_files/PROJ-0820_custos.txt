@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A segurança de avançar com força total (PROJ-0820)
+Data: 11/07/2025
+Gerente: Sra. Beatriz Souza
+
+Orçamento inicial: R$ 2393061.00
+Custo real atual: R$ 1712722.25
+Desvio orçamentário: -28.43%
+Índice de Desempenho de Custo (CPI): 0.76
+Valor Agregado (EV): R$ 1306064.79
+Estimativa para conclusão: R$ 1425444.30
+Estimativa no término (EAC): R$ 3138166.56
+Variação no término (VAC): R$ -745105.56
+
+Detalhamento por categoria:
+- Pessoal: R$ 936574.00 (54.7%)
+- Equipamentos: R$ 230076.47 (13.4%)
+- Software: R$ 223311.31 (13.0%)
+- Serviços: R$ 198330.99 (11.6%)
+- Outros: R$ 124429.48 (7.3%)

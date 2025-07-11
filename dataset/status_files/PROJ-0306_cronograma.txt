@@ -1,0 +1,26 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: O prazer de evoluir simplesmente (PROJ-0306)
+Data: 11/07/2025
+Gerente: Hellena Novaes
+
+Status atual: Em andamento
+Percentual de conclusão: 99.1%
+Data de início: 24/10/2024
+Data de término planejada: 21/12/2024
+Data de término real/prevista: 18/01/2025
+Atraso atual: 202 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 1.04
+Valor Planejado (PV): R$ 4898291.00
+Valor Agregado (EV): R$ 4852315.52
+
+Tarefas críticas:
+- Implementação do módulo de relatórios
+- Desenvolvimento da interface do usuário
+- Implementação do módulo de relatórios
+- Configuração da infraestrutura
+- Migração de dados legados
+- Implementação do módulo de análise de dados
+- Implementação da API REST
+
+Tarefas atrasadas:

@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A possibilidade de inovar com força total (PROJ-0887)
+Data: 11/07/2025
+Gerente: Gustavo Henrique Caldeira
+
+Orçamento inicial: R$ 4034081.00
+Custo real atual: R$ 3914997.57
+Desvio orçamentário: -2.95%
+Índice de Desempenho de Custo (CPI): 1.03
+Valor Agregado (EV): R$ 4030046.92
+Estimativa para conclusão: R$ 3918.92
+Estimativa no término (EAC): R$ 3918916.49
+Variação no término (VAC): R$ 115164.51
+
+Detalhamento por categoria:
+- Pessoal: R$ 2444788.22 (62.4%)
+- Equipamentos: R$ 502904.41 (12.8%)
+- Software: R$ 229198.62 (5.9%)
+- Serviços: R$ 435065.87 (11.1%)
+- Outros: R$ 303040.45 (7.7%)

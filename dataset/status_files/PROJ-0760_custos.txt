@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A segurança de evoluir naturalmente (PROJ-0760)
+Data: 11/07/2025
+Gerente: Noah Vieira
+
+Orçamento inicial: R$ 3723064.00
+Custo real atual: R$ 445661.07
+Desvio orçamentário: -11.13%
+Índice de Desempenho de Custo (CPI): 0.80
+Valor Agregado (EV): R$ 354901.74
+Estimativa para conclusão: R$ 4229505.30
+Estimativa no término (EAC): R$ 4675166.37
+Variação no término (VAC): R$ -952102.37
+
+Detalhamento por categoria:
+- Pessoal: R$ 248696.11 (55.8%)
+- Equipamentos: R$ 57981.21 (13.0%)
+- Software: R$ 40246.67 (9.0%)
+- Serviços: R$ 63431.28 (14.2%)
+- Outros: R$ 35305.80 (7.9%)

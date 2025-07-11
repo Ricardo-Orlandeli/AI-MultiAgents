@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A simplicidade de inovar simplesmente (PROJ-0523)
+Data: 11/07/2025
+Gerente: Isaque Mendes
+
+Orçamento inicial: R$ 4096549.00
+Custo real atual: R$ 3395615.86
+Desvio orçamentário: -17.11%
+Índice de Desempenho de Custo (CPI): 1.21
+Valor Agregado (EV): R$ 4092452.45
+Estimativa para conclusão: R$ 3399.01
+Estimativa no término (EAC): R$ 3399014.87
+Variação no término (VAC): R$ 697534.13
+
+Detalhamento por categoria:
+- Pessoal: R$ 1765984.44 (52.0%)
+- Equipamentos: R$ 460073.52 (13.5%)
+- Software: R$ 260654.20 (7.7%)
+- Serviços: R$ 711754.49 (21.0%)
+- Outros: R$ 197149.21 (5.8%)

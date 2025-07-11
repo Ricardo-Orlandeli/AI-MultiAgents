@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O prazer de ganhar de maneira eficaz (PROJ-0498)
+Data: 11/07/2025
+Gerente: Mirella Jesus
+
+Orçamento inicial: R$ 4685932.00
+Custo real atual: R$ 2637758.26
+Desvio orçamentário: -35.33%
+Índice de Desempenho de Custo (CPI): 0.90
+Valor Agregado (EV): R$ 2376127.55
+Estimativa para conclusão: R$ 2564132.46
+Estimativa no término (EAC): R$ 5201890.72
+Variação no término (VAC): R$ -515958.72
+
+Detalhamento por categoria:
+- Pessoal: R$ 1506973.03 (57.1%)
+- Equipamentos: R$ 408505.25 (15.5%)
+- Software: R$ 186956.45 (7.1%)
+- Serviços: R$ 299825.62 (11.4%)
+- Outros: R$ 235497.91 (8.9%)

@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A possibilidade de inovar antes de tudo (PROJ-0178)
+Data: 11/07/2025
+Gerente: Liz Sales
+
+Orçamento inicial: R$ 2117354.00
+Custo real atual: R$ 1816164.17
+Desvio orçamentário: -14.22%
+Índice de Desempenho de Custo (CPI): 1.17
+Valor Agregado (EV): R$ 2117354.00
+Estimativa para conclusão: R$ 0.00
+Estimativa no término (EAC): R$ 1816164.17
+Variação no término (VAC): R$ 301189.83
+
+Detalhamento por categoria:
+- Pessoal: R$ 933404.99 (51.4%)
+- Equipamentos: R$ 211945.17 (11.7%)
+- Software: R$ 235114.55 (12.9%)
+- Serviços: R$ 325973.78 (17.9%)
+- Outros: R$ 109725.68 (6.0%)

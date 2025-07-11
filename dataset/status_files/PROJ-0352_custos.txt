@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O direito de realizar seus sonhos antes de tudo (PROJ-0352)
+Data: 11/07/2025
+Gerente: Nicole Lopes
+
+Orçamento inicial: R$ 705184.00
+Custo real atual: R$ 206977.43
+Desvio orçamentário: -70.65%
+Índice de Desempenho de Custo (CPI): 0.82
+Valor Agregado (EV): R$ 168724.97
+Estimativa para conclusão: R$ 658082.25
+Estimativa no término (EAC): R$ 865059.68
+Variação no término (VAC): R$ -159875.68
+
+Detalhamento por categoria:
+- Pessoal: R$ 110533.93 (53.4%)
+- Equipamentos: R$ 38595.91 (18.6%)
+- Software: R$ 17541.39 (8.5%)
+- Serviços: R$ 21865.26 (10.6%)
+- Outros: R$ 18440.93 (8.9%)

@@ -1,0 +1,25 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: O direito de concretizar seus projetos com força total (PROJ-0622)
+Data: 11/07/2025
+Gerente: Srta. Sophie da Costa
+
+Status atual: Em andamento
+Percentual de conclusão: 99.9%
+Data de início: 06/08/2023
+Data de término planejada: 11/09/2023
+Data de término real/prevista: 08/10/2023
+Atraso atual: 669 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 0.89
+Valor Planejado (PV): R$ 1335405.00
+Valor Agregado (EV): R$ 1334069.60
+
+Tarefas críticas:
+- Implementação do módulo de exportação de dados
+- Desenvolvimento da interface do usuário
+- Configuração do ambiente de produção
+- Implementação do módulo de relatórios
+- Implementação do módulo de relatórios
+- Implementação do módulo de relatórios
+
+Tarefas atrasadas:

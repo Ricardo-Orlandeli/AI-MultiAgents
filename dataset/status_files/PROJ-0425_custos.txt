@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O prazer de ganhar com toda a tranquilidade (PROJ-0425)
+Data: 11/07/2025
+Gerente: Paulo Araújo
+
+Orçamento inicial: R$ 4928016.00
+Custo real atual: R$ 4234172.72
+Desvio orçamentário: -14.08%
+Índice de Desempenho de Custo (CPI): 1.16
+Valor Agregado (EV): R$ 4923087.98
+Estimativa para conclusão: R$ 4238.41
+Estimativa no término (EAC): R$ 4238411.14
+Variação no término (VAC): R$ 689604.86
+
+Detalhamento por categoria:
+- Pessoal: R$ 1978327.70 (46.7%)
+- Equipamentos: R$ 743780.35 (17.6%)
+- Software: R$ 589688.55 (13.9%)
+- Serviços: R$ 586479.09 (13.9%)
+- Outros: R$ 335897.04 (7.9%)

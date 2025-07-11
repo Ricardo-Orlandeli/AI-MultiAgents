@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A arte de mudar mais facilmente (PROJ-0912)
+Data: 11/07/2025
+Gerente: Mateus Teixeira
+
+Orçamento inicial: R$ 598231.00
+Custo real atual: R$ 714456.77
+Desvio orçamentário: 72.92%
+Índice de Desempenho de Custo (CPI): 0.84
+Valor Agregado (EV): R$ 598231.00
+Estimativa para conclusão: R$ 0.00
+Estimativa no término (EAC): R$ 714456.77
+Variação no término (VAC): R$ -116225.77
+
+Detalhamento por categoria:
+- Pessoal: R$ 400704.42 (56.1%)
+- Equipamentos: R$ 99242.96 (13.9%)
+- Software: R$ 60496.27 (8.5%)
+- Serviços: R$ 110423.92 (15.5%)
+- Outros: R$ 43589.19 (6.1%)

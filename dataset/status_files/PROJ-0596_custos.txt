@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O direito de ganhar direto da fonte (PROJ-0596)
+Data: 11/07/2025
+Gerente: Sabrina Novaes
+
+Orçamento inicial: R$ 3926563.00
+Custo real atual: R$ 4704118.65
+Desvio orçamentário: 19.80%
+Índice de Desempenho de Custo (CPI): 0.83
+Valor Agregado (EV): R$ 3922636.44
+Estimativa para conclusão: R$ 4708.83
+Estimativa no término (EAC): R$ 4708827.48
+Variação no término (VAC): R$ -782264.48
+
+Detalhamento por categoria:
+- Pessoal: R$ 2235174.65 (47.5%)
+- Equipamentos: R$ 724038.63 (15.4%)
+- Software: R$ 507648.50 (10.8%)
+- Serviços: R$ 883901.42 (18.8%)
+- Outros: R$ 353355.45 (7.5%)

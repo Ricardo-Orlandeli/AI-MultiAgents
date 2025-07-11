@@ -1,0 +1,26 @@
+RELATÓRIO DE STATUS DE ESCOPO
+Projeto: O direito de concretizar seus projetos com força total (PROJ-0164)
+Data: 11/07/2025
+Gerente: Matheus da Paz
+
+Escopo original: Sistema para o direito de concretizar seus projetos com força total
+Houve mudança de escopo: Sim
+Descrição das mudanças: Adição de novos requisitos de segurança
+Impacto no cronograma: 9 dias
+Impacto no custo: R$ 198291.24
+
+Solicitações de mudança:
+- SCM-01: Mudança na arquitetura do sistema
+
+Requisitos atuais:
+- REQ-01: O sistema deve ser compatível com navegadores modernos
+- REQ-02: O sistema deve passar por testes de segurança
+- REQ-03: O sistema deve registrar logs de auditoria
+- REQ-04: O sistema deve ser escalável para suportar até 10.000 usuários simultâneos
+- REQ-05: O sistema deve ser escalável para suportar até 10.000 usuários simultâneos
+- REQ-06: O sistema deve processar transações em menos de 2 seconds
+- REQ-07: O sistema deve ter documentação completa
+- REQ-08: O sistema deve implementar criptografia de dados sensíveis
+- REQ-09: O sistema deve ser escalável para suportar até 10.000 usuários simultâneos
+- REQ-10: O sistema deve ter alta disponibilidade (99.9%)
+- REQ-11: O sistema deve ter alta disponibilidade (99.9%)

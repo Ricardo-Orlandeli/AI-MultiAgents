@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A simplicidade de atingir seus objetivos com toda a tranquilidade (PROJ-0167)
+Data: 11/07/2025
+Gerente: Bella Gomes
+
+Orçamento inicial: R$ 4721086.00
+Custo real atual: R$ 5081384.75
+Desvio orçamentário: 7.63%
+Índice de Desempenho de Custo (CPI): 0.93
+Valor Agregado (EV): R$ 4716364.91
+Estimativa para conclusão: R$ 5086.47
+Estimativa no término (EAC): R$ 5086471.22
+Variação no término (VAC): R$ -365385.22
+
+Detalhamento por categoria:
+- Pessoal: R$ 2572850.48 (50.6%)
+- Equipamentos: R$ 630492.73 (12.4%)
+- Software: R$ 611342.01 (12.0%)
+- Serviços: R$ 942719.67 (18.6%)
+- Outros: R$ 323979.87 (6.4%)

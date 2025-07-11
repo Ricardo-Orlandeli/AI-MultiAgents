@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A arte de inovar naturalmente (PROJ-0577)
+Data: 11/07/2025
+Gerente: Rhavi Ramos
+
+Orçamento inicial: R$ 4082966.00
+Custo real atual: R$ 3875770.45
+Desvio orçamentário: -5.07%
+Índice de Desempenho de Custo (CPI): 0.87
+Valor Agregado (EV): R$ 3356708.99
+Estimativa para conclusão: R$ 838561.06
+Estimativa no término (EAC): R$ 4714331.51
+Variação no término (VAC): R$ -631365.51
+
+Detalhamento por categoria:
+- Pessoal: R$ 2107891.50 (54.4%)
+- Equipamentos: R$ 431551.87 (11.1%)
+- Software: R$ 424329.64 (10.9%)
+- Serviços: R$ 677933.70 (17.5%)
+- Outros: R$ 234063.75 (6.0%)

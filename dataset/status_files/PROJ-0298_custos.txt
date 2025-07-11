@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A certeza de realizar seus sonhos em estado puro (PROJ-0298)
+Data: 11/07/2025
+Gerente: Lívia Casa Grande
+
+Orçamento inicial: R$ 3888278.00
+Custo real atual: R$ 4629230.45
+Desvio orçamentário: 19.06%
+Índice de Desempenho de Custo (CPI): 0.67
+Valor Agregado (EV): R$ 3107770.24
+Estimativa para conclusão: R$ 1162618.22
+Estimativa no término (EAC): R$ 5791848.66
+Variação no término (VAC): R$ -1903570.66
+
+Detalhamento por categoria:
+- Pessoal: R$ 2034033.91 (43.9%)
+- Equipamentos: R$ 903703.34 (19.5%)
+- Software: R$ 688010.10 (14.9%)
+- Serviços: R$ 631571.66 (13.6%)
+- Outros: R$ 371911.44 (8.0%)

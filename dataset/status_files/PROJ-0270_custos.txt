@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O conforto de avançar com confiança (PROJ-0270)
+Data: 11/07/2025
+Gerente: Júlia Sampaio
+
+Orçamento inicial: R$ 1386701.00
+Custo real atual: R$ 1057288.18
+Desvio orçamentário: -23.76%
+Índice de Desempenho de Custo (CPI): 0.90
+Valor Agregado (EV): R$ 953370.08
+Estimativa para conclusão: R$ 480564.33
+Estimativa no término (EAC): R$ 1537852.51
+Variação no término (VAC): R$ -151151.51
+
+Detalhamento por categoria:
+- Pessoal: R$ 495834.06 (46.9%)
+- Equipamentos: R$ 205910.60 (19.5%)
+- Software: R$ 78555.86 (7.4%)
+- Serviços: R$ 168329.05 (15.9%)
+- Outros: R$ 108658.60 (10.3%)

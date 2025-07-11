@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A segurança de concretizar seus projetos sem preocupação (PROJ-0554)
+Data: 11/07/2025
+Gerente: Théo Nunes
+
+Orçamento inicial: R$ 3681441.00
+Custo real atual: R$ 3182779.00
+Desvio orçamentário: -13.55%
+Índice de Desempenho de Custo (CPI): 1.16
+Valor Agregado (EV): R$ 3677759.56
+Estimativa para conclusão: R$ 3185.96
+Estimativa no término (EAC): R$ 3185964.96
+Variação no término (VAC): R$ 495476.04
+
+Detalhamento por categoria:
+- Pessoal: R$ 1621292.23 (50.9%)
+- Equipamentos: R$ 392127.94 (12.3%)
+- Software: R$ 408726.42 (12.8%)
+- Serviços: R$ 502572.10 (15.8%)
+- Outros: R$ 258060.31 (8.1%)

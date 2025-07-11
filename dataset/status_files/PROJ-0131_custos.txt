@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O conforto de ganhar naturalmente (PROJ-0131)
+Data: 11/07/2025
+Gerente: Breno Almeida
+
+Orçamento inicial: R$ 2686997.00
+Custo real atual: R$ 2641973.76
+Desvio orçamentário: -1.68%
+Índice de Desempenho de Custo (CPI): 1.02
+Valor Agregado (EV): R$ 2684310.00
+Estimativa para conclusão: R$ 2644.62
+Estimativa no término (EAC): R$ 2644618.38
+Variação no término (VAC): R$ 42378.62
+
+Detalhamento por categoria:
+- Pessoal: R$ 1456239.96 (55.1%)
+- Equipamentos: R$ 449605.54 (17.0%)
+- Software: R$ 171658.21 (6.5%)
+- Serviços: R$ 348928.78 (13.2%)
+- Outros: R$ 215541.26 (8.2%)

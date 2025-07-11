@@ -1,0 +1,25 @@
+RELATÓRIO DE STATUS DE ESCOPO
+Projeto: A arte de inovar em estado puro (PROJ-0550)
+Data: 11/07/2025
+Gerente: Ana Carolina Duarte
+
+Escopo original: Sistema para a arte de inovar em estado puro
+Houve mudança de escopo: Sim
+Descrição das mudanças: Expansão do escopo para incluir funcionalidades adicionais
+Impacto no cronograma: 35 dias
+Impacto no custo: R$ 87581.62
+
+Solicitações de mudança:
+- SCM-01: Mudança na arquitetura do sistema
+- SCM-02: Adição de funcionalidade de autenticação biométrica
+- SCM-03: Mudança no banco de dados
+- SCM-04: Mudança no banco de dados
+- SCM-05: Adição de funcionalidade de autenticação biométrica
+
+Requisitos atuais:
+- REQ-01: O sistema deve implementar criptografia de dados sensíveis
+- REQ-02: O sistema deve processar transações em menos de 2 seconds
+- REQ-03: O sistema deve processar transações em menos de 2 seconds
+- REQ-04: O sistema deve ter controle de acesso baseado em perfis
+- REQ-05: O sistema deve ser compatível com navegadores modernos
+- REQ-06: O sistema deve ser compatível com dispositivos móveis

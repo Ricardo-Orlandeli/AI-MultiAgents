@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O poder de conseguir com força total (PROJ-0724)
+Data: 11/07/2025
+Gerente: Luna Sousa
+
+Orçamento inicial: R$ 1499604.00
+Custo real atual: R$ 1776777.49
+Desvio orçamentário: 18.48%
+Índice de Desempenho de Custo (CPI): 0.72
+Valor Agregado (EV): R$ 1287245.13
+Estimativa para conclusão: R$ 293117.80
+Estimativa no término (EAC): R$ 2069895.28
+Variação no término (VAC): R$ -570291.28
+
+Detalhamento por categoria:
+- Pessoal: R$ 809883.49 (45.6%)
+- Equipamentos: R$ 295832.41 (16.6%)
+- Software: R$ 266113.40 (15.0%)
+- Serviços: R$ 246468.19 (13.9%)
+- Outros: R$ 158479.99 (8.9%)

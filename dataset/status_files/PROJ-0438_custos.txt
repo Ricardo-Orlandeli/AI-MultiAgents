@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A vantagem de avançar com confiança (PROJ-0438)
+Data: 11/07/2025
+Gerente: Ana Júlia Caldeira
+
+Orçamento inicial: R$ 795416.00
+Custo real atual: R$ 944560.75
+Desvio orçamentário: 233.05%
+Índice de Desempenho de Custo (CPI): 0.84
+Valor Agregado (EV): R$ 795416.00
+Estimativa para conclusão: R$ 0.00
+Estimativa no término (EAC): R$ 944560.75
+Variação no término (VAC): R$ -149144.75
+
+Detalhamento por categoria:
+- Pessoal: R$ 536773.23 (56.8%)
+- Equipamentos: R$ 167042.68 (17.7%)
+- Software: R$ 57072.95 (6.0%)
+- Serviços: R$ 128175.73 (13.6%)
+- Outros: R$ 55496.16 (5.9%)

@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O direito de evoluir com confiança (PROJ-0567)
+Data: 11/07/2025
+Gerente: Dr. Pietro Marques
+
+Orçamento inicial: R$ 1550613.00
+Custo real atual: R$ 1150812.78
+Desvio orçamentário: -25.78%
+Índice de Desempenho de Custo (CPI): 0.99
+Valor Agregado (EV): R$ 1136672.07
+Estimativa para conclusão: R$ 419090.53
+Estimativa no término (EAC): R$ 1569903.31
+Variação no término (VAC): R$ -19290.31
+
+Detalhamento por categoria:
+- Pessoal: R$ 554763.06 (48.2%)
+- Equipamentos: R$ 228590.96 (19.9%)
+- Software: R$ 83486.39 (7.3%)
+- Serviços: R$ 210836.01 (18.3%)
+- Outros: R$ 73136.35 (6.4%)

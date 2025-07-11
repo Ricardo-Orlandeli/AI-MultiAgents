@@ -1,0 +1,26 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A arte de conseguir em estado puro (PROJ-0765)
+Data: 11/07/2025
+Gerente: Manuella Nunes
+
+Status atual: Cancelado
+Percentual de conclusão: 88.0%
+Data de início: 27/10/2023
+Data de término planejada: 09/02/2024
+Data de término real/prevista: 27/01/2024
+Atraso atual: 518 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 0.88
+Valor Planejado (PV): R$ 3214435.00
+Valor Agregado (EV): R$ 2827765.07
+
+Tarefas críticas:
+- Migração de dados legados
+- Testes de aceitação do usuário
+- Implementação do módulo de exportação de dados
+- Testes de aceitação do usuário
+- Implementação do módulo de notificações
+- Desenvolvimento do módulo de autenticação
+- Desenvolvimento da interface do usuário
+
+Tarefas atrasadas:

@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O prazer de inovar mais facilmente (PROJ-0587)
+Data: 11/07/2025
+Gerente: Sra. Beatriz Siqueira
+
+Orçamento inicial: R$ 4187251.00
+Custo real atual: R$ 3866189.94
+Desvio orçamentário: -7.67%
+Índice de Desempenho de Custo (CPI): 1.08
+Valor Agregado (EV): R$ 4183063.75
+Estimativa para conclusão: R$ 3870.06
+Estimativa no término (EAC): R$ 3870060.00
+Variação no término (VAC): R$ 317191.00
+
+Detalhamento por categoria:
+- Pessoal: R$ 1871200.79 (48.4%)
+- Equipamentos: R$ 517859.51 (13.4%)
+- Software: R$ 532493.10 (13.8%)
+- Serviços: R$ 736856.10 (19.1%)
+- Outros: R$ 207780.44 (5.4%)

@@ -1,0 +1,27 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A certeza de inovar mais rapidamente (PROJ-0589)
+Data: 11/07/2025
+Gerente: Danilo Souza
+
+Status atual: Atrasado
+Percentual de conclusão: 82.3%
+Data de início: 21/04/2024
+Data de término planejada: 22/10/2024
+Data de término real/prevista: 12/03/2025
+Atraso atual: 262 dias
+Motivo do atraso: Rotatividade de pessoal-chave
+Índice de Desempenho de Cronograma (SPI): 0.82
+Valor Planejado (PV): R$ 3161811.00
+Valor Agregado (EV): R$ 2602749.57
+
+Tarefas críticas:
+- Implementação do sistema de backup
+- Testes de segurança
+- Implementação do módulo de relatórios
+- Desenvolvimento do módulo de autenticação
+- Implementação do módulo de notificações
+- Desenvolvimento do painel administrativo
+
+Tarefas atrasadas:
+- Implementação do sistema de backup
+- Desenvolvimento do painel administrativo

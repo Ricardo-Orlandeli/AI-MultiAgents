@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O direito de ganhar mais facilmente (PROJ-0331)
+Data: 11/07/2025
+Gerente: Eduardo Oliveira
+
+Orçamento inicial: R$ 731947.00
+Custo real atual: R$ 770548.41
+Desvio orçamentário: 5.27%
+Índice de Desempenho de Custo (CPI): 0.95
+Valor Agregado (EV): R$ 731215.05
+Estimativa para conclusão: R$ 771.32
+Estimativa no término (EAC): R$ 771319.73
+Variação no término (VAC): R$ -39372.73
+
+Detalhamento por categoria:
+- Pessoal: R$ 327697.27 (42.5%)
+- Equipamentos: R$ 134278.91 (17.4%)
+- Software: R$ 105982.80 (13.8%)
+- Serviços: R$ 137592.14 (17.9%)
+- Outros: R$ 64997.28 (8.4%)

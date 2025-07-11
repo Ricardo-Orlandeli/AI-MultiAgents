@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O direito de concretizar seus projetos com força total (PROJ-0164)
+Data: 11/07/2025
+Gerente: Matheus da Paz
+
+Orçamento inicial: R$ 2122148.00
+Custo real atual: R$ 1486726.17
+Desvio orçamentário: -29.94%
+Índice de Desempenho de Custo (CPI): 0.77
+Valor Agregado (EV): R$ 1142263.69
+Estimativa para conclusão: R$ 1275379.47
+Estimativa no término (EAC): R$ 2762105.64
+Variação no término (VAC): R$ -639957.64
+
+Detalhamento por categoria:
+- Pessoal: R$ 793864.10 (53.4%)
+- Equipamentos: R$ 285632.45 (19.2%)
+- Software: R$ 158928.40 (10.7%)
+- Serviços: R$ 166917.14 (11.2%)
+- Outros: R$ 81384.09 (5.5%)

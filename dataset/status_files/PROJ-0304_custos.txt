@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A liberdade de evoluir simplesmente (PROJ-0304)
+Data: 11/07/2025
+Gerente: Francisco Ramos
+
+Orçamento inicial: R$ 235100.00
+Custo real atual: R$ 234170.96
+Desvio orçamentário: -0.40%
+Índice de Desempenho de Custo (CPI): 1.00
+Valor Agregado (EV): R$ 234864.90
+Estimativa para conclusão: R$ 234.41
+Estimativa no término (EAC): R$ 234405.36
+Variação no término (VAC): R$ 694.64
+
+Detalhamento por categoria:
+- Pessoal: R$ 110964.58 (47.4%)
+- Equipamentos: R$ 34643.19 (14.8%)
+- Software: R$ 40147.82 (17.1%)
+- Serviços: R$ 29015.30 (12.4%)
+- Outros: R$ 19400.06 (8.3%)

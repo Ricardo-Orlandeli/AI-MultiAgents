@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A arte de atingir seus objetivos antes de tudo (PROJ-0134)
+Data: 11/07/2025
+Gerente: Sofia da Luz
+
+Orçamento inicial: R$ 439188.00
+Custo real atual: R$ 372062.59
+Desvio orçamentário: -15.28%
+Índice de Desempenho de Custo (CPI): 0.76
+Valor Agregado (EV): R$ 282164.15
+Estimativa para conclusão: R$ 207052.18
+Estimativa no término (EAC): R$ 579114.77
+Variação no término (VAC): R$ -139926.77
+
+Detalhamento por categoria:
+- Pessoal: R$ 216976.86 (58.3%)
+- Equipamentos: R$ 57039.70 (15.3%)
+- Software: R$ 33510.10 (9.0%)
+- Serviços: R$ 45948.83 (12.3%)
+- Outros: R$ 18587.10 (5.0%)

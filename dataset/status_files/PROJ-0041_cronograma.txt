@@ -1,0 +1,27 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A segurança de atingir seus objetivos com força total (PROJ-0041)
+Data: 11/07/2025
+Gerente: Ana Liz Azevedo
+
+Status atual: Concluído
+Percentual de conclusão: 100.0%
+Data de início: 03/12/2024
+Data de término planejada: 22/08/2025
+Data de término real/prevista: 13/09/2025
+Atraso atual: 0 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 1.00
+Valor Planejado (PV): R$ 3930552.75
+Valor Agregado (EV): R$ 4680931.00
+
+Tarefas críticas:
+- Implementação do módulo de análise de dados
+- Testes de aceitação do usuário
+- Implementação do sistema de backup
+- Migração de dados legados
+- Implementação do módulo de notificações
+- Implementação da API REST
+- Implementação do módulo de análise de dados
+- Desenvolvimento do painel administrativo
+
+Tarefas atrasadas:

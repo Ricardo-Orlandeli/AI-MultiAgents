@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A arte de mudar de maneira eficaz (PROJ-0808)
+Data: 11/07/2025
+Gerente: Dr. Arthur Macedo
+
+Orçamento inicial: R$ 216479.00
+Custo real atual: R$ 147197.11
+Desvio orçamentário: -9.34%
+Índice de Desempenho de Custo (CPI): 1.25
+Valor Agregado (EV): R$ 183915.00
+Estimativa para conclusão: R$ 26062.73
+Estimativa no término (EAC): R$ 173259.84
+Variação no término (VAC): R$ 43219.16
+
+Detalhamento por categoria:
+- Pessoal: R$ 68727.90 (46.7%)
+- Equipamentos: R$ 29356.65 (19.9%)
+- Software: R$ 17095.68 (11.6%)
+- Serviços: R$ 23046.40 (15.7%)
+- Outros: R$ 8970.48 (6.1%)

@@ -1,0 +1,28 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: O prazer de conseguir com força total (PROJ-0636)
+Data: 11/07/2025
+Gerente: Caroline Costela
+
+Status atual: Atrasado
+Percentual de conclusão: 37.9%
+Data de início: 25/04/2025
+Data de término planejada: 09/08/2025
+Data de término real/prevista: 17/11/2025
+Atraso atual: 0 dias
+Motivo do atraso: Atraso na entrega de componentes por fornecedores
+Índice de Desempenho de Cronograma (SPI): 0.52
+Valor Planejado (PV): R$ 1367708.14
+Valor Agregado (EV): R$ 713236.07
+
+Tarefas críticas:
+- Desenvolvimento do módulo de autenticação
+- Testes de aceitação do usuário
+- Implementação do módulo de análise de dados
+- Integração com sistema de pagamentos
+- Desenvolvimento da interface do usuário
+- Desenvolvimento da interface do usuário
+- Implementação do módulo de exportação de dados
+
+Tarefas atrasadas:
+- Integração com sistema de pagamentos
+- Implementação do módulo de análise de dados

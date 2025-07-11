@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A possibilidade de conseguir mais facilmente (PROJ-0086)
+Data: 11/07/2025
+Gerente: Vinícius Lima
+
+Orçamento inicial: R$ 470047.00
+Custo real atual: R$ 445026.80
+Desvio orçamentário: -5.32%
+Índice de Desempenho de Custo (CPI): 1.06
+Valor Agregado (EV): R$ 469576.95
+Estimativa para conclusão: R$ 445.47
+Estimativa no término (EAC): R$ 445472.27
+Variação no término (VAC): R$ 24574.73
+
+Detalhamento por categoria:
+- Pessoal: R$ 249197.95 (56.0%)
+- Equipamentos: R$ 82297.56 (18.5%)
+- Software: R$ 24385.58 (5.5%)
+- Serviços: R$ 59026.72 (13.3%)
+- Outros: R$ 30118.98 (6.8%)

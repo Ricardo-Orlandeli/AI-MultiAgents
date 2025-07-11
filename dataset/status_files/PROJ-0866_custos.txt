@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A simplicidade de realizar seus sonhos em estado puro (PROJ-0866)
+Data: 11/07/2025
+Gerente: Enzo Gabriel Moraes
+
+Orçamento inicial: R$ 126714.00
+Custo real atual: R$ 123818.81
+Desvio orçamentário: -2.28%
+Índice de Desempenho de Custo (CPI): 0.82
+Valor Agregado (EV): R$ 101252.26
+Estimativa para conclusão: R$ 31136.52
+Estimativa no término (EAC): R$ 154955.32
+Variação no término (VAC): R$ -28241.32
+
+Detalhamento por categoria:
+- Pessoal: R$ 62697.93 (50.6%)
+- Equipamentos: R$ 20493.22 (16.6%)
+- Software: R$ 16925.11 (13.7%)
+- Serviços: R$ 14627.22 (11.8%)
+- Outros: R$ 9075.33 (7.3%)

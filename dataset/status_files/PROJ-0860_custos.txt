@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A certeza de conseguir sem preocupação (PROJ-0860)
+Data: 11/07/2025
+Gerente: Ayla Peixoto
+
+Orçamento inicial: R$ 2301722.00
+Custo real atual: R$ 2694489.80
+Desvio orçamentário: 17.06%
+Índice de Desempenho de Custo (CPI): 0.71
+Valor Agregado (EV): R$ 1923228.62
+Estimativa para conclusão: R$ 530278.39
+Estimativa no término (EAC): R$ 3224768.19
+Variação no término (VAC): R$ -923046.19
+
+Detalhamento por categoria:
+- Pessoal: R$ 1249952.18 (46.4%)
+- Equipamentos: R$ 603277.26 (22.4%)
+- Software: R$ 191759.65 (7.1%)
+- Serviços: R$ 406208.68 (15.1%)
+- Outros: R$ 243292.04 (9.0%)

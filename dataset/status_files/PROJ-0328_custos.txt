@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O conforto de realizar seus sonhos mais facilmente (PROJ-0328)
+Data: 11/07/2025
+Gerente: Antony Pinto
+
+Orçamento inicial: R$ 415248.00
+Custo real atual: R$ 183226.05
+Desvio orçamentário: -19.77%
+Índice de Desempenho de Custo (CPI): 0.86
+Valor Agregado (EV): R$ 158472.40
+Estimativa para conclusão: R$ 296884.36
+Estimativa no término (EAC): R$ 480110.41
+Variação no término (VAC): R$ -64862.41
+
+Detalhamento por categoria:
+- Pessoal: R$ 98300.61 (53.6%)
+- Equipamentos: R$ 25940.03 (14.2%)
+- Software: R$ 14504.42 (7.9%)
+- Serviços: R$ 33301.16 (18.2%)
+- Outros: R$ 11179.82 (6.1%)

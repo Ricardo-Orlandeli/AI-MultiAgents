@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A vantagem de ganhar naturalmente (PROJ-0666)
+Data: 11/07/2025
+Gerente: Noah Alves
+
+Orçamento inicial: R$ 2942316.00
+Custo real atual: R$ 2987351.30
+Desvio orçamentário: 1.53%
+Índice de Desempenho de Custo (CPI): 0.98
+Valor Agregado (EV): R$ 2942316.00
+Estimativa para conclusão: R$ 0.00
+Estimativa no término (EAC): R$ 2987351.30
+Variação no término (VAC): R$ -45035.30
+
+Detalhamento por categoria:
+- Pessoal: R$ 1490874.19 (49.9%)
+- Equipamentos: R$ 431824.97 (14.5%)
+- Software: R$ 370413.29 (12.4%)
+- Serviços: R$ 394210.52 (13.2%)
+- Outros: R$ 300028.32 (10.0%)

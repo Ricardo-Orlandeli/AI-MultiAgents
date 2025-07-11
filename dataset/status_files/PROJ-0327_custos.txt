@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A simplicidade de atingir seus objetivos sem preocupação (PROJ-0327)
+Data: 11/07/2025
+Gerente: Maria Eduarda Fonseca
+
+Orçamento inicial: R$ 2940459.00
+Custo real atual: R$ 2509867.61
+Desvio orçamentário: -5.92%
+Índice de Desempenho de Custo (CPI): 0.76
+Valor Agregado (EV): R$ 1909412.09
+Estimativa para conclusão: R$ 1355281.69
+Estimativa no término (EAC): R$ 3865149.29
+Variação no término (VAC): R$ -924690.29
+
+Detalhamento por categoria:
+- Pessoal: R$ 1209170.46 (48.2%)
+- Equipamentos: R$ 489199.42 (19.5%)
+- Software: R$ 272511.41 (10.9%)
+- Serviços: R$ 350075.79 (13.9%)
+- Outros: R$ 188910.53 (7.5%)

@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A vantagem de inovar antes de tudo (PROJ-0344)
+Data: 11/07/2025
+Gerente: Ísis Pires
+
+Orçamento inicial: R$ 2603661.00
+Custo real atual: R$ 2805689.73
+Desvio orçamentário: 7.76%
+Índice de Desempenho de Custo (CPI): 0.73
+Valor Agregado (EV): R$ 2060178.89
+Estimativa para conclusão: R$ 740150.37
+Estimativa no término (EAC): R$ 3545840.10
+Variação no término (VAC): R$ -942179.10
+
+Detalhamento por categoria:
+- Pessoal: R$ 1428658.45 (50.9%)
+- Equipamentos: R$ 448820.76 (16.0%)
+- Software: R$ 304714.08 (10.9%)
+- Serviços: R$ 429336.25 (15.3%)
+- Outros: R$ 194160.19 (6.9%)

@@ -1,0 +1,26 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A simplicidade de ganhar em estado puro (PROJ-0032)
+Data: 11/07/2025
+Gerente: Liam Rios
+
+Status atual: Em andamento
+Percentual de conclusão: 99.1%
+Data de início: 30/05/2024
+Data de término planejada: 21/12/2024
+Data de término real/prevista: 28/12/2024
+Atraso atual: 202 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 1.02
+Valor Planejado (PV): R$ 1547246.00
+Valor Agregado (EV): R$ 1532736.21
+
+Tarefas críticas:
+- Desenvolvimento da interface do usuário
+- Configuração do ambiente de produção
+- Implementação do módulo de exportação de dados
+- Integração com sistema de pagamentos
+- Integração com sistema de pagamentos
+- Implementação do módulo de relatórios
+- Implementação da API REST
+
+Tarefas atrasadas:

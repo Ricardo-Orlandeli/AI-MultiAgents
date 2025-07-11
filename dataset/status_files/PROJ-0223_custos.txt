@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A segurança de concretizar seus projetos de maneira eficaz (PROJ-0223)
+Data: 11/07/2025
+Gerente: Valentina Pacheco
+
+Orçamento inicial: R$ 2140405.00
+Custo real atual: R$ 1805447.91
+Desvio orçamentário: -15.65%
+Índice de Desempenho de Custo (CPI): 1.18
+Valor Agregado (EV): R$ 2138264.60
+Estimativa para conclusão: R$ 1807.26
+Estimativa no término (EAC): R$ 1807255.17
+Variação no término (VAC): R$ 333149.83
+
+Detalhamento por categoria:
+- Pessoal: R$ 968109.39 (53.6%)
+- Equipamentos: R$ 260296.17 (14.4%)
+- Software: R$ 219350.27 (12.1%)
+- Serviços: R$ 251869.03 (14.0%)
+- Outros: R$ 105823.05 (5.9%)

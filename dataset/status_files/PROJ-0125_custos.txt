@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O prazer de conseguir simplesmente (PROJ-0125)
+Data: 11/07/2025
+Gerente: Srta. Cecilia Farias
+
+Orçamento inicial: R$ 1209490.00
+Custo real atual: R$ 975797.96
+Desvio orçamentário: -19.32%
+Índice de Desempenho de Custo (CPI): 1.24
+Valor Agregado (EV): R$ 1208280.51
+Estimativa para conclusão: R$ 976.77
+Estimativa no término (EAC): R$ 976774.74
+Variação no término (VAC): R$ 232715.26
+
+Detalhamento por categoria:
+- Pessoal: R$ 474219.56 (48.6%)
+- Equipamentos: R$ 148042.02 (15.2%)
+- Software: R$ 62800.19 (6.4%)
+- Serviços: R$ 205621.81 (21.1%)
+- Outros: R$ 85114.38 (8.7%)

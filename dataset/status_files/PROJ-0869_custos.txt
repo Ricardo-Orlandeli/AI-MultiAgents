@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O poder de inovar sem preocupação (PROJ-0869)
+Data: 11/07/2025
+Gerente: Ana Beatriz Fogaça
+
+Orçamento inicial: R$ 3960433.00
+Custo real atual: R$ 4471205.37
+Desvio orçamentário: 12.90%
+Índice de Desempenho de Custo (CPI): 0.72
+Valor Agregado (EV): R$ 3234912.07
+Estimativa para conclusão: R$ 1002794.82
+Estimativa no término (EAC): R$ 5474000.19
+Variação no término (VAC): R$ -1513567.19
+
+Detalhamento por categoria:
+- Pessoal: R$ 2299004.57 (51.4%)
+- Equipamentos: R$ 677902.87 (15.2%)
+- Software: R$ 496662.92 (11.1%)
+- Serviços: R$ 631108.28 (14.1%)
+- Outros: R$ 366526.74 (8.2%)

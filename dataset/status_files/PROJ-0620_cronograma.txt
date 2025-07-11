@@ -1,0 +1,27 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A segurança de conseguir sem preocupação (PROJ-0620)
+Data: 11/07/2025
+Gerente: Caroline Siqueira
+
+Status atual: Em andamento
+Percentual de conclusão: 99.3%
+Data de início: 16/03/2024
+Data de término planejada: 01/06/2024
+Data de término real/prevista: 22/05/2024
+Atraso atual: 405 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 0.85
+Valor Planejado (PV): R$ 1031435.00
+Valor Agregado (EV): R$ 1024421.54
+
+Tarefas críticas:
+- Testes de segurança
+- Implementação do sistema de backup
+- Migração de dados legados
+- Migração de dados legados
+- Integração com sistema de pagamentos
+- Integração com sistema de pagamentos
+- Testes de segurança
+- Configuração do ambiente de produção
+
+Tarefas atrasadas:

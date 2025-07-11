@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A possibilidade de concretizar seus projetos mais rapidamente (PROJ-0813)
+Data: 11/07/2025
+Gerente: Mariah da Paz
+
+Orçamento inicial: R$ 4852052.00
+Custo real atual: R$ 3992745.53
+Desvio orçamentário: -17.71%
+Índice de Desempenho de Custo (CPI): 1.22
+Valor Agregado (EV): R$ 4852052.00
+Estimativa para conclusão: R$ 0.00
+Estimativa no término (EAC): R$ 3992745.53
+Variação no término (VAC): R$ 859306.47
+
+Detalhamento por categoria:
+- Pessoal: R$ 2006662.33 (50.3%)
+- Equipamentos: R$ 614664.96 (15.4%)
+- Software: R$ 392375.67 (9.8%)
+- Serviços: R$ 611125.27 (15.3%)
+- Outros: R$ 367917.31 (9.2%)

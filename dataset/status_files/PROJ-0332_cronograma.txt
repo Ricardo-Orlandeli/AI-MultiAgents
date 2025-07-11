@@ -1,0 +1,25 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A liberdade de conseguir mais rapidamente (PROJ-0332)
+Data: 11/07/2025
+Gerente: Stella da Cruz
+
+Status atual: Cancelado
+Percentual de conclusão: 59.0%
+Data de início: 06/09/2024
+Data de término planejada: 14/11/2024
+Data de término real/prevista: 16/10/2024
+Atraso atual: 239 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 0.59
+Valor Planejado (PV): R$ 1943196.00
+Valor Agregado (EV): R$ 1146964.00
+
+Tarefas críticas:
+- Desenvolvimento da interface do usuário
+- Implementação do módulo de relatórios
+- Testes de aceitação do usuário
+- Testes de segurança
+- Implementação do módulo de exportação de dados
+- Desenvolvimento do painel administrativo
+
+Tarefas atrasadas:

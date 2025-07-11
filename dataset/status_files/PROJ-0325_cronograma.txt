@@ -1,0 +1,24 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A possibilidade de evoluir com confiança (PROJ-0325)
+Data: 11/07/2025
+Gerente: Sr. Bryan da Paz
+
+Status atual: Cancelado
+Percentual de conclusão: 53.5%
+Data de início: 15/04/2025
+Data de término planejada: 23/07/2025
+Data de término real/prevista: 06/06/2025
+Atraso atual: 0 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 0.61
+Valor Planejado (PV): R$ 227787.09
+Valor Agregado (EV): R$ 138666.51
+
+Tarefas críticas:
+- Implementação do módulo de notificações
+- Implementação do módulo de relatórios
+- Integração com sistema de pagamentos
+- Configuração da infraestrutura
+- Implementação do sistema de backup
+
+Tarefas atrasadas:

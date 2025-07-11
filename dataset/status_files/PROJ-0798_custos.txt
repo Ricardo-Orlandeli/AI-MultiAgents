@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A liberdade de concretizar seus projetos com confiança (PROJ-0798)
+Data: 11/07/2025
+Gerente: Srta. Alana Sá
+
+Orçamento inicial: R$ 945733.00
+Custo real atual: R$ 940079.59
+Desvio orçamentário: -0.60%
+Índice de Desempenho de Custo (CPI): 0.91
+Valor Agregado (EV): R$ 858794.49
+Estimativa para conclusão: R$ 95167.26
+Estimativa no término (EAC): R$ 1035246.85
+Variação no término (VAC): R$ -89513.85
+
+Detalhamento por categoria:
+- Pessoal: R$ 479173.14 (51.0%)
+- Equipamentos: R$ 148464.37 (15.8%)
+- Software: R$ 79196.93 (8.4%)
+- Serviços: R$ 145683.96 (15.5%)
+- Outros: R$ 87561.20 (9.3%)

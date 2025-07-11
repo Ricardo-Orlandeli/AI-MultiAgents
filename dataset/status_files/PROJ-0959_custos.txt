@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O prazer de avançar com confiança (PROJ-0959)
+Data: 11/07/2025
+Gerente: Antony Pinto
+
+Orçamento inicial: R$ 1982098.00
+Custo real atual: R$ 2195279.19
+Desvio orçamentário: 10.76%
+Índice de Desempenho de Custo (CPI): 0.80
+Valor Agregado (EV): R$ 1752167.03
+Estimativa para conclusão: R$ 288079.09
+Estimativa no término (EAC): R$ 2483358.28
+Variação no término (VAC): R$ -501260.28
+
+Detalhamento por categoria:
+- Pessoal: R$ 1040761.46 (47.4%)
+- Equipamentos: R$ 303482.54 (13.8%)
+- Software: R$ 271525.14 (12.4%)
+- Serviços: R$ 323385.92 (14.7%)
+- Outros: R$ 256124.13 (11.7%)

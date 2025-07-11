@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A vantagem de evoluir mais facilmente (PROJ-0671)
+Data: 11/07/2025
+Gerente: Clarice Camargo
+
+Orçamento inicial: R$ 975050.00
+Custo real atual: R$ 1023124.17
+Desvio orçamentário: 4.93%
+Índice de Desempenho de Custo (CPI): 0.92
+Valor Agregado (EV): R$ 940365.72
+Estimativa para conclusão: R$ 37736.72
+Estimativa no término (EAC): R$ 1060860.89
+Variação no término (VAC): R$ -85810.89
+
+Detalhamento por categoria:
+- Pessoal: R$ 432595.18 (42.3%)
+- Equipamentos: R$ 210121.39 (20.5%)
+- Software: R$ 122474.12 (12.0%)
+- Serviços: R$ 194514.90 (19.0%)
+- Outros: R$ 63418.57 (6.2%)

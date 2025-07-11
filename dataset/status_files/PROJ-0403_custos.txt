@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A segurança de inovar mais rapidamente (PROJ-0403)
+Data: 11/07/2025
+Gerente: Catarina Mendonça
+
+Orçamento inicial: R$ 648935.00
+Custo real atual: R$ 676104.97
+Desvio orçamentário: 8.80%
+Índice de Desempenho de Custo (CPI): 0.91
+Valor Agregado (EV): R$ 613851.01
+Estimativa para conclusão: R$ 38642.04
+Estimativa no término (EAC): R$ 714747.01
+Variação no término (VAC): R$ -65812.01
+
+Detalhamento por categoria:
+- Pessoal: R$ 365902.65 (54.1%)
+- Equipamentos: R$ 128278.29 (19.0%)
+- Software: R$ 46313.92 (6.9%)
+- Serviços: R$ 84129.08 (12.4%)
+- Outros: R$ 51481.04 (7.6%)

@@ -1,0 +1,35 @@
+RELATÓRIO DE STATUS DE RISCOS
+Projeto: A certeza de realizar seus sonhos com toda a tranquilidade (PROJ-0093)
+Data: 11/07/2025
+Gerente: Ágatha da Conceição
+
+Riscos identificados:
+- R01: Problemas de compatibilidade
+  Probabilidade: 5/5, Impacto: 1/5, Nível: Baixo
+  Mitigação: Contratar pessoal adicional
+
+- R02: Indisponibilidade de recursos especializados
+  Probabilidade: 1/5, Impacto: 2/5, Nível: Baixo
+  Mitigação: Testar compatibilidade em diferentes ambientes
+
+- R03: Requisitos mal definidos
+  Probabilidade: 5/5, Impacto: 4/5, Nível: Alto
+  Mitigação: Otimizar código e infraestrutura
+
+- R04: Falhas de infraestrutura
+  Probabilidade: 1/5, Impacto: 3/5, Nível: Baixo
+  Mitigação: Refinar estimativas com base em dados históricos
+
+Riscos ocorridos:
+- R04 (ocorrido em 01/06/2025)
+  Impacto real: Retrabalho significativo
+  Ações tomadas: Revisão de prioridades
+
+- R02 (ocorrido em 20/05/2025)
+  Impacto real: Retrabalho significativo
+  Ações tomadas: Revisão de processos
+
+- R01 (ocorrido em 24/06/2025)
+  Impacto real: Redução de funcionalidades
+  Ações tomadas: Revisão de processos
+

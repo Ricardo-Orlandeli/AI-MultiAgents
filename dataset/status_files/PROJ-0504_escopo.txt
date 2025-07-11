@@ -1,0 +1,25 @@
+RELATÓRIO DE STATUS DE ESCOPO
+Projeto: A segurança de conseguir sem preocupação (PROJ-0504)
+Data: 11/07/2025
+Gerente: Benjamin Rezende
+
+Escopo original: Sistema para a segurança de conseguir sem preocupação
+Houve mudança de escopo: Sim
+Descrição das mudanças: Alteração nas especificações técnicas
+Impacto no cronograma: 43 dias
+Impacto no custo: R$ 47139.28
+
+Solicitações de mudança:
+- SCM-01: Adição de relatórios gerenciais
+- SCM-02: Mudança no banco de dados
+- SCM-03: Alteração na interface do usuário
+- SCM-04: Adição de funcionalidade de autenticação biométrica
+
+Requisitos atuais:
+- REQ-01: O sistema deve registrar logs de auditoria
+- REQ-02: O sistema deve processar transações em menos de 2 seconds
+- REQ-03: O sistema deve ser escalável para suportar até 10.000 usuários simultâneos
+- REQ-04: O sistema deve ser compatível com dispositivos móveis
+- REQ-05: O sistema deve ser compatível com dispositivos móveis
+- REQ-06: O sistema deve ser compatível com navegadores modernos
+- REQ-07: O sistema deve permitir autenticação de usuários

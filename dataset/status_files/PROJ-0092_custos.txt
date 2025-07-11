@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A possibilidade de realizar seus sonhos com toda a tranquilidade (PROJ-0092)
+Data: 11/07/2025
+Gerente: Isaac Ribeiro
+
+Orçamento inicial: R$ 2934857.00
+Custo real atual: R$ 828907.06
+Desvio orçamentário: -15.79%
+Índice de Desempenho de Custo (CPI): 1.04
+Valor Agregado (EV): R$ 861414.48
+Estimativa para conclusão: R$ 1995196.48
+Estimativa no término (EAC): R$ 2824103.54
+Variação no término (VAC): R$ 110753.46
+
+Detalhamento por categoria:
+- Pessoal: R$ 420062.58 (50.7%)
+- Equipamentos: R$ 108115.60 (13.0%)
+- Software: R$ 80466.80 (9.7%)
+- Serviços: R$ 149395.58 (18.0%)
+- Outros: R$ 70866.50 (8.5%)

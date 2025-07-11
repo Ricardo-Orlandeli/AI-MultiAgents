@@ -1,0 +1,28 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A simplicidade de evoluir antes de tudo (PROJ-0865)
+Data: 11/07/2025
+Gerente: Ana Carolina Ferreira
+
+Status atual: Atrasado
+Percentual de conclusão: 4.3%
+Data de início: 23/06/2025
+Data de término planejada: 09/06/2026
+Data de término real/prevista: 21/09/2026
+Atraso atual: 0 dias
+Motivo do atraso: Problemas de integração com sistemas legados
+Índice de Desempenho de Cronograma (SPI): 0.84
+Valor Planejado (PV): R$ 197214.41
+Valor Agregado (EV): R$ 165826.00
+
+Tarefas críticas:
+- Testes de segurança
+- Desenvolvimento do módulo de autenticação
+- Implementação do módulo de relatórios
+- Integração com sistema de pagamentos
+- Implementação do módulo de notificações
+- Configuração da infraestrutura
+- Configuração do ambiente de produção
+- Implementação do módulo de análise de dados
+
+Tarefas atrasadas:
+- Implementação do módulo de análise de dados

@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A segurança de evoluir com toda a tranquilidade (PROJ-0297)
+Data: 11/07/2025
+Gerente: Isaque Martins
+
+Orçamento inicial: R$ 251634.00
+Custo real atual: R$ 190489.83
+Desvio orçamentário: -24.30%
+Índice de Desempenho de Custo (CPI): 0.70
+Valor Agregado (EV): R$ 133019.20
+Estimativa para conclusão: R$ 169862.04
+Estimativa no término (EAC): R$ 360351.87
+Variação no término (VAC): R$ -108717.87
+
+Detalhamento por categoria:
+- Pessoal: R$ 87648.03 (46.0%)
+- Equipamentos: R$ 39495.01 (20.7%)
+- Software: R$ 17903.64 (9.4%)
+- Serviços: R$ 34350.67 (18.0%)
+- Outros: R$ 11092.47 (5.8%)

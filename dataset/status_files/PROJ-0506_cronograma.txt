@@ -1,0 +1,28 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A vantagem de ganhar em estado puro (PROJ-0506)
+Data: 11/07/2025
+Gerente: Zoe Ribeiro
+
+Status atual: Atrasado
+Percentual de conclusão: 69.6%
+Data de início: 31/10/2024
+Data de término planejada: 18/06/2025
+Data de término real/prevista: 11/12/2025
+Atraso atual: 23 dias
+Motivo do atraso: Rotatividade de pessoal-chave
+Índice de Desempenho de Cronograma (SPI): 0.70
+Valor Planejado (PV): R$ 1106139.00
+Valor Agregado (EV): R$ 770205.94
+
+Tarefas críticas:
+- Desenvolvimento do módulo de autenticação
+- Desenvolvimento da interface do usuário
+- Implementação da API REST
+- Implementação da API REST
+- Configuração do ambiente de produção
+- Desenvolvimento do módulo de autenticação
+- Implementação do módulo de relatórios
+
+Tarefas atrasadas:
+- Implementação da API REST
+- Implementação da API REST

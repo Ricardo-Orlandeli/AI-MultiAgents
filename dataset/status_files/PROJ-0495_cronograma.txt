@@ -1,0 +1,24 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: O conforto de atingir seus objetivos naturalmente (PROJ-0495)
+Data: 11/07/2025
+Gerente: Olivia Gomes
+
+Status atual: Em andamento
+Percentual de conclusão: 92.0%
+Data de início: 01/10/2023
+Data de término planejada: 21/01/2024
+Data de término real/prevista: 17/01/2024
+Atraso atual: 537 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 0.98
+Valor Planejado (PV): R$ 3551977.00
+Valor Agregado (EV): R$ 3266600.86
+
+Tarefas críticas:
+- Implementação do sistema de backup
+- Configuração do ambiente de produção
+- Implementação do sistema de backup
+- Configuração do ambiente de produção
+- Testes de aceitação do usuário
+
+Tarefas atrasadas:

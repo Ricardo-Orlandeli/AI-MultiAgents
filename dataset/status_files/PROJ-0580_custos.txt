@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A arte de evoluir com força total (PROJ-0580)
+Data: 11/07/2025
+Gerente: Pedro Henrique Pereira
+
+Orçamento inicial: R$ 1166593.00
+Custo real atual: R$ 934889.53
+Desvio orçamentário: -19.86%
+Índice de Desempenho de Custo (CPI): 1.17
+Valor Agregado (EV): R$ 1096880.80
+Estimativa para conclusão: R$ 59416.85
+Estimativa no término (EAC): R$ 994306.39
+Variação no término (VAC): R$ 172286.61
+
+Detalhamento por categoria:
+- Pessoal: R$ 485418.39 (51.9%)
+- Equipamentos: R$ 181381.43 (19.4%)
+- Software: R$ 101758.41 (10.9%)
+- Serviços: R$ 99191.87 (10.6%)
+- Outros: R$ 67139.42 (7.2%)

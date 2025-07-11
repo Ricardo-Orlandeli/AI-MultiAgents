@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A certeza de concretizar seus projetos mais facilmente (PROJ-0858)
+Data: 11/07/2025
+Gerente: Gustavo Santos
+
+Orçamento inicial: R$ 2273604.00
+Custo real atual: R$ 1305038.97
+Desvio orçamentário: -37.77%
+Índice de Desempenho de Custo (CPI): 0.99
+Valor Agregado (EV): R$ 1294492.52
+Estimativa para conclusão: R$ 987088.47
+Estimativa no término (EAC): R$ 2292127.44
+Variação no término (VAC): R$ -18523.44
+
+Detalhamento por categoria:
+- Pessoal: R$ 710997.72 (54.5%)
+- Equipamentos: R$ 193266.47 (14.8%)
+- Software: R$ 122726.55 (9.4%)
+- Serviços: R$ 172841.40 (13.2%)
+- Outros: R$ 105206.82 (8.1%)

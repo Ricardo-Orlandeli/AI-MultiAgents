@@ -1,0 +1,22 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A segurança de evoluir mais facilmente (PROJ-0263)
+Data: 11/07/2025
+Gerente: Benjamin Moura
+
+Status atual: Em andamento
+Percentual de conclusão: 83.9%
+Data de início: 08/07/2024
+Data de término planejada: 29/10/2024
+Data de término real/prevista: 12/11/2024
+Atraso atual: 255 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 1.07
+Valor Planejado (PV): R$ 987034.00
+Valor Agregado (EV): R$ 828606.42
+
+Tarefas críticas:
+- Implementação do módulo de análise de dados
+- Configuração da infraestrutura
+- Implementação do módulo de análise de dados
+
+Tarefas atrasadas:

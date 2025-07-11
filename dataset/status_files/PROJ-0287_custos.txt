@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O direito de mudar simplesmente (PROJ-0287)
+Data: 11/07/2025
+Gerente: Juliana Novaes
+
+Orçamento inicial: R$ 4642841.00
+Custo real atual: R$ 4633030.99
+Desvio orçamentário: -0.21%
+Índice de Desempenho de Custo (CPI): 0.90
+Valor Agregado (EV): R$ 4164316.39
+Estimativa para conclusão: R$ 532384.94
+Estimativa no término (EAC): R$ 5165415.93
+Variação no término (VAC): R$ -522574.93
+
+Detalhamento por categoria:
+- Pessoal: R$ 2172726.00 (46.9%)
+- Equipamentos: R$ 928068.92 (20.0%)
+- Software: R$ 507907.31 (11.0%)
+- Serviços: R$ 663612.32 (14.3%)
+- Outros: R$ 360716.43 (7.8%)

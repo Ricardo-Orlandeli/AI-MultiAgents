@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A simplicidade de realizar seus sonhos sem preocupação (PROJ-0914)
+Data: 11/07/2025
+Gerente: Eloah Peixoto
+
+Orçamento inicial: R$ 3876844.00
+Custo real atual: R$ 4331738.48
+Desvio orçamentário: 11.73%
+Índice de Desempenho de Custo (CPI): 0.78
+Valor Agregado (EV): R$ 3394659.04
+Estimativa para conclusão: R$ 615289.82
+Estimativa no término (EAC): R$ 4947028.30
+Variação no término (VAC): R$ -1070184.30
+
+Detalhamento por categoria:
+- Pessoal: R$ 2230852.20 (51.5%)
+- Equipamentos: R$ 560531.37 (12.9%)
+- Software: R$ 381904.37 (8.8%)
+- Serviços: R$ 818399.92 (18.9%)
+- Outros: R$ 340050.60 (7.9%)

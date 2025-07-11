@@ -1,0 +1,27 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A possibilidade de concretizar seus projetos em estado puro (PROJ-0512)
+Data: 11/07/2025
+Gerente: Sr. Rael Cunha
+
+Status atual: Atrasado
+Percentual de conclusão: 40.2%
+Data de início: 30/04/2025
+Data de término planejada: 20/08/2025
+Data de término real/prevista: 15/02/2026
+Atraso atual: 0 dias
+Motivo do atraso: Problemas técnicos inesperados
+Índice de Desempenho de Cronograma (SPI): 0.62
+Valor Planejado (PV): R$ 557425.93
+Valor Agregado (EV): R$ 348282.55
+
+Tarefas críticas:
+- Implementação do sistema de backup
+- Testes de aceitação do usuário
+- Implementação da API REST
+- Configuração da infraestrutura
+- Testes de segurança
+
+Tarefas atrasadas:
+- Testes de segurança
+- Implementação da API REST
+- Configuração da infraestrutura

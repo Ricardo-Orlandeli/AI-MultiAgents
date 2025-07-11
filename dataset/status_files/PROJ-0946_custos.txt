@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A certeza de inovar mais facilmente (PROJ-0946)
+Data: 11/07/2025
+Gerente: Eloá Nunes
+
+Orçamento inicial: R$ 3666915.00
+Custo real atual: R$ 894599.59
+Desvio orçamentário: -9.51%
+Índice de Desempenho de Custo (CPI): 0.78
+Valor Agregado (EV): R$ 697479.87
+Estimativa para conclusão: R$ 3808648.16
+Estimativa no término (EAC): R$ 4703247.75
+Variação no término (VAC): R$ -1036332.75
+
+Detalhamento por categoria:
+- Pessoal: R$ 484184.32 (54.1%)
+- Equipamentos: R$ 116325.62 (13.0%)
+- Software: R$ 118986.33 (13.3%)
+- Serviços: R$ 130448.79 (14.6%)
+- Outros: R$ 44654.53 (5.0%)

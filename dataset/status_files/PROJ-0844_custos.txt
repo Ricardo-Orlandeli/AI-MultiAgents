@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A liberdade de conseguir sem preocupação (PROJ-0844)
+Data: 11/07/2025
+Gerente: Ana Laura Vargas
+
+Orçamento inicial: R$ 2980744.00
+Custo real atual: R$ 3045256.39
+Desvio orçamentário: 2.16%
+Índice de Desempenho de Custo (CPI): 0.98
+Valor Agregado (EV): R$ 2977763.26
+Estimativa para conclusão: R$ 3048.30
+Estimativa no término (EAC): R$ 3048304.69
+Variação no término (VAC): R$ -67560.69
+
+Detalhamento por categoria:
+- Pessoal: R$ 1576168.25 (51.8%)
+- Equipamentos: R$ 480180.41 (15.8%)
+- Software: R$ 327096.64 (10.7%)
+- Serviços: R$ 412449.46 (13.5%)
+- Outros: R$ 249361.63 (8.2%)

@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A liberdade de realizar seus sonhos com confiança (PROJ-0366)
+Data: 11/07/2025
+Gerente: Matheus da Conceição
+
+Orçamento inicial: R$ 3499866.00
+Custo real atual: R$ 4048103.79
+Desvio orçamentário: 613.82%
+Índice de Desempenho de Custo (CPI): 0.86
+Valor Agregado (EV): R$ 3499866.00
+Estimativa para conclusão: R$ 0.00
+Estimativa no término (EAC): R$ 4048103.79
+Variação no término (VAC): R$ -548237.79
+
+Detalhamento por categoria:
+- Pessoal: R$ 2352488.85 (58.1%)
+- Equipamentos: R$ 502469.45 (12.4%)
+- Software: R$ 262129.26 (6.5%)
+- Serviços: R$ 638511.19 (15.8%)
+- Outros: R$ 292505.04 (7.2%)

@@ -1,0 +1,25 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A arte de mudar com força total (PROJ-0174)
+Data: 11/07/2025
+Gerente: Luiz Fernando Lima
+
+Status atual: Concluído
+Percentual de conclusão: 100.0%
+Data de início: 31/12/2024
+Data de término planejada: 18/09/2025
+Data de término real/prevista: 28/08/2025
+Atraso atual: 0 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 0.99
+Valor Planejado (PV): R$ 2057130.67
+Valor Agregado (EV): R$ 2796412.00
+
+Tarefas críticas:
+- Implementação do módulo de notificações
+- Desenvolvimento da interface do usuário
+- Implementação do módulo de relatórios
+- Implementação do módulo de análise de dados
+- Integração com sistema de pagamentos
+- Implementação do sistema de backup
+
+Tarefas atrasadas:

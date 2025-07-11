@@ -1,0 +1,26 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: O prazer de inovar naturalmente (PROJ-0505)
+Data: 11/07/2025
+Gerente: Davi Luiz da Luz
+
+Status atual: Atrasado
+Percentual de conclusão: 59.2%
+Data de início: 19/10/2024
+Data de término planejada: 19/03/2025
+Data de término real/prevista: 05/04/2025
+Atraso atual: 114 dias
+Motivo do atraso: Problemas técnicos inesperados
+Índice de Desempenho de Cronograma (SPI): 0.59
+Valor Planejado (PV): R$ 4489489.00
+Valor Agregado (EV): R$ 2656224.30
+
+Tarefas críticas:
+- Configuração do ambiente de produção
+- Desenvolvimento da interface do usuário
+- Implementação do sistema de backup
+- Implementação do módulo de relatórios
+
+Tarefas atrasadas:
+- Implementação do módulo de relatórios
+- Desenvolvimento da interface do usuário
+- Configuração do ambiente de produção

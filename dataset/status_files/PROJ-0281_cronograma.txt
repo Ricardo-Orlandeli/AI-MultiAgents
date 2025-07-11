@@ -1,0 +1,26 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A segurança de atingir seus objetivos de maneira eficaz (PROJ-0281)
+Data: 11/07/2025
+Gerente: Leandro da Costa
+
+Status atual: Atrasado
+Percentual de conclusão: 81.8%
+Data de início: 06/07/2024
+Data de término planejada: 20/05/2025
+Data de término real/prevista: 02/07/2025
+Atraso atual: 52 dias
+Motivo do atraso: Falhas em testes de aceitação
+Índice de Desempenho de Cronograma (SPI): 0.82
+Valor Planejado (PV): R$ 1644089.00
+Valor Agregado (EV): R$ 1344408.93
+
+Tarefas críticas:
+- Implementação do módulo de relatórios
+- Implementação da API REST
+- Implementação do módulo de exportação de dados
+- Implementação do sistema de backup
+- Configuração da infraestrutura
+
+Tarefas atrasadas:
+- Implementação do sistema de backup
+- Implementação da API REST

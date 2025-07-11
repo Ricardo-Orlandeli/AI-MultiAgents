@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A arte de evoluir antes de tudo (PROJ-0530)
+Data: 11/07/2025
+Gerente: Luara Barros
+
+Orçamento inicial: R$ 4777664.00
+Custo real atual: R$ 5304142.31
+Desvio orçamentário: 26.19%
+Índice de Desempenho de Custo (CPI): 0.81
+Valor Agregado (EV): R$ 4297710.11
+Estimativa para conclusão: R$ 592348.88
+Estimativa no término (EAC): R$ 5896491.19
+Variação no término (VAC): R$ -1118827.19
+
+Detalhamento por categoria:
+- Pessoal: R$ 2788289.23 (52.6%)
+- Equipamentos: R$ 558201.86 (10.5%)
+- Software: R$ 694252.20 (13.1%)
+- Serviços: R$ 788642.80 (14.9%)
+- Outros: R$ 474756.22 (9.0%)

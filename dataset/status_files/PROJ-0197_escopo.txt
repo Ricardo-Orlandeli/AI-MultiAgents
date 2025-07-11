@@ -1,0 +1,19 @@
+RELATÓRIO DE STATUS DE ESCOPO
+Projeto: A segurança de mudar com confiança (PROJ-0197)
+Data: 11/07/2025
+Gerente: Bryan Casa Grande
+
+Escopo original: Sistema para a segurança de mudar com confiança
+Houve mudança de escopo: Não
+Descrição das mudanças: N/A
+Impacto no cronograma: 0 dias
+Impacto no custo: R$ 0.00
+
+Solicitações de mudança:
+
+Requisitos atuais:
+- REQ-01: O sistema deve implementar criptografia de dados sensíveis
+- REQ-02: O sistema deve ter backup automático diário
+- REQ-03: O sistema deve implementar criptografia de dados sensíveis
+- REQ-04: O sistema deve ter backup automático diário
+- REQ-05: O sistema deve passar por testes de segurança

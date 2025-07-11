@@ -1,0 +1,23 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A liberdade de concretizar seus projetos naturalmente (PROJ-0500)
+Data: 11/07/2025
+Gerente: Diego Almeida
+
+Status atual: Em andamento
+Percentual de conclusão: 99.9%
+Data de início: 12/07/2023
+Data de término planejada: 01/10/2023
+Data de término real/prevista: 12/10/2023
+Atraso atual: 649 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 1.03
+Valor Planejado (PV): R$ 4520825.00
+Valor Agregado (EV): R$ 4516304.18
+
+Tarefas críticas:
+- Testes de aceitação do usuário
+- Implementação do módulo de relatórios
+- Implementação do módulo de exportação de dados
+- Implementação do módulo de exportação de dados
+
+Tarefas atrasadas:

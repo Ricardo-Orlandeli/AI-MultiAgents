@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O direito de inovar antes de tudo (PROJ-0508)
+Data: 11/07/2025
+Gerente: Isabel Câmara
+
+Orçamento inicial: R$ 2117980.00
+Custo real atual: R$ 2183977.40
+Desvio orçamentário: 3.12%
+Índice de Desempenho de Custo (CPI): 0.97
+Valor Agregado (EV): R$ 2117980.00
+Estimativa para conclusão: R$ 0.00
+Estimativa no término (EAC): R$ 2183977.40
+Variação no término (VAC): R$ -65997.40
+
+Detalhamento por categoria:
+- Pessoal: R$ 1103062.53 (50.5%)
+- Equipamentos: R$ 317979.36 (14.6%)
+- Software: R$ 161500.86 (7.4%)
+- Serviços: R$ 435087.73 (19.9%)
+- Outros: R$ 166346.91 (7.6%)

@@ -1,0 +1,24 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: O conforto de inovar naturalmente (PROJ-0988)
+Data: 11/07/2025
+Gerente: Erick Pastor
+
+Status atual: Atrasado
+Percentual de conclusão: 11.0%
+Data de início: 16/05/2025
+Data de término planejada: 18/03/2026
+Data de término real/prevista: 05/05/2026
+Atraso atual: 0 dias
+Motivo do atraso: Dependências externas não cumpridas
+Índice de Desempenho de Cronograma (SPI): 0.60
+Valor Planejado (PV): R$ 465218.17
+Valor Agregado (EV): R$ 280309.70
+
+Tarefas críticas:
+- Configuração do ambiente de produção
+- Configuração da infraestrutura
+- Implementação do módulo de relatórios
+
+Tarefas atrasadas:
+- Configuração da infraestrutura
+- Implementação do módulo de relatórios

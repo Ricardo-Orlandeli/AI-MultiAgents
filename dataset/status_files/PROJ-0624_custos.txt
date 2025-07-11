@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A liberdade de atingir seus objetivos com toda a tranquilidade (PROJ-0624)
+Data: 11/07/2025
+Gerente: Henry Monteiro
+
+Orçamento inicial: R$ 3380448.00
+Custo real atual: R$ 2936805.64
+Desvio orçamentário: -13.12%
+Índice de Desempenho de Custo (CPI): 1.15
+Valor Agregado (EV): R$ 3380448.00
+Estimativa para conclusão: R$ 0.00
+Estimativa no término (EAC): R$ 2936805.64
+Variação no término (VAC): R$ 443642.36
+
+Detalhamento por categoria:
+- Pessoal: R$ 1516006.75 (51.6%)
+- Equipamentos: R$ 558297.55 (19.0%)
+- Software: R$ 225735.48 (7.7%)
+- Serviços: R$ 435252.86 (14.8%)
+- Outros: R$ 201513.01 (6.9%)

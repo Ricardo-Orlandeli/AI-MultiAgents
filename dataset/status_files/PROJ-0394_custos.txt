@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A simplicidade de avançar mais facilmente (PROJ-0394)
+Data: 11/07/2025
+Gerente: Dr. Rhavi Carvalho
+
+Orçamento inicial: R$ 4933104.00
+Custo real atual: R$ 4081522.78
+Desvio orçamentário: -17.26%
+Índice de Desempenho de Custo (CPI): 1.21
+Valor Agregado (EV): R$ 4933104.00
+Estimativa para conclusão: R$ 0.00
+Estimativa no término (EAC): R$ 4081522.78
+Variação no término (VAC): R$ 851581.22
+
+Detalhamento por categoria:
+- Pessoal: R$ 2152282.86 (52.7%)
+- Equipamentos: R$ 714193.27 (17.5%)
+- Software: R$ 379548.12 (9.3%)
+- Serviços: R$ 491659.24 (12.0%)
+- Outros: R$ 343839.30 (8.4%)

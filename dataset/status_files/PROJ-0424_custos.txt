@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O poder de mudar antes de tudo (PROJ-0424)
+Data: 11/07/2025
+Gerente: Thales Barbosa
+
+Orçamento inicial: R$ 154549.00
+Custo real atual: R$ 144925.84
+Desvio orçamentário: -6.23%
+Índice de Desempenho de Custo (CPI): 1.07
+Valor Agregado (EV): R$ 154549.00
+Estimativa para conclusão: R$ 0.00
+Estimativa no término (EAC): R$ 144925.84
+Variação no término (VAC): R$ 9623.16
+
+Detalhamento por categoria:
+- Pessoal: R$ 70122.66 (48.4%)
+- Equipamentos: R$ 25464.99 (17.6%)
+- Software: R$ 9492.20 (6.5%)
+- Serviços: R$ 26306.38 (18.2%)
+- Outros: R$ 13539.61 (9.3%)

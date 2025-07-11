@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A vantagem de evoluir naturalmente (PROJ-0486)
+Data: 11/07/2025
+Gerente: Dr. Levi Marques
+
+Orçamento inicial: R$ 2254197.00
+Custo real atual: R$ 2225220.13
+Desvio orçamentário: 8.48%
+Índice de Desempenho de Custo (CPI): 0.82
+Valor Agregado (EV): R$ 1815646.09
+Estimativa para conclusão: R$ 537479.37
+Estimativa no término (EAC): R$ 2762699.51
+Variação no término (VAC): R$ -508502.51
+
+Detalhamento por categoria:
+- Pessoal: R$ 1232363.54 (55.4%)
+- Equipamentos: R$ 256331.27 (11.5%)
+- Software: R$ 155917.99 (7.0%)
+- Serviços: R$ 408251.62 (18.3%)
+- Outros: R$ 172355.72 (7.7%)

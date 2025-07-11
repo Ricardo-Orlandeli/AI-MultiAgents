@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O prazer de realizar seus sonhos mais facilmente (PROJ-0704)
+Data: 11/07/2025
+Gerente: Maria Luísa Cunha
+
+Orçamento inicial: R$ 3425205.00
+Custo real atual: R$ 2023907.03
+Desvio orçamentário: -40.91%
+Índice de Desempenho de Custo (CPI): 0.94
+Valor Agregado (EV): R$ 1907316.66
+Estimativa para conclusão: R$ 1610673.75
+Estimativa no término (EAC): R$ 3634580.77
+Variação no término (VAC): R$ -209375.77
+
+Detalhamento por categoria:
+- Pessoal: R$ 1064674.26 (52.6%)
+- Equipamentos: R$ 344348.47 (17.0%)
+- Software: R$ 169254.41 (8.4%)
+- Serviços: R$ 303724.42 (15.0%)
+- Outros: R$ 141905.47 (7.0%)

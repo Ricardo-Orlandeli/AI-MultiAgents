@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O direito de inovar de maneira eficaz (PROJ-0907)
+Data: 11/07/2025
+Gerente: Hadassa Silva
+
+Orçamento inicial: R$ 2914317.00
+Custo real atual: R$ 372907.07
+Desvio orçamentário: -16.01%
+Índice de Desempenho de Custo (CPI): 0.87
+Valor Agregado (EV): R$ 323917.34
+Estimativa para conclusão: R$ 2982175.53
+Estimativa no término (EAC): R$ 3355082.60
+Variação no término (VAC): R$ -440765.60
+
+Detalhamento por categoria:
+- Pessoal: R$ 174649.07 (46.8%)
+- Equipamentos: R$ 57814.43 (15.5%)
+- Software: R$ 24694.77 (6.6%)
+- Serviços: R$ 73227.30 (19.6%)
+- Outros: R$ 42521.50 (11.4%)

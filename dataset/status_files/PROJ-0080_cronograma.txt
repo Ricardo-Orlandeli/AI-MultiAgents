@@ -1,0 +1,24 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: O conforto de mudar com força total (PROJ-0080)
+Data: 11/07/2025
+Gerente: Dra. Ana Luiza Sá
+
+Status atual: Em andamento
+Percentual de conclusão: 99.9%
+Data de início: 15/07/2023
+Data de término planejada: 24/03/2024
+Data de término real/prevista: 20/03/2024
+Atraso atual: 474 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 1.03
+Valor Planejado (PV): R$ 4052255.00
+Valor Agregado (EV): R$ 4048202.75
+
+Tarefas críticas:
+- Implementação do módulo de análise de dados
+- Integração com sistema de pagamentos
+- Implementação da API REST
+- Desenvolvimento do painel administrativo
+- Desenvolvimento da interface do usuário
+
+Tarefas atrasadas:

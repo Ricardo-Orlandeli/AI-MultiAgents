@@ -1,0 +1,22 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: O conforto de concretizar seus projetos com força total (PROJ-0507)
+Data: 11/07/2025
+Gerente: Leandro Dias
+
+Status atual: Em andamento
+Percentual de conclusão: 99.9%
+Data de início: 03/08/2023
+Data de término planejada: 09/11/2023
+Data de término real/prevista: 07/12/2023
+Atraso atual: 610 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 0.90
+Valor Planejado (PV): R$ 2243080.00
+Valor Agregado (EV): R$ 2240836.92
+
+Tarefas críticas:
+- Configuração da infraestrutura
+- Configuração da infraestrutura
+- Configuração da infraestrutura
+
+Tarefas atrasadas:

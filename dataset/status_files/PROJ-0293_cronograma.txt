@@ -1,0 +1,30 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: O prazer de avançar direto da fonte (PROJ-0293)
+Data: 11/07/2025
+Gerente: Ana Lívia Cassiano
+
+Status atual: Atrasado
+Percentual de conclusão: 49.7%
+Data de início: 07/01/2025
+Data de término planejada: 16/11/2025
+Data de término real/prevista: 15/12/2025
+Atraso atual: 0 dias
+Motivo do atraso: Problemas técnicos inesperados
+Índice de Desempenho de Cronograma (SPI): 0.84
+Valor Planejado (PV): R$ 766093.87
+Valor Agregado (EV): R$ 644070.56
+
+Tarefas críticas:
+- Configuração da infraestrutura
+- Implementação do sistema de backup
+- Configuração do ambiente de produção
+- Implementação da API REST
+- Desenvolvimento do módulo de autenticação
+- Testes de segurança
+- Desenvolvimento do módulo de autenticação
+- Implementação do sistema de backup
+
+Tarefas atrasadas:
+- Implementação da API REST
+- Implementação do sistema de backup
+- Configuração da infraestrutura

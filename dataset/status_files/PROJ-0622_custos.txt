@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O direito de concretizar seus projetos com força total (PROJ-0622)
+Data: 11/07/2025
+Gerente: Srta. Sophie da Costa
+
+Orçamento inicial: R$ 1335405.00
+Custo real atual: R$ 1359593.48
+Desvio orçamentário: 1.81%
+Índice de Desempenho de Custo (CPI): 0.98
+Valor Agregado (EV): R$ 1334069.60
+Estimativa para conclusão: R$ 1360.95
+Estimativa no término (EAC): R$ 1360954.44
+Variação no término (VAC): R$ -25549.44
+
+Detalhamento por categoria:
+- Pessoal: R$ 736378.86 (54.2%)
+- Equipamentos: R$ 165828.76 (12.2%)
+- Software: R$ 137452.59 (10.1%)
+- Serviços: R$ 208241.58 (15.3%)
+- Outros: R$ 111691.70 (8.2%)

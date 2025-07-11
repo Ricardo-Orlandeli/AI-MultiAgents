@@ -1,0 +1,22 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: O prazer de atingir seus objetivos com força total (PROJ-0757)
+Data: 11/07/2025
+Gerente: Dr. Otto Machado
+
+Status atual: Em andamento
+Percentual de conclusão: 92.4%
+Data de início: 06/08/2024
+Data de término planejada: 18/11/2024
+Data de término real/prevista: 21/11/2024
+Atraso atual: 235 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 0.87
+Valor Planejado (PV): R$ 4125645.00
+Valor Agregado (EV): R$ 3810805.64
+
+Tarefas críticas:
+- Desenvolvimento do módulo de autenticação
+- Configuração do ambiente de produção
+- Implementação do sistema de backup
+
+Tarefas atrasadas:

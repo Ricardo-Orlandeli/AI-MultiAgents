@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A segurança de avançar naturalmente (PROJ-0748)
+Data: 11/07/2025
+Gerente: Dr. Felipe Moreira
+
+Orçamento inicial: R$ 1365239.00
+Custo real atual: R$ 1601335.14
+Desvio orçamentário: 17.29%
+Índice de Desempenho de Custo (CPI): 0.75
+Valor Agregado (EV): R$ 1199053.65
+Estimativa para conclusão: R$ 221940.39
+Estimativa no término (EAC): R$ 1823275.53
+Variação no término (VAC): R$ -458036.53
+
+Detalhamento por categoria:
+- Pessoal: R$ 763073.55 (47.7%)
+- Equipamentos: R$ 274526.70 (17.1%)
+- Software: R$ 187352.90 (11.7%)
+- Serviços: R$ 272675.11 (17.0%)
+- Outros: R$ 103706.88 (6.5%)

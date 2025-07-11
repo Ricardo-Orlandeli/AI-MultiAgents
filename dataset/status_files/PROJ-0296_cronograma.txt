@@ -1,0 +1,27 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: O poder de mudar com toda a tranquilidade (PROJ-0296)
+Data: 11/07/2025
+Gerente: João Vitor Fonseca
+
+Status atual: Em andamento
+Percentual de conclusão: 97.8%
+Data de início: 17/11/2023
+Data de término planejada: 15/04/2024
+Data de término real/prevista: 01/04/2024
+Atraso atual: 452 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 0.97
+Valor Planejado (PV): R$ 329514.00
+Valor Agregado (EV): R$ 322429.21
+
+Tarefas críticas:
+- Configuração da infraestrutura
+- Implementação do sistema de backup
+- Implementação da API REST
+- Testes de aceitação do usuário
+- Desenvolvimento do painel administrativo
+- Testes de aceitação do usuário
+- Implementação do módulo de análise de dados
+- Migração de dados legados
+
+Tarefas atrasadas:

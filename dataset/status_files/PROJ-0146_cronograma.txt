@@ -1,0 +1,26 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A simplicidade de concretizar seus projetos direto da fonte (PROJ-0146)
+Data: 11/07/2025
+Gerente: Letícia Dias
+
+Status atual: Em andamento
+Percentual de conclusão: 99.9%
+Data de início: 13/08/2023
+Data de término planejada: 29/12/2023
+Data de término real/prevista: 26/01/2024
+Atraso atual: 560 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 1.03
+Valor Planejado (PV): R$ 2943343.00
+Valor Agregado (EV): R$ 2940399.66
+
+Tarefas críticas:
+- Implementação da API REST
+- Configuração da infraestrutura
+- Implementação da API REST
+- Testes de aceitação do usuário
+- Integração com sistema de pagamentos
+- Configuração da infraestrutura
+- Integração com sistema de pagamentos
+
+Tarefas atrasadas:

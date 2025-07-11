@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O poder de inovar naturalmente (PROJ-0099)
+Data: 11/07/2025
+Gerente: João Fonseca
+
+Orçamento inicial: R$ 4500583.00
+Custo real atual: R$ 2581303.02
+Desvio orçamentário: -42.65%
+Índice de Desempenho de Custo (CPI): 0.88
+Valor Agregado (EV): R$ 2262862.65
+Estimativa para conclusão: R$ 2552622.58
+Estimativa no término (EAC): R$ 5133925.60
+Variação no término (VAC): R$ -633342.60
+
+Detalhamento por categoria:
+- Pessoal: R$ 1266348.65 (49.1%)
+- Equipamentos: R$ 311017.17 (12.0%)
+- Software: R$ 291184.47 (11.3%)
+- Serviços: R$ 557422.21 (21.6%)
+- Outros: R$ 155330.52 (6.0%)

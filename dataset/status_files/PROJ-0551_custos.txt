@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O prazer de evoluir com toda a tranquilidade (PROJ-0551)
+Data: 11/07/2025
+Gerente: Isabel Costa
+
+Orçamento inicial: R$ 915777.00
+Custo real atual: R$ 907375.57
+Desvio orçamentário: -0.92%
+Índice de Desempenho de Custo (CPI): 0.76
+Valor Agregado (EV): R$ 691136.67
+Estimativa para conclusão: R$ 294924.52
+Estimativa no término (EAC): R$ 1202300.08
+Variação no término (VAC): R$ -286523.08
+
+Detalhamento por categoria:
+- Pessoal: R$ 489095.72 (53.9%)
+- Equipamentos: R$ 111304.70 (12.3%)
+- Software: R$ 114314.12 (12.6%)
+- Serviços: R$ 137846.12 (15.2%)
+- Outros: R$ 54814.91 (6.0%)

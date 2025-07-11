@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A segurança de ganhar mais rapidamente (PROJ-0810)
+Data: 11/07/2025
+Gerente: Isabelly Casa Grande
+
+Orçamento inicial: R$ 4026427.00
+Custo real atual: R$ 4417272.03
+Desvio orçamentário: 12.08%
+Índice de Desempenho de Custo (CPI): 0.91
+Valor Agregado (EV): R$ 4022400.57
+Estimativa para conclusão: R$ 4421.69
+Estimativa no término (EAC): R$ 4421693.72
+Variação no término (VAC): R$ -395266.72
+
+Detalhamento por categoria:
+- Pessoal: R$ 2303295.78 (52.1%)
+- Equipamentos: R$ 622147.35 (14.1%)
+- Software: R$ 507743.43 (11.5%)
+- Serviços: R$ 768194.41 (17.4%)
+- Outros: R$ 215891.06 (4.9%)

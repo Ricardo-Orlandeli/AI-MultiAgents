@@ -1,0 +1,24 @@
+RELATÓRIO DE STATUS DE ESCOPO
+Projeto: A simplicidade de evoluir com confiança (PROJ-0696)
+Data: 11/07/2025
+Gerente: Heitor Camargo
+
+Escopo original: Sistema para a simplicidade de evoluir com confiança
+Houve mudança de escopo: Sim
+Descrição das mudanças: Redução do escopo devido a restrições orçamentárias
+Impacto no cronograma: 12 dias
+Impacto no custo: R$ 137534.98
+
+Solicitações de mudança:
+- SCM-01: Alteração na interface do usuário
+- SCM-02: Integração com sistema legado
+- SCM-03: Adição de funcionalidade de autenticação biométrica
+- SCM-04: Adição de relatórios gerenciais
+
+Requisitos atuais:
+- REQ-01: O sistema deve ser escalável para suportar até 10.000 usuários simultâneos
+- REQ-02: O sistema deve ser compatível com navegadores modernos
+- REQ-03: O sistema deve ser compatível com navegadores modernos
+- REQ-04: O sistema deve ser compatível com navegadores modernos
+- REQ-05: O sistema deve permitir autenticação de usuários
+- REQ-06: O sistema deve ser compatível com dispositivos móveis

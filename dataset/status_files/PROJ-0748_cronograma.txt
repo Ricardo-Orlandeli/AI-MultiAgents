@@ -1,0 +1,26 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A segurança de avançar naturalmente (PROJ-0748)
+Data: 11/07/2025
+Gerente: Dr. Felipe Moreira
+
+Status atual: Atrasado
+Percentual de conclusão: 87.8%
+Data de início: 12/11/2023
+Data de término planejada: 28/08/2024
+Data de término real/prevista: 13/09/2024
+Atraso atual: 317 dias
+Motivo do atraso: Estimativas imprecisas
+Índice de Desempenho de Cronograma (SPI): 0.88
+Valor Planejado (PV): R$ 1365239.00
+Valor Agregado (EV): R$ 1199053.65
+
+Tarefas críticas:
+- Implementação do módulo de exportação de dados
+- Implementação do módulo de notificações
+- Desenvolvimento da interface do usuário
+- Implementação do módulo de relatórios
+- Testes de segurança
+
+Tarefas atrasadas:
+- Desenvolvimento da interface do usuário
+- Implementação do módulo de relatórios

@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O conforto de mudar naturalmente (PROJ-0458)
+Data: 11/07/2025
+Gerente: Valentina Casa Grande
+
+Orçamento inicial: R$ 4329537.00
+Custo real atual: R$ 3590333.38
+Desvio orçamentário: -17.07%
+Índice de Desempenho de Custo (CPI): 1.04
+Valor Agregado (EV): R$ 3729032.91
+Estimativa para conclusão: R$ 578168.64
+Estimativa no término (EAC): R$ 4168502.02
+Variação no término (VAC): R$ 161034.98
+
+Detalhamento por categoria:
+- Pessoal: R$ 1959228.90 (54.6%)
+- Equipamentos: R$ 586503.09 (16.3%)
+- Software: R$ 374883.87 (10.4%)
+- Serviços: R$ 453892.69 (12.6%)
+- Outros: R$ 215824.84 (6.0%)

@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A arte de avançar direto da fonte (PROJ-0967)
+Data: 11/07/2025
+Gerente: Srta. Julia Castro
+
+Orçamento inicial: R$ 910525.00
+Custo real atual: R$ 885899.65
+Desvio orçamentário: -2.70%
+Índice de Desempenho de Custo (CPI): 0.86
+Valor Agregado (EV): R$ 765249.23
+Estimativa para conclusão: R$ 168180.17
+Estimativa no término (EAC): R$ 1054079.82
+Variação no término (VAC): R$ -143554.82
+
+Detalhamento por categoria:
+- Pessoal: R$ 467077.56 (52.7%)
+- Equipamentos: R$ 176077.11 (19.9%)
+- Software: R$ 84648.62 (9.6%)
+- Serviços: R$ 108791.06 (12.3%)
+- Outros: R$ 49305.30 (5.6%)

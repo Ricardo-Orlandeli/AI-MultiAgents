@@ -1,0 +1,27 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A simplicidade de realizar seus sonhos com toda a tranquilidade (PROJ-0422)
+Data: 11/07/2025
+Gerente: Marina Silveira
+
+Status atual: Em andamento
+Percentual de conclusão: 99.9%
+Data de início: 10/10/2023
+Data de término planejada: 21/11/2023
+Data de término real/prevista: 17/12/2023
+Atraso atual: 598 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 1.07
+Valor Planejado (PV): R$ 411377.00
+Valor Agregado (EV): R$ 410965.62
+
+Tarefas críticas:
+- Implementação do módulo de relatórios
+- Desenvolvimento do módulo de autenticação
+- Integração com sistema de pagamentos
+- Desenvolvimento do painel administrativo
+- Testes de segurança
+- Desenvolvimento do módulo de autenticação
+- Desenvolvimento do painel administrativo
+- Configuração da infraestrutura
+
+Tarefas atrasadas:

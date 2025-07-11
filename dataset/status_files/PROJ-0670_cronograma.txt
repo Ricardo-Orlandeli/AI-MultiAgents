@@ -1,0 +1,23 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A certeza de mudar antes de tudo (PROJ-0670)
+Data: 11/07/2025
+Gerente: Sr. Luiz Fernando da Cruz
+
+Status atual: Em andamento
+Percentual de conclusão: 99.9%
+Data de início: 16/02/2024
+Data de término planejada: 01/04/2024
+Data de término real/prevista: 29/03/2024
+Atraso atual: 466 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 0.88
+Valor Planejado (PV): R$ 2304990.00
+Valor Agregado (EV): R$ 2302685.01
+
+Tarefas críticas:
+- Desenvolvimento do painel administrativo
+- Configuração da infraestrutura
+- Desenvolvimento do painel administrativo
+- Migração de dados legados
+
+Tarefas atrasadas:

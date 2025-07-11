@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O prazer de inovar mais facilmente (PROJ-0423)
+Data: 11/07/2025
+Gerente: Rhavi Costela
+
+Orçamento inicial: R$ 1944294.00
+Custo real atual: R$ 1452269.20
+Desvio orçamentário: -25.31%
+Índice de Desempenho de Custo (CPI): 0.82
+Valor Agregado (EV): R$ 1185664.52
+Estimativa para conclusão: R$ 929212.44
+Estimativa no término (EAC): R$ 2381481.65
+Variação no término (VAC): R$ -437187.65
+
+Detalhamento por categoria:
+- Pessoal: R$ 780023.88 (53.7%)
+- Equipamentos: R$ 171564.08 (11.8%)
+- Software: R$ 189428.64 (13.0%)
+- Serviços: R$ 226711.38 (15.6%)
+- Outros: R$ 84541.23 (5.8%)

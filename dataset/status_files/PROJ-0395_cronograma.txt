@@ -1,0 +1,27 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A certeza de concretizar seus projetos sem preocupação (PROJ-0395)
+Data: 11/07/2025
+Gerente: Ana Laura Abreu
+
+Status atual: Concluído
+Percentual de conclusão: 100.0%
+Data de início: 04/12/2024
+Data de término planejada: 23/07/2025
+Data de término real/prevista: 16/08/2025
+Atraso atual: 0 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 1.07
+Valor Planejado (PV): R$ 3443286.75
+Valor Agregado (EV): R$ 3631960.00
+
+Tarefas críticas:
+- Implementação da API REST
+- Testes de aceitação do usuário
+- Integração com sistema de pagamentos
+- Migração de dados legados
+- Desenvolvimento do painel administrativo
+- Migração de dados legados
+- Implementação da API REST
+- Migração de dados legados
+
+Tarefas atrasadas:

@@ -1,0 +1,26 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: O direito de conseguir de maneira eficaz (PROJ-0557)
+Data: 11/07/2025
+Gerente: Caroline Cavalcante
+
+Status atual: Atrasado
+Percentual de conclusão: 76.3%
+Data de início: 24/12/2023
+Data de término planejada: 09/05/2024
+Data de término real/prevista: 15/08/2024
+Atraso atual: 428 dias
+Motivo do atraso: Dependências externas não cumpridas
+Índice de Desempenho de Cronograma (SPI): 0.76
+Valor Planejado (PV): R$ 649516.00
+Valor Agregado (EV): R$ 495381.90
+
+Tarefas críticas:
+- Configuração do ambiente de produção
+- Configuração do ambiente de produção
+- Implementação do módulo de relatórios
+- Testes de aceitação do usuário
+
+Tarefas atrasadas:
+- Configuração do ambiente de produção
+- Implementação do módulo de relatórios
+- Configuração do ambiente de produção

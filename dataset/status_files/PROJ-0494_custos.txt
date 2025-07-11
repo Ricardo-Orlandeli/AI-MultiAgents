@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O poder de realizar seus sonhos naturalmente (PROJ-0494)
+Data: 11/07/2025
+Gerente: Rhavi das Neves
+
+Orçamento inicial: R$ 603593.00
+Custo real atual: R$ 343659.55
+Desvio orçamentário: -43.06%
+Índice de Desempenho de Custo (CPI): 0.95
+Valor Agregado (EV): R$ 326952.70
+Estimativa para conclusão: R$ 290776.25
+Estimativa no término (EAC): R$ 634435.80
+Variação no término (VAC): R$ -30842.80
+
+Detalhamento por categoria:
+- Pessoal: R$ 175635.87 (51.1%)
+- Equipamentos: R$ 60560.18 (17.6%)
+- Software: R$ 46337.30 (13.5%)
+- Serviços: R$ 37770.16 (11.0%)
+- Outros: R$ 23356.05 (6.8%)

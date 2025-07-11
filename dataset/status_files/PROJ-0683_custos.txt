@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A liberdade de evoluir mais rapidamente (PROJ-0683)
+Data: 11/07/2025
+Gerente: Dr. Leandro Peixoto
+
+Orçamento inicial: R$ 2298685.00
+Custo real atual: R$ 2338757.19
+Desvio orçamentário: 1.74%
+Índice de Desempenho de Custo (CPI): 0.69
+Valor Agregado (EV): R$ 1603001.72
+Estimativa para conclusão: R$ 1014992.21
+Estimativa no término (EAC): R$ 3353749.40
+Variação no término (VAC): R$ -1055064.40
+
+Detalhamento por categoria:
+- Pessoal: R$ 1192795.89 (51.0%)
+- Equipamentos: R$ 376448.83 (16.1%)
+- Software: R$ 187924.29 (8.0%)
+- Serviços: R$ 406389.17 (17.4%)
+- Outros: R$ 175199.01 (7.5%)

@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A segurança de realizar seus sonhos antes de tudo (PROJ-0492)
+Data: 11/07/2025
+Gerente: Sra. Alice Gonçalves
+
+Orçamento inicial: R$ 966699.00
+Custo real atual: R$ 1142894.48
+Desvio orçamentário: 18.23%
+Índice de Desempenho de Custo (CPI): 0.84
+Valor Agregado (EV): R$ 965732.30
+Estimativa para conclusão: R$ 1144.04
+Estimativa no término (EAC): R$ 1144038.52
+Variação no término (VAC): R$ -177339.52
+
+Detalhamento por categoria:
+- Pessoal: R$ 570403.46 (49.9%)
+- Equipamentos: R$ 144440.78 (12.6%)
+- Software: R$ 155768.16 (13.6%)
+- Serviços: R$ 194753.01 (17.0%)
+- Outros: R$ 77529.07 (6.8%)

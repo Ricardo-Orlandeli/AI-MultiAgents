@@ -1,0 +1,28 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A vantagem de atingir seus objetivos simplesmente (PROJ-0626)
+Data: 11/07/2025
+Gerente: Valentina Guerra
+
+Status atual: Atrasado
+Percentual de conclusão: 59.4%
+Data de início: 25/04/2024
+Data de término planejada: 28/12/2024
+Data de término real/prevista: 19/06/2025
+Atraso atual: 195 dias
+Motivo do atraso: Problemas de comunicação
+Índice de Desempenho de Cronograma (SPI): 0.59
+Valor Planejado (PV): R$ 2545094.00
+Valor Agregado (EV): R$ 1510690.27
+
+Tarefas críticas:
+- Testes de segurança
+- Configuração do ambiente de produção
+- Implementação do módulo de notificações
+- Configuração do ambiente de produção
+- Implementação do módulo de relatórios
+- Implementação do módulo de exportação de dados
+- Implementação do módulo de exportação de dados
+
+Tarefas atrasadas:
+- Testes de segurança
+- Configuração do ambiente de produção

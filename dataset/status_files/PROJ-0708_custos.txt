@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O conforto de atingir seus objetivos com confiança (PROJ-0708)
+Data: 11/07/2025
+Gerente: Maria Sophia Moura
+
+Orçamento inicial: R$ 1625896.00
+Custo real atual: R$ 1092544.42
+Desvio orçamentário: -0.93%
+Índice de Desempenho de Custo (CPI): 1.02
+Valor Agregado (EV): R$ 1115483.57
+Estimativa para conclusão: R$ 499916.15
+Estimativa no término (EAC): R$ 1592460.57
+Variação no término (VAC): R$ 33435.43
+
+Detalhamento por categoria:
+- Pessoal: R$ 528739.70 (48.4%)
+- Equipamentos: R$ 146062.07 (13.4%)
+- Software: R$ 125282.93 (11.5%)
+- Serviços: R$ 183609.17 (16.8%)
+- Outros: R$ 108850.55 (10.0%)

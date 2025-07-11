@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O conforto de concretizar seus projetos antes de tudo (PROJ-0766)
+Data: 11/07/2025
+Gerente: Dra. Luna Correia
+
+Orçamento inicial: R$ 1851715.00
+Custo real atual: R$ 1870946.15
+Desvio orçamentário: 1.04%
+Índice de Desempenho de Custo (CPI): 0.85
+Valor Agregado (EV): R$ 1590663.02
+Estimativa para conclusão: R$ 307050.70
+Estimativa no término (EAC): R$ 2177996.85
+Variação no término (VAC): R$ -326281.85
+
+Detalhamento por categoria:
+- Pessoal: R$ 1053276.84 (56.3%)
+- Equipamentos: R$ 186792.06 (10.0%)
+- Software: R$ 275825.08 (14.7%)
+- Serviços: R$ 208527.04 (11.1%)
+- Outros: R$ 146525.13 (7.8%)

@@ -1,0 +1,28 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A vantagem de evoluir simplesmente (PROJ-0469)
+Data: 11/07/2025
+Gerente: Marcela Souza
+
+Status atual: Atrasado
+Percentual de conclusão: 10.2%
+Data de início: 12/06/2025
+Data de término planejada: 02/01/2026
+Data de término real/prevista: 28/04/2026
+Atraso atual: 0 dias
+Motivo do atraso: Dependências externas não cumpridas
+Índice de Desempenho de Cronograma (SPI): 0.72
+Valor Planejado (PV): R$ 594903.73
+Valor Agregado (EV): R$ 426625.54
+
+Tarefas críticas:
+- Implementação do módulo de relatórios
+- Implementação do módulo de notificações
+- Configuração da infraestrutura
+- Desenvolvimento da interface do usuário
+- Implementação do módulo de exportação de dados
+- Configuração da infraestrutura
+- Implementação do módulo de análise de dados
+
+Tarefas atrasadas:
+- Desenvolvimento da interface do usuário
+- Implementação do módulo de análise de dados

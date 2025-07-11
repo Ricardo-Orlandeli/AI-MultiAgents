@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A segurança de avançar direto da fonte (PROJ-0107)
+Data: 11/07/2025
+Gerente: Cauê Oliveira
+
+Orçamento inicial: R$ 2528146.00
+Custo real atual: R$ 2024232.44
+Desvio orçamentário: -19.93%
+Índice de Desempenho de Custo (CPI): 0.81
+Valor Agregado (EV): R$ 1642319.68
+Estimativa para conclusão: R$ 1091820.54
+Estimativa no término (EAC): R$ 3116052.98
+Variação no término (VAC): R$ -587906.98
+
+Detalhamento por categoria:
+- Pessoal: R$ 1002733.61 (49.5%)
+- Equipamentos: R$ 347352.27 (17.2%)
+- Software: R$ 196084.55 (9.7%)
+- Serviços: R$ 335756.81 (16.6%)
+- Outros: R$ 142305.20 (7.0%)

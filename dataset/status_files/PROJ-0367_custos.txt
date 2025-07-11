@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A simplicidade de mudar com toda a tranquilidade (PROJ-0367)
+Data: 11/07/2025
+Gerente: Clarice Brito
+
+Orçamento inicial: R$ 864462.00
+Custo real atual: R$ 776108.98
+Desvio orçamentário: -10.22%
+Índice de Desempenho de Custo (CPI): 1.11
+Valor Agregado (EV): R$ 864462.00
+Estimativa para conclusão: R$ 0.00
+Estimativa no término (EAC): R$ 776108.98
+Variação no término (VAC): R$ 88353.02
+
+Detalhamento por categoria:
+- Pessoal: R$ 406456.17 (52.4%)
+- Equipamentos: R$ 86040.18 (11.1%)
+- Software: R$ 90517.34 (11.7%)
+- Serviços: R$ 133028.35 (17.1%)
+- Outros: R$ 60066.95 (7.7%)

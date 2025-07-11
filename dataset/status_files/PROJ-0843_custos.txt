@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A liberdade de ganhar em estado puro (PROJ-0843)
+Data: 11/07/2025
+Gerente: Daniela Moura
+
+Orçamento inicial: R$ 3272175.00
+Custo real atual: R$ 204029.23
+Desvio orçamentário: -33.79%
+Índice de Desempenho de Custo (CPI): 0.79
+Valor Agregado (EV): R$ 161375.94
+Estimativa para conclusão: R$ 3933014.66
+Estimativa no término (EAC): R$ 4137043.89
+Variação no término (VAC): R$ -864868.89
+
+Detalhamento por categoria:
+- Pessoal: R$ 99676.75 (48.9%)
+- Equipamentos: R$ 38942.07 (19.1%)
+- Software: R$ 27054.84 (13.3%)
+- Serviços: R$ 20927.57 (10.3%)
+- Outros: R$ 17428.00 (8.5%)

@@ -1,0 +1,23 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: O poder de conseguir mais rapidamente (PROJ-0211)
+Data: 11/07/2025
+Gerente: Davi Sousa
+
+Status atual: Concluído
+Percentual de conclusão: 100.0%
+Data de início: 08/03/2024
+Data de término planejada: 29/12/2024
+Data de término real/prevista: 18/12/2024
+Atraso atual: 194 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 1.01
+Valor Planejado (PV): R$ 1183339.00
+Valor Agregado (EV): R$ 1183339.00
+
+Tarefas críticas:
+- Configuração da infraestrutura
+- Integração com sistema de pagamentos
+- Testes de segurança
+- Implementação da API REST
+
+Tarefas atrasadas:

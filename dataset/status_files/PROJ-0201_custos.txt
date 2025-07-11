@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A certeza de evoluir simplesmente (PROJ-0201)
+Data: 11/07/2025
+Gerente: Noah Barbosa
+
+Orçamento inicial: R$ 237702.00
+Custo real atual: R$ 206012.70
+Desvio orçamentário: -13.33%
+Índice de Desempenho de Custo (CPI): 0.96
+Valor Agregado (EV): R$ 197881.16
+Estimativa para conclusão: R$ 41457.19
+Estimativa no término (EAC): R$ 247469.90
+Variação no término (VAC): R$ -9767.90
+
+Detalhamento por categoria:
+- Pessoal: R$ 114058.01 (55.4%)
+- Equipamentos: R$ 32040.03 (15.6%)
+- Software: R$ 21930.05 (10.6%)
+- Serviços: R$ 22556.20 (10.9%)
+- Outros: R$ 15428.41 (7.5%)

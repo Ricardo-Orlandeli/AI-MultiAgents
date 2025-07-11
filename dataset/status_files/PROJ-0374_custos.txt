@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O direito de ganhar com confiança (PROJ-0374)
+Data: 11/07/2025
+Gerente: Manuela Farias
+
+Orçamento inicial: R$ 4839527.00
+Custo real atual: R$ 3137534.45
+Desvio orçamentário: -35.17%
+Índice de Desempenho de Custo (CPI): 0.83
+Valor Agregado (EV): R$ 2605499.28
+Estimativa para conclusão: R$ 2690209.50
+Estimativa no término (EAC): R$ 5827743.95
+Variação no término (VAC): R$ -988216.95
+
+Detalhamento por categoria:
+- Pessoal: R$ 1435455.78 (45.8%)
+- Equipamentos: R$ 548621.45 (17.5%)
+- Software: R$ 270855.39 (8.6%)
+- Serviços: R$ 634032.15 (20.2%)
+- Outros: R$ 248569.69 (7.9%)

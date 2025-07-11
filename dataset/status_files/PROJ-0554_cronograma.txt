@@ -1,0 +1,23 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A segurança de concretizar seus projetos sem preocupação (PROJ-0554)
+Data: 11/07/2025
+Gerente: Théo Nunes
+
+Status atual: Em andamento
+Percentual de conclusão: 99.9%
+Data de início: 16/03/2024
+Data de término planejada: 15/02/2025
+Data de término real/prevista: 02/02/2025
+Atraso atual: 146 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 1.01
+Valor Planejado (PV): R$ 3681441.00
+Valor Agregado (EV): R$ 3677759.56
+
+Tarefas críticas:
+- Implementação da API REST
+- Desenvolvimento do painel administrativo
+- Implementação da API REST
+- Implementação do módulo de análise de dados
+
+Tarefas atrasadas:

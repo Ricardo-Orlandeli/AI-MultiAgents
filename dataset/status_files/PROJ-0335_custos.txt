@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O prazer de conseguir com força total (PROJ-0335)
+Data: 11/07/2025
+Gerente: Sr. Rhavi da Conceição
+
+Orçamento inicial: R$ 1663485.00
+Custo real atual: R$ 1939355.97
+Desvio orçamentário: 16.58%
+Índice de Desempenho de Custo (CPI): 0.86
+Valor Agregado (EV): R$ 1661821.52
+Estimativa para conclusão: R$ 1941.30
+Estimativa no término (EAC): R$ 1941297.27
+Variação no término (VAC): R$ -277812.27
+
+Detalhamento por categoria:
+- Pessoal: R$ 899374.69 (46.4%)
+- Equipamentos: R$ 347310.98 (17.9%)
+- Software: R$ 156777.78 (8.1%)
+- Serviços: R$ 379308.91 (19.6%)
+- Outros: R$ 156583.60 (8.1%)

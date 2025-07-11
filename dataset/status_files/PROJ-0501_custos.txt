@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A liberdade de conseguir com confiança (PROJ-0501)
+Data: 11/07/2025
+Gerente: Oliver Gonçalves
+
+Orçamento inicial: R$ 2963171.00
+Custo real atual: R$ 2761901.98
+Desvio orçamentário: -6.79%
+Índice de Desempenho de Custo (CPI): 1.07
+Valor Agregado (EV): R$ 2960207.83
+Estimativa para conclusão: R$ 2764.67
+Estimativa no término (EAC): R$ 2764666.64
+Variação no término (VAC): R$ 198504.36
+
+Detalhamento por categoria:
+- Pessoal: R$ 1484958.03 (53.8%)
+- Equipamentos: R$ 487072.59 (17.6%)
+- Software: R$ 228808.60 (8.3%)
+- Serviços: R$ 419575.52 (15.2%)
+- Outros: R$ 141487.24 (5.1%)

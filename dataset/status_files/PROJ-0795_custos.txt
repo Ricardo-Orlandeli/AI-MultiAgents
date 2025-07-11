@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A certeza de ganhar com força total (PROJ-0795)
+Data: 11/07/2025
+Gerente: Antonella da Mota
+
+Orçamento inicial: R$ 119357.00
+Custo real atual: R$ 97365.11
+Desvio orçamentário: -18.43%
+Índice de Desempenho de Custo (CPI): 1.22
+Valor Agregado (EV): R$ 119237.64
+Estimativa para conclusão: R$ 97.46
+Estimativa no término (EAC): R$ 97462.57
+Variação no término (VAC): R$ 21894.43
+
+Detalhamento por categoria:
+- Pessoal: R$ 49411.41 (50.7%)
+- Equipamentos: R$ 15752.81 (16.2%)
+- Software: R$ 8138.49 (8.4%)
+- Serviços: R$ 17904.25 (18.4%)
+- Outros: R$ 6158.15 (6.3%)

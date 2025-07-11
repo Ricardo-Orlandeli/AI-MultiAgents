@@ -1,0 +1,22 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A arte de evoluir direto da fonte (PROJ-0915)
+Data: 11/07/2025
+Gerente: Maria Clara Viana
+
+Status atual: Em andamento
+Percentual de conclusão: 92.2%
+Data de início: 16/07/2024
+Data de término planejada: 28/11/2024
+Data de término real/prevista: 21/11/2024
+Atraso atual: 225 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 1.05
+Valor Planejado (PV): R$ 957625.00
+Valor Agregado (EV): R$ 882927.68
+
+Tarefas críticas:
+- Implementação do módulo de análise de dados
+- Desenvolvimento da interface do usuário
+- Desenvolvimento do módulo de autenticação
+
+Tarefas atrasadas:

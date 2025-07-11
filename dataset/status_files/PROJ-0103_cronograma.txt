@@ -1,0 +1,22 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A vantagem de mudar simplesmente (PROJ-0103)
+Data: 11/07/2025
+Gerente: Lucas Machado
+
+Status atual: Em andamento
+Percentual de conclusão: 99.9%
+Data de início: 30/10/2023
+Data de término planejada: 14/12/2023
+Data de término real/prevista: 23/12/2023
+Atraso atual: 575 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 1.08
+Valor Planejado (PV): R$ 4022823.00
+Valor Agregado (EV): R$ 4018800.18
+
+Tarefas críticas:
+- Implementação do sistema de backup
+- Implementação do módulo de análise de dados
+- Implementação do módulo de relatórios
+
+Tarefas atrasadas:

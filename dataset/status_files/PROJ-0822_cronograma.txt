@@ -1,0 +1,25 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: O direito de concretizar seus projetos com força total (PROJ-0822)
+Data: 11/07/2025
+Gerente: Ana Vitória Costela
+
+Status atual: Em andamento
+Percentual de conclusão: 7.9%
+Data de início: 27/06/2025
+Data de término planejada: 31/12/2025
+Data de término real/prevista: 25/01/2026
+Atraso atual: 0 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 1.04
+Valor Planejado (PV): R$ 230969.23
+Valor Agregado (EV): R$ 244119.93
+
+Tarefas críticas:
+- Desenvolvimento da interface do usuário
+- Migração de dados legados
+- Implementação do módulo de exportação de dados
+- Implementação do módulo de relatórios
+- Implementação da API REST
+- Configuração do ambiente de produção
+
+Tarefas atrasadas:

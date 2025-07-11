@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A arte de atingir seus objetivos mais facilmente (PROJ-0413)
+Data: 11/07/2025
+Gerente: Letícia Gomes
+
+Orçamento inicial: R$ 3857479.00
+Custo real atual: R$ 4432092.10
+Desvio orçamentário: 1226.53%
+Índice de Desempenho de Custo (CPI): 0.87
+Valor Agregado (EV): R$ 3857479.00
+Estimativa para conclusão: R$ 0.00
+Estimativa no término (EAC): R$ 4432092.10
+Variação no término (VAC): R$ -574613.10
+
+Detalhamento por categoria:
+- Pessoal: R$ 2456045.33 (55.4%)
+- Equipamentos: R$ 670298.68 (15.1%)
+- Software: R$ 414225.93 (9.3%)
+- Serviços: R$ 537704.76 (12.1%)
+- Outros: R$ 353817.40 (8.0%)

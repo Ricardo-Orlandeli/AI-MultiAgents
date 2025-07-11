@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A arte de atingir seus objetivos simplesmente (PROJ-0480)
+Data: 11/07/2025
+Gerente: Mateus Campos
+
+Orçamento inicial: R$ 511653.00
+Custo real atual: R$ 548493.63
+Desvio orçamentário: 18.19%
+Índice de Desempenho de Custo (CPI): 0.92
+Valor Agregado (EV): R$ 502522.08
+Estimativa para conclusão: R$ 9966.23
+Estimativa no término (EAC): R$ 558459.86
+Variação no término (VAC): R$ -46806.86
+
+Detalhamento por categoria:
+- Pessoal: R$ 297955.33 (54.3%)
+- Equipamentos: R$ 74151.07 (13.5%)
+- Software: R$ 68011.03 (12.4%)
+- Serviços: R$ 58599.46 (10.7%)
+- Outros: R$ 49776.75 (9.1%)

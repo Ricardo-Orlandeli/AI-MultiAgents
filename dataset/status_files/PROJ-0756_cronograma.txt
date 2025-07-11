@@ -1,0 +1,26 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: O prazer de conseguir com toda a tranquilidade (PROJ-0756)
+Data: 11/07/2025
+Gerente: Aylla Vasconcelos
+
+Status atual: Em andamento
+Percentual de conclusão: 87.9%
+Data de início: 28/12/2023
+Data de término planejada: 24/10/2024
+Data de término real/prevista: 05/11/2024
+Atraso atual: 260 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 0.95
+Valor Planejado (PV): R$ 1488867.00
+Valor Agregado (EV): R$ 1308561.31
+
+Tarefas críticas:
+- Testes de segurança
+- Desenvolvimento da interface do usuário
+- Implementação do módulo de análise de dados
+- Configuração da infraestrutura
+- Desenvolvimento do módulo de autenticação
+- Implementação do módulo de exportação de dados
+- Configuração da infraestrutura
+
+Tarefas atrasadas:

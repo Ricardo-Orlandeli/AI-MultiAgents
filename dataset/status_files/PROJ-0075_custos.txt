@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O prazer de atingir seus objetivos direto da fonte (PROJ-0075)
+Data: 11/07/2025
+Gerente: Sra. Bruna Brito
+
+Orçamento inicial: R$ 2522347.00
+Custo real atual: R$ 1629120.76
+Desvio orçamentário: -28.49%
+Índice de Desempenho de Custo (CPI): 1.13
+Valor Agregado (EV): R$ 1836808.47
+Estimativa para conclusão: R$ 608024.77
+Estimativa no término (EAC): R$ 2237145.53
+Variação no término (VAC): R$ 285201.47
+
+Detalhamento por categoria:
+- Pessoal: R$ 813038.81 (49.9%)
+- Equipamentos: R$ 284939.08 (17.5%)
+- Software: R$ 96696.58 (5.9%)
+- Serviços: R$ 258881.44 (15.9%)
+- Outros: R$ 175564.84 (10.8%)

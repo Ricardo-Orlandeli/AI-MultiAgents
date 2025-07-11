@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A segurança de evoluir direto da fonte (PROJ-0727)
+Data: 11/07/2025
+Gerente: Oliver Barbosa
+
+Orçamento inicial: R$ 3561489.00
+Custo real atual: R$ 2887730.38
+Desvio orçamentário: -18.92%
+Índice de Desempenho de Custo (CPI): 1.19
+Valor Agregado (EV): R$ 3447319.29
+Estimativa para conclusão: R$ 95637.02
+Estimativa no término (EAC): R$ 2983367.40
+Variação no término (VAC): R$ 578121.60
+
+Detalhamento por categoria:
+- Pessoal: R$ 1597094.92 (55.3%)
+- Equipamentos: R$ 400492.85 (13.9%)
+- Software: R$ 310756.63 (10.8%)
+- Serviços: R$ 328817.17 (11.4%)
+- Outros: R$ 250568.81 (8.7%)

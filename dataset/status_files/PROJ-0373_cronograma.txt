@@ -1,0 +1,26 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A certeza de avançar mais rapidamente (PROJ-0373)
+Data: 11/07/2025
+Gerente: Dr. Benjamin Garcia
+
+Status atual: Em andamento
+Percentual de conclusão: 60.8%
+Data de início: 28/12/2024
+Data de término planejada: 12/11/2025
+Data de término real/prevista: 03/12/2025
+Atraso atual: 0 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 0.98
+Valor Planejado (PV): R$ 345918.39
+Valor Agregado (EV): R$ 344164.16
+
+Tarefas críticas:
+- Implementação da API REST
+- Desenvolvimento do módulo de autenticação
+- Implementação da API REST
+- Desenvolvimento da interface do usuário
+- Configuração do ambiente de produção
+- Desenvolvimento do módulo de autenticação
+- Implementação do módulo de notificações
+
+Tarefas atrasadas:

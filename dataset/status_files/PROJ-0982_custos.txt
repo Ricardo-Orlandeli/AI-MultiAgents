@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A possibilidade de ganhar de maneira eficaz (PROJ-0982)
+Data: 11/07/2025
+Gerente: Dr. Nathan Cavalcanti
+
+Orçamento inicial: R$ 4989552.00
+Custo real atual: R$ 3994317.78
+Desvio orçamentário: -19.95%
+Índice de Desempenho de Custo (CPI): 0.89
+Valor Agregado (EV): R$ 3541142.84
+Estimativa para conclusão: R$ 1633768.17
+Estimativa no término (EAC): R$ 5628085.95
+Variação no término (VAC): R$ -638533.95
+
+Detalhamento por categoria:
+- Pessoal: R$ 2013897.77 (50.4%)
+- Equipamentos: R$ 568438.97 (14.2%)
+- Software: R$ 571827.82 (14.3%)
+- Serviços: R$ 449032.09 (11.2%)
+- Outros: R$ 391121.14 (9.8%)

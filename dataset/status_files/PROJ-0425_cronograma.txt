@@ -1,0 +1,25 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: O prazer de ganhar com toda a tranquilidade (PROJ-0425)
+Data: 11/07/2025
+Gerente: Paulo Araújo
+
+Status atual: Em andamento
+Percentual de conclusão: 99.9%
+Data de início: 29/10/2024
+Data de término planejada: 26/06/2025
+Data de término real/prevista: 19/07/2025
+Atraso atual: 15 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 0.96
+Valor Planejado (PV): R$ 4928016.00
+Valor Agregado (EV): R$ 4923087.98
+
+Tarefas críticas:
+- Testes de aceitação do usuário
+- Integração com sistema de pagamentos
+- Desenvolvimento do painel administrativo
+- Desenvolvimento da interface do usuário
+- Implementação do módulo de relatórios
+- Configuração da infraestrutura
+
+Tarefas atrasadas:

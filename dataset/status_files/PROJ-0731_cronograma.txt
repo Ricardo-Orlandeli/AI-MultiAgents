@@ -1,0 +1,27 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A possibilidade de mudar mais facilmente (PROJ-0731)
+Data: 11/07/2025
+Gerente: Alexia Viana
+
+Status atual: Concluído
+Percentual de conclusão: 100.0%
+Data de início: 08/03/2024
+Data de término planejada: 20/07/2024
+Data de término real/prevista: 01/07/2024
+Atraso atual: 356 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 0.97
+Valor Planejado (PV): R$ 1008523.00
+Valor Agregado (EV): R$ 1008523.00
+
+Tarefas críticas:
+- Implementação do módulo de notificações
+- Desenvolvimento do painel administrativo
+- Desenvolvimento do módulo de autenticação
+- Integração com sistema de pagamentos
+- Integração com sistema de pagamentos
+- Desenvolvimento da interface do usuário
+- Implementação do módulo de notificações
+- Implementação do módulo de relatórios
+
+Tarefas atrasadas:

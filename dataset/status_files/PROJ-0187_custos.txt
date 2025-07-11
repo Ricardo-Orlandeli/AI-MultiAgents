@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O direito de mudar antes de tudo (PROJ-0187)
+Data: 11/07/2025
+Gerente: Anthony Vieira
+
+Orçamento inicial: R$ 2775162.00
+Custo real atual: R$ 2297240.08
+Desvio orçamentário: -17.22%
+Índice de Desempenho de Custo (CPI): 0.69
+Valor Agregado (EV): R$ 1575190.92
+Estimativa para conclusão: R$ 1750023.85
+Estimativa no término (EAC): R$ 4047263.93
+Variação no término (VAC): R$ -1272101.93
+
+Detalhamento por categoria:
+- Pessoal: R$ 1141338.23 (49.7%)
+- Equipamentos: R$ 414914.18 (18.1%)
+- Software: R$ 227584.55 (9.9%)
+- Serviços: R$ 352897.26 (15.4%)
+- Outros: R$ 160505.86 (7.0%)

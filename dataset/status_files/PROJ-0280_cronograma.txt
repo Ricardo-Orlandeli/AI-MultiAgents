@@ -1,0 +1,27 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A segurança de realizar seus sonhos mais rapidamente (PROJ-0280)
+Data: 11/07/2025
+Gerente: Lorenzo Sousa
+
+Status atual: Concluído
+Percentual de conclusão: 100.0%
+Data de início: 16/08/2024
+Data de término planejada: 03/02/2025
+Data de término real/prevista: 24/01/2025
+Atraso atual: 158 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 1.05
+Valor Planejado (PV): R$ 695462.00
+Valor Agregado (EV): R$ 695462.00
+
+Tarefas críticas:
+- Integração com sistema de pagamentos
+- Desenvolvimento da interface do usuário
+- Testes de segurança
+- Implementação da API REST
+- Desenvolvimento do módulo de autenticação
+- Implementação do módulo de notificações
+- Desenvolvimento da interface do usuário
+- Implementação do módulo de relatórios
+
+Tarefas atrasadas:

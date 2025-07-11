@@ -1,0 +1,24 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A simplicidade de inovar direto da fonte (PROJ-0801)
+Data: 11/07/2025
+Gerente: Luiza da Rocha
+
+Status atual: Em andamento
+Percentual de conclusão: 99.9%
+Data de início: 12/01/2024
+Data de término planejada: 15/07/2024
+Data de término real/prevista: 09/07/2024
+Atraso atual: 361 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 0.95
+Valor Planejado (PV): R$ 4829537.00
+Valor Agregado (EV): R$ 4824707.46
+
+Tarefas críticas:
+- Testes de segurança
+- Implementação do módulo de exportação de dados
+- Desenvolvimento do módulo de autenticação
+- Implementação do módulo de relatórios
+- Desenvolvimento da interface do usuário
+
+Tarefas atrasadas:

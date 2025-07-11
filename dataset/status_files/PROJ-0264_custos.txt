@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O poder de mudar mais rapidamente (PROJ-0264)
+Data: 11/07/2025
+Gerente: Joana Lima
+
+Orçamento inicial: R$ 4031389.00
+Custo real atual: R$ 4071439.94
+Desvio orçamentário: 0.99%
+Índice de Desempenho de Custo (CPI): 0.81
+Valor Agregado (EV): R$ 3308918.96
+Estimativa para conclusão: R$ 888959.03
+Estimativa no término (EAC): R$ 4960398.97
+Variação no término (VAC): R$ -929009.97
+
+Detalhamento por categoria:
+- Pessoal: R$ 2174561.89 (53.4%)
+- Equipamentos: R$ 518119.82 (12.7%)
+- Software: R$ 347029.30 (8.5%)
+- Serviços: R$ 738355.64 (18.1%)
+- Outros: R$ 293373.28 (7.2%)

@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O conforto de mudar com força total (PROJ-0948)
+Data: 11/07/2025
+Gerente: Esther Cunha
+
+Orçamento inicial: R$ 3933708.00
+Custo real atual: R$ 3215650.39
+Desvio orçamentário: -18.25%
+Índice de Desempenho de Custo (CPI): 1.08
+Valor Agregado (EV): R$ 3470247.53
+Estimativa para conclusão: R$ 429458.37
+Estimativa no término (EAC): R$ 3645108.76
+Variação no término (VAC): R$ 288599.24
+
+Detalhamento por categoria:
+- Pessoal: R$ 1602756.80 (49.8%)
+- Equipamentos: R$ 568027.72 (17.7%)
+- Software: R$ 293903.41 (9.1%)
+- Serviços: R$ 521576.78 (16.2%)
+- Outros: R$ 229385.69 (7.1%)

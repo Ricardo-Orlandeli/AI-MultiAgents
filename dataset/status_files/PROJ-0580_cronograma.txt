@@ -1,0 +1,24 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A arte de evoluir com força total (PROJ-0580)
+Data: 11/07/2025
+Gerente: Pedro Henrique Pereira
+
+Status atual: Em andamento
+Percentual de conclusão: 94.0%
+Data de início: 07/05/2024
+Data de término planejada: 16/06/2024
+Data de término real/prevista: 01/06/2024
+Atraso atual: 390 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 1.09
+Valor Planejado (PV): R$ 1166593.00
+Valor Agregado (EV): R$ 1096880.80
+
+Tarefas críticas:
+- Configuração do ambiente de produção
+- Testes de segurança
+- Implementação do módulo de notificações
+- Desenvolvimento do painel administrativo
+- Migração de dados legados
+
+Tarefas atrasadas:

@@ -1,0 +1,27 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A certeza de conseguir de maneira eficaz (PROJ-0349)
+Data: 11/07/2025
+Gerente: Davi Rios
+
+Status atual: Atrasado
+Percentual de conclusão: 63.2%
+Data de início: 15/11/2023
+Data de término planejada: 05/08/2024
+Data de término real/prevista: 06/10/2024
+Atraso atual: 340 dias
+Motivo do atraso: Atraso na entrega de componentes por fornecedores
+Índice de Desempenho de Cronograma (SPI): 0.63
+Valor Planejado (PV): R$ 325836.00
+Valor Agregado (EV): R$ 205947.78
+
+Tarefas críticas:
+- Configuração do ambiente de produção
+- Implementação do sistema de backup
+- Desenvolvimento do módulo de autenticação
+- Testes de aceitação do usuário
+- Implementação do módulo de notificações
+- Implementação do módulo de notificações
+- Desenvolvimento do painel administrativo
+
+Tarefas atrasadas:
+- Desenvolvimento do módulo de autenticação

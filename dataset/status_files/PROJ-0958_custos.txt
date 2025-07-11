@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A vantagem de realizar seus sonhos em estado puro (PROJ-0958)
+Data: 11/07/2025
+Gerente: Ryan Fonseca
+
+Orçamento inicial: R$ 4225653.00
+Custo real atual: R$ 4455521.67
+Desvio orçamentário: 5.44%
+Índice de Desempenho de Custo (CPI): 0.95
+Valor Agregado (EV): R$ 4225653.00
+Estimativa para conclusão: R$ 0.00
+Estimativa no término (EAC): R$ 4455521.67
+Variação no término (VAC): R$ -229868.67
+
+Detalhamento por categoria:
+- Pessoal: R$ 2449334.37 (55.0%)
+- Equipamentos: R$ 814964.23 (18.3%)
+- Software: R$ 286903.47 (6.4%)
+- Serviços: R$ 555410.48 (12.5%)
+- Outros: R$ 348909.11 (7.8%)

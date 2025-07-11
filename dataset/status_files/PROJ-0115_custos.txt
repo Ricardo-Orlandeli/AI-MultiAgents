@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O poder de mudar direto da fonte (PROJ-0115)
+Data: 11/07/2025
+Gerente: Thiago Barbosa
+
+Orçamento inicial: R$ 1802692.00
+Custo real atual: R$ 1756118.33
+Desvio orçamentário: -2.58%
+Índice de Desempenho de Custo (CPI): 0.91
+Valor Agregado (EV): R$ 1600597.17
+Estimativa para conclusão: R$ 221731.26
+Estimativa no término (EAC): R$ 1977849.59
+Variação no término (VAC): R$ -175157.59
+
+Detalhamento por categoria:
+- Pessoal: R$ 886429.48 (50.5%)
+- Equipamentos: R$ 278454.67 (15.9%)
+- Software: R$ 242726.54 (13.8%)
+- Serviços: R$ 196882.45 (11.2%)
+- Outros: R$ 151625.20 (8.6%)

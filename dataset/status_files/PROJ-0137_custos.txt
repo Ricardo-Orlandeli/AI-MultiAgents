@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A possibilidade de realizar seus sonhos com toda a tranquilidade (PROJ-0137)
+Data: 11/07/2025
+Gerente: Gustavo Jesus
+
+Orçamento inicial: R$ 4227990.00
+Custo real atual: R$ 3040526.86
+Desvio orçamentário: -28.09%
+Índice de Desempenho de Custo (CPI): 1.14
+Valor Agregado (EV): R$ 3464600.07
+Estimativa para conclusão: R$ 669949.64
+Estimativa no término (EAC): R$ 3710476.51
+Variação no término (VAC): R$ 517513.49
+
+Detalhamento por categoria:
+- Pessoal: R$ 1551618.24 (51.0%)
+- Equipamentos: R$ 522783.24 (17.2%)
+- Software: R$ 318117.17 (10.5%)
+- Serviços: R$ 457289.89 (15.0%)
+- Outros: R$ 190718.31 (6.3%)

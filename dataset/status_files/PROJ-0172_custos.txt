@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O direito de concretizar seus projetos direto da fonte (PROJ-0172)
+Data: 11/07/2025
+Gerente: Maria Helena Pastor
+
+Orçamento inicial: R$ 3398297.00
+Custo real atual: R$ 2871427.45
+Desvio orçamentário: -15.50%
+Índice de Desempenho de Custo (CPI): 1.18
+Valor Agregado (EV): R$ 3394898.70
+Estimativa para conclusão: R$ 2874.30
+Estimativa no término (EAC): R$ 2874301.75
+Variação no término (VAC): R$ 523995.25
+
+Detalhamento por categoria:
+- Pessoal: R$ 1498392.39 (52.2%)
+- Equipamentos: R$ 288641.54 (10.1%)
+- Software: R$ 379027.89 (13.2%)
+- Serviços: R$ 488126.83 (17.0%)
+- Outros: R$ 217238.81 (7.6%)

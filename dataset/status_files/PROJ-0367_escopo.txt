@@ -1,0 +1,23 @@
+RELATÓRIO DE STATUS DE ESCOPO
+Projeto: A simplicidade de mudar com toda a tranquilidade (PROJ-0367)
+Data: 11/07/2025
+Gerente: Clarice Brito
+
+Escopo original: Sistema para a simplicidade de mudar com toda a tranquilidade
+Houve mudança de escopo: Sim
+Descrição das mudanças: Redução do escopo devido a restrições orçamentárias
+Impacto no cronograma: 34 dias
+Impacto no custo: R$ 138477.72
+
+Solicitações de mudança:
+- SCM-01: Alteração nos requisitos de desempenho
+- SCM-02: Alteração nos requisitos de desempenho
+- SCM-03: Adição de funcionalidade de autenticação biométrica
+- SCM-04: Mudança na arquitetura do sistema
+
+Requisitos atuais:
+- REQ-01: O sistema deve ser compatível com navegadores modernos
+- REQ-02: O sistema deve passar por testes de segurança
+- REQ-03: O sistema deve ser compatível com dispositivos móveis
+- REQ-04: O sistema deve passar por testes de segurança
+- REQ-05: O sistema deve ter interface responsiva

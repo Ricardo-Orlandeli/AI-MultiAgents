@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O conforto de evoluir de maneira eficaz (PROJ-0522)
+Data: 11/07/2025
+Gerente: Srta. Bárbara Rios
+
+Orçamento inicial: R$ 2674492.00
+Custo real atual: R$ 2837126.52
+Desvio orçamentário: 6.08%
+Índice de Desempenho de Custo (CPI): 0.78
+Valor Agregado (EV): R$ 2217894.03
+Estimativa para conclusão: R$ 584079.40
+Estimativa no término (EAC): R$ 3421205.92
+Variação no término (VAC): R$ -746713.92
+
+Detalhamento por categoria:
+- Pessoal: R$ 1429180.02 (50.4%)
+- Equipamentos: R$ 446037.34 (15.7%)
+- Software: R$ 189197.15 (6.7%)
+- Serviços: R$ 528744.22 (18.6%)
+- Outros: R$ 243967.78 (8.6%)

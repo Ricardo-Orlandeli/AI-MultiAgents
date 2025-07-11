@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A vantagem de evoluir de maneira eficaz (PROJ-0330)
+Data: 11/07/2025
+Gerente: Benício Cardoso
+
+Orçamento inicial: R$ 89164.00
+Custo real atual: R$ 106037.16
+Desvio orçamentário: 70.68%
+Índice de Desempenho de Custo (CPI): 0.84
+Valor Agregado (EV): R$ 89164.00
+Estimativa para conclusão: R$ 0.00
+Estimativa no término (EAC): R$ 106037.16
+Variação no término (VAC): R$ -16873.16
+
+Detalhamento por categoria:
+- Pessoal: R$ 56831.51 (53.6%)
+- Equipamentos: R$ 11487.00 (10.8%)
+- Software: R$ 15425.29 (14.5%)
+- Serviços: R$ 16001.94 (15.1%)
+- Outros: R$ 6291.42 (5.9%)

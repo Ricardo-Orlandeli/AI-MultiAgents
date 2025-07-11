@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O prazer de concretizar seus projetos com toda a tranquilidade (PROJ-0301)
+Data: 11/07/2025
+Gerente: Sr. Asafe Andrade
+
+Orçamento inicial: R$ 1375930.00
+Custo real atual: R$ 1576858.20
+Desvio orçamentário: 14.60%
+Índice de Desempenho de Custo (CPI): 0.87
+Valor Agregado (EV): R$ 1375930.00
+Estimativa para conclusão: R$ 0.00
+Estimativa no término (EAC): R$ 1576858.20
+Variação no término (VAC): R$ -200928.20
+
+Detalhamento por categoria:
+- Pessoal: R$ 834427.53 (52.9%)
+- Equipamentos: R$ 196520.81 (12.5%)
+- Software: R$ 231077.13 (14.7%)
+- Serviços: R$ 220652.18 (14.0%)
+- Outros: R$ 94180.55 (6.0%)

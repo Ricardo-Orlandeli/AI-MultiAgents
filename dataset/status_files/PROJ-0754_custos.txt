@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A vantagem de ganhar simplesmente (PROJ-0754)
+Data: 11/07/2025
+Gerente: Luísa Mendes
+
+Orçamento inicial: R$ 1292866.00
+Custo real atual: R$ 1060851.67
+Desvio orçamentário: -17.95%
+Índice de Desempenho de Custo (CPI): 1.22
+Valor Agregado (EV): R$ 1292866.00
+Estimativa para conclusão: R$ 0.00
+Estimativa no término (EAC): R$ 1060851.67
+Variação no término (VAC): R$ 232014.33
+
+Detalhamento por categoria:
+- Pessoal: R$ 512059.35 (48.3%)
+- Equipamentos: R$ 166732.81 (15.7%)
+- Software: R$ 138505.89 (13.1%)
+- Serviços: R$ 178227.14 (16.8%)
+- Outros: R$ 65326.47 (6.2%)

@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O poder de mudar com confiança (PROJ-0759)
+Data: 11/07/2025
+Gerente: Ryan Oliveira
+
+Orçamento inicial: R$ 3349542.00
+Custo real atual: R$ 1154208.73
+Desvio orçamentário: -33.82%
+Índice de Desempenho de Custo (CPI): 0.76
+Valor Agregado (EV): R$ 873262.10
+Estimativa para conclusão: R$ 3272950.80
+Estimativa no término (EAC): R$ 4427159.53
+Variação no término (VAC): R$ -1077617.53
+
+Detalhamento por categoria:
+- Pessoal: R$ 567696.69 (49.2%)
+- Equipamentos: R$ 203764.72 (17.7%)
+- Software: R$ 115686.93 (10.0%)
+- Serviços: R$ 197613.70 (17.1%)
+- Outros: R$ 69446.69 (6.0%)

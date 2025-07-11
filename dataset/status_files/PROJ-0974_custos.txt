@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A certeza de ganhar mais rapidamente (PROJ-0974)
+Data: 11/07/2025
+Gerente: Heitor da Rosa
+
+Orçamento inicial: R$ 1448602.00
+Custo real atual: R$ 1179405.79
+Desvio orçamentário: -18.58%
+Índice de Desempenho de Custo (CPI): 1.23
+Valor Agregado (EV): R$ 1447153.40
+Estimativa para conclusão: R$ 1180.59
+Estimativa no término (EAC): R$ 1180586.37
+Variação no término (VAC): R$ 268015.63
+
+Detalhamento por categoria:
+- Pessoal: R$ 590140.96 (50.0%)
+- Equipamentos: R$ 232526.09 (19.7%)
+- Software: R$ 99564.08 (8.4%)
+- Serviços: R$ 188146.75 (16.0%)
+- Outros: R$ 69027.91 (5.9%)

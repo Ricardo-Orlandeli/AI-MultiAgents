@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O conforto de ganhar mais rapidamente (PROJ-0652)
+Data: 11/07/2025
+Gerente: Nicole Costela
+
+Orçamento inicial: R$ 4063546.00
+Custo real atual: R$ 2268882.59
+Desvio orçamentário: 18.65%
+Índice de Desempenho de Custo (CPI): 0.89
+Valor Agregado (EV): R$ 2015171.81
+Estimativa para conclusão: R$ 2306265.17
+Estimativa no término (EAC): R$ 4575147.76
+Variação no término (VAC): R$ -511601.76
+
+Detalhamento por categoria:
+- Pessoal: R$ 1119824.41 (49.4%)
+- Equipamentos: R$ 445403.84 (19.6%)
+- Software: R$ 184167.55 (8.1%)
+- Serviços: R$ 399391.32 (17.6%)
+- Outros: R$ 120095.48 (5.3%)

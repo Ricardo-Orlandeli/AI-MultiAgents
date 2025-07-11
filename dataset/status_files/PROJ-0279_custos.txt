@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A liberdade de ganhar com confiança (PROJ-0279)
+Data: 11/07/2025
+Gerente: Nina Jesus
+
+Orçamento inicial: R$ 1183016.00
+Custo real atual: R$ 838309.57
+Desvio orçamentário: -29.14%
+Índice de Desempenho de Custo (CPI): 1.22
+Valor Agregado (EV): R$ 1019631.52
+Estimativa para conclusão: R$ 134329.68
+Estimativa no término (EAC): R$ 972639.25
+Variação no término (VAC): R$ 210376.75
+
+Detalhamento por categoria:
+- Pessoal: R$ 435632.71 (52.0%)
+- Equipamentos: R$ 128887.50 (15.4%)
+- Software: R$ 81140.17 (9.7%)
+- Serviços: R$ 118490.81 (14.1%)
+- Outros: R$ 74158.39 (8.8%)

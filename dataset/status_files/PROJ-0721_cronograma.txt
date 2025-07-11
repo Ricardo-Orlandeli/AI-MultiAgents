@@ -1,0 +1,25 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: O direito de evoluir direto da fonte (PROJ-0721)
+Data: 11/07/2025
+Gerente: Bruno Pires
+
+Status atual: Em andamento
+Percentual de conclusão: 91.6%
+Data de início: 21/10/2024
+Data de término planejada: 23/01/2025
+Data de término real/prevista: 25/01/2025
+Atraso atual: 169 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 0.86
+Valor Planejado (PV): R$ 3171916.00
+Valor Agregado (EV): R$ 2904714.17
+
+Tarefas críticas:
+- Configuração da infraestrutura
+- Migração de dados legados
+- Implementação do módulo de notificações
+- Configuração do ambiente de produção
+- Desenvolvimento do módulo de autenticação
+- Testes de segurança
+
+Tarefas atrasadas:

@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A arte de conseguir sem preocupação (PROJ-0687)
+Data: 11/07/2025
+Gerente: Luiz Otávio Costa
+
+Orçamento inicial: R$ 3269624.00
+Custo real atual: R$ 2983101.25
+Desvio orçamentário: -8.76%
+Índice de Desempenho de Custo (CPI): 0.76
+Valor Agregado (EV): R$ 2277960.09
+Estimativa para conclusão: R$ 1298632.86
+Estimativa no término (EAC): R$ 4281734.12
+Variação no término (VAC): R$ -1012110.12
+
+Detalhamento por categoria:
+- Pessoal: R$ 1617528.00 (54.2%)
+- Equipamentos: R$ 442709.40 (14.8%)
+- Software: R$ 164941.05 (5.5%)
+- Serviços: R$ 541508.49 (18.2%)
+- Outros: R$ 216414.32 (7.3%)

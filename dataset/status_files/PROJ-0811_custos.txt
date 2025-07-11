@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O conforto de ganhar naturalmente (PROJ-0811)
+Data: 11/07/2025
+Gerente: Dr. Otto Mendes
+
+Orçamento inicial: R$ 1661325.00
+Custo real atual: R$ 433592.19
+Desvio orçamentário: -27.92%
+Índice de Desempenho de Custo (CPI): 0.80
+Valor Agregado (EV): R$ 347384.93
+Estimativa para conclusão: R$ 1640008.27
+Estimativa no término (EAC): R$ 2073600.47
+Variação no término (VAC): R$ -412275.47
+
+Detalhamento por categoria:
+- Pessoal: R$ 224342.81 (51.7%)
+- Equipamentos: R$ 60756.60 (14.0%)
+- Software: R$ 54089.88 (12.5%)
+- Serviços: R$ 61612.94 (14.2%)
+- Outros: R$ 32789.97 (7.6%)

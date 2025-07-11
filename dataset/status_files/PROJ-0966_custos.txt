@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A simplicidade de avançar com toda a tranquilidade (PROJ-0966)
+Data: 11/07/2025
+Gerente: Maria Clara Pinto
+
+Orçamento inicial: R$ 968090.00
+Custo real atual: R$ 944436.43
+Desvio orçamentário: -2.44%
+Índice de Desempenho de Custo (CPI): 1.02
+Valor Agregado (EV): R$ 967121.91
+Estimativa para conclusão: R$ 945.38
+Estimativa no término (EAC): R$ 945381.82
+Variação no término (VAC): R$ 22708.18
+
+Detalhamento por categoria:
+- Pessoal: R$ 564057.98 (59.7%)
+- Equipamentos: R$ 121580.22 (12.9%)
+- Software: R$ 94201.35 (10.0%)
+- Serviços: R$ 112707.31 (11.9%)
+- Outros: R$ 51889.58 (5.5%)

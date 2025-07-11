@@ -1,0 +1,25 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A certeza de atingir seus objetivos simplesmente (PROJ-0286)
+Data: 11/07/2025
+Gerente: Maitê Cirino
+
+Status atual: Concluído
+Percentual de conclusão: 100.0%
+Data de início: 19/09/2024
+Data de término planejada: 01/04/2025
+Data de término real/prevista: 04/03/2025
+Atraso atual: 101 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 1.04
+Valor Planejado (PV): R$ 2435573.00
+Valor Agregado (EV): R$ 2435573.00
+
+Tarefas críticas:
+- Configuração da infraestrutura
+- Implementação do módulo de relatórios
+- Integração com sistema de pagamentos
+- Implementação do sistema de backup
+- Implementação do módulo de relatórios
+- Implementação do módulo de notificações
+
+Tarefas atrasadas:

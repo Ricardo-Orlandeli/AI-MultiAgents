@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O poder de inovar com confiança (PROJ-0555)
+Data: 11/07/2025
+Gerente: Maria Fernanda Martins
+
+Orçamento inicial: R$ 1079739.00
+Custo real atual: R$ 1070404.22
+Desvio orçamentário: 318.30%
+Índice de Desempenho de Custo (CPI): 1.01
+Valor Agregado (EV): R$ 1079739.00
+Estimativa para conclusão: R$ 0.00
+Estimativa no término (EAC): R$ 1070404.22
+Variação no término (VAC): R$ 9334.78
+
+Detalhamento por categoria:
+- Pessoal: R$ 578896.13 (54.1%)
+- Equipamentos: R$ 144444.68 (13.5%)
+- Software: R$ 149357.64 (14.0%)
+- Serviços: R$ 107068.82 (10.0%)
+- Outros: R$ 90636.95 (8.5%)

@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A liberdade de mudar com confiança (PROJ-0273)
+Data: 11/07/2025
+Gerente: Ryan Rios
+
+Orçamento inicial: R$ 4494825.00
+Custo real atual: R$ 5126682.88
+Desvio orçamentário: 14.06%
+Índice de Desempenho de Custo (CPI): 0.87
+Valor Agregado (EV): R$ 4462775.99
+Estimativa para conclusão: R$ 36816.80
+Estimativa no término (EAC): R$ 5163499.68
+Variação no término (VAC): R$ -668674.68
+
+Detalhamento por categoria:
+- Pessoal: R$ 2702777.36 (52.7%)
+- Equipamentos: R$ 720912.07 (14.1%)
+- Software: R$ 699691.67 (13.6%)
+- Serviços: R$ 674809.78 (13.2%)
+- Outros: R$ 328492.00 (6.4%)

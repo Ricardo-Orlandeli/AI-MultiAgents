@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A vantagem de evoluir naturalmente (PROJ-0511)
+Data: 11/07/2025
+Gerente: Yuri Cavalcanti
+
+Orçamento inicial: R$ 4008933.00
+Custo real atual: R$ 1020425.32
+Desvio orçamentário: -30.98%
+Índice de Desempenho de Custo (CPI): 0.80
+Valor Agregado (EV): R$ 821264.79
+Estimativa para conclusão: R$ 3960692.58
+Estimativa no término (EAC): R$ 4981117.91
+Variação no término (VAC): R$ -972184.91
+
+Detalhamento por categoria:
+- Pessoal: R$ 440262.17 (43.1%)
+- Equipamentos: R$ 184028.00 (18.0%)
+- Software: R$ 147448.40 (14.4%)
+- Serviços: R$ 153213.21 (15.0%)
+- Outros: R$ 95473.55 (9.4%)

@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A simplicidade de concretizar seus projetos mais rapidamente (PROJ-0664)
+Data: 11/07/2025
+Gerente: Diego Silveira
+
+Orçamento inicial: R$ 4269206.00
+Custo real atual: R$ 4709345.07
+Desvio orçamentário: 10.31%
+Índice de Desempenho de Custo (CPI): 0.91
+Valor Agregado (EV): R$ 4264936.79
+Estimativa para conclusão: R$ 4714.06
+Estimativa no término (EAC): R$ 4714059.13
+Variação no término (VAC): R$ -444853.13
+
+Detalhamento por categoria:
+- Pessoal: R$ 2301441.43 (48.9%)
+- Equipamentos: R$ 881824.53 (18.7%)
+- Software: R$ 360638.56 (7.7%)
+- Serviços: R$ 738494.75 (15.7%)
+- Outros: R$ 426945.79 (9.1%)

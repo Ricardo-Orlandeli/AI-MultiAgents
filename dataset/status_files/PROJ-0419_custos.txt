@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A possibilidade de avançar mais rapidamente (PROJ-0419)
+Data: 11/07/2025
+Gerente: Caio Duarte
+
+Orçamento inicial: R$ 1884256.00
+Custo real atual: R$ 1854255.07
+Desvio orçamentário: 69.69%
+Índice de Desempenho de Custo (CPI): 1.02
+Valor Agregado (EV): R$ 1884256.00
+Estimativa para conclusão: R$ 0.00
+Estimativa no término (EAC): R$ 1854255.07
+Variação no término (VAC): R$ 30000.93
+
+Detalhamento por categoria:
+- Pessoal: R$ 892264.74 (48.1%)
+- Equipamentos: R$ 269034.75 (14.5%)
+- Software: R$ 207428.30 (11.2%)
+- Serviços: R$ 277783.28 (15.0%)
+- Outros: R$ 207743.98 (11.2%)

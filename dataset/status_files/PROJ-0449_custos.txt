@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A vantagem de realizar seus sonhos com força total (PROJ-0449)
+Data: 11/07/2025
+Gerente: Maria Julia Jesus
+
+Orçamento inicial: R$ 1302194.00
+Custo real atual: R$ 754659.83
+Desvio orçamentário: 14.65%
+Índice de Desempenho de Custo (CPI): 0.94
+Valor Agregado (EV): R$ 707864.74
+Estimativa para conclusão: R$ 633618.81
+Estimativa no término (EAC): R$ 1388278.64
+Variação no término (VAC): R$ -86084.64
+
+Detalhamento por categoria:
+- Pessoal: R$ 422881.39 (56.0%)
+- Equipamentos: R$ 81983.92 (10.9%)
+- Software: R$ 56521.76 (7.5%)
+- Serviços: R$ 146461.61 (19.4%)
+- Outros: R$ 46811.16 (6.2%)

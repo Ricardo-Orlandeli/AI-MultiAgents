@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O prazer de mudar com toda a tranquilidade (PROJ-0643)
+Data: 11/07/2025
+Gerente: Dante Alves
+
+Orçamento inicial: R$ 886475.00
+Custo real atual: R$ 215574.40
+Desvio orçamentário: 8.50%
+Índice de Desempenho de Custo (CPI): 0.84
+Valor Agregado (EV): R$ 181331.01
+Estimativa para conclusão: R$ 838306.64
+Estimativa no término (EAC): R$ 1053881.03
+Variação no término (VAC): R$ -167406.03
+
+Detalhamento por categoria:
+- Pessoal: R$ 101660.05 (47.2%)
+- Equipamentos: R$ 28235.70 (13.1%)
+- Software: R$ 31491.98 (14.6%)
+- Serviços: R$ 32334.99 (15.0%)
+- Outros: R$ 21851.68 (10.1%)

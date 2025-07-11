@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A simplicidade de realizar seus sonhos com toda a tranquilidade (PROJ-0422)
+Data: 11/07/2025
+Gerente: Marina Silveira
+
+Orçamento inicial: R$ 411377.00
+Custo real atual: R$ 434565.56
+Desvio orçamentário: 5.64%
+Índice de Desempenho de Custo (CPI): 0.95
+Valor Agregado (EV): R$ 410965.62
+Estimativa para conclusão: R$ 435.00
+Estimativa no término (EAC): R$ 435000.56
+Variação no término (VAC): R$ -23623.56
+
+Detalhamento por categoria:
+- Pessoal: R$ 248536.96 (57.2%)
+- Equipamentos: R$ 50822.25 (11.7%)
+- Software: R$ 58350.23 (13.4%)
+- Serviços: R$ 47421.20 (10.9%)
+- Outros: R$ 29434.91 (6.8%)

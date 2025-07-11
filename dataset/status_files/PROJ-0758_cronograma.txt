@@ -1,0 +1,28 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: O conforto de concretizar seus projetos simplesmente (PROJ-0758)
+Data: 11/07/2025
+Gerente: Yan Santos
+
+Status atual: Atrasado
+Percentual de conclusão: 26.5%
+Data de início: 11/03/2025
+Data de término planejada: 03/03/2026
+Data de término real/prevista: 10/08/2026
+Atraso atual: 0 dias
+Motivo do atraso: Problemas técnicos inesperados
+Índice de Desempenho de Cronograma (SPI): 0.78
+Valor Planejado (PV): R$ 298977.23
+Valor Agregado (EV): R$ 231730.90
+
+Tarefas críticas:
+- Implementação do módulo de relatórios
+- Implementação do sistema de backup
+- Testes de aceitação do usuário
+- Implementação do módulo de relatórios
+- Desenvolvimento do painel administrativo
+- Implementação do módulo de notificações
+
+Tarefas atrasadas:
+- Implementação do sistema de backup
+- Implementação do módulo de notificações
+- Implementação do módulo de relatórios

@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A possibilidade de evoluir de maneira eficaz (PROJ-0307)
+Data: 11/07/2025
+Gerente: Gustavo Martins
+
+Orçamento inicial: R$ 313860.00
+Custo real atual: R$ 342703.14
+Desvio orçamentário: 9.19%
+Índice de Desempenho de Custo (CPI): 0.92
+Valor Agregado (EV): R$ 313860.00
+Estimativa para conclusão: R$ 0.00
+Estimativa no término (EAC): R$ 342703.14
+Variação no término (VAC): R$ -28843.14
+
+Detalhamento por categoria:
+- Pessoal: R$ 162705.21 (47.5%)
+- Equipamentos: R$ 62381.77 (18.2%)
+- Software: R$ 45413.27 (13.3%)
+- Serviços: R$ 54840.18 (16.0%)
+- Outros: R$ 17362.72 (5.1%)

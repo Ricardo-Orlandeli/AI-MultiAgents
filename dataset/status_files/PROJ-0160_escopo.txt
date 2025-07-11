@@ -1,0 +1,22 @@
+RELATÓRIO DE STATUS DE ESCOPO
+Projeto: A segurança de mudar em estado puro (PROJ-0160)
+Data: 11/07/2025
+Gerente: Dr. Gustavo Guerra
+
+Escopo original: Sistema para a segurança de mudar em estado puro
+Houve mudança de escopo: Sim
+Descrição das mudanças: Redução do escopo devido a restrições orçamentárias
+Impacto no cronograma: 19 dias
+Impacto no custo: R$ 424817.09
+
+Solicitações de mudança:
+- SCM-01: Adição de relatórios gerenciais
+- SCM-02: Alteração nos requisitos de desempenho
+
+Requisitos atuais:
+- REQ-01: O sistema deve ter backup automático diário
+- REQ-02: O sistema deve passar por testes de segurança
+- REQ-03: O sistema deve permitir integração com APIs externas
+- REQ-04: O sistema deve ter alta disponibilidade (99.9%)
+- REQ-05: O sistema deve ser compatível com navegadores modernos
+- REQ-06: O sistema deve passar por testes de segurança

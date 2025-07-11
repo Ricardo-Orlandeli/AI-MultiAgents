@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O prazer de concretizar seus projetos sem preocupação (PROJ-0520)
+Data: 11/07/2025
+Gerente: Sr. Pedro Lucas da Mata
+
+Orçamento inicial: R$ 1614885.00
+Custo real atual: R$ 533180.39
+Desvio orçamentário: 25.66%
+Índice de Desempenho de Custo (CPI): 0.69
+Valor Agregado (EV): R$ 369104.60
+Estimativa para conclusão: R$ 1799559.49
+Estimativa no término (EAC): R$ 2332739.87
+Variação no término (VAC): R$ -717854.87
+
+Detalhamento por categoria:
+- Pessoal: R$ 265466.16 (49.8%)
+- Equipamentos: R$ 98855.74 (18.5%)
+- Software: R$ 48348.59 (9.1%)
+- Serviços: R$ 83267.72 (15.6%)
+- Outros: R$ 37242.17 (7.0%)

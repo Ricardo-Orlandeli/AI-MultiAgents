@@ -1,0 +1,27 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A certeza de atingir seus objetivos com confiança (PROJ-0179)
+Data: 11/07/2025
+Gerente: Otávio Ribeiro
+
+Status atual: Atrasado
+Percentual de conclusão: 8.6%
+Data de início: 15/06/2025
+Data de término planejada: 27/02/2026
+Data de término real/prevista: 09/03/2026
+Atraso atual: 0 dias
+Motivo do atraso: Problemas de comunicação
+Índice de Desempenho de Cronograma (SPI): 0.85
+Valor Planejado (PV): R$ 92136.41
+Valor Agregado (EV): R$ 78387.77
+
+Tarefas críticas:
+- Desenvolvimento da interface do usuário
+- Testes de aceitação do usuário
+- Implementação do módulo de análise de dados
+- Desenvolvimento do módulo de autenticação
+- Desenvolvimento do painel administrativo
+- Testes de segurança
+- Implementação da API REST
+
+Tarefas atrasadas:
+- Desenvolvimento do painel administrativo

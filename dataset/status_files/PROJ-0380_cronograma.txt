@@ -1,0 +1,24 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A vantagem de avançar simplesmente (PROJ-0380)
+Data: 11/07/2025
+Gerente: Bianca Almeida
+
+Status atual: Em andamento
+Percentual de conclusão: 99.9%
+Data de início: 02/05/2024
+Data de término planejada: 15/10/2024
+Data de término real/prevista: 07/11/2024
+Atraso atual: 269 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 1.12
+Valor Planejado (PV): R$ 2338061.00
+Valor Agregado (EV): R$ 2335722.94
+
+Tarefas críticas:
+- Implementação do módulo de relatórios
+- Implementação do módulo de relatórios
+- Implementação do módulo de notificações
+- Implementação do sistema de backup
+- Implementação do módulo de análise de dados
+
+Tarefas atrasadas:

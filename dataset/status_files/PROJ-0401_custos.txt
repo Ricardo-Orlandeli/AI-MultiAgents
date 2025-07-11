@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O prazer de conseguir mais rapidamente (PROJ-0401)
+Data: 11/07/2025
+Gerente: Dr. Joaquim Costela
+
+Orçamento inicial: R$ 1540700.00
+Custo real atual: R$ 1954411.60
+Desvio orçamentário: 26.85%
+Índice de Desempenho de Custo (CPI): 0.69
+Valor Agregado (EV): R$ 1356384.72
+Estimativa para conclusão: R$ 265579.46
+Estimativa no término (EAC): R$ 2219991.06
+Variação no término (VAC): R$ -679291.06
+
+Detalhamento por categoria:
+- Pessoal: R$ 926741.34 (47.4%)
+- Equipamentos: R$ 334025.03 (17.1%)
+- Software: R$ 252859.82 (12.9%)
+- Serviços: R$ 249292.88 (12.8%)
+- Outros: R$ 191492.53 (9.8%)

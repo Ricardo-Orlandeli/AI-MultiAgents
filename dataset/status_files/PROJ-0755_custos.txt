@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A arte de concretizar seus projetos sem preocupação (PROJ-0755)
+Data: 11/07/2025
+Gerente: Miguel Aparecida
+
+Orçamento inicial: R$ 3149211.00
+Custo real atual: R$ 2890498.62
+Desvio orçamentário: -8.22%
+Índice de Desempenho de Custo (CPI): 1.09
+Valor Agregado (EV): R$ 3146061.79
+Estimativa para conclusão: R$ 2893.39
+Estimativa no término (EAC): R$ 2893392.01
+Variação no término (VAC): R$ 255818.99
+
+Detalhamento por categoria:
+- Pessoal: R$ 1317478.26 (45.6%)
+- Equipamentos: R$ 523187.29 (18.1%)
+- Software: R$ 440896.66 (15.3%)
+- Serviços: R$ 405612.82 (14.0%)
+- Outros: R$ 203323.59 (7.0%)

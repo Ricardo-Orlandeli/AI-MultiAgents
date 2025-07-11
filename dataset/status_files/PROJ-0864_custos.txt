@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O prazer de atingir seus objetivos simplesmente (PROJ-0864)
+Data: 11/07/2025
+Gerente: Jade Carvalho
+
+Orçamento inicial: R$ 496315.00
+Custo real atual: R$ 567113.95
+Desvio orçamentário: 727.06%
+Índice de Desempenho de Custo (CPI): 0.88
+Valor Agregado (EV): R$ 496315.00
+Estimativa para conclusão: R$ 0.00
+Estimativa no término (EAC): R$ 567113.95
+Variação no término (VAC): R$ -70798.95
+
+Detalhamento por categoria:
+- Pessoal: R$ 261347.02 (46.1%)
+- Equipamentos: R$ 101566.40 (17.9%)
+- Software: R$ 74383.41 (13.1%)
+- Serviços: R$ 77788.44 (13.7%)
+- Outros: R$ 52028.68 (9.2%)

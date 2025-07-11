@@ -1,0 +1,25 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A vantagem de evoluir mais facilmente (PROJ-0189)
+Data: 11/07/2025
+Gerente: Srta. Gabriela Carvalho
+
+Status atual: Em andamento
+Percentual de conclusão: 96.5%
+Data de início: 27/02/2025
+Data de término planejada: 04/08/2025
+Data de término real/prevista: 31/08/2025
+Atraso atual: 0 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 0.99
+Valor Planejado (PV): R$ 1041245.30
+Valor Agregado (EV): R$ 1185293.71
+
+Tarefas críticas:
+- Implementação do sistema de backup
+- Configuração da infraestrutura
+- Integração com sistema de pagamentos
+- Implementação do sistema de backup
+- Desenvolvimento do módulo de autenticação
+- Implementação da API REST
+
+Tarefas atrasadas:

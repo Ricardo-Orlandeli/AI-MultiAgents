@@ -1,0 +1,22 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A possibilidade de avançar simplesmente (PROJ-0871)
+Data: 11/07/2025
+Gerente: Ester Novais
+
+Status atual: Em andamento
+Percentual de conclusão: 96.3%
+Data de início: 03/02/2024
+Data de término planejada: 07/07/2024
+Data de término real/prevista: 17/07/2024
+Atraso atual: 369 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 0.86
+Valor Planejado (PV): R$ 2790175.00
+Valor Agregado (EV): R$ 2687105.98
+
+Tarefas críticas:
+- Testes de aceitação do usuário
+- Implementação da API REST
+- Implementação do módulo de relatórios
+
+Tarefas atrasadas:

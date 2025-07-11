@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A simplicidade de concretizar seus projetos com força total (PROJ-0855)
+Data: 11/07/2025
+Gerente: Gabriel Siqueira
+
+Orçamento inicial: R$ 556743.00
+Custo real atual: R$ 419116.85
+Desvio orçamentário: -24.72%
+Índice de Desempenho de Custo (CPI): 1.16
+Valor Agregado (EV): R$ 487540.72
+Estimativa para conclusão: R$ 59490.09
+Estimativa no término (EAC): R$ 478606.94
+Variação no término (VAC): R$ 78136.06
+
+Detalhamento por categoria:
+- Pessoal: R$ 231235.53 (55.2%)
+- Equipamentos: R$ 73345.09 (17.5%)
+- Software: R$ 31046.07 (7.4%)
+- Serviços: R$ 53280.91 (12.7%)
+- Outros: R$ 30209.25 (7.2%)

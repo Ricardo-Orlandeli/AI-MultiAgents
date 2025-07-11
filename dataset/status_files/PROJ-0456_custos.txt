@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A vantagem de mudar mais facilmente (PROJ-0456)
+Data: 11/07/2025
+Gerente: Maya Melo
+
+Orçamento inicial: R$ 1230520.00
+Custo real atual: R$ 1109885.52
+Desvio orçamentário: -9.80%
+Índice de Desempenho de Custo (CPI): 1.01
+Valor Agregado (EV): R$ 1120023.31
+Estimativa para conclusão: R$ 109496.54
+Estimativa no término (EAC): R$ 1219382.06
+Variação no término (VAC): R$ 11137.94
+
+Detalhamento por categoria:
+- Pessoal: R$ 591119.60 (53.3%)
+- Equipamentos: R$ 155832.22 (14.0%)
+- Software: R$ 119007.68 (10.7%)
+- Serviços: R$ 186747.45 (16.8%)
+- Outros: R$ 57178.56 (5.2%)

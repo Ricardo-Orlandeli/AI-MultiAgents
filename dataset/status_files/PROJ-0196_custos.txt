@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A segurança de atingir seus objetivos com toda a tranquilidade (PROJ-0196)
+Data: 11/07/2025
+Gerente: Ana Cecília Pinto
+
+Orçamento inicial: R$ 3341801.00
+Custo real atual: R$ 1406747.96
+Desvio orçamentário: 5.47%
+Índice de Desempenho de Custo (CPI): 0.93
+Valor Agregado (EV): R$ 1304176.85
+Estimativa para conclusão: R$ 2197879.55
+Estimativa no término (EAC): R$ 3604627.51
+Variação no término (VAC): R$ -262826.51
+
+Detalhamento por categoria:
+- Pessoal: R$ 743497.73 (52.9%)
+- Equipamentos: R$ 199121.76 (14.2%)
+- Software: R$ 177625.27 (12.6%)
+- Serviços: R$ 190681.29 (13.6%)
+- Outros: R$ 95821.90 (6.8%)

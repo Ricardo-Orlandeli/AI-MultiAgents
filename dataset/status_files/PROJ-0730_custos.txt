@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O direito de realizar seus sonhos antes de tudo (PROJ-0730)
+Data: 11/07/2025
+Gerente: Emanuel da Conceição
+
+Orçamento inicial: R$ 3726358.00
+Custo real atual: R$ 3149010.50
+Desvio orçamentário: -15.49%
+Índice de Desempenho de Custo (CPI): 1.18
+Valor Agregado (EV): R$ 3722631.64
+Estimativa para conclusão: R$ 3152.16
+Estimativa no término (EAC): R$ 3152162.67
+Variação no término (VAC): R$ 574195.33
+
+Detalhamento por categoria:
+- Pessoal: R$ 1519665.18 (48.3%)
+- Equipamentos: R$ 584320.00 (18.6%)
+- Software: R$ 278683.96 (8.8%)
+- Serviços: R$ 568339.08 (18.0%)
+- Outros: R$ 198002.29 (6.3%)

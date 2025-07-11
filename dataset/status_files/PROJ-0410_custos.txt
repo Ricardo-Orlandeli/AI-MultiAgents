@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A arte de mudar antes de tudo (PROJ-0410)
+Data: 11/07/2025
+Gerente: Dr. Yago Barros
+
+Orçamento inicial: R$ 1162711.00
+Custo real atual: R$ 488937.47
+Desvio orçamentário: -41.24%
+Índice de Desempenho de Custo (CPI): 0.89
+Valor Agregado (EV): R$ 435468.65
+Estimativa para conclusão: R$ 816536.46
+Estimativa no término (EAC): R$ 1305473.94
+Variação no término (VAC): R$ -142762.94
+
+Detalhamento por categoria:
+- Pessoal: R$ 212013.24 (43.4%)
+- Equipamentos: R$ 102571.91 (21.0%)
+- Software: R$ 53913.41 (11.0%)
+- Serviços: R$ 77713.08 (15.9%)
+- Outros: R$ 42725.84 (8.7%)

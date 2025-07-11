@@ -1,0 +1,23 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: O prazer de inovar sem preocupação (PROJ-0350)
+Data: 11/07/2025
+Gerente: Dra. Bella Moraes
+
+Status atual: Em andamento
+Percentual de conclusão: 32.8%
+Data de início: 28/03/2025
+Data de término planejada: 12/03/2026
+Data de término real/prevista: 25/03/2026
+Atraso atual: 0 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 0.93
+Valor Planejado (PV): R$ 1009509.41
+Valor Agregado (EV): R$ 1099628.92
+
+Tarefas críticas:
+- Integração com sistema de pagamentos
+- Configuração do ambiente de produção
+- Implementação do módulo de relatórios
+- Implementação do módulo de análise de dados
+
+Tarefas atrasadas:

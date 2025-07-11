@@ -1,0 +1,26 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A simplicidade de avançar direto da fonte (PROJ-0604)
+Data: 11/07/2025
+Gerente: Sra. Anna Liz Moreira
+
+Status atual: Em andamento
+Percentual de conclusão: 99.9%
+Data de início: 22/05/2024
+Data de término planejada: 25/01/2025
+Data de término real/prevista: 05/02/2025
+Atraso atual: 167 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 1.00
+Valor Planejado (PV): R$ 453169.00
+Valor Agregado (EV): R$ 452715.83
+
+Tarefas críticas:
+- Implementação do módulo de relatórios
+- Implementação do módulo de exportação de dados
+- Configuração da infraestrutura
+- Configuração do ambiente de produção
+- Implementação do módulo de notificações
+- Integração com sistema de pagamentos
+- Desenvolvimento do painel administrativo
+
+Tarefas atrasadas:

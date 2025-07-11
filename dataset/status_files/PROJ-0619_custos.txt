@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O direito de avançar mais rapidamente (PROJ-0619)
+Data: 11/07/2025
+Gerente: Ravi Lucca Novais
+
+Orçamento inicial: R$ 2760621.00
+Custo real atual: R$ 2696846.20
+Desvio orçamentário: -2.31%
+Índice de Desempenho de Custo (CPI): 0.90
+Valor Agregado (EV): R$ 2421767.38
+Estimativa para conclusão: R$ 377342.64
+Estimativa no término (EAC): R$ 3074188.85
+Variação no término (VAC): R$ -313567.85
+
+Detalhamento por categoria:
+- Pessoal: R$ 1468379.59 (54.4%)
+- Equipamentos: R$ 459036.41 (17.0%)
+- Software: R$ 174355.63 (6.5%)
+- Serviços: R$ 460239.76 (17.1%)
+- Outros: R$ 134834.81 (5.0%)

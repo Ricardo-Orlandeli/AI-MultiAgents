@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A certeza de ganhar em estado puro (PROJ-0615)
+Data: 11/07/2025
+Gerente: Dr. Luiz Henrique Dias
+
+Orçamento inicial: R$ 3305625.00
+Custo real atual: R$ 3860317.33
+Desvio orçamentário: 16.78%
+Índice de Desempenho de Custo (CPI): 0.86
+Valor Agregado (EV): R$ 3305625.00
+Estimativa para conclusão: R$ 0.00
+Estimativa no término (EAC): R$ 3860317.33
+Variação no término (VAC): R$ -554692.33
+
+Detalhamento por categoria:
+- Pessoal: R$ 1929355.06 (50.0%)
+- Equipamentos: R$ 451723.72 (11.7%)
+- Software: R$ 529304.31 (13.7%)
+- Serviços: R$ 600559.83 (15.6%)
+- Outros: R$ 349374.42 (9.1%)

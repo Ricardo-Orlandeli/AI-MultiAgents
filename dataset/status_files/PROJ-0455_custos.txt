@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A segurança de evoluir sem preocupação (PROJ-0455)
+Data: 11/07/2025
+Gerente: Davi Alves
+
+Orçamento inicial: R$ 1923270.00
+Custo real atual: R$ 1849326.08
+Desvio orçamentário: -3.84%
+Índice de Desempenho de Custo (CPI): 1.04
+Valor Agregado (EV): R$ 1921346.73
+Estimativa para conclusão: R$ 1851.18
+Estimativa no término (EAC): R$ 1851177.25
+Variação no término (VAC): R$ 72092.75
+
+Detalhamento por categoria:
+- Pessoal: R$ 970840.21 (52.5%)
+- Equipamentos: R$ 345993.55 (18.7%)
+- Software: R$ 127277.72 (6.9%)
+- Serviços: R$ 277002.79 (15.0%)
+- Outros: R$ 128211.80 (6.9%)

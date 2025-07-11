@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A certeza de conseguir naturalmente (PROJ-0232)
+Data: 11/07/2025
+Gerente: Maria Clara Moreira
+
+Orçamento inicial: R$ 4272522.00
+Custo real atual: R$ 4093198.04
+Desvio orçamentário: -4.20%
+Índice de Desempenho de Custo (CPI): 1.04
+Valor Agregado (EV): R$ 4272522.00
+Estimativa para conclusão: R$ 0.00
+Estimativa no término (EAC): R$ 4093198.04
+Variação no término (VAC): R$ 179323.96
+
+Detalhamento por categoria:
+- Pessoal: R$ 1928904.49 (47.1%)
+- Equipamentos: R$ 581056.49 (14.2%)
+- Software: R$ 474082.65 (11.6%)
+- Serviços: R$ 736148.53 (18.0%)
+- Outros: R$ 373005.88 (9.1%)

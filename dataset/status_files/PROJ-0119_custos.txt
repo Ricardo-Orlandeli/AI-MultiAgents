@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O poder de ganhar com confiança (PROJ-0119)
+Data: 11/07/2025
+Gerente: Dr. Bryan Pires
+
+Orçamento inicial: R$ 2272214.00
+Custo real atual: R$ 2055032.10
+Desvio orçamentário: -9.56%
+Índice de Desempenho de Custo (CPI): 0.73
+Valor Agregado (EV): R$ 1504146.31
+Estimativa para conclusão: R$ 1049368.51
+Estimativa no término (EAC): R$ 3104400.61
+Variação no término (VAC): R$ -832186.61
+
+Detalhamento por categoria:
+- Pessoal: R$ 1032662.91 (50.3%)
+- Equipamentos: R$ 362271.95 (17.6%)
+- Software: R$ 137986.80 (6.7%)
+- Serviços: R$ 405581.06 (19.7%)
+- Outros: R$ 116529.38 (5.7%)

@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A liberdade de avançar antes de tudo (PROJ-0437)
+Data: 11/07/2025
+Gerente: Ravi Borges
+
+Orçamento inicial: R$ 188875.00
+Custo real atual: R$ 134205.07
+Desvio orçamentário: 3.39%
+Índice de Desempenho de Custo (CPI): 0.98
+Valor Agregado (EV): R$ 131594.32
+Estimativa para conclusão: R$ 58417.10
+Estimativa no término (EAC): R$ 192622.18
+Variação no término (VAC): R$ -3747.18
+
+Detalhamento por categoria:
+- Pessoal: R$ 59001.49 (44.0%)
+- Equipamentos: R$ 26084.35 (19.4%)
+- Software: R$ 20748.46 (15.5%)
+- Serviços: R$ 15880.16 (11.8%)
+- Outros: R$ 12490.62 (9.3%)

@@ -1,0 +1,31 @@
+RELATÓRIO DE STATUS DE RISCOS
+Projeto: A possibilidade de avançar mais facilmente (PROJ-0333)
+Data: 11/07/2025
+Gerente: Kamilly Rezende
+
+Riscos identificados:
+- R01: Problemas de comunicação com stakeholders
+  Probabilidade: 4/5, Impacto: 2/5, Nível: Médio
+  Mitigação: Estabelecer canais de comunicação claros
+
+- R02: Atraso na entrega de componentes críticos
+  Probabilidade: 2/5, Impacto: 4/5, Nível: Médio
+  Mitigação: Monitorar mudanças regulatórias
+
+- R03: Problemas de comunicação com stakeholders
+  Probabilidade: 4/5, Impacto: 2/5, Nível: Médio
+  Mitigação: Contratar pessoal adicional
+
+Riscos ocorridos:
+- R01 (ocorrido em 18/05/2024)
+  Impacto real: Redução de funcionalidades
+  Ações tomadas: Revisão do orçamento
+
+- R02 (ocorrido em 13/01/2025)
+  Impacto real: Redução de funcionalidades
+  Ações tomadas: Revisão do orçamento
+
+- R03 (ocorrido em 21/01/2025)
+  Impacto real: Atraso de 2 semanas no cronograma
+  Ações tomadas: Implementação do plano de contingência
+

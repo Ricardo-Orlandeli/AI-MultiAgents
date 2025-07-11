@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O prazer de concretizar seus projetos simplesmente (PROJ-0934)
+Data: 11/07/2025
+Gerente: Ágatha Farias
+
+Orçamento inicial: R$ 2504734.00
+Custo real atual: R$ 660744.01
+Desvio orçamentário: -21.61%
+Índice de Desempenho de Custo (CPI): 1.03
+Valor Agregado (EV): R$ 682176.59
+Estimativa para conclusão: R$ 1765296.42
+Estimativa no término (EAC): R$ 2426040.43
+Variação no término (VAC): R$ 78693.57
+
+Detalhamento por categoria:
+- Pessoal: R$ 343111.71 (51.9%)
+- Equipamentos: R$ 92291.45 (14.0%)
+- Software: R$ 68131.99 (10.3%)
+- Serviços: R$ 103026.73 (15.6%)
+- Outros: R$ 54182.13 (8.2%)

@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O prazer de atingir seus objetivos de maneira eficaz (PROJ-0753)
+Data: 11/07/2025
+Gerente: Luiz Henrique Gonçalves
+
+Orçamento inicial: R$ 2709171.00
+Custo real atual: R$ 2845057.27
+Desvio orçamentário: 5.02%
+Índice de Desempenho de Custo (CPI): 0.91
+Valor Agregado (EV): R$ 2577535.59
+Estimativa para conclusão: R$ 145297.81
+Estimativa no término (EAC): R$ 2990355.08
+Variação no término (VAC): R$ -281184.08
+
+Detalhamento por categoria:
+- Pessoal: R$ 1388370.62 (48.8%)
+- Equipamentos: R$ 613325.73 (21.6%)
+- Software: R$ 347125.22 (12.2%)
+- Serviços: R$ 332310.87 (11.7%)
+- Outros: R$ 163924.83 (5.8%)

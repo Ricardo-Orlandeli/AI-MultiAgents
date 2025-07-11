@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A possibilidade de evoluir sem preocupação (PROJ-0104)
+Data: 11/07/2025
+Gerente: Sr. Rhavi Carvalho
+
+Orçamento inicial: R$ 4744823.00
+Custo real atual: R$ 2331752.90
+Desvio orçamentário: -29.92%
+Índice de Desempenho de Custo (CPI): 1.16
+Valor Agregado (EV): R$ 2714639.53
+Estimativa para conclusão: R$ 1743836.02
+Estimativa no término (EAC): R$ 4075588.93
+Variação no término (VAC): R$ 669234.07
+
+Detalhamento por categoria:
+- Pessoal: R$ 1351956.40 (58.0%)
+- Equipamentos: R$ 253026.63 (10.9%)
+- Software: R$ 140124.89 (6.0%)
+- Serviços: R$ 447425.34 (19.2%)
+- Outros: R$ 139219.65 (6.0%)

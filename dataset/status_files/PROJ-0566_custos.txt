@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A vantagem de realizar seus sonhos direto da fonte (PROJ-0566)
+Data: 11/07/2025
+Gerente: Luiz Felipe Almeida
+
+Orçamento inicial: R$ 650468.00
+Custo real atual: R$ 584824.25
+Desvio orçamentário: -10.09%
+Índice de Desempenho de Custo (CPI): 1.11
+Valor Agregado (EV): R$ 649817.53
+Estimativa para conclusão: R$ 585.41
+Estimativa no término (EAC): R$ 585409.66
+Variação no término (VAC): R$ 65058.34
+
+Detalhamento por categoria:
+- Pessoal: R$ 269448.47 (46.1%)
+- Equipamentos: R$ 94657.11 (16.2%)
+- Software: R$ 78988.68 (13.5%)
+- Serviços: R$ 100579.78 (17.2%)
+- Outros: R$ 41150.22 (7.0%)

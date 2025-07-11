@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A simplicidade de mudar simplesmente (PROJ-0883)
+Data: 11/07/2025
+Gerente: Ana Beatriz Barbosa
+
+Orçamento inicial: R$ 519355.00
+Custo real atual: R$ 267233.30
+Desvio orçamentário: -26.80%
+Índice de Desempenho de Custo (CPI): 0.82
+Valor Agregado (EV): R$ 218420.96
+Estimativa para conclusão: R$ 368186.26
+Estimativa no término (EAC): R$ 635419.55
+Variação no término (VAC): R$ -116064.55
+
+Detalhamento por categoria:
+- Pessoal: R$ 130160.75 (48.7%)
+- Equipamentos: R$ 43532.49 (16.3%)
+- Software: R$ 29873.81 (11.2%)
+- Serviços: R$ 48958.98 (18.3%)
+- Outros: R$ 14707.27 (5.5%)

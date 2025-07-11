@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O poder de mudar direto da fonte (PROJ-0786)
+Data: 11/07/2025
+Gerente: Maria Alice Aparecida
+
+Orçamento inicial: R$ 2614151.00
+Custo real atual: R$ 1248373.67
+Desvio orçamentário: -40.14%
+Índice de Desempenho de Custo (CPI): 0.93
+Valor Agregado (EV): R$ 1158257.60
+Estimativa para conclusão: R$ 1569166.46
+Estimativa no término (EAC): R$ 2817540.13
+Variação no término (VAC): R$ -203389.13
+
+Detalhamento por categoria:
+- Pessoal: R$ 614895.04 (49.3%)
+- Equipamentos: R$ 192838.74 (15.4%)
+- Software: R$ 155448.35 (12.5%)
+- Serviços: R$ 214127.30 (17.2%)
+- Outros: R$ 71064.25 (5.7%)

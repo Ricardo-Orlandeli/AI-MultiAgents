@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A certeza de mudar com força total (PROJ-0941)
+Data: 11/07/2025
+Gerente: Yuri Sampaio
+
+Orçamento inicial: R$ 4367067.00
+Custo real atual: R$ 3933540.46
+Desvio orçamentário: -9.93%
+Índice de Desempenho de Custo (CPI): 0.80
+Valor Agregado (EV): R$ 3155691.44
+Estimativa para conclusão: R$ 1509968.54
+Estimativa no término (EAC): R$ 5443509.00
+Variação no término (VAC): R$ -1076442.00
+
+Detalhamento por categoria:
+- Pessoal: R$ 2224621.21 (56.6%)
+- Equipamentos: R$ 457487.07 (11.6%)
+- Software: R$ 323819.23 (8.2%)
+- Serviços: R$ 647941.25 (16.5%)
+- Outros: R$ 279671.69 (7.1%)

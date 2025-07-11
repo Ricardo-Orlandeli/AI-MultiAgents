@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A vantagem de conseguir com toda a tranquilidade (PROJ-0563)
+Data: 11/07/2025
+Gerente: Isabela Guerra
+
+Orçamento inicial: R$ 1480240.00
+Custo real atual: R$ 1439576.57
+Desvio orçamentário: 6.98%
+Índice de Desempenho de Custo (CPI): 0.79
+Valor Agregado (EV): R$ 1139472.16
+Estimativa para conclusão: R$ 430516.36
+Estimativa no término (EAC): R$ 1870092.93
+Variação no término (VAC): R$ -389852.93
+
+Detalhamento por categoria:
+- Pessoal: R$ 663339.02 (46.1%)
+- Equipamentos: R$ 201652.01 (14.0%)
+- Software: R$ 209673.22 (14.6%)
+- Serviços: R$ 248698.64 (17.3%)
+- Outros: R$ 116213.68 (8.1%)

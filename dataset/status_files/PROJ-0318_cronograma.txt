@@ -1,0 +1,27 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A certeza de evoluir naturalmente (PROJ-0318)
+Data: 11/07/2025
+Gerente: Vinícius Machado
+
+Status atual: Atrasado
+Percentual de conclusão: 49.3%
+Data de início: 25/04/2025
+Data de término planejada: 28/08/2025
+Data de término real/prevista: 29/12/2025
+Atraso atual: 0 dias
+Motivo do atraso: Mudanças de requisitos não planejadas
+Índice de Desempenho de Cronograma (SPI): 0.80
+Valor Planejado (PV): R$ 2241198.96
+Valor Agregado (EV): R$ 1792378.87
+
+Tarefas críticas:
+- Desenvolvimento do painel administrativo
+- Migração de dados legados
+- Implementação do módulo de notificações
+- Desenvolvimento do painel administrativo
+- Desenvolvimento do módulo de autenticação
+- Testes de segurança
+- Implementação da API REST
+
+Tarefas atrasadas:
+- Testes de segurança

@@ -1,0 +1,25 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A simplicidade de conseguir mais rapidamente (PROJ-0177)
+Data: 11/07/2025
+Gerente: Aylla Cardoso
+
+Status atual: Concluído
+Percentual de conclusão: 100.0%
+Data de início: 27/03/2025
+Data de término planejada: 05/05/2025
+Data de término real/prevista: 29/04/2025
+Atraso atual: 67 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 1.04
+Valor Planejado (PV): R$ 1223884.00
+Valor Agregado (EV): R$ 1223884.00
+
+Tarefas críticas:
+- Implementação do módulo de exportação de dados
+- Implementação do módulo de notificações
+- Desenvolvimento do módulo de autenticação
+- Desenvolvimento do painel administrativo
+- Integração com sistema de pagamentos
+- Implementação do módulo de exportação de dados
+
+Tarefas atrasadas:

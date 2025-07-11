@@ -1,0 +1,28 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: O direito de ganhar com confiança (PROJ-0374)
+Data: 11/07/2025
+Gerente: Manuela Farias
+
+Status atual: Atrasado
+Percentual de conclusão: 53.8%
+Data de início: 27/08/2024
+Data de término planejada: 01/01/2025
+Data de término real/prevista: 27/06/2025
+Atraso atual: 191 dias
+Motivo do atraso: Atraso na entrega de componentes por fornecedores
+Índice de Desempenho de Cronograma (SPI): 0.54
+Valor Planejado (PV): R$ 4839527.00
+Valor Agregado (EV): R$ 2605499.28
+
+Tarefas críticas:
+- Desenvolvimento da interface do usuário
+- Desenvolvimento da interface do usuário
+- Implementação do sistema de backup
+- Implementação do módulo de notificações
+- Desenvolvimento do módulo de autenticação
+- Desenvolvimento do painel administrativo
+- Implementação do módulo de análise de dados
+
+Tarefas atrasadas:
+- Desenvolvimento do módulo de autenticação
+- Desenvolvimento da interface do usuário

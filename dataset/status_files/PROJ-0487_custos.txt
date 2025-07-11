@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O direito de realizar seus sonhos mais rapidamente (PROJ-0487)
+Data: 11/07/2025
+Gerente: Renan Abreu
+
+Orçamento inicial: R$ 2343126.00
+Custo real atual: R$ 1960608.30
+Desvio orçamentário: -16.33%
+Índice de Desempenho de Custo (CPI): 1.19
+Valor Agregado (EV): R$ 2340782.87
+Estimativa para conclusão: R$ 1962.57
+Estimativa no término (EAC): R$ 1962570.87
+Variação no término (VAC): R$ 380555.13
+
+Detalhamento por categoria:
+- Pessoal: R$ 972228.82 (49.6%)
+- Equipamentos: R$ 275882.26 (14.1%)
+- Software: R$ 191556.96 (9.8%)
+- Serviços: R$ 352337.21 (18.0%)
+- Outros: R$ 168603.04 (8.6%)

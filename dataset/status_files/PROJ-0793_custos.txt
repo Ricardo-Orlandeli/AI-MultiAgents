@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A simplicidade de ganhar de maneira eficaz (PROJ-0793)
+Data: 11/07/2025
+Gerente: Isabella Nunes
+
+Orçamento inicial: R$ 4590046.00
+Custo real atual: R$ 3907375.22
+Desvio orçamentário: -14.87%
+Índice de Desempenho de Custo (CPI): 0.99
+Valor Agregado (EV): R$ 3852985.83
+Estimativa para conclusão: R$ 747464.64
+Estimativa no término (EAC): R$ 4654839.86
+Variação no término (VAC): R$ -64793.86
+
+Detalhamento por categoria:
+- Pessoal: R$ 2077236.59 (53.2%)
+- Equipamentos: R$ 533678.83 (13.7%)
+- Software: R$ 282573.98 (7.2%)
+- Serviços: R$ 666517.43 (17.1%)
+- Outros: R$ 347368.38 (8.9%)

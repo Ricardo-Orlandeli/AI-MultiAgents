@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A simplicidade de evoluir antes de tudo (PROJ-0865)
+Data: 11/07/2025
+Gerente: Ana Carolina Ferreira
+
+Orçamento inicial: R$ 3845681.00
+Custo real atual: R$ 206298.71
+Desvio orçamentário: 4.61%
+Índice de Desempenho de Custo (CPI): 0.80
+Valor Agregado (EV): R$ 165826.00
+Estimativa para conclusão: R$ 4577987.45
+Estimativa no término (EAC): R$ 4784286.16
+Variação no término (VAC): R$ -938605.16
+
+Detalhamento por categoria:
+- Pessoal: R$ 116983.16 (56.7%)
+- Equipamentos: R$ 41206.13 (20.0%)
+- Software: R$ 11378.40 (5.5%)
+- Serviços: R$ 21809.47 (10.6%)
+- Outros: R$ 14921.56 (7.2%)

@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O direito de realizar seus sonhos sem preocupação (PROJ-0581)
+Data: 11/07/2025
+Gerente: José Pedro da Rosa
+
+Orçamento inicial: R$ 2721038.00
+Custo real atual: R$ 2414873.18
+Desvio orçamentário: -11.25%
+Índice de Desempenho de Custo (CPI): 1.00
+Valor Agregado (EV): R$ 2424205.92
+Estimativa para conclusão: R$ 295689.33
+Estimativa no término (EAC): R$ 2710562.51
+Variação no término (VAC): R$ 10475.49
+
+Detalhamento por categoria:
+- Pessoal: R$ 1315694.74 (54.5%)
+- Equipamentos: R$ 341379.55 (14.1%)
+- Software: R$ 212909.53 (8.8%)
+- Serviços: R$ 395282.78 (16.4%)
+- Outros: R$ 149606.59 (6.2%)

@@ -1,0 +1,23 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: O poder de ganhar sem preocupação (PROJ-0876)
+Data: 11/07/2025
+Gerente: Giovanna Teixeira
+
+Status atual: Em andamento
+Percentual de conclusão: 84.0%
+Data de início: 25/05/2024
+Data de término planejada: 19/02/2025
+Data de término real/prevista: 19/03/2025
+Atraso atual: 142 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 1.09
+Valor Planejado (PV): R$ 3971169.00
+Valor Agregado (EV): R$ 3336412.39
+
+Tarefas críticas:
+- Implementação do módulo de notificações
+- Testes de aceitação do usuário
+- Migração de dados legados
+- Implementação do módulo de análise de dados
+
+Tarefas atrasadas:

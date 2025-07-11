@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A vantagem de avançar com toda a tranquilidade (PROJ-0490)
+Data: 11/07/2025
+Gerente: Samuel Fonseca
+
+Orçamento inicial: R$ 3889580.00
+Custo real atual: R$ 842069.08
+Desvio orçamentário: -63.42%
+Índice de Desempenho de Custo (CPI): 0.73
+Valor Agregado (EV): R$ 614253.37
+Estimativa para conclusão: R$ 4490087.28
+Estimativa no término (EAC): R$ 5332156.36
+Variação no término (VAC): R$ -1442576.36
+
+Detalhamento por categoria:
+- Pessoal: R$ 467740.21 (55.5%)
+- Equipamentos: R$ 97176.96 (11.5%)
+- Software: R$ 104332.56 (12.4%)
+- Serviços: R$ 119225.83 (14.2%)
+- Outros: R$ 53593.52 (6.4%)

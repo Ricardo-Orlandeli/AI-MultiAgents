@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O conforto de evoluir com força total (PROJ-0660)
+Data: 11/07/2025
+Gerente: Sr. Benicio da Cruz
+
+Orçamento inicial: R$ 3173489.00
+Custo real atual: R$ 2151997.42
+Desvio orçamentário: -9.48%
+Índice de Desempenho de Custo (CPI): 1.12
+Valor Agregado (EV): R$ 2402362.22
+Estimativa para conclusão: R$ 690762.96
+Estimativa no término (EAC): R$ 2842760.38
+Variação no término (VAC): R$ 330728.62
+
+Detalhamento por categoria:
+- Pessoal: R$ 986236.96 (45.8%)
+- Equipamentos: R$ 402667.27 (18.7%)
+- Software: R$ 165998.43 (7.7%)
+- Serviços: R$ 441407.03 (20.5%)
+- Outros: R$ 155687.73 (7.2%)

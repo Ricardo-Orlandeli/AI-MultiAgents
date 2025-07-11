@@ -1,0 +1,24 @@
+RELATÓRIO DE STATUS DE ESCOPO
+Projeto: A possibilidade de ganhar com força total (PROJ-0629)
+Data: 11/07/2025
+Gerente: Dra. Maria Clara Porto
+
+Escopo original: Sistema para a possibilidade de ganhar com força total
+Houve mudança de escopo: Sim
+Descrição das mudanças: Redução do escopo devido a restrições orçamentárias
+Impacto no cronograma: 58 dias
+Impacto no custo: R$ 463943.64
+
+Solicitações de mudança:
+- SCM-01: Adição de funcionalidade de autenticação biométrica
+- SCM-02: Mudança na arquitetura do sistema
+- SCM-03: Adição de relatórios gerenciais
+- SCM-04: Mudança na arquitetura do sistema
+
+Requisitos atuais:
+- REQ-01: O sistema deve permitir exportação de dados em formato CSV
+- REQ-02: O sistema deve processar transações em menos de 2 seconds
+- REQ-03: O sistema deve implementar criptografia de dados sensíveis
+- REQ-04: O sistema deve passar por testes de segurança
+- REQ-05: O sistema deve passar por testes de segurança
+- REQ-06: O sistema deve permitir exportação de dados em formato CSV

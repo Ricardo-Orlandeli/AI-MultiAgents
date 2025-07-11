@@ -1,0 +1,23 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A arte de atingir seus objetivos com toda a tranquilidade (PROJ-0592)
+Data: 11/07/2025
+Gerente: Benjamim Correia
+
+Status atual: Em andamento
+Percentual de conclusão: 84.3%
+Data de início: 03/06/2024
+Data de término planejada: 04/11/2024
+Data de término real/prevista: 02/12/2024
+Atraso atual: 249 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 1.04
+Valor Planejado (PV): R$ 4366300.00
+Valor Agregado (EV): R$ 3682028.55
+
+Tarefas críticas:
+- Implementação do módulo de análise de dados
+- Desenvolvimento do módulo de autenticação
+- Implementação do módulo de exportação de dados
+- Desenvolvimento do módulo de autenticação
+
+Tarefas atrasadas:

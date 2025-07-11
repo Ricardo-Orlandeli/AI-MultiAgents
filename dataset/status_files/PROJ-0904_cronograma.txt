@@ -1,0 +1,26 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A arte de evoluir antes de tudo (PROJ-0904)
+Data: 11/07/2025
+Gerente: Maria Isis da Cruz
+
+Status atual: Em andamento
+Percentual de conclusão: 84.0%
+Data de início: 28/06/2024
+Data de término planejada: 21/02/2025
+Data de término real/prevista: 06/03/2025
+Atraso atual: 140 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 0.96
+Valor Planejado (PV): R$ 3823082.00
+Valor Agregado (EV): R$ 3212628.52
+
+Tarefas críticas:
+- Migração de dados legados
+- Implementação do módulo de notificações
+- Desenvolvimento do módulo de autenticação
+- Implementação do módulo de análise de dados
+- Desenvolvimento do módulo de autenticação
+- Implementação da API REST
+- Implementação do módulo de análise de dados
+
+Tarefas atrasadas:

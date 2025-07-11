@@ -1,0 +1,23 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: O direito de avançar com toda a tranquilidade (PROJ-0857)
+Data: 11/07/2025
+Gerente: Ana Clara Siqueira
+
+Status atual: Em andamento
+Percentual de conclusão: 88.8%
+Data de início: 16/11/2024
+Data de término planejada: 28/08/2025
+Data de término real/prevista: 27/08/2025
+Atraso atual: 0 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 1.08
+Valor Planejado (PV): R$ 2046220.58
+Valor Agregado (EV): R$ 2185256.41
+
+Tarefas críticas:
+- Implementação do módulo de relatórios
+- Implementação do módulo de análise de dados
+- Implementação da API REST
+- Desenvolvimento da interface do usuário
+
+Tarefas atrasadas:

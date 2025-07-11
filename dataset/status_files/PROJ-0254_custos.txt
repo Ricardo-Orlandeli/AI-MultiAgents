@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A simplicidade de concretizar seus projetos mais facilmente (PROJ-0254)
+Data: 11/07/2025
+Gerente: Laís Gomes
+
+Orçamento inicial: R$ 2269586.00
+Custo real atual: R$ 2191638.86
+Desvio orçamentário: -3.43%
+Índice de Desempenho de Custo (CPI): 1.04
+Valor Agregado (EV): R$ 2269586.00
+Estimativa para conclusão: R$ 0.00
+Estimativa no término (EAC): R$ 2191638.86
+Variação no término (VAC): R$ 77947.14
+
+Detalhamento por categoria:
+- Pessoal: R$ 1154656.96 (52.7%)
+- Equipamentos: R$ 257704.48 (11.8%)
+- Software: R$ 236468.39 (10.8%)
+- Serviços: R$ 374011.69 (17.1%)
+- Outros: R$ 168797.33 (7.7%)

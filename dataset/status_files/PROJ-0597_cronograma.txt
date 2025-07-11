@@ -1,0 +1,29 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: O direito de avançar antes de tudo (PROJ-0597)
+Data: 11/07/2025
+Gerente: Valentina Correia
+
+Status atual: Atrasado
+Percentual de conclusão: 72.3%
+Data de início: 26/08/2023
+Data de término planejada: 07/12/2023
+Data de término real/prevista: 27/03/2024
+Atraso atual: 582 dias
+Motivo do atraso: Rotatividade de pessoal-chave
+Índice de Desempenho de Cronograma (SPI): 0.72
+Valor Planejado (PV): R$ 2586272.00
+Valor Agregado (EV): R$ 1869020.62
+
+Tarefas críticas:
+- Implementação do módulo de notificações
+- Implementação do módulo de relatórios
+- Implementação do módulo de exportação de dados
+- Implementação da API REST
+- Implementação do módulo de notificações
+- Configuração do ambiente de produção
+- Configuração do ambiente de produção
+
+Tarefas atrasadas:
+- Implementação do módulo de notificações
+- Implementação do módulo de relatórios
+- Configuração do ambiente de produção

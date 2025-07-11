@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A simplicidade de atingir seus objetivos com confiança (PROJ-0682)
+Data: 11/07/2025
+Gerente: Heloisa Pimenta
+
+Orçamento inicial: R$ 3190984.00
+Custo real atual: R$ 3401799.85
+Desvio orçamentário: 6.61%
+Índice de Desempenho de Custo (CPI): 0.94
+Valor Agregado (EV): R$ 3190984.00
+Estimativa para conclusão: R$ 0.00
+Estimativa no término (EAC): R$ 3401799.85
+Variação no término (VAC): R$ -210815.85
+
+Detalhamento por categoria:
+- Pessoal: R$ 1710441.84 (50.3%)
+- Equipamentos: R$ 449643.60 (13.2%)
+- Software: R$ 308137.04 (9.1%)
+- Serviços: R$ 537409.24 (15.8%)
+- Outros: R$ 396168.12 (11.6%)

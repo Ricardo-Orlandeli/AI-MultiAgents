@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O conforto de mudar naturalmente (PROJ-0190)
+Data: 11/07/2025
+Gerente: Sr. Otávio Cassiano
+
+Orçamento inicial: R$ 3835115.00
+Custo real atual: R$ 3069593.56
+Desvio orçamentário: -19.96%
+Índice de Desempenho de Custo (CPI): 1.25
+Valor Agregado (EV): R$ 3835115.00
+Estimativa para conclusão: R$ 0.00
+Estimativa no término (EAC): R$ 3069593.56
+Variação no término (VAC): R$ 765521.44
+
+Detalhamento por categoria:
+- Pessoal: R$ 1466560.32 (47.8%)
+- Equipamentos: R$ 498443.62 (16.2%)
+- Software: R$ 349645.18 (11.4%)
+- Serviços: R$ 540366.28 (17.6%)
+- Outros: R$ 214578.16 (7.0%)

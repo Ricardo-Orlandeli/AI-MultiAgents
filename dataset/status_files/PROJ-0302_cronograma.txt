@@ -1,0 +1,26 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A certeza de conseguir mais facilmente (PROJ-0302)
+Data: 11/07/2025
+Gerente: Alícia Alves
+
+Status atual: Concluído
+Percentual de conclusão: 100.0%
+Data de início: 31/12/2024
+Data de término planejada: 14/11/2025
+Data de término real/prevista: 02/11/2025
+Atraso atual: 0 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 1.09
+Valor Planejado (PV): R$ 619722.87
+Valor Agregado (EV): R$ 1026416.00
+
+Tarefas críticas:
+- Integração com sistema de pagamentos
+- Implementação da API REST
+- Integração com sistema de pagamentos
+- Desenvolvimento da interface do usuário
+- Configuração da infraestrutura
+- Implementação do módulo de exportação de dados
+- Desenvolvimento da interface do usuário
+
+Tarefas atrasadas:

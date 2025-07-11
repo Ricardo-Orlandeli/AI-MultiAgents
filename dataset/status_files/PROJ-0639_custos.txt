@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A arte de evoluir com força total (PROJ-0639)
+Data: 11/07/2025
+Gerente: Pedro Lucas Gonçalves
+
+Orçamento inicial: R$ 4529996.00
+Custo real atual: R$ 3617465.30
+Desvio orçamentário: -20.14%
+Índice de Desempenho de Custo (CPI): 1.00
+Valor Agregado (EV): R$ 3607722.69
+Estimativa para conclusão: R$ 924763.89
+Estimativa no término (EAC): R$ 4542229.20
+Variação no término (VAC): R$ -12233.20
+
+Detalhamento por categoria:
+- Pessoal: R$ 1965384.99 (54.3%)
+- Equipamentos: R$ 544405.16 (15.0%)
+- Software: R$ 309067.39 (8.5%)
+- Serviços: R$ 512408.16 (14.2%)
+- Outros: R$ 286199.60 (7.9%)

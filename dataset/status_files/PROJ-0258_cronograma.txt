@@ -1,0 +1,22 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A arte de realizar seus sonhos antes de tudo (PROJ-0258)
+Data: 11/07/2025
+Gerente: Emanuelly Gonçalves
+
+Status atual: Em andamento
+Percentual de conclusão: 91.5%
+Data de início: 13/01/2025
+Data de término planejada: 20/03/2025
+Data de término real/prevista: 13/04/2025
+Atraso atual: 113 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 1.00
+Valor Planejado (PV): R$ 570287.00
+Valor Agregado (EV): R$ 521816.74
+
+Tarefas críticas:
+- Implementação do módulo de análise de dados
+- Implementação do sistema de backup
+- Testes de aceitação do usuário
+
+Tarefas atrasadas:

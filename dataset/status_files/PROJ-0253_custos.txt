@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A possibilidade de atingir seus objetivos simplesmente (PROJ-0253)
+Data: 11/07/2025
+Gerente: Dr. Francisco da Cunha
+
+Orçamento inicial: R$ 909503.00
+Custo real atual: R$ 657770.67
+Desvio orçamentário: -4.71%
+Índice de Desempenho de Custo (CPI): 0.94
+Valor Agregado (EV): R$ 620628.48
+Estimativa para conclusão: R$ 306162.54
+Estimativa no término (EAC): R$ 963933.20
+Variação no término (VAC): R$ -54430.20
+
+Detalhamento por categoria:
+- Pessoal: R$ 386751.16 (58.8%)
+- Equipamentos: R$ 94496.47 (14.4%)
+- Software: R$ 43661.02 (6.6%)
+- Serviços: R$ 74694.41 (11.4%)
+- Outros: R$ 58167.61 (8.8%)

@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A simplicidade de mudar naturalmente (PROJ-0431)
+Data: 11/07/2025
+Gerente: Ana Cecília Almeida
+
+Orçamento inicial: R$ 797870.00
+Custo real atual: R$ 224440.09
+Desvio orçamentário: -29.09%
+Índice de Desempenho de Custo (CPI): 0.88
+Valor Agregado (EV): R$ 196861.06
+Estimativa para conclusão: R$ 685206.61
+Estimativa no término (EAC): R$ 909646.70
+Variação no término (VAC): R$ -111776.70
+
+Detalhamento por categoria:
+- Pessoal: R$ 111937.45 (49.9%)
+- Equipamentos: R$ 24672.28 (11.0%)
+- Software: R$ 31406.32 (14.0%)
+- Serviços: R$ 41582.56 (18.5%)
+- Outros: R$ 14841.48 (6.6%)

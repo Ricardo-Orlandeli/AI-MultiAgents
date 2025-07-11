@@ -1,0 +1,24 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: O direito de mudar mais facilmente (PROJ-0684)
+Data: 11/07/2025
+Gerente: Arthur Miguel Marques
+
+Status atual: Em andamento
+Percentual de conclusão: 67.6%
+Data de início: 17/01/2025
+Data de término planejada: 08/09/2025
+Data de término real/prevista: 24/09/2025
+Atraso atual: 0 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 0.97
+Valor Planejado (PV): R$ 2675918.27
+Valor Agregado (EV): R$ 2420455.12
+
+Tarefas críticas:
+- Implementação do módulo de análise de dados
+- Implementação do módulo de exportação de dados
+- Implementação do módulo de exportação de dados
+- Desenvolvimento da interface do usuário
+- Implementação do módulo de relatórios
+
+Tarefas atrasadas:

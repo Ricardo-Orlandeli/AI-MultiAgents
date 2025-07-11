@@ -1,0 +1,27 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A vantagem de atingir seus objetivos mais rapidamente (PROJ-0244)
+Data: 11/07/2025
+Gerente: Yuri da Mota
+
+Status atual: Em andamento
+Percentual de conclusão: 28.6%
+Data de início: 24/06/2025
+Data de término planejada: 01/09/2025
+Data de término real/prevista: 25/08/2025
+Atraso atual: 0 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 1.01
+Valor Planejado (PV): R$ 328827.80
+Valor Agregado (EV): R$ 381061.78
+
+Tarefas críticas:
+- Implementação do módulo de exportação de dados
+- Integração com sistema de pagamentos
+- Implementação da API REST
+- Desenvolvimento do painel administrativo
+- Testes de segurança
+- Implementação do módulo de notificações
+- Implementação do módulo de notificações
+- Desenvolvimento do módulo de autenticação
+
+Tarefas atrasadas:

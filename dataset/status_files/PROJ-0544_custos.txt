@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O direito de conseguir com toda a tranquilidade (PROJ-0544)
+Data: 11/07/2025
+Gerente: Julia Sales
+
+Orçamento inicial: R$ 3581087.00
+Custo real atual: R$ 3273908.85
+Desvio orçamentário: -8.58%
+Índice de Desempenho de Custo (CPI): 1.01
+Valor Agregado (EV): R$ 3299444.82
+Estimativa para conclusão: R$ 279462.42
+Estimativa no término (EAC): R$ 3553371.27
+Variação no término (VAC): R$ 27715.73
+
+Detalhamento por categoria:
+- Pessoal: R$ 1582894.50 (48.3%)
+- Equipamentos: R$ 493437.90 (15.1%)
+- Software: R$ 287123.57 (8.8%)
+- Serviços: R$ 562628.53 (17.2%)
+- Outros: R$ 347824.35 (10.6%)

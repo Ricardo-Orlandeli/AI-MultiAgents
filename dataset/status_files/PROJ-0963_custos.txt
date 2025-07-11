@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A simplicidade de mudar em estado puro (PROJ-0963)
+Data: 11/07/2025
+Gerente: Lorenzo da Rosa
+
+Orçamento inicial: R$ 152982.00
+Custo real atual: R$ 128158.57
+Desvio orçamentário: -16.23%
+Índice de Desempenho de Custo (CPI): 1.19
+Valor Agregado (EV): R$ 152829.02
+Estimativa para conclusão: R$ 128.29
+Estimativa no término (EAC): R$ 128286.85
+Variação no término (VAC): R$ 24695.15
+
+Detalhamento por categoria:
+- Pessoal: R$ 58537.08 (45.7%)
+- Equipamentos: R$ 25873.38 (20.2%)
+- Software: R$ 9070.95 (7.1%)
+- Serviços: R$ 26631.96 (20.8%)
+- Outros: R$ 8045.20 (6.3%)

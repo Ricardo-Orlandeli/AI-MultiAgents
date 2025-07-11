@@ -1,0 +1,27 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A liberdade de atingir seus objetivos com força total (PROJ-0586)
+Data: 11/07/2025
+Gerente: Davi Lima
+
+Status atual: Concluído
+Percentual de conclusão: 100.0%
+Data de início: 09/12/2024
+Data de término planejada: 08/09/2025
+Data de término real/prevista: 02/10/2025
+Atraso atual: 0 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 1.01
+Valor Planejado (PV): R$ 963159.13
+Valor Agregado (EV): R$ 1228703.00
+
+Tarefas críticas:
+- Implementação do módulo de notificações
+- Desenvolvimento do módulo de autenticação
+- Implementação do módulo de exportação de dados
+- Implementação do módulo de relatórios
+- Implementação do módulo de análise de dados
+- Implementação do módulo de análise de dados
+- Implementação do módulo de notificações
+- Configuração da infraestrutura
+
+Tarefas atrasadas:

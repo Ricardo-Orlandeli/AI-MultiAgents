@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A simplicidade de avançar direto da fonte (PROJ-0898)
+Data: 11/07/2025
+Gerente: Dra. Ana Clara Mendonça
+
+Orçamento inicial: R$ 2432595.00
+Custo real atual: R$ 1176283.23
+Desvio orçamentário: -30.68%
+Índice de Desempenho de Custo (CPI): 1.24
+Valor Agregado (EV): R$ 1459517.74
+Estimativa para conclusão: R$ 784241.55
+Estimativa no término (EAC): R$ 1960524.78
+Variação no término (VAC): R$ 472070.22
+
+Detalhamento por categoria:
+- Pessoal: R$ 627897.89 (53.4%)
+- Equipamentos: R$ 125753.31 (10.7%)
+- Software: R$ 123753.57 (10.5%)
+- Serviços: R$ 217535.03 (18.5%)
+- Outros: R$ 81343.44 (6.9%)

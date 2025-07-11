@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O poder de conseguir em estado puro (PROJ-0409)
+Data: 11/07/2025
+Gerente: Srta. Eloá Azevedo
+
+Orçamento inicial: R$ 66970.00
+Custo real atual: R$ 84346.90
+Desvio orçamentário: 25.95%
+Índice de Desempenho de Custo (CPI): 0.69
+Valor Agregado (EV): R$ 57971.30
+Estimativa para conclusão: R$ 13092.90
+Estimativa no término (EAC): R$ 97439.80
+Variação no término (VAC): R$ -30469.80
+
+Detalhamento por categoria:
+- Pessoal: R$ 42381.18 (50.2%)
+- Equipamentos: R$ 10292.00 (12.2%)
+- Software: R$ 5405.47 (6.4%)
+- Serviços: R$ 18795.06 (22.3%)
+- Outros: R$ 7473.18 (8.9%)

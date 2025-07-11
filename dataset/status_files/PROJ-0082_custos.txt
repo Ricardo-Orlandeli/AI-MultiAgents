@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A liberdade de mudar com força total (PROJ-0082)
+Data: 11/07/2025
+Gerente: Dra. Maya da Mota
+
+Orçamento inicial: R$ 194389.00
+Custo real atual: R$ 150216.10
+Desvio orçamentário: 41.35%
+Índice de Desempenho de Custo (CPI): 0.85
+Valor Agregado (EV): R$ 127238.92
+Estimativa para conclusão: R$ 79276.24
+Estimativa no término (EAC): R$ 229492.34
+Variação no término (VAC): R$ -35103.34
+
+Detalhamento por categoria:
+- Pessoal: R$ 82630.52 (55.0%)
+- Equipamentos: R$ 22103.22 (14.7%)
+- Software: R$ 16405.08 (10.9%)
+- Serviços: R$ 15598.62 (10.4%)
+- Outros: R$ 13478.67 (9.0%)

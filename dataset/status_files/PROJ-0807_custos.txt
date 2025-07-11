@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O poder de evoluir com toda a tranquilidade (PROJ-0807)
+Data: 11/07/2025
+Gerente: Maria Novais
+
+Orçamento inicial: R$ 2431232.00
+Custo real atual: R$ 2069996.63
+Desvio orçamentário: -14.86%
+Índice de Desempenho de Custo (CPI): 1.17
+Valor Agregado (EV): R$ 2428800.77
+Estimativa para conclusão: R$ 2072.07
+Estimativa no término (EAC): R$ 2072068.70
+Variação no término (VAC): R$ 359163.30
+
+Detalhamento por categoria:
+- Pessoal: R$ 959060.97 (46.3%)
+- Equipamentos: R$ 335425.39 (16.2%)
+- Software: R$ 259253.67 (12.5%)
+- Serviços: R$ 347705.12 (16.8%)
+- Outros: R$ 168551.48 (8.1%)

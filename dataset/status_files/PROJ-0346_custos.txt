@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A simplicidade de conseguir de maneira eficaz (PROJ-0346)
+Data: 11/07/2025
+Gerente: Liz Carvalho
+
+Orçamento inicial: R$ 431514.00
+Custo real atual: R$ 417233.73
+Desvio orçamentário: -3.31%
+Índice de Desempenho de Custo (CPI): 0.87
+Valor Agregado (EV): R$ 361634.68
+Estimativa para conclusão: R$ 80622.82
+Estimativa no término (EAC): R$ 497856.55
+Variação no término (VAC): R$ -66342.55
+
+Detalhamento por categoria:
+- Pessoal: R$ 226936.48 (54.4%)
+- Equipamentos: R$ 82728.26 (19.8%)
+- Software: R$ 23218.94 (5.6%)
+- Serviços: R$ 58569.02 (14.0%)
+- Outros: R$ 25781.03 (6.2%)

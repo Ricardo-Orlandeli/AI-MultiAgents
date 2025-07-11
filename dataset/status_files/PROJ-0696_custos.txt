@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A simplicidade de evoluir com confiança (PROJ-0696)
+Data: 11/07/2025
+Gerente: Heitor Camargo
+
+Orçamento inicial: R$ 2398712.00
+Custo real atual: R$ 212455.29
+Desvio orçamentário: -22.33%
+Índice de Desempenho de Custo (CPI): 0.77
+Valor Agregado (EV): R$ 164428.42
+Estimativa para conclusão: R$ 2886881.59
+Estimativa no término (EAC): R$ 3099336.88
+Variação no término (VAC): R$ -700624.88
+
+Detalhamento por categoria:
+- Pessoal: R$ 126627.71 (59.6%)
+- Equipamentos: R$ 27528.23 (13.0%)
+- Software: R$ 21086.69 (9.9%)
+- Serviços: R$ 22306.34 (10.5%)
+- Outros: R$ 14906.32 (7.0%)

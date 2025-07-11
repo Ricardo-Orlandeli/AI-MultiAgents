@@ -1,0 +1,19 @@
+RELATÓRIO DE STATUS DE ESCOPO
+Projeto: A possibilidade de avançar simplesmente (PROJ-0871)
+Data: 11/07/2025
+Gerente: Ester Novais
+
+Escopo original: Sistema para a possibilidade de avançar simplesmente
+Houve mudança de escopo: Não
+Descrição das mudanças: N/A
+Impacto no cronograma: 0 dias
+Impacto no custo: R$ 0.00
+
+Solicitações de mudança:
+
+Requisitos atuais:
+- REQ-01: O sistema deve registrar logs de auditoria
+- REQ-02: O sistema deve ter backup automático diário
+- REQ-03: O sistema deve ser compatível com navegadores modernos
+- REQ-04: O sistema deve ter backup automático diário
+- REQ-05: O sistema deve registrar logs de auditoria

@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A arte de mudar antes de tudo (PROJ-0482)
+Data: 11/07/2025
+Gerente: João Gabriel Teixeira
+
+Orçamento inicial: R$ 1149973.00
+Custo real atual: R$ 665715.25
+Desvio orçamentário: -42.11%
+Índice de Desempenho de Custo (CPI): 0.96
+Valor Agregado (EV): R$ 641301.67
+Estimativa para conclusão: R$ 528035.83
+Estimativa no término (EAC): R$ 1193751.08
+Variação no término (VAC): R$ -43778.08
+
+Detalhamento por categoria:
+- Pessoal: R$ 299860.63 (45.0%)
+- Equipamentos: R$ 115606.07 (17.4%)
+- Software: R$ 102682.86 (15.4%)
+- Serviços: R$ 80640.76 (12.1%)
+- Outros: R$ 66924.92 (10.1%)

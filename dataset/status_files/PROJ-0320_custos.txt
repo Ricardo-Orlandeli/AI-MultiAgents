@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A liberdade de realizar seus sonhos naturalmente (PROJ-0320)
+Data: 11/07/2025
+Gerente: Hellena Duarte
+
+Orçamento inicial: R$ 1125087.00
+Custo real atual: R$ 797022.32
+Desvio orçamentário: -29.16%
+Índice de Desempenho de Custo (CPI): 0.87
+Valor Agregado (EV): R$ 690789.11
+Estimativa para conclusão: R$ 501086.53
+Estimativa no término (EAC): R$ 1298108.85
+Variação no término (VAC): R$ -173021.85
+
+Detalhamento por categoria:
+- Pessoal: R$ 383104.45 (48.1%)
+- Equipamentos: R$ 97499.16 (12.2%)
+- Software: R$ 108225.62 (13.6%)
+- Serviços: R$ 126993.35 (15.9%)
+- Outros: R$ 81199.75 (10.2%)

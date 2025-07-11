@@ -1,0 +1,24 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: O conforto de concretizar seus projetos mais rapidamente (PROJ-0400)
+Data: 11/07/2025
+Gerente: Dr. Diogo Novais
+
+Status atual: Em andamento
+Percentual de conclusão: 99.9%
+Data de início: 04/09/2024
+Data de término planejada: 15/02/2025
+Data de término real/prevista: 01/02/2025
+Atraso atual: 146 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 1.11
+Valor Planejado (PV): R$ 3696829.00
+Valor Agregado (EV): R$ 3693132.17
+
+Tarefas críticas:
+- Desenvolvimento da interface do usuário
+- Testes de segurança
+- Desenvolvimento do painel administrativo
+- Implementação do módulo de notificações
+- Migração de dados legados
+
+Tarefas atrasadas:

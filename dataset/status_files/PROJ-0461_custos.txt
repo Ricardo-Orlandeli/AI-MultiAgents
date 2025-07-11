@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A vantagem de conseguir sem preocupação (PROJ-0461)
+Data: 11/07/2025
+Gerente: Vinicius Albuquerque
+
+Orçamento inicial: R$ 2456193.00
+Custo real atual: R$ 1823584.76
+Desvio orçamentário: -25.76%
+Índice de Desempenho de Custo (CPI): 1.18
+Valor Agregado (EV): R$ 2142763.82
+Estimativa para conclusão: R$ 266741.80
+Estimativa no término (EAC): R$ 2090326.55
+Variação no término (VAC): R$ 365866.45
+
+Detalhamento por categoria:
+- Pessoal: R$ 1003653.20 (55.0%)
+- Equipamentos: R$ 224616.59 (12.3%)
+- Software: R$ 238107.40 (13.1%)
+- Serviços: R$ 223959.44 (12.3%)
+- Outros: R$ 133248.13 (7.3%)

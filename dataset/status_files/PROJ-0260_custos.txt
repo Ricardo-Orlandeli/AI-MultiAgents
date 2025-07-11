@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O prazer de evoluir com toda a tranquilidade (PROJ-0260)
+Data: 11/07/2025
+Gerente: Sr. Thomas Jesus
+
+Orçamento inicial: R$ 1566322.00
+Custo real atual: R$ 1012108.81
+Desvio orçamentário: -35.38%
+Índice de Desempenho de Custo (CPI): 0.83
+Valor Agregado (EV): R$ 835962.21
+Estimativa para conclusão: R$ 884254.78
+Estimativa no término (EAC): R$ 1896363.60
+Variação no término (VAC): R$ -330041.60
+
+Detalhamento por categoria:
+- Pessoal: R$ 516099.17 (51.0%)
+- Equipamentos: R$ 191415.41 (18.9%)
+- Software: R$ 51506.47 (5.1%)
+- Serviços: R$ 185924.45 (18.4%)
+- Outros: R$ 67163.32 (6.6%)

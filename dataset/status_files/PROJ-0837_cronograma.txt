@@ -1,0 +1,27 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A liberdade de realizar seus sonhos com força total (PROJ-0837)
+Data: 11/07/2025
+Gerente: Maria Sophia da Paz
+
+Status atual: Atrasado
+Percentual de conclusão: 79.4%
+Data de início: 05/09/2023
+Data de término planejada: 19/06/2024
+Data de término real/prevista: 30/06/2024
+Atraso atual: 387 dias
+Motivo do atraso: Estimativas imprecisas
+Índice de Desempenho de Cronograma (SPI): 0.79
+Valor Planejado (PV): R$ 4934783.00
+Valor Agregado (EV): R$ 3920102.16
+
+Tarefas críticas:
+- Desenvolvimento do painel administrativo
+- Migração de dados legados
+- Integração com sistema de pagamentos
+- Testes de segurança
+- Desenvolvimento do painel administrativo
+
+Tarefas atrasadas:
+- Testes de segurança
+- Desenvolvimento do painel administrativo
+- Integração com sistema de pagamentos

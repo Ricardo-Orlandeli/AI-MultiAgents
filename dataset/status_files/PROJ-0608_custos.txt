@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O prazer de ganhar naturalmente (PROJ-0608)
+Data: 11/07/2025
+Gerente: Thiago Monteiro
+
+Orçamento inicial: R$ 3666416.00
+Custo real atual: R$ 2740083.08
+Desvio orçamentário: -5.67%
+Índice de Desempenho de Custo (CPI): 0.96
+Valor Agregado (EV): R$ 2633691.03
+Estimativa para conclusão: R$ 1074443.51
+Estimativa no término (EAC): R$ 3814526.59
+Variação no término (VAC): R$ -148110.59
+
+Detalhamento por categoria:
+- Pessoal: R$ 1402981.70 (51.2%)
+- Equipamentos: R$ 308819.46 (11.3%)
+- Software: R$ 325614.99 (11.9%)
+- Serviços: R$ 546358.94 (19.9%)
+- Outros: R$ 156307.99 (5.7%)

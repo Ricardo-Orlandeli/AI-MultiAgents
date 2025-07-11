@@ -1,0 +1,24 @@
+RELATÓRIO DE STATUS DE ESCOPO
+Projeto: A certeza de inovar simplesmente (PROJ-0140)
+Data: 11/07/2025
+Gerente: Heloisa Almeida
+
+Escopo original: Sistema para a certeza de inovar simplesmente
+Houve mudança de escopo: Sim
+Descrição das mudanças: Expansão do escopo para incluir funcionalidades adicionais
+Impacto no cronograma: 7 dias
+Impacto no custo: R$ 352515.14
+
+Solicitações de mudança:
+- SCM-01: Adição de relatórios gerenciais
+
+Requisitos atuais:
+- REQ-01: O sistema deve registrar logs de auditoria
+- REQ-02: O sistema deve permitir integração com APIs externas
+- REQ-03: O sistema deve passar por testes de segurança
+- REQ-04: O sistema deve implementar criptografia de dados sensíveis
+- REQ-05: O sistema deve permitir integração com APIs externas
+- REQ-06: O sistema deve ser compatível com dispositivos móveis
+- REQ-07: O sistema deve processar transações em menos de 2 seconds
+- REQ-08: O sistema deve ser compatível com navegadores modernos
+- REQ-09: O sistema deve ser escalável para suportar até 10.000 usuários simultâneos

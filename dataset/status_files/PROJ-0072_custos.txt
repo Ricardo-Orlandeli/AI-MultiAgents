@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O poder de avançar mais rapidamente (PROJ-0072)
+Data: 11/07/2025
+Gerente: Kevin Leão
+
+Orçamento inicial: R$ 3520745.00
+Custo real atual: R$ 1590786.36
+Desvio orçamentário: -45.04%
+Índice de Desempenho de Custo (CPI): 0.96
+Valor Agregado (EV): R$ 1532318.68
+Estimativa para conclusão: R$ 2064297.39
+Estimativa no término (EAC): R$ 3655083.75
+Variação no término (VAC): R$ -134338.75
+
+Detalhamento por categoria:
+- Pessoal: R$ 824005.67 (51.8%)
+- Equipamentos: R$ 210843.98 (13.3%)
+- Software: R$ 124732.91 (7.8%)
+- Serviços: R$ 292567.02 (18.4%)
+- Outros: R$ 138636.78 (8.7%)

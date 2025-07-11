@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A certeza de mudar antes de tudo (PROJ-0670)
+Data: 11/07/2025
+Gerente: Sr. Luiz Fernando da Cruz
+
+Orçamento inicial: R$ 2304990.00
+Custo real atual: R$ 2336350.41
+Desvio orçamentário: 1.36%
+Índice de Desempenho de Custo (CPI): 0.99
+Valor Agregado (EV): R$ 2302685.01
+Estimativa para conclusão: R$ 2338.69
+Estimativa no término (EAC): R$ 2338689.10
+Variação no término (VAC): R$ -33699.10
+
+Detalhamento por categoria:
+- Pessoal: R$ 1071576.71 (45.9%)
+- Equipamentos: R$ 314673.97 (13.5%)
+- Software: R$ 343230.75 (14.7%)
+- Serviços: R$ 360546.55 (15.4%)
+- Outros: R$ 246322.42 (10.5%)

@@ -1,0 +1,29 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: O prazer de mudar antes de tudo (PROJ-0460)
+Data: 11/07/2025
+Gerente: Eduardo Cavalcanti
+
+Status atual: Atrasado
+Percentual de conclusão: 73.6%
+Data de início: 13/01/2024
+Data de término planejada: 04/04/2024
+Data de término real/prevista: 26/08/2024
+Atraso atual: 463 dias
+Motivo do atraso: Problemas de comunicação
+Índice de Desempenho de Cronograma (SPI): 0.74
+Valor Planejado (PV): R$ 972709.00
+Valor Agregado (EV): R$ 715889.43
+
+Tarefas críticas:
+- Configuração do ambiente de produção
+- Implementação do módulo de notificações
+- Configuração do ambiente de produção
+- Implementação do módulo de análise de dados
+- Testes de segurança
+- Implementação do módulo de notificações
+- Configuração do ambiente de produção
+
+Tarefas atrasadas:
+- Configuração do ambiente de produção
+- Configuração do ambiente de produção
+- Configuração do ambiente de produção

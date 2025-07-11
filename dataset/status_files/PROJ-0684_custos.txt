@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O direito de mudar mais facilmente (PROJ-0684)
+Data: 11/07/2025
+Gerente: Arthur Miguel Marques
+
+Orçamento inicial: R$ 3578085.00
+Custo real atual: R$ 2853912.88
+Desvio orçamentário: 6.65%
+Índice de Desempenho de Custo (CPI): 0.85
+Valor Agregado (EV): R$ 2420455.12
+Estimativa para conclusão: R$ 1364939.51
+Estimativa no término (EAC): R$ 4218852.39
+Variação no término (VAC): R$ -640767.39
+
+Detalhamento por categoria:
+- Pessoal: R$ 1510956.44 (52.9%)
+- Equipamentos: R$ 437844.31 (15.3%)
+- Software: R$ 240005.28 (8.4%)
+- Serviços: R$ 406155.81 (14.2%)
+- Outros: R$ 258951.03 (9.1%)

@@ -1,0 +1,31 @@
+RELATÓRIO DE STATUS DE ESCOPO
+Projeto: A segurança de evoluir naturalmente (PROJ-0468)
+Data: 11/07/2025
+Gerente: Ryan da Mata
+
+Escopo original: Sistema para a segurança de evoluir naturalmente
+Houve mudança de escopo: Sim
+Descrição das mudanças: Mudança na plataforma de implementação
+Impacto no cronograma: 39 dias
+Impacto no custo: R$ 279474.57
+
+Solicitações de mudança:
+- SCM-01: Integração com sistema legado
+- SCM-02: Alteração na interface do usuário
+- SCM-03: Adição de funcionalidade de autenticação biométrica
+
+Requisitos atuais:
+- REQ-01: O sistema deve implementar criptografia de dados sensíveis
+- REQ-02: O sistema deve permitir exportação de dados em formato CSV
+- REQ-03: O sistema deve passar por testes de segurança
+- REQ-04: O sistema deve ter controle de acesso baseado em perfis
+- REQ-05: O sistema deve permitir autenticação de usuários
+- REQ-06: O sistema deve ter interface responsiva
+- REQ-07: O sistema deve ter documentação completa
+- REQ-08: O sistema deve implementar criptografia de dados sensíveis
+- REQ-09: O sistema deve ter alta disponibilidade (99.9%)
+- REQ-10: O sistema deve ter documentação completa
+- REQ-11: O sistema deve ter backup automático diário
+- REQ-12: O sistema deve passar por testes de segurança
+- REQ-13: O sistema deve ter documentação completa
+- REQ-14: O sistema deve registrar logs de auditoria

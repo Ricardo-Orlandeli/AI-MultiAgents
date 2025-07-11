@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A liberdade de evoluir com força total (PROJ-0068)
+Data: 11/07/2025
+Gerente: Ana Cavalcanti
+
+Orçamento inicial: R$ 1158798.00
+Custo real atual: R$ 787455.87
+Desvio orçamentário: -32.05%
+Índice de Desempenho de Custo (CPI): 0.88
+Valor Agregado (EV): R$ 694510.72
+Estimativa para conclusão: R$ 526422.03
+Estimativa no término (EAC): R$ 1313877.89
+Variação no término (VAC): R$ -155079.89
+
+Detalhamento por categoria:
+- Pessoal: R$ 433561.30 (55.1%)
+- Equipamentos: R$ 118005.37 (15.0%)
+- Software: R$ 95340.49 (12.1%)
+- Serviços: R$ 74463.24 (9.5%)
+- Outros: R$ 66085.48 (8.4%)

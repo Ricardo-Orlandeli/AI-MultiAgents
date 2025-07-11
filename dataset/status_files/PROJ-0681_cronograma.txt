@@ -1,0 +1,26 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A vantagem de realizar seus sonhos mais rapidamente (PROJ-0681)
+Data: 11/07/2025
+Gerente: Augusto Almeida
+
+Status atual: Em andamento
+Percentual de conclusão: 86.3%
+Data de início: 06/05/2024
+Data de término planejada: 06/05/2025
+Data de término real/prevista: 05/06/2025
+Atraso atual: 66 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 1.10
+Valor Planejado (PV): R$ 3544120.00
+Valor Agregado (EV): R$ 3059593.59
+
+Tarefas críticas:
+- Implementação da API REST
+- Desenvolvimento do painel administrativo
+- Configuração do ambiente de produção
+- Testes de segurança
+- Configuração da infraestrutura
+- Desenvolvimento do painel administrativo
+- Implementação do módulo de relatórios
+
+Tarefas atrasadas:

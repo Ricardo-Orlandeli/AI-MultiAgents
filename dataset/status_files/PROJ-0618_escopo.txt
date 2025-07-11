@@ -1,0 +1,21 @@
+RELATÓRIO DE STATUS DE ESCOPO
+Projeto: O prazer de conseguir de maneira eficaz (PROJ-0618)
+Data: 11/07/2025
+Gerente: Nicole Andrade
+
+Escopo original: Sistema para o prazer de conseguir de maneira eficaz
+Houve mudança de escopo: Sim
+Descrição das mudanças: Mudança na plataforma de implementação
+Impacto no cronograma: 9 dias
+Impacto no custo: R$ 6528.07
+
+Solicitações de mudança:
+- SCM-01: Integração com sistema legado
+
+Requisitos atuais:
+- REQ-01: O sistema deve ter alta disponibilidade (99.9%)
+- REQ-02: O sistema deve permitir autenticação de usuários
+- REQ-03: O sistema deve ter interface responsiva
+- REQ-04: O sistema deve permitir autenticação de usuários
+- REQ-05: O sistema deve ser compatível com navegadores modernos
+- REQ-06: O sistema deve ter interface responsiva

@@ -1,0 +1,22 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: O direito de mudar direto da fonte (PROJ-0740)
+Data: 11/07/2025
+Gerente: Isis Silveira
+
+Status atual: Concluído
+Percentual de conclusão: 100.0%
+Data de início: 05/01/2024
+Data de término planejada: 06/06/2024
+Data de término real/prevista: 20/05/2024
+Atraso atual: 400 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 1.04
+Valor Planejado (PV): R$ 1409007.00
+Valor Agregado (EV): R$ 1409007.00
+
+Tarefas críticas:
+- Implementação do módulo de notificações
+- Implementação da API REST
+- Configuração da infraestrutura
+
+Tarefas atrasadas:

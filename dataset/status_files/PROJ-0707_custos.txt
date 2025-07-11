@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O poder de ganhar direto da fonte (PROJ-0707)
+Data: 11/07/2025
+Gerente: Emanuel Sales
+
+Orçamento inicial: R$ 3620252.00
+Custo real atual: R$ 3132031.97
+Desvio orçamentário: -13.49%
+Índice de Desempenho de Custo (CPI): 0.98
+Valor Agregado (EV): R$ 3061240.50
+Estimativa para conclusão: R$ 571938.70
+Estimativa no término (EAC): R$ 3703970.67
+Variação no término (VAC): R$ -83718.67
+
+Detalhamento por categoria:
+- Pessoal: R$ 1697762.21 (54.2%)
+- Equipamentos: R$ 438979.45 (14.0%)
+- Software: R$ 364417.40 (11.6%)
+- Serviços: R$ 378328.33 (12.1%)
+- Outros: R$ 252544.58 (8.1%)

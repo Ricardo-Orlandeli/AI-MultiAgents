@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O poder de evoluir em estado puro (PROJ-0623)
+Data: 11/07/2025
+Gerente: Gael das Neves
+
+Orçamento inicial: R$ 3855215.00
+Custo real atual: R$ 4216660.23
+Desvio orçamentário: 9.38%
+Índice de Desempenho de Custo (CPI): 0.91
+Valor Agregado (EV): R$ 3851359.79
+Estimativa para conclusão: R$ 4220.88
+Estimativa no término (EAC): R$ 4220881.11
+Variação no término (VAC): R$ -365666.11
+
+Detalhamento por categoria:
+- Pessoal: R$ 2042367.69 (48.4%)
+- Equipamentos: R$ 857690.27 (20.3%)
+- Software: R$ 406701.48 (9.6%)
+- Serviços: R$ 576001.36 (13.7%)
+- Outros: R$ 333899.42 (7.9%)

@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O poder de avançar mais facilmente (PROJ-0805)
+Data: 11/07/2025
+Gerente: Fernando Viana
+
+Orçamento inicial: R$ 3555036.00
+Custo real atual: R$ 2405857.29
+Desvio orçamentário: -10.28%
+Índice de Desempenho de Custo (CPI): 0.93
+Valor Agregado (EV): R$ 2233168.77
+Estimativa para conclusão: R$ 1424085.80
+Estimativa no término (EAC): R$ 3829943.09
+Variação no término (VAC): R$ -274907.09
+
+Detalhamento por categoria:
+- Pessoal: R$ 1284779.56 (53.4%)
+- Equipamentos: R$ 391942.63 (16.3%)
+- Software: R$ 135431.30 (5.6%)
+- Serviços: R$ 394371.72 (16.4%)
+- Outros: R$ 199332.10 (8.3%)

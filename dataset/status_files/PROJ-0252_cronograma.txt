@@ -1,0 +1,22 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: O prazer de inovar direto da fonte (PROJ-0252)
+Data: 11/07/2025
+Gerente: Kevin Farias
+
+Status atual: Em andamento
+Percentual de conclusão: 99.8%
+Data de início: 23/12/2023
+Data de término planejada: 11/06/2024
+Data de término real/prevista: 31/05/2024
+Atraso atual: 395 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 1.08
+Valor Planejado (PV): R$ 2653452.00
+Valor Agregado (EV): R$ 2647603.76
+
+Tarefas críticas:
+- Implementação do módulo de análise de dados
+- Implementação do módulo de relatórios
+- Desenvolvimento do módulo de autenticação
+
+Tarefas atrasadas:

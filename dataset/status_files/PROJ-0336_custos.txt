@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O direito de avançar mais facilmente (PROJ-0336)
+Data: 11/07/2025
+Gerente: Sara Nunes
+
+Orçamento inicial: R$ 265925.00
+Custo real atual: R$ 294144.08
+Desvio orçamentário: 10.61%
+Índice de Desempenho de Custo (CPI): 0.75
+Valor Agregado (EV): R$ 219264.46
+Estimativa para conclusão: R$ 62595.28
+Estimativa no término (EAC): R$ 356739.36
+Variação no término (VAC): R$ -90814.36
+
+Detalhamento por categoria:
+- Pessoal: R$ 127832.22 (43.5%)
+- Equipamentos: R$ 55462.75 (18.9%)
+- Software: R$ 41157.31 (14.0%)
+- Serviços: R$ 43885.30 (14.9%)
+- Outros: R$ 25806.50 (8.8%)

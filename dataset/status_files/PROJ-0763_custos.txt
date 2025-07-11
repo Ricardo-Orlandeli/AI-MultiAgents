@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A segurança de realizar seus sonhos com força total (PROJ-0763)
+Data: 11/07/2025
+Gerente: Manuella Azevedo
+
+Orçamento inicial: R$ 776288.00
+Custo real atual: R$ 578722.15
+Desvio orçamentário: -25.45%
+Índice de Desempenho de Custo (CPI): 1.13
+Valor Agregado (EV): R$ 655186.42
+Estimativa para conclusão: R$ 106968.28
+Estimativa no término (EAC): R$ 685690.43
+Variação no término (VAC): R$ 90597.57
+
+Detalhamento por categoria:
+- Pessoal: R$ 318466.15 (55.0%)
+- Equipamentos: R$ 75259.90 (13.0%)
+- Software: R$ 57471.41 (9.9%)
+- Serviços: R$ 90182.48 (15.6%)
+- Outros: R$ 37342.20 (6.5%)

@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A possibilidade de evoluir de maneira eficaz (PROJ-0742)
+Data: 11/07/2025
+Gerente: Mariah Martins
+
+Orçamento inicial: R$ 1235800.00
+Custo real atual: R$ 1042146.62
+Desvio orçamentário: -15.67%
+Índice de Desempenho de Custo (CPI): 0.96
+Valor Agregado (EV): R$ 1004823.56
+Estimativa para conclusão: R$ 239555.81
+Estimativa no término (EAC): R$ 1281702.43
+Variação no término (VAC): R$ -45902.43
+
+Detalhamento por categoria:
+- Pessoal: R$ 494564.76 (47.5%)
+- Equipamentos: R$ 227804.12 (21.9%)
+- Software: R$ 103106.97 (9.9%)
+- Serviços: R$ 141035.52 (13.5%)
+- Outros: R$ 75635.24 (7.3%)

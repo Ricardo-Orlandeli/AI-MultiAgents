@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A possibilidade de inovar com confiança (PROJ-0450)
+Data: 11/07/2025
+Gerente: Augusto Pastor
+
+Orçamento inicial: R$ 296567.00
+Custo real atual: R$ 315609.97
+Desvio orçamentário: 6.42%
+Índice de Desempenho de Custo (CPI): 0.94
+Valor Agregado (EV): R$ 296270.43
+Estimativa para conclusão: R$ 315.93
+Estimativa no término (EAC): R$ 315925.89
+Variação no término (VAC): R$ -19358.89
+
+Detalhamento por categoria:
+- Pessoal: R$ 170890.30 (54.1%)
+- Equipamentos: R$ 45029.78 (14.3%)
+- Software: R$ 27902.71 (8.8%)
+- Serviços: R$ 50912.68 (16.1%)
+- Outros: R$ 20874.50 (6.6%)

@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A certeza de ganhar com força total (PROJ-0616)
+Data: 11/07/2025
+Gerente: Bella Camargo
+
+Orçamento inicial: R$ 2669254.00
+Custo real atual: R$ 2945485.15
+Desvio orçamentário: 10.35%
+Índice de Desempenho de Custo (CPI): 0.84
+Valor Agregado (EV): R$ 2460461.02
+Estimativa para conclusão: R$ 249951.79
+Estimativa no término (EAC): R$ 3195436.94
+Variação no término (VAC): R$ -526182.94
+
+Detalhamento por categoria:
+- Pessoal: R$ 1460917.59 (49.6%)
+- Equipamentos: R$ 344745.10 (11.7%)
+- Software: R$ 307714.63 (10.4%)
+- Serviços: R$ 571160.56 (19.4%)
+- Outros: R$ 260947.26 (8.9%)

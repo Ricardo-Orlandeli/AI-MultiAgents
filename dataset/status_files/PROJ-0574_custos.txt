@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A arte de mudar mais rapidamente (PROJ-0574)
+Data: 11/07/2025
+Gerente: Dr. Alexandre Oliveira
+
+Orçamento inicial: R$ 120150.00
+Custo real atual: R$ 93655.32
+Desvio orçamentário: -22.05%
+Índice de Desempenho de Custo (CPI): 1.06
+Valor Agregado (EV): R$ 99167.75
+Estimativa para conclusão: R$ 19815.91
+Estimativa no término (EAC): R$ 113471.23
+Variação no término (VAC): R$ 6678.77
+
+Detalhamento por categoria:
+- Pessoal: R$ 44883.39 (47.9%)
+- Equipamentos: R$ 14976.73 (16.0%)
+- Software: R$ 12212.36 (13.0%)
+- Serviços: R$ 12605.48 (13.5%)
+- Outros: R$ 8977.36 (9.6%)

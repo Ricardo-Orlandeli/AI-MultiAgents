@@ -1,0 +1,23 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: O poder de evoluir com toda a tranquilidade (PROJ-0702)
+Data: 11/07/2025
+Gerente: Dr. Vicente Monteiro
+
+Status atual: Em andamento
+Percentual de conclusão: 99.9%
+Data de início: 11/07/2024
+Data de término planejada: 01/05/2025
+Data de término real/prevista: 25/04/2025
+Atraso atual: 71 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 1.13
+Valor Planejado (PV): R$ 4329537.00
+Valor Agregado (EV): R$ 4325207.46
+
+Tarefas críticas:
+- Implementação do módulo de análise de dados
+- Testes de aceitação do usuário
+- Implementação do sistema de backup
+- Implementação do módulo de notificações
+
+Tarefas atrasadas:

@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A segurança de atingir seus objetivos direto da fonte (PROJ-0472)
+Data: 11/07/2025
+Gerente: João Vitor Albuquerque
+
+Orçamento inicial: R$ 3174356.00
+Custo real atual: R$ 1286881.96
+Desvio orçamentário: 31.21%
+Índice de Desempenho de Custo (CPI): 0.89
+Valor Agregado (EV): R$ 1146629.92
+Estimativa para conclusão: R$ 2275750.93
+Estimativa no término (EAC): R$ 3562632.90
+Variação no término (VAC): R$ -388276.90
+
+Detalhamento por categoria:
+- Pessoal: R$ 719268.52 (55.9%)
+- Equipamentos: R$ 207587.30 (16.1%)
+- Software: R$ 121206.88 (9.4%)
+- Serviços: R$ 166135.35 (12.9%)
+- Outros: R$ 72683.90 (5.6%)

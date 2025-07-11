@@ -1,0 +1,25 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A liberdade de ganhar com confiança (PROJ-0663)
+Data: 11/07/2025
+Gerente: Ana Laura Casa Grande
+
+Status atual: Em andamento
+Percentual de conclusão: 99.9%
+Data de início: 12/10/2024
+Data de término planejada: 02/02/2025
+Data de término real/prevista: 17/02/2025
+Atraso atual: 159 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 0.88
+Valor Planejado (PV): R$ 4729680.00
+Valor Agregado (EV): R$ 4724950.32
+
+Tarefas críticas:
+- Implementação do módulo de exportação de dados
+- Implementação do módulo de exportação de dados
+- Implementação do módulo de análise de dados
+- Configuração da infraestrutura
+- Desenvolvimento do painel administrativo
+- Implementação do módulo de relatórios
+
+Tarefas atrasadas:

@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A liberdade de ganhar com confiança (PROJ-0462)
+Data: 11/07/2025
+Gerente: Eduardo Aparecida
+
+Orçamento inicial: R$ 4125897.00
+Custo real atual: R$ 3761828.27
+Desvio orçamentário: -8.82%
+Índice de Desempenho de Custo (CPI): 1.10
+Valor Agregado (EV): R$ 4125897.00
+Estimativa para conclusão: R$ 0.00
+Estimativa no término (EAC): R$ 3761828.27
+Variação no término (VAC): R$ 364068.73
+
+Detalhamento por categoria:
+- Pessoal: R$ 1918665.70 (51.0%)
+- Equipamentos: R$ 399192.64 (10.6%)
+- Software: R$ 499363.73 (13.3%)
+- Serviços: R$ 550724.91 (14.6%)
+- Outros: R$ 393881.29 (10.5%)

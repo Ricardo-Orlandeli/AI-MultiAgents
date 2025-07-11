@@ -1,0 +1,25 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: O conforto de avançar de maneira eficaz (PROJ-0185)
+Data: 11/07/2025
+Gerente: Ana Carolina da Mota
+
+Status atual: Atrasado
+Percentual de conclusão: 55.6%
+Data de início: 06/10/2023
+Data de término planejada: 16/01/2024
+Data de término real/prevista: 10/04/2024
+Atraso atual: 542 dias
+Motivo do atraso: Problemas de comunicação
+Índice de Desempenho de Cronograma (SPI): 0.56
+Valor Planejado (PV): R$ 2387553.00
+Valor Agregado (EV): R$ 1328255.22
+
+Tarefas críticas:
+- Implementação do módulo de exportação de dados
+- Desenvolvimento da interface do usuário
+- Configuração do ambiente de produção
+- Implementação do módulo de análise de dados
+- Implementação do módulo de exportação de dados
+
+Tarefas atrasadas:
+- Implementação do módulo de análise de dados

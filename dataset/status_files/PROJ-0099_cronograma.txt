@@ -1,0 +1,23 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: O poder de inovar naturalmente (PROJ-0099)
+Data: 11/07/2025
+Gerente: João Fonseca
+
+Status atual: Atrasado
+Percentual de conclusão: 50.3%
+Data de início: 26/03/2024
+Data de término planejada: 18/10/2024
+Data de término real/prevista: 31/12/2024
+Atraso atual: 266 dias
+Motivo do atraso: Rotatividade de pessoal-chave
+Índice de Desempenho de Cronograma (SPI): 0.50
+Valor Planejado (PV): R$ 4500583.00
+Valor Agregado (EV): R$ 2262862.65
+
+Tarefas críticas:
+- Implementação da API REST
+- Implementação do módulo de notificações
+- Implementação do módulo de exportação de dados
+
+Tarefas atrasadas:
+- Implementação do módulo de notificações

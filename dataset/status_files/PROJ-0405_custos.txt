@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O prazer de atingir seus objetivos sem preocupação (PROJ-0405)
+Data: 11/07/2025
+Gerente: Sra. Helena Aragão
+
+Orçamento inicial: R$ 1761443.00
+Custo real atual: R$ 1231166.12
+Desvio orçamentário: -30.10%
+Índice de Desempenho de Custo (CPI): 1.24
+Valor Agregado (EV): R$ 1531249.16
+Estimativa para conclusão: R$ 185082.13
+Estimativa no término (EAC): R$ 1416248.25
+Variação no término (VAC): R$ 345194.75
+
+Detalhamento por categoria:
+- Pessoal: R$ 544056.43 (44.2%)
+- Equipamentos: R$ 222503.16 (18.1%)
+- Software: R$ 174976.91 (14.2%)
+- Serviços: R$ 208902.10 (17.0%)
+- Outros: R$ 80727.53 (6.6%)

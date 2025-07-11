@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A liberdade de avançar de maneira eficaz (PROJ-0781)
+Data: 11/07/2025
+Gerente: Léo Pimenta
+
+Orçamento inicial: R$ 749980.00
+Custo real atual: R$ 639033.36
+Desvio orçamentário: -14.79%
+Índice de Desempenho de Custo (CPI): 1.13
+Valor Agregado (EV): R$ 719189.57
+Estimativa para conclusão: R$ 27358.73
+Estimativa no término (EAC): R$ 666392.09
+Variação no término (VAC): R$ 83587.91
+
+Detalhamento por categoria:
+- Pessoal: R$ 337629.78 (52.8%)
+- Equipamentos: R$ 81817.36 (12.8%)
+- Software: R$ 99852.34 (15.6%)
+- Serviços: R$ 78247.04 (12.2%)
+- Outros: R$ 41486.84 (6.5%)

@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A arte de ganhar com confiança (PROJ-0231)
+Data: 11/07/2025
+Gerente: Sra. Bárbara Novais
+
+Orçamento inicial: R$ 2546989.00
+Custo real atual: R$ 2128033.15
+Desvio orçamentário: -16.45%
+Índice de Desempenho de Custo (CPI): 1.19
+Valor Agregado (EV): R$ 2541092.51
+Estimativa para conclusão: R$ 4938.00
+Estimativa no término (EAC): R$ 2132971.16
+Variação no término (VAC): R$ 414017.84
+
+Detalhamento por categoria:
+- Pessoal: R$ 1129463.36 (53.1%)
+- Equipamentos: R$ 369094.84 (17.3%)
+- Software: R$ 204181.93 (9.6%)
+- Serviços: R$ 251186.53 (11.8%)
+- Outros: R$ 174106.50 (8.2%)

@@ -1,0 +1,32 @@
+RELATÓRIO DE STATUS DE ESCOPO
+Projeto: A liberdade de ganhar simplesmente (PROJ-0791)
+Data: 11/07/2025
+Gerente: Pietro Machado
+
+Escopo original: Sistema para a liberdade de ganhar simplesmente
+Houve mudança de escopo: Sim
+Descrição das mudanças: Mudança na plataforma de implementação
+Impacto no cronograma: 39 dias
+Impacto no custo: R$ 183137.56
+
+Solicitações de mudança:
+- SCM-01: Implementação de módulo de exportação de dados
+- SCM-02: Alteração na interface do usuário
+- SCM-03: Adição de funcionalidade de autenticação biométrica
+
+Requisitos atuais:
+- REQ-01: O sistema deve ter alta disponibilidade (99.9%)
+- REQ-02: O sistema deve ter documentação completa
+- REQ-03: O sistema deve permitir exportação de dados em formato CSV
+- REQ-04: O sistema deve ter documentação completa
+- REQ-05: O sistema deve registrar logs de auditoria
+- REQ-06: O sistema deve permitir autenticação de usuários
+- REQ-07: O sistema deve passar por testes de segurança
+- REQ-08: O sistema deve passar por testes de segurança
+- REQ-09: O sistema deve ser compatível com dispositivos móveis
+- REQ-10: O sistema deve registrar logs de auditoria
+- REQ-11: O sistema deve ter controle de acesso baseado em perfis
+- REQ-12: O sistema deve ter controle de acesso baseado em perfis
+- REQ-13: O sistema deve permitir autenticação de usuários
+- REQ-14: O sistema deve ser escalável para suportar até 10.000 usuários simultâneos
+- REQ-15: O sistema deve permitir exportação de dados em formato CSV

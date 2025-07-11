@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A liberdade de conseguir mais rapidamente (PROJ-0561)
+Data: 11/07/2025
+Gerente: Gael Henrique Pires
+
+Orçamento inicial: R$ 4663416.00
+Custo real atual: R$ 5124894.71
+Desvio orçamentário: 9.90%
+Índice de Desempenho de Custo (CPI): 0.91
+Valor Agregado (EV): R$ 4658752.58
+Estimativa para conclusão: R$ 5130.02
+Estimativa no término (EAC): R$ 5130024.74
+Variação no término (VAC): R$ -466608.74
+
+Detalhamento por categoria:
+- Pessoal: R$ 2587253.66 (50.5%)
+- Equipamentos: R$ 676551.19 (13.2%)
+- Software: R$ 599124.32 (11.7%)
+- Serviços: R$ 870398.26 (17.0%)
+- Outros: R$ 391567.29 (7.6%)

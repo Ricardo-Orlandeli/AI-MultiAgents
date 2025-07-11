@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O conforto de inovar mais rapidamente (PROJ-0058)
+Data: 11/07/2025
+Gerente: Yuri Silva
+
+Orçamento inicial: R$ 1752891.00
+Custo real atual: R$ 630003.06
+Desvio orçamentário: -6.00%
+Índice de Desempenho de Custo (CPI): 1.04
+Valor Agregado (EV): R$ 657376.21
+Estimativa para conclusão: R$ 1049897.54
+Estimativa no término (EAC): R$ 1679900.60
+Variação no término (VAC): R$ 72990.40
+
+Detalhamento por categoria:
+- Pessoal: R$ 332897.44 (52.8%)
+- Equipamentos: R$ 90543.08 (14.4%)
+- Software: R$ 82714.10 (13.1%)
+- Serviços: R$ 79176.69 (12.6%)
+- Outros: R$ 44671.75 (7.1%)

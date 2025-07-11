@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A certeza de conseguir mais facilmente (PROJ-0302)
+Data: 11/07/2025
+Gerente: Alícia Alves
+
+Orçamento inicial: R$ 1026416.00
+Custo real atual: R$ 882663.41
+Desvio orçamentário: 42.43%
+Índice de Desempenho de Custo (CPI): 1.16
+Valor Agregado (EV): R$ 1026416.00
+Estimativa para conclusão: R$ 0.00
+Estimativa no término (EAC): R$ 882663.41
+Variação no término (VAC): R$ 143752.59
+
+Detalhamento por categoria:
+- Pessoal: R$ 391139.52 (44.3%)
+- Equipamentos: R$ 192670.96 (21.8%)
+- Software: R$ 113062.86 (12.8%)
+- Serviços: R$ 105177.06 (11.9%)
+- Outros: R$ 80613.01 (9.1%)

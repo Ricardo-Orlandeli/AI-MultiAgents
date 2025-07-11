@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A simplicidade de avançar mais rapidamente (PROJ-0792)
+Data: 11/07/2025
+Gerente: Maysa Ramos
+
+Orçamento inicial: R$ 529912.00
+Custo real atual: R$ 90669.59
+Desvio orçamentário: -82.89%
+Índice de Desempenho de Custo (CPI): 0.85
+Valor Agregado (EV): R$ 77043.22
+Estimativa para conclusão: R$ 532966.15
+Estimativa no término (EAC): R$ 623635.74
+Variação no término (VAC): R$ -93723.74
+
+Detalhamento por categoria:
+- Pessoal: R$ 46231.49 (51.0%)
+- Equipamentos: R$ 13528.71 (14.9%)
+- Software: R$ 10241.83 (11.3%)
+- Serviços: R$ 16147.36 (17.8%)
+- Outros: R$ 4520.21 (5.0%)

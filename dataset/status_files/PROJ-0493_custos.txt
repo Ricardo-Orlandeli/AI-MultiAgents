@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A possibilidade de avançar com toda a tranquilidade (PROJ-0493)
+Data: 11/07/2025
+Gerente: Benjamim Camargo
+
+Orçamento inicial: R$ 56519.00
+Custo real atual: R$ 51411.35
+Desvio orçamentário: -9.04%
+Índice de Desempenho de Custo (CPI): 1.10
+Valor Agregado (EV): R$ 56462.48
+Estimativa para conclusão: R$ 51.46
+Estimativa no término (EAC): R$ 51462.81
+Variação no término (VAC): R$ 5056.19
+
+Detalhamento por categoria:
+- Pessoal: R$ 24999.02 (48.6%)
+- Equipamentos: R$ 8387.99 (16.3%)
+- Software: R$ 6276.93 (12.2%)
+- Serviços: R$ 7829.48 (15.2%)
+- Outros: R$ 3917.93 (7.6%)

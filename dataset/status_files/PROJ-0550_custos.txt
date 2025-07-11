@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A arte de inovar em estado puro (PROJ-0550)
+Data: 11/07/2025
+Gerente: Ana Carolina Duarte
+
+Orçamento inicial: R$ 1669217.00
+Custo real atual: R$ 565490.29
+Desvio orçamentário: -65.29%
+Índice de Desempenho de Custo (CPI): 0.98
+Valor Agregado (EV): R$ 556863.67
+Estimativa para conclusão: R$ 1129585.30
+Estimativa no término (EAC): R$ 1695075.59
+Variação no término (VAC): R$ -25858.59
+
+Detalhamento por categoria:
+- Pessoal: R$ 285185.37 (50.4%)
+- Equipamentos: R$ 84296.94 (14.9%)
+- Software: R$ 59921.07 (10.6%)
+- Serviços: R$ 94244.84 (16.7%)
+- Outros: R$ 41842.06 (7.4%)

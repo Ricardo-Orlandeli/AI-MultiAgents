@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A segurança de concretizar seus projetos com toda a tranquilidade (PROJ-0697)
+Data: 11/07/2025
+Gerente: Dr. Mateus Almeida
+
+Orçamento inicial: R$ 4259372.00
+Custo real atual: R$ 4200425.81
+Desvio orçamentário: -1.38%
+Índice de Desempenho de Custo (CPI): 0.91
+Valor Agregado (EV): R$ 3815151.41
+Estimativa para conclusão: R$ 489080.36
+Estimativa no término (EAC): R$ 4689506.18
+Variação no término (VAC): R$ -430134.18
+
+Detalhamento por categoria:
+- Pessoal: R$ 2014707.21 (48.0%)
+- Equipamentos: R$ 816473.43 (19.4%)
+- Software: R$ 478864.96 (11.4%)
+- Serviços: R$ 550013.85 (13.1%)
+- Outros: R$ 340366.37 (8.1%)

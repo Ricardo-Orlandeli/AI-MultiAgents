@@ -1,0 +1,27 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A liberdade de ganhar com confiança (PROJ-0279)
+Data: 11/07/2025
+Gerente: Nina Jesus
+
+Status atual: Em andamento
+Percentual de conclusão: 86.2%
+Data de início: 07/08/2023
+Data de término planejada: 04/05/2024
+Data de término real/prevista: 01/06/2024
+Atraso atual: 433 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 1.09
+Valor Planejado (PV): R$ 1183016.00
+Valor Agregado (EV): R$ 1019631.52
+
+Tarefas críticas:
+- Implementação do módulo de relatórios
+- Integração com sistema de pagamentos
+- Migração de dados legados
+- Testes de segurança
+- Desenvolvimento da interface do usuário
+- Implementação do sistema de backup
+- Integração com sistema de pagamentos
+- Desenvolvimento da interface do usuário
+
+Tarefas atrasadas:

@@ -1,0 +1,24 @@
+RELATÓRIO DE STATUS DE ESCOPO
+Projeto: A segurança de realizar seus sonhos mais rapidamente (PROJ-0797)
+Data: 11/07/2025
+Gerente: Breno Gomes
+
+Escopo original: Sistema para a segurança de realizar seus sonhos mais rapidamente
+Houve mudança de escopo: Sim
+Descrição das mudanças: Alteração nas especificações técnicas
+Impacto no cronograma: 50 dias
+Impacto no custo: R$ 150805.56
+
+Solicitações de mudança:
+- SCM-01: Integração com sistema legado
+- SCM-02: Mudança na arquitetura do sistema
+- SCM-03: Alteração na interface do usuário
+- SCM-04: Integração com sistema legado
+
+Requisitos atuais:
+- REQ-01: O sistema deve permitir exportação de dados em formato CSV
+- REQ-02: O sistema deve ser compatível com dispositivos móveis
+- REQ-03: O sistema deve ter backup automático diário
+- REQ-04: O sistema deve processar transações em menos de 2 seconds
+- REQ-05: O sistema deve implementar criptografia de dados sensíveis
+- REQ-06: O sistema deve ter interface responsiva

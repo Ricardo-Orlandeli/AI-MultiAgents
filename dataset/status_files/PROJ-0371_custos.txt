@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A possibilidade de concretizar seus projetos de maneira eficaz (PROJ-0371)
+Data: 11/07/2025
+Gerente: Evelyn Campos
+
+Orçamento inicial: R$ 774683.00
+Custo real atual: R$ 540282.96
+Desvio orçamentário: -30.26%
+Índice de Desempenho de Custo (CPI): 1.00
+Valor Agregado (EV): R$ 540001.85
+Estimativa para conclusão: R$ 234803.31
+Estimativa no término (EAC): R$ 775086.27
+Variação no término (VAC): R$ -403.27
+
+Detalhamento por categoria:
+- Pessoal: R$ 296580.02 (54.9%)
+- Equipamentos: R$ 102595.66 (19.0%)
+- Software: R$ 58894.66 (10.9%)
+- Serviços: R$ 51876.13 (9.6%)
+- Outros: R$ 30336.48 (5.6%)

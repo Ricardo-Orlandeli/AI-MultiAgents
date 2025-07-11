@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A simplicidade de atingir seus objetivos sem preocupação (PROJ-0879)
+Data: 11/07/2025
+Gerente: Ana Laura Cavalcante
+
+Orçamento inicial: R$ 4275185.00
+Custo real atual: R$ 1895618.33
+Desvio orçamentário: -2.35%
+Índice de Desempenho de Custo (CPI): 0.94
+Valor Agregado (EV): R$ 1785084.64
+Estimativa para conclusão: R$ 2644289.13
+Estimativa no término (EAC): R$ 4539907.46
+Variação no término (VAC): R$ -264722.46
+
+Detalhamento por categoria:
+- Pessoal: R$ 998177.50 (52.7%)
+- Equipamentos: R$ 338000.18 (17.8%)
+- Software: R$ 146871.04 (7.7%)
+- Serviços: R$ 293439.77 (15.5%)
+- Outros: R$ 119129.84 (6.3%)

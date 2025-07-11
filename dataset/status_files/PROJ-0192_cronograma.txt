@@ -1,0 +1,25 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A possibilidade de atingir seus objetivos mais facilmente (PROJ-0192)
+Data: 11/07/2025
+Gerente: Bruno da Cruz
+
+Status atual: Em andamento
+Percentual de conclusão: 99.9%
+Data de início: 26/10/2023
+Data de término planejada: 03/07/2024
+Data de término real/prevista: 31/07/2024
+Atraso atual: 373 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 1.11
+Valor Planejado (PV): R$ 1822171.00
+Valor Agregado (EV): R$ 1820348.83
+
+Tarefas críticas:
+- Testes de aceitação do usuário
+- Desenvolvimento da interface do usuário
+- Implementação do módulo de notificações
+- Implementação do módulo de análise de dados
+- Desenvolvimento do painel administrativo
+- Implementação da API REST
+
+Tarefas atrasadas:

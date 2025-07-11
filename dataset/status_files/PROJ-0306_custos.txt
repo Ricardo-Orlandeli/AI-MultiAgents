@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O prazer de evoluir simplesmente (PROJ-0306)
+Data: 11/07/2025
+Gerente: Hellena Novaes
+
+Orçamento inicial: R$ 4898291.00
+Custo real atual: R$ 4471297.74
+Desvio orçamentário: -8.72%
+Índice de Desempenho de Custo (CPI): 1.09
+Valor Agregado (EV): R$ 4852315.52
+Estimativa para conclusão: R$ 42365.35
+Estimativa no término (EAC): R$ 4513663.09
+Variação no término (VAC): R$ 384627.91
+
+Detalhamento por categoria:
+- Pessoal: R$ 2328496.36 (52.1%)
+- Equipamentos: R$ 793335.44 (17.7%)
+- Software: R$ 233941.28 (5.2%)
+- Serviços: R$ 783174.60 (17.5%)
+- Outros: R$ 332350.06 (7.4%)

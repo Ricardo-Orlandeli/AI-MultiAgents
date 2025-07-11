@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O direito de avançar antes de tudo (PROJ-0597)
+Data: 11/07/2025
+Gerente: Valentina Correia
+
+Orçamento inicial: R$ 2586272.00
+Custo real atual: R$ 2576318.38
+Desvio orçamentário: -0.38%
+Índice de Desempenho de Custo (CPI): 0.73
+Valor Agregado (EV): R$ 1869020.62
+Estimativa para conclusão: R$ 988682.47
+Estimativa no término (EAC): R$ 3565000.84
+Variação no término (VAC): R$ -978728.84
+
+Detalhamento por categoria:
+- Pessoal: R$ 1290707.20 (50.1%)
+- Equipamentos: R$ 317451.34 (12.3%)
+- Software: R$ 353508.69 (13.7%)
+- Serviços: R$ 400515.67 (15.5%)
+- Outros: R$ 214135.48 (8.3%)

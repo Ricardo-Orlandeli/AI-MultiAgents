@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O conforto de avançar antes de tudo (PROJ-0900)
+Data: 11/07/2025
+Gerente: Noah Aparecida
+
+Orçamento inicial: R$ 1942258.00
+Custo real atual: R$ 1451719.42
+Desvio orçamentário: -25.26%
+Índice de Desempenho de Custo (CPI): 1.21
+Valor Agregado (EV): R$ 1755530.94
+Estimativa para conclusão: R$ 154412.15
+Estimativa no término (EAC): R$ 1606131.57
+Variação no término (VAC): R$ 336126.43
+
+Detalhamento por categoria:
+- Pessoal: R$ 772148.33 (53.2%)
+- Equipamentos: R$ 189956.77 (13.1%)
+- Software: R$ 159500.18 (11.0%)
+- Serviços: R$ 221180.10 (15.2%)
+- Outros: R$ 108934.04 (7.5%)

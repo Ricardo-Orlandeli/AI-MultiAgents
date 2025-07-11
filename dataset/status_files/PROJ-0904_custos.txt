@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A arte de evoluir antes de tudo (PROJ-0904)
+Data: 11/07/2025
+Gerente: Maria Isis da Cruz
+
+Orçamento inicial: R$ 3823082.00
+Custo real atual: R$ 3744770.11
+Desvio orçamentário: -2.05%
+Índice de Desempenho de Custo (CPI): 0.86
+Valor Agregado (EV): R$ 3212628.52
+Estimativa para conclusão: R$ 711569.34
+Estimativa no término (EAC): R$ 4456339.44
+Variação no término (VAC): R$ -633257.44
+
+Detalhamento por categoria:
+- Pessoal: R$ 1906159.85 (50.9%)
+- Equipamentos: R$ 559662.92 (14.9%)
+- Software: R$ 399195.53 (10.7%)
+- Serviços: R$ 579830.69 (15.5%)
+- Outros: R$ 299921.12 (8.0%)

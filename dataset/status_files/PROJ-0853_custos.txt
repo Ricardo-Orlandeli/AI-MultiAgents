@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O conforto de inovar simplesmente (PROJ-0853)
+Data: 11/07/2025
+Gerente: Catarina Casa Grande
+
+Orçamento inicial: R$ 3039319.00
+Custo real atual: R$ 2935883.33
+Desvio orçamentário: -3.40%
+Índice de Desempenho de Custo (CPI): 1.04
+Valor Agregado (EV): R$ 3039319.00
+Estimativa para conclusão: R$ 0.00
+Estimativa no término (EAC): R$ 2935883.33
+Variação no término (VAC): R$ 103435.67
+
+Detalhamento por categoria:
+- Pessoal: R$ 1448733.94 (49.3%)
+- Equipamentos: R$ 435382.62 (14.8%)
+- Software: R$ 397188.72 (13.5%)
+- Serviços: R$ 471449.20 (16.1%)
+- Outros: R$ 183128.85 (6.2%)

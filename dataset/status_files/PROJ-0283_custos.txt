@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A possibilidade de inovar sem preocupação (PROJ-0283)
+Data: 11/07/2025
+Gerente: Dra. Emanuelly Vargas
+
+Orçamento inicial: R$ 4380822.00
+Custo real atual: R$ 4545455.29
+Desvio orçamentário: 3.76%
+Índice de Desempenho de Custo (CPI): 0.85
+Valor Agregado (EV): R$ 3852275.67
+Estimativa para conclusão: R$ 623653.11
+Estimativa no término (EAC): R$ 5169108.40
+Variação no término (VAC): R$ -788286.40
+
+Detalhamento por categoria:
+- Pessoal: R$ 2460458.13 (54.1%)
+- Equipamentos: R$ 794395.18 (17.5%)
+- Software: R$ 328153.72 (7.2%)
+- Serviços: R$ 666979.20 (14.7%)
+- Outros: R$ 295469.07 (6.5%)

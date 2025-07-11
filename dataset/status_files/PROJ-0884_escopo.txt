@@ -1,0 +1,26 @@
+RELATÓRIO DE STATUS DE ESCOPO
+Projeto: A certeza de atingir seus objetivos com confiança (PROJ-0884)
+Data: 11/07/2025
+Gerente: Luana Cassiano
+
+Escopo original: Sistema para a certeza de atingir seus objetivos com confiança
+Houve mudança de escopo: Sim
+Descrição das mudanças: Redução do escopo devido a restrições orçamentárias
+Impacto no cronograma: 40 dias
+Impacto no custo: R$ 588924.73
+
+Solicitações de mudança:
+- SCM-01: Adição de relatórios gerenciais
+
+Requisitos atuais:
+- REQ-01: O sistema deve registrar logs de auditoria
+- REQ-02: O sistema deve implementar criptografia de dados sensíveis
+- REQ-03: O sistema deve permitir integração com APIs externas
+- REQ-04: O sistema deve registrar logs de auditoria
+- REQ-05: O sistema deve ser compatível com navegadores modernos
+- REQ-06: O sistema deve permitir integração com APIs externas
+- REQ-07: O sistema deve ser escalável para suportar até 10.000 usuários simultâneos
+- REQ-08: O sistema deve implementar criptografia de dados sensíveis
+- REQ-09: O sistema deve ser escalável para suportar até 10.000 usuários simultâneos
+- REQ-10: O sistema deve ser compatível com navegadores modernos
+- REQ-11: O sistema deve permitir integração com APIs externas

@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A liberdade de evoluir de maneira eficaz (PROJ-0556)
+Data: 11/07/2025
+Gerente: Murilo Pimenta
+
+Orçamento inicial: R$ 1858463.00
+Custo real atual: R$ 2175876.99
+Desvio orçamentário: 17.08%
+Índice de Desempenho de Custo (CPI): 0.85
+Valor Agregado (EV): R$ 1858463.00
+Estimativa para conclusão: R$ 0.00
+Estimativa no término (EAC): R$ 2175876.99
+Variação no término (VAC): R$ -317413.99
+
+Detalhamento por categoria:
+- Pessoal: R$ 1186270.93 (54.5%)
+- Equipamentos: R$ 337931.43 (15.5%)
+- Software: R$ 168248.68 (7.7%)
+- Serviços: R$ 304173.62 (14.0%)
+- Outros: R$ 179252.33 (8.2%)

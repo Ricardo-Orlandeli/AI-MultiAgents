@@ -1,0 +1,27 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A liberdade de atingir seus objetivos antes de tudo (PROJ-0111)
+Data: 11/07/2025
+Gerente: Nina Melo
+
+Status atual: Em andamento
+Percentual de conclusão: 80.2%
+Data de início: 22/02/2024
+Data de término planejada: 01/06/2024
+Data de término real/prevista: 16/06/2024
+Atraso atual: 405 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 1.09
+Valor Planejado (PV): R$ 4985053.00
+Valor Agregado (EV): R$ 3996037.33
+
+Tarefas críticas:
+- Implementação do módulo de exportação de dados
+- Implementação do módulo de notificações
+- Configuração do ambiente de produção
+- Testes de aceitação do usuário
+- Testes de aceitação do usuário
+- Implementação do sistema de backup
+- Implementação do módulo de exportação de dados
+- Implementação do módulo de notificações
+
+Tarefas atrasadas:

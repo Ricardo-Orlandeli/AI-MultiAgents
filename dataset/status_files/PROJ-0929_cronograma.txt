@@ -1,0 +1,25 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A arte de inovar mais rapidamente (PROJ-0929)
+Data: 11/07/2025
+Gerente: José Garcia
+
+Status atual: Cancelado
+Percentual de conclusão: 32.8%
+Data de início: 29/11/2023
+Data de término planejada: 18/04/2024
+Data de término real/prevista: 14/01/2024
+Atraso atual: 449 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 0.33
+Valor Planejado (PV): R$ 4348345.00
+Valor Agregado (EV): R$ 1425922.84
+
+Tarefas críticas:
+- Testes de segurança
+- Integração com sistema de pagamentos
+- Migração de dados legados
+- Testes de segurança
+- Implementação do módulo de exportação de dados
+- Configuração da infraestrutura
+
+Tarefas atrasadas:

@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O direito de mudar com confiança (PROJ-0582)
+Data: 11/07/2025
+Gerente: Enzo Gabriel Fogaça
+
+Orçamento inicial: R$ 3652295.00
+Custo real atual: R$ 2962437.62
+Desvio orçamentário: -2.05%
+Índice de Desempenho de Custo (CPI): 1.23
+Valor Agregado (EV): R$ 3652295.00
+Estimativa para conclusão: R$ 0.00
+Estimativa no término (EAC): R$ 2962437.62
+Variação no término (VAC): R$ 689857.38
+
+Detalhamento por categoria:
+- Pessoal: R$ 1427169.94 (48.2%)
+- Equipamentos: R$ 571504.11 (19.3%)
+- Software: R$ 188872.30 (6.4%)
+- Serviços: R$ 445238.78 (15.0%)
+- Outros: R$ 329652.48 (11.1%)

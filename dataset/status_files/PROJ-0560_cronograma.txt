@@ -1,0 +1,23 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: O conforto de inovar com toda a tranquilidade (PROJ-0560)
+Data: 11/07/2025
+Gerente: Maria Fernanda Duarte
+
+Status atual: Em andamento
+Percentual de conclusão: 99.9%
+Data de início: 04/08/2024
+Data de término planejada: 06/03/2025
+Data de término real/prevista: 19/02/2025
+Atraso atual: 127 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 1.00
+Valor Planejado (PV): R$ 4053705.00
+Valor Agregado (EV): R$ 4049651.30
+
+Tarefas críticas:
+- Implementação do sistema de backup
+- Implementação da API REST
+- Configuração da infraestrutura
+- Testes de segurança
+
+Tarefas atrasadas:

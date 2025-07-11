@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O poder de avançar em estado puro (PROJ-0443)
+Data: 11/07/2025
+Gerente: Sabrina Duarte
+
+Orçamento inicial: R$ 672303.00
+Custo real atual: R$ 554119.11
+Desvio orçamentário: -17.58%
+Índice de Desempenho de Custo (CPI): 1.21
+Valor Agregado (EV): R$ 672303.00
+Estimativa para conclusão: R$ 0.00
+Estimativa no término (EAC): R$ 554119.11
+Variação no término (VAC): R$ 118183.89
+
+Detalhamento por categoria:
+- Pessoal: R$ 348770.70 (62.9%)
+- Equipamentos: R$ 63819.69 (11.5%)
+- Software: R$ 32467.01 (5.9%)
+- Serviços: R$ 77424.11 (14.0%)
+- Outros: R$ 31637.60 (5.7%)

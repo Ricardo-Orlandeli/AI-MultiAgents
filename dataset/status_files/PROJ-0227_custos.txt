@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O direito de inovar com confiança (PROJ-0227)
+Data: 11/07/2025
+Gerente: Marcos Vinicius Rezende
+
+Orçamento inicial: R$ 1235924.00
+Custo real atual: R$ 1409517.37
+Desvio orçamentário: 14.05%
+Índice de Desempenho de Custo (CPI): 0.68
+Valor Agregado (EV): R$ 957048.50
+Estimativa para conclusão: R$ 410720.95
+Estimativa no término (EAC): R$ 1820238.32
+Variação no término (VAC): R$ -584314.32
+
+Detalhamento por categoria:
+- Pessoal: R$ 753356.66 (53.4%)
+- Equipamentos: R$ 186241.10 (13.2%)
+- Software: R$ 205862.07 (14.6%)
+- Serviços: R$ 152798.97 (10.8%)
+- Outros: R$ 111258.57 (7.9%)

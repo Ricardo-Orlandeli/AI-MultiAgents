@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O poder de atingir seus objetivos naturalmente (PROJ-0387)
+Data: 11/07/2025
+Gerente: Antony das Neves
+
+Orçamento inicial: R$ 1119042.00
+Custo real atual: R$ 1187309.54
+Desvio orçamentário: 6.10%
+Índice de Desempenho de Custo (CPI): 0.94
+Valor Agregado (EV): R$ 1119042.00
+Estimativa para conclusão: R$ 0.00
+Estimativa no término (EAC): R$ 1187309.54
+Variação no término (VAC): R$ -68267.54
+
+Detalhamento por categoria:
+- Pessoal: R$ 716429.71 (60.3%)
+- Equipamentos: R$ 132382.99 (11.1%)
+- Software: R$ 102620.01 (8.6%)
+- Serviços: R$ 143591.46 (12.1%)
+- Outros: R$ 92285.36 (7.8%)

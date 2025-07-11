@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O conforto de mudar em estado puro (PROJ-0741)
+Data: 11/07/2025
+Gerente: Larissa da Cruz
+
+Orçamento inicial: R$ 464295.00
+Custo real atual: R$ 340290.00
+Desvio orçamentário: -26.71%
+Índice de Desempenho de Custo (CPI): 0.69
+Valor Agregado (EV): R$ 233922.66
+Estimativa para conclusão: R$ 335125.31
+Estimativa no término (EAC): R$ 675415.31
+Variação no término (VAC): R$ -211120.31
+
+Detalhamento por categoria:
+- Pessoal: R$ 187254.61 (55.0%)
+- Equipamentos: R$ 56549.73 (16.6%)
+- Software: R$ 26162.30 (7.7%)
+- Serviços: R$ 40418.83 (11.9%)
+- Outros: R$ 29904.53 (8.8%)

@@ -1,0 +1,24 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A certeza de evoluir com toda a tranquilidade (PROJ-0379)
+Data: 11/07/2025
+Gerente: Sra. Bianca Carvalho
+
+Status atual: Em andamento
+Percentual de conclusão: 89.3%
+Data de início: 22/10/2023
+Data de término planejada: 14/04/2024
+Data de término real/prevista: 08/05/2024
+Atraso atual: 453 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 1.03
+Valor Planejado (PV): R$ 4942902.00
+Valor Agregado (EV): R$ 4414452.74
+
+Tarefas críticas:
+- Desenvolvimento do módulo de autenticação
+- Implementação do módulo de análise de dados
+- Integração com sistema de pagamentos
+- Desenvolvimento do painel administrativo
+- Migração de dados legados
+
+Tarefas atrasadas:

@@ -1,0 +1,23 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: O conforto de inovar mais rapidamente (PROJ-0058)
+Data: 11/07/2025
+Gerente: Yuri Silva
+
+Status atual: Em andamento
+Percentual de conclusão: 37.5%
+Data de início: 20/05/2025
+Data de término planejada: 03/10/2025
+Data de término real/prevista: 03/10/2025
+Atraso atual: 0 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 0.94
+Valor Planejado (PV): R$ 670223.03
+Valor Agregado (EV): R$ 657376.21
+
+Tarefas críticas:
+- Testes de segurança
+- Implementação do módulo de análise de dados
+- Implementação do módulo de notificações
+- Integração com sistema de pagamentos
+
+Tarefas atrasadas:

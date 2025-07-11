@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A arte de inovar sem preocupação (PROJ-0970)
+Data: 11/07/2025
+Gerente: Sr. João Vitor Campos
+
+Orçamento inicial: R$ 4025263.00
+Custo real atual: R$ 3099070.42
+Desvio orçamentário: -23.01%
+Índice de Desempenho de Custo (CPI): 1.21
+Valor Agregado (EV): R$ 3742787.76
+Estimativa para conclusão: R$ 233892.68
+Estimativa no término (EAC): R$ 3332963.10
+Variação no término (VAC): R$ 692299.90
+
+Detalhamento por categoria:
+- Pessoal: R$ 1596799.99 (51.5%)
+- Equipamentos: R$ 499849.24 (16.1%)
+- Software: R$ 403384.35 (13.0%)
+- Serviços: R$ 369063.10 (11.9%)
+- Outros: R$ 229973.74 (7.4%)

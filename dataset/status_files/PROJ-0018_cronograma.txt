@@ -1,0 +1,26 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A vantagem de inovar direto da fonte (PROJ-0018)
+Data: 11/07/2025
+Gerente: Enzo Gabriel Cavalcanti
+
+Status atual: Em andamento
+Percentual de conclusão: 80.9%
+Data de início: 27/08/2024
+Data de término planejada: 30/10/2024
+Data de término real/prevista: 05/11/2024
+Atraso atual: 254 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 1.05
+Valor Planejado (PV): R$ 1015405.00
+Valor Agregado (EV): R$ 821497.22
+
+Tarefas críticas:
+- Implementação da API REST
+- Implementação do módulo de notificações
+- Testes de segurança
+- Testes de aceitação do usuário
+- Implementação do módulo de notificações
+- Implementação do módulo de relatórios
+- Implementação da API REST
+
+Tarefas atrasadas:

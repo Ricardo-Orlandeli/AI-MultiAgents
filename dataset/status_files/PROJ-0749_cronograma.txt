@@ -1,0 +1,26 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A possibilidade de realizar seus sonhos com toda a tranquilidade (PROJ-0749)
+Data: 11/07/2025
+Gerente: Marina Cavalcanti
+
+Status atual: Concluído
+Percentual de conclusão: 100.0%
+Data de início: 06/05/2024
+Data de término planejada: 18/06/2024
+Data de término real/prevista: 08/07/2024
+Atraso atual: 388 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 1.03
+Valor Planejado (PV): R$ 3699542.00
+Valor Agregado (EV): R$ 3699542.00
+
+Tarefas críticas:
+- Desenvolvimento da interface do usuário
+- Testes de aceitação do usuário
+- Implementação do módulo de relatórios
+- Implementação do módulo de relatórios
+- Testes de aceitação do usuário
+- Implementação do módulo de relatórios
+- Migração de dados legados
+
+Tarefas atrasadas:

@@ -1,0 +1,22 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A simplicidade de mudar sem preocupação (PROJ-0905)
+Data: 11/07/2025
+Gerente: Luna Gomes
+
+Status atual: Em andamento
+Percentual de conclusão: 99.9%
+Data de início: 16/07/2024
+Data de término planejada: 13/03/2025
+Data de término real/prevista: 09/03/2025
+Atraso atual: 120 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 1.07
+Valor Planejado (PV): R$ 536399.00
+Valor Agregado (EV): R$ 535862.60
+
+Tarefas críticas:
+- Testes de segurança
+- Configuração da infraestrutura
+- Desenvolvimento da interface do usuário
+
+Tarefas atrasadas:

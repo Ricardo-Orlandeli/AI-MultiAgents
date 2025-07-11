@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A arte de ganhar em estado puro (PROJ-0854)
+Data: 11/07/2025
+Gerente: Calebe Sousa
+
+Orçamento inicial: R$ 371146.00
+Custo real atual: R$ 270997.33
+Desvio orçamentário: -26.98%
+Índice de Desempenho de Custo (CPI): 0.91
+Valor Agregado (EV): R$ 247875.28
+Estimativa para conclusão: R$ 134769.53
+Estimativa no término (EAC): R$ 405766.86
+Variação no término (VAC): R$ -34620.86
+
+Detalhamento por categoria:
+- Pessoal: R$ 149876.40 (55.3%)
+- Equipamentos: R$ 37406.24 (13.8%)
+- Software: R$ 16062.34 (5.9%)
+- Serviços: R$ 52031.27 (19.2%)
+- Outros: R$ 15621.07 (5.8%)

@@ -1,0 +1,25 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A certeza de atingir seus objetivos mais rapidamente (PROJ-0769)
+Data: 11/07/2025
+Gerente: Sr. Enzo Caldeira
+
+Status atual: Em andamento
+Percentual de conclusão: 90.4%
+Data de início: 31/05/2024
+Data de término planejada: 11/01/2025
+Data de término real/prevista: 02/01/2025
+Atraso atual: 181 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 1.02
+Valor Planejado (PV): R$ 978295.00
+Valor Agregado (EV): R$ 884858.78
+
+Tarefas críticas:
+- Implementação do sistema de backup
+- Migração de dados legados
+- Implementação da API REST
+- Testes de aceitação do usuário
+- Desenvolvimento da interface do usuário
+- Configuração da infraestrutura
+
+Tarefas atrasadas:

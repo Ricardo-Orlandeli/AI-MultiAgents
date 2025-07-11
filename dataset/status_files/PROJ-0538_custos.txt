@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A liberdade de realizar seus sonhos com confiança (PROJ-0538)
+Data: 11/07/2025
+Gerente: Anna Liz Sá
+
+Orçamento inicial: R$ 368170.00
+Custo real atual: R$ 302933.38
+Desvio orçamentário: -17.72%
+Índice de Desempenho de Custo (CPI): 1.22
+Valor Agregado (EV): R$ 368170.00
+Estimativa para conclusão: R$ 0.00
+Estimativa no término (EAC): R$ 302933.38
+Variação no término (VAC): R$ 65236.62
+
+Detalhamento por categoria:
+- Pessoal: R$ 159929.92 (52.8%)
+- Equipamentos: R$ 34818.20 (11.5%)
+- Software: R$ 38581.83 (12.7%)
+- Serviços: R$ 43240.09 (14.3%)
+- Outros: R$ 26363.33 (8.7%)

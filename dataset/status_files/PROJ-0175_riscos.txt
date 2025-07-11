@@ -1,0 +1,43 @@
+RELATÓRIO DE STATUS DE RISCOS
+Projeto: A possibilidade de mudar mais rapidamente (PROJ-0175)
+Data: 11/07/2025
+Gerente: Ana Luiza Ramos
+
+Riscos identificados:
+- R01: Indisponibilidade de recursos especializados
+  Probabilidade: 2/5, Impacto: 1/5, Nível: Baixo
+  Mitigação: Fortalecer medidas de segurança
+
+- R02: Atraso na entrega de componentes críticos
+  Probabilidade: 2/5, Impacto: 2/5, Nível: Baixo
+  Mitigação: Otimizar código e infraestrutura
+
+- R03: Mudanças regulatórias
+  Probabilidade: 1/5, Impacto: 1/5, Nível: Baixo
+  Mitigação: Realizar testes de integração antecipados
+
+- R04: Resistência dos usuários à mudança
+  Probabilidade: 1/5, Impacto: 2/5, Nível: Baixo
+  Mitigação: Otimizar código e infraestrutura
+
+- R05: Problemas de comunicação com stakeholders
+  Probabilidade: 3/5, Impacto: 3/5, Nível: Médio
+  Mitigação: Gerenciar dependências ativamente
+
+- R06: Problemas de comunicação com stakeholders
+  Probabilidade: 1/5, Impacto: 3/5, Nível: Baixo
+  Mitigação: Melhorar a documentação de requisitos
+
+Riscos ocorridos:
+- R04 (ocorrido em 07/07/2025)
+  Impacto real: Redução de funcionalidades
+  Ações tomadas: Revisão do orçamento
+
+- R01 (ocorrido em 15/03/2025)
+  Impacto real: Perda de recursos-chave
+  Ações tomadas: Contratação de recursos adicionais
+
+- R02 (ocorrido em 23/03/2025)
+  Impacto real: Retrabalho significativo
+  Ações tomadas: Revisão de processos
+

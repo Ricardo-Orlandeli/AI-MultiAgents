@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O prazer de realizar seus sonhos mais rapidamente (PROJ-0685)
+Data: 11/07/2025
+Gerente: Mariana Vargas
+
+Orçamento inicial: R$ 3204378.00
+Custo real atual: R$ 3368840.42
+Desvio orçamentário: 5.13%
+Índice de Desempenho de Custo (CPI): 0.95
+Valor Agregado (EV): R$ 3201173.62
+Estimativa para conclusão: R$ 3372.21
+Estimativa no término (EAC): R$ 3372212.63
+Variação no término (VAC): R$ -167834.63
+
+Detalhamento por categoria:
+- Pessoal: R$ 1529845.66 (45.4%)
+- Equipamentos: R$ 464499.53 (13.8%)
+- Software: R$ 485529.42 (14.4%)
+- Serviços: R$ 672218.60 (20.0%)
+- Outros: R$ 216747.21 (6.4%)

@@ -1,0 +1,24 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A possibilidade de realizar seus sonhos com toda a tranquilidade (PROJ-0257)
+Data: 11/07/2025
+Gerente: Marina Rios
+
+Status atual: Em andamento
+Percentual de conclusão: 15.9%
+Data de início: 27/05/2025
+Data de término planejada: 28/03/2026
+Data de término real/prevista: 26/03/2026
+Atraso atual: 0 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 1.12
+Valor Planejado (PV): R$ 64529.41
+Valor Agregado (EV): R$ 69634.55
+
+Tarefas críticas:
+- Implementação da API REST
+- Implementação do módulo de exportação de dados
+- Implementação da API REST
+- Implementação do módulo de exportação de dados
+- Implementação do módulo de relatórios
+
+Tarefas atrasadas:

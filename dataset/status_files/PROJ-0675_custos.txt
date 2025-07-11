@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O direito de ganhar mais facilmente (PROJ-0675)
+Data: 11/07/2025
+Gerente: Isis Silva
+
+Orçamento inicial: R$ 3611290.00
+Custo real atual: R$ 3951227.60
+Desvio orçamentário: 9.41%
+Índice de Desempenho de Custo (CPI): 0.91
+Valor Agregado (EV): R$ 3607678.71
+Estimativa para conclusão: R$ 3955.18
+Estimativa no término (EAC): R$ 3955182.78
+Variação no término (VAC): R$ -343892.78
+
+Detalhamento por categoria:
+- Pessoal: R$ 2282711.36 (57.8%)
+- Equipamentos: R$ 525446.88 (13.3%)
+- Software: R$ 361301.19 (9.1%)
+- Serviços: R$ 410800.76 (10.4%)
+- Outros: R$ 370967.40 (9.4%)

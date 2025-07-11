@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O conforto de inovar mais rapidamente (PROJ-0979)
+Data: 11/07/2025
+Gerente: Gabrielly Santos
+
+Orçamento inicial: R$ 4122292.00
+Custo real atual: R$ 1100769.42
+Desvio orçamentário: 12.58%
+Índice de Desempenho de Custo (CPI): 0.96
+Valor Agregado (EV): R$ 1051634.13
+Estimativa para conclusão: R$ 3214127.63
+Estimativa no término (EAC): R$ 4314897.05
+Variação no término (VAC): R$ -192605.05
+
+Detalhamento por categoria:
+- Pessoal: R$ 544320.80 (49.4%)
+- Equipamentos: R$ 214502.32 (19.5%)
+- Software: R$ 100040.68 (9.1%)
+- Serviços: R$ 141265.06 (12.8%)
+- Outros: R$ 100640.58 (9.1%)

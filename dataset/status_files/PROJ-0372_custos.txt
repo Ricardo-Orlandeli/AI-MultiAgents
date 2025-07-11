@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A liberdade de evoluir mais facilmente (PROJ-0372)
+Data: 11/07/2025
+Gerente: Sara Viana
+
+Orçamento inicial: R$ 1006353.00
+Custo real atual: R$ 814357.17
+Desvio orçamentário: -19.08%
+Índice de Desempenho de Custo (CPI): 1.23
+Valor Agregado (EV): R$ 1005346.65
+Estimativa para conclusão: R$ 815.17
+Estimativa no término (EAC): R$ 815172.34
+Variação no término (VAC): R$ 191180.66
+
+Detalhamento por categoria:
+- Pessoal: R$ 368797.10 (45.3%)
+- Equipamentos: R$ 156530.39 (19.2%)
+- Software: R$ 73891.41 (9.1%)
+- Serviços: R$ 136267.88 (16.7%)
+- Outros: R$ 78870.39 (9.7%)

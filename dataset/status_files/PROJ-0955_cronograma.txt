@@ -1,0 +1,28 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A vantagem de atingir seus objetivos direto da fonte (PROJ-0955)
+Data: 11/07/2025
+Gerente: Sr. João Gabriel da Paz
+
+Status atual: Atrasado
+Percentual de conclusão: 54.7%
+Data de início: 14/06/2024
+Data de término planejada: 09/04/2025
+Data de término real/prevista: 19/06/2025
+Atraso atual: 93 dias
+Motivo do atraso: Recursos insuficientes
+Índice de Desempenho de Cronograma (SPI): 0.55
+Valor Planejado (PV): R$ 3993928.00
+Valor Agregado (EV): R$ 2185789.69
+
+Tarefas críticas:
+- Configuração da infraestrutura
+- Implementação do módulo de exportação de dados
+- Implementação do sistema de backup
+- Implementação da API REST
+- Migração de dados legados
+- Configuração do ambiente de produção
+- Implementação do módulo de relatórios
+- Configuração da infraestrutura
+
+Tarefas atrasadas:
+- Configuração do ambiente de produção

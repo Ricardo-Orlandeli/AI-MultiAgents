@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A simplicidade de inovar mais rapidamente (PROJ-0193)
+Data: 11/07/2025
+Gerente: Ana Laura Câmara
+
+Orçamento inicial: R$ 4975314.00
+Custo real atual: R$ 2421138.14
+Desvio orçamentário: -10.40%
+Índice de Desempenho de Custo (CPI): 1.08
+Valor Agregado (EV): R$ 2624990.89
+Estimativa para conclusão: R$ 2167800.63
+Estimativa no término (EAC): R$ 4588938.77
+Variação no término (VAC): R$ 386375.23
+
+Detalhamento por categoria:
+- Pessoal: R$ 1226428.60 (50.7%)
+- Equipamentos: R$ 348252.09 (14.4%)
+- Software: R$ 268565.66 (11.1%)
+- Serviços: R$ 455202.26 (18.8%)
+- Outros: R$ 122689.52 (5.1%)

@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A vantagem de mudar com confiança (PROJ-0303)
+Data: 11/07/2025
+Gerente: Alana Caldeira
+
+Orçamento inicial: R$ 3517432.00
+Custo real atual: R$ 2913359.69
+Desvio orçamentário: -17.17%
+Índice de Desempenho de Custo (CPI): 1.04
+Valor Agregado (EV): R$ 3027346.02
+Estimativa para conclusão: R$ 471633.15
+Estimativa no término (EAC): R$ 3384992.84
+Variação no término (VAC): R$ 132439.16
+
+Detalhamento por categoria:
+- Pessoal: R$ 1312926.68 (45.1%)
+- Equipamentos: R$ 520101.77 (17.9%)
+- Software: R$ 398173.84 (13.7%)
+- Serviços: R$ 488374.77 (16.8%)
+- Outros: R$ 193782.63 (6.7%)

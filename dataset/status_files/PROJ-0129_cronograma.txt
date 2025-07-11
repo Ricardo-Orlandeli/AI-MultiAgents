@@ -1,0 +1,24 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A certeza de realizar seus sonhos direto da fonte (PROJ-0129)
+Data: 11/07/2025
+Gerente: Cecilia Costa
+
+Status atual: Atrasado
+Percentual de conclusão: 54.5%
+Data de início: 12/06/2024
+Data de término planejada: 20/10/2024
+Data de término real/prevista: 18/12/2024
+Atraso atual: 264 dias
+Motivo do atraso: Atraso na entrega de componentes por fornecedores
+Índice de Desempenho de Cronograma (SPI): 0.54
+Valor Planejado (PV): R$ 693438.00
+Valor Agregado (EV): R$ 377619.61
+
+Tarefas críticas:
+- Testes de aceitação do usuário
+- Implementação do sistema de backup
+- Integração com sistema de pagamentos
+- Implementação do módulo de relatórios
+
+Tarefas atrasadas:
+- Implementação do módulo de relatórios

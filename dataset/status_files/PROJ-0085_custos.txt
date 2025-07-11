@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A liberdade de atingir seus objetivos em estado puro (PROJ-0085)
+Data: 11/07/2025
+Gerente: Cecília Vieira
+
+Orçamento inicial: R$ 3415116.00
+Custo real atual: R$ 3472914.37
+Desvio orçamentário: 1.69%
+Índice de Desempenho de Custo (CPI): 0.90
+Valor Agregado (EV): R$ 3142143.45
+Estimativa para conclusão: R$ 301708.15
+Estimativa no término (EAC): R$ 3774622.52
+Variação no término (VAC): R$ -359506.52
+
+Detalhamento por categoria:
+- Pessoal: R$ 1680242.59 (48.4%)
+- Equipamentos: R$ 476194.36 (13.7%)
+- Software: R$ 426961.37 (12.3%)
+- Serviços: R$ 654809.55 (18.9%)
+- Outros: R$ 234706.51 (6.8%)

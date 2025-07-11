@@ -1,0 +1,22 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A vantagem de atingir seus objetivos em estado puro (PROJ-0415)
+Data: 11/07/2025
+Gerente: Sra. Daniela Camargo
+
+Status atual: Em andamento
+Percentual de conclusão: 80.9%
+Data de início: 22/12/2024
+Data de término planejada: 20/04/2025
+Data de término real/prevista: 13/05/2025
+Atraso atual: 82 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 1.09
+Valor Planejado (PV): R$ 2912836.00
+Valor Agregado (EV): R$ 2357132.54
+
+Tarefas críticas:
+- Testes de aceitação do usuário
+- Desenvolvimento do painel administrativo
+- Desenvolvimento do módulo de autenticação
+
+Tarefas atrasadas:

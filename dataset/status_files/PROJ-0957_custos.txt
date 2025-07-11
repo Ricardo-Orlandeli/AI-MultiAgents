@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A simplicidade de conseguir de maneira eficaz (PROJ-0957)
+Data: 11/07/2025
+Gerente: Diego Ferreira
+
+Orçamento inicial: R$ 3487651.00
+Custo real atual: R$ 1979568.57
+Desvio orçamentário: -28.32%
+Índice de Desempenho de Custo (CPI): 0.95
+Valor Agregado (EV): R$ 1873404.59
+Estimativa para conclusão: R$ 1705724.14
+Estimativa no término (EAC): R$ 3685292.71
+Variação no término (VAC): R$ -197641.71
+
+Detalhamento por categoria:
+- Pessoal: R$ 1148502.09 (58.0%)
+- Equipamentos: R$ 325506.99 (16.4%)
+- Software: R$ 119985.09 (6.1%)
+- Serviços: R$ 244240.80 (12.3%)
+- Outros: R$ 141333.59 (7.1%)

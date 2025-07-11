@@ -1,0 +1,47 @@
+RELATÓRIO DE STATUS DE RISCOS
+Projeto: O prazer de concretizar seus projetos sem preocupação (PROJ-0520)
+Data: 11/07/2025
+Gerente: Sr. Pedro Lucas da Mata
+
+Riscos identificados:
+- R01: Estimativas imprecisas
+  Probabilidade: 1/5, Impacto: 5/5, Nível: Baixo
+  Mitigação: Refinar estimativas com base em dados históricos
+
+- R02: Indisponibilidade de recursos especializados
+  Probabilidade: 5/5, Impacto: 4/5, Nível: Alto
+  Mitigação: Otimizar código e infraestrutura
+
+- R03: Problemas de compatibilidade
+  Probabilidade: 4/5, Impacto: 5/5, Nível: Alto
+  Mitigação: Estabelecer canais de comunicação claros
+
+- R04: Falhas de segurança
+  Probabilidade: 3/5, Impacto: 4/5, Nível: Médio
+  Mitigação: Estabelecer canais de comunicação claros
+
+- R05: Falhas de infraestrutura
+  Probabilidade: 3/5, Impacto: 5/5, Nível: Médio
+  Mitigação: Comunicar benefícios da mudança
+
+- R06: Rotatividade de pessoal-chave
+  Probabilidade: 1/5, Impacto: 4/5, Nível: Baixo
+  Mitigação: Realizar testes de integração antecipados
+
+- R07: Mudanças regulatórias
+  Probabilidade: 1/5, Impacto: 2/5, Nível: Baixo
+  Mitigação: Estabelecer canais de comunicação claros
+
+Riscos ocorridos:
+- R03 (ocorrido em 16/06/2025)
+  Impacto real: Insatisfação dos stakeholders
+  Ações tomadas: Implementação do plano de contingência
+
+- R02 (ocorrido em 05/07/2025)
+  Impacto real: Falhas de segurança
+  Ações tomadas: Revisão de prioridades
+
+- R05 (ocorrido em 07/05/2025)
+  Impacto real: Falhas de segurança
+  Ações tomadas: Implementação de controles adicionais
+

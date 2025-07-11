@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A liberdade de evoluir simplesmente (PROJ-0678)
+Data: 11/07/2025
+Gerente: Maria Alice Barbosa
+
+Orçamento inicial: R$ 4303004.00
+Custo real atual: R$ 1457085.86
+Desvio orçamentário: -15.47%
+Índice de Desempenho de Custo (CPI): 1.20
+Valor Agregado (EV): R$ 1751316.90
+Estimativa para conclusão: R$ 2122989.38
+Estimativa no término (EAC): R$ 3580075.23
+Variação no término (VAC): R$ 722928.77
+
+Detalhamento por categoria:
+- Pessoal: R$ 765448.55 (52.5%)
+- Equipamentos: R$ 229083.27 (15.7%)
+- Software: R$ 103835.31 (7.1%)
+- Serviços: R$ 230064.01 (15.8%)
+- Outros: R$ 128654.72 (8.8%)

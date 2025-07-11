@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O direito de realizar seus sonhos com confiança (PROJ-0891)
+Data: 11/07/2025
+Gerente: Ana Clara Araújo
+
+Orçamento inicial: R$ 1970888.00
+Custo real atual: R$ 1875880.10
+Desvio orçamentário: -4.82%
+Índice de Desempenho de Custo (CPI): 0.91
+Valor Agregado (EV): R$ 1715833.57
+Estimativa para conclusão: R$ 278844.96
+Estimativa no término (EAC): R$ 2154725.06
+Variação no término (VAC): R$ -183837.06
+
+Detalhamento por categoria:
+- Pessoal: R$ 944966.19 (50.4%)
+- Equipamentos: R$ 313062.67 (16.7%)
+- Software: R$ 235783.68 (12.6%)
+- Serviços: R$ 231971.46 (12.4%)
+- Outros: R$ 150096.11 (8.0%)

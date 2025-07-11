@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A certeza de realizar seus sonhos sem preocupação (PROJ-0903)
+Data: 11/07/2025
+Gerente: Ester Novaes
+
+Orçamento inicial: R$ 829633.00
+Custo real atual: R$ 702971.00
+Desvio orçamentário: 217.09%
+Índice de Desempenho de Custo (CPI): 1.18
+Valor Agregado (EV): R$ 829633.00
+Estimativa para conclusão: R$ 0.00
+Estimativa no término (EAC): R$ 702971.00
+Variação no término (VAC): R$ 126662.00
+
+Detalhamento por categoria:
+- Pessoal: R$ 325213.19 (46.3%)
+- Equipamentos: R$ 132553.36 (18.9%)
+- Software: R$ 84297.91 (12.0%)
+- Serviços: R$ 114020.83 (16.2%)
+- Outros: R$ 46885.71 (6.7%)

@@ -1,0 +1,26 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A possibilidade de atingir seus objetivos com confiança (PROJ-0630)
+Data: 11/07/2025
+Gerente: Miguel Castro
+
+Status atual: Em andamento
+Percentual de conclusão: 99.9%
+Data de início: 14/12/2023
+Data de término planejada: 25/07/2024
+Data de término real/prevista: 14/08/2024
+Atraso atual: 351 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 1.13
+Valor Planejado (PV): R$ 3829208.00
+Valor Agregado (EV): R$ 3825378.79
+
+Tarefas críticas:
+- Implementação do módulo de notificações
+- Testes de aceitação do usuário
+- Desenvolvimento do módulo de autenticação
+- Implementação do sistema de backup
+- Desenvolvimento do módulo de autenticação
+- Implementação do módulo de análise de dados
+- Implementação do módulo de exportação de dados
+
+Tarefas atrasadas:

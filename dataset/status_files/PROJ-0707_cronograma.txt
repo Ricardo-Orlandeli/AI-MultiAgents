@@ -1,0 +1,28 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: O poder de ganhar direto da fonte (PROJ-0707)
+Data: 11/07/2025
+Gerente: Emanuel Sales
+
+Status atual: Atrasado
+Percentual de conclusão: 84.6%
+Data de início: 16/09/2023
+Data de término planejada: 05/08/2024
+Data de término real/prevista: 25/08/2024
+Atraso atual: 340 dias
+Motivo do atraso: Atraso na entrega de componentes por fornecedores
+Índice de Desempenho de Cronograma (SPI): 0.85
+Valor Planejado (PV): R$ 3620252.00
+Valor Agregado (EV): R$ 3061240.50
+
+Tarefas críticas:
+- Migração de dados legados
+- Desenvolvimento do módulo de autenticação
+- Implementação do módulo de análise de dados
+- Configuração do ambiente de produção
+- Integração com sistema de pagamentos
+- Configuração do ambiente de produção
+- Configuração do ambiente de produção
+- Configuração da infraestrutura
+
+Tarefas atrasadas:
+- Desenvolvimento do módulo de autenticação

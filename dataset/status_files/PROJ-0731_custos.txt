@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A possibilidade de mudar mais facilmente (PROJ-0731)
+Data: 11/07/2025
+Gerente: Alexia Viana
+
+Orçamento inicial: R$ 1008523.00
+Custo real atual: R$ 984142.19
+Desvio orçamentário: -2.42%
+Índice de Desempenho de Custo (CPI): 1.02
+Valor Agregado (EV): R$ 1008523.00
+Estimativa para conclusão: R$ 0.00
+Estimativa no término (EAC): R$ 984142.19
+Variação no término (VAC): R$ 24380.81
+
+Detalhamento por categoria:
+- Pessoal: R$ 513127.04 (52.1%)
+- Equipamentos: R$ 126864.36 (12.9%)
+- Software: R$ 157235.17 (16.0%)
+- Serviços: R$ 116239.85 (11.8%)
+- Outros: R$ 70675.78 (7.2%)

@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A liberdade de evoluir sem preocupação (PROJ-0653)
+Data: 11/07/2025
+Gerente: Luiz Miguel Fonseca
+
+Orçamento inicial: R$ 3320083.00
+Custo real atual: R$ 3424863.90
+Desvio orçamentário: 3.16%
+Índice de Desempenho de Custo (CPI): 0.97
+Valor Agregado (EV): R$ 3320083.00
+Estimativa para conclusão: R$ 0.00
+Estimativa no término (EAC): R$ 3424863.90
+Variação no término (VAC): R$ -104780.90
+
+Detalhamento por categoria:
+- Pessoal: R$ 1914345.96 (55.9%)
+- Equipamentos: R$ 611799.06 (17.9%)
+- Software: R$ 219685.54 (6.4%)
+- Serviços: R$ 428426.92 (12.5%)
+- Outros: R$ 250606.42 (7.3%)

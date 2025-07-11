@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A certeza de mudar com toda a tranquilidade (PROJ-0694)
+Data: 11/07/2025
+Gerente: Mariana Monteiro
+
+Orçamento inicial: R$ 4545898.00
+Custo real atual: R$ 4367604.31
+Desvio orçamentário: -3.92%
+Índice de Desempenho de Custo (CPI): 1.04
+Valor Agregado (EV): R$ 4541352.10
+Estimativa para conclusão: R$ 4371.98
+Estimativa no término (EAC): R$ 4371976.29
+Variação no término (VAC): R$ 173921.71
+
+Detalhamento por categoria:
+- Pessoal: R$ 2111351.60 (48.3%)
+- Equipamentos: R$ 626332.87 (14.3%)
+- Software: R$ 516444.66 (11.8%)
+- Serviços: R$ 842951.77 (19.3%)
+- Outros: R$ 270523.41 (6.2%)

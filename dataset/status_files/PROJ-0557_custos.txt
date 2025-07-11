@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O direito de conseguir de maneira eficaz (PROJ-0557)
+Data: 11/07/2025
+Gerente: Caroline Cavalcante
+
+Orçamento inicial: R$ 649516.00
+Custo real atual: R$ 660811.49
+Desvio orçamentário: 1.74%
+Índice de Desempenho de Custo (CPI): 0.75
+Valor Agregado (EV): R$ 495381.90
+Estimativa para conclusão: R$ 205606.19
+Estimativa no término (EAC): R$ 866417.68
+Variação no término (VAC): R$ -216901.68
+
+Detalhamento por categoria:
+- Pessoal: R$ 339791.61 (51.4%)
+- Equipamentos: R$ 86692.02 (13.1%)
+- Software: R$ 104808.75 (15.9%)
+- Serviços: R$ 74746.69 (11.3%)
+- Outros: R$ 54772.41 (8.3%)

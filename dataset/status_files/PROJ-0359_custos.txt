@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O conforto de concretizar seus projetos com força total (PROJ-0359)
+Data: 11/07/2025
+Gerente: Emanuelly Cavalcante
+
+Orçamento inicial: R$ 1392605.00
+Custo real atual: R$ 1202982.31
+Desvio orçamentário: -13.62%
+Índice de Desempenho de Custo (CPI): 0.73
+Valor Agregado (EV): R$ 872925.95
+Estimativa para conclusão: R$ 716171.52
+Estimativa no término (EAC): R$ 1919153.83
+Variação no término (VAC): R$ -526548.83
+
+Detalhamento por categoria:
+- Pessoal: R$ 642466.34 (53.4%)
+- Equipamentos: R$ 227818.62 (18.9%)
+- Software: R$ 101155.03 (8.4%)
+- Serviços: R$ 167072.72 (13.9%)
+- Outros: R$ 64469.60 (5.4%)

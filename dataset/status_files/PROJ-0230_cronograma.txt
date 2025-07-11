@@ -1,0 +1,27 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: O conforto de atingir seus objetivos em estado puro (PROJ-0230)
+Data: 11/07/2025
+Gerente: Jade Novais
+
+Status atual: Em andamento
+Percentual de conclusão: 93.7%
+Data de início: 08/10/2024
+Data de término planejada: 10/07/2025
+Data de término real/prevista: 30/07/2025
+Atraso atual: 1 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 1.08
+Valor Planejado (PV): R$ 1099787.00
+Valor Agregado (EV): R$ 1030543.54
+
+Tarefas críticas:
+- Implementação do módulo de análise de dados
+- Implementação do módulo de notificações
+- Desenvolvimento da interface do usuário
+- Implementação do módulo de análise de dados
+- Implementação do módulo de análise de dados
+- Implementação do sistema de backup
+- Desenvolvimento do módulo de autenticação
+- Desenvolvimento da interface do usuário
+
+Tarefas atrasadas:

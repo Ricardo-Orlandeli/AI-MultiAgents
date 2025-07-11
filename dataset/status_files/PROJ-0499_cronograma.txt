@@ -1,0 +1,23 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A liberdade de evoluir com toda a tranquilidade (PROJ-0499)
+Data: 11/07/2025
+Gerente: Augusto Azevedo
+
+Status atual: Em andamento
+Percentual de conclusão: 82.7%
+Data de início: 05/01/2025
+Data de término planejada: 15/02/2025
+Data de término real/prevista: 16/02/2025
+Atraso atual: 146 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 0.97
+Valor Planejado (PV): R$ 1315576.00
+Valor Agregado (EV): R$ 1088012.30
+
+Tarefas críticas:
+- Integração com sistema de pagamentos
+- Implementação do sistema de backup
+- Implementação do módulo de notificações
+- Implementação do módulo de análise de dados
+
+Tarefas atrasadas:

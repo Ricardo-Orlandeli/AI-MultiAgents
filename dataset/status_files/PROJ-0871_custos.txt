@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A possibilidade de avançar simplesmente (PROJ-0871)
+Data: 11/07/2025
+Gerente: Ester Novais
+
+Orçamento inicial: R$ 2790175.00
+Custo real atual: R$ 3183791.13
+Desvio orçamentário: 14.11%
+Índice de Desempenho de Custo (CPI): 0.84
+Valor Agregado (EV): R$ 2687105.98
+Estimativa para conclusão: R$ 122120.32
+Estimativa no término (EAC): R$ 3305911.44
+Variação no término (VAC): R$ -515736.44
+
+Detalhamento por categoria:
+- Pessoal: R$ 1617258.64 (50.8%)
+- Equipamentos: R$ 490704.24 (15.4%)
+- Software: R$ 258918.71 (8.1%)
+- Serviços: R$ 586327.57 (18.4%)
+- Outros: R$ 230581.97 (7.2%)

@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O poder de mudar mais facilmente (PROJ-0621)
+Data: 11/07/2025
+Gerente: Diogo Fernandes
+
+Orçamento inicial: R$ 1881041.00
+Custo real atual: R$ 1859664.22
+Desvio orçamentário: -1.14%
+Índice de Desempenho de Custo (CPI): 0.74
+Valor Agregado (EV): R$ 1374536.65
+Estimativa para conclusão: R$ 685269.47
+Estimativa no término (EAC): R$ 2544933.70
+Variação no término (VAC): R$ -663892.70
+
+Detalhamento por categoria:
+- Pessoal: R$ 789482.17 (42.5%)
+- Equipamentos: R$ 378117.65 (20.3%)
+- Software: R$ 262088.75 (14.1%)
+- Serviços: R$ 283496.79 (15.2%)
+- Outros: R$ 146478.86 (7.9%)

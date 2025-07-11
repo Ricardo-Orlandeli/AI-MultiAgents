@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A liberdade de concretizar seus projetos de maneira eficaz (PROJ-0859)
+Data: 11/07/2025
+Gerente: Dra. Heloísa Caldeira
+
+Orçamento inicial: R$ 4201567.00
+Custo real atual: R$ 3187724.43
+Desvio orçamentário: -24.13%
+Índice de Desempenho de Custo (CPI): 0.97
+Valor Agregado (EV): R$ 3090957.22
+Estimativa para conclusão: R$ 1145379.14
+Estimativa no término (EAC): R$ 4333103.57
+Variação no término (VAC): R$ -131536.57
+
+Detalhamento por categoria:
+- Pessoal: R$ 1630140.53 (51.1%)
+- Equipamentos: R$ 487192.57 (15.3%)
+- Software: R$ 270398.04 (8.5%)
+- Serviços: R$ 573250.18 (18.0%)
+- Outros: R$ 226743.10 (7.1%)

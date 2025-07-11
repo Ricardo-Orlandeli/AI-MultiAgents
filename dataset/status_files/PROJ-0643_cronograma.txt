@@ -1,0 +1,24 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: O prazer de mudar com toda a tranquilidade (PROJ-0643)
+Data: 11/07/2025
+Gerente: Dante Alves
+
+Status atual: Em andamento
+Percentual de conclusão: 20.5%
+Data de início: 15/06/2025
+Data de término planejada: 09/10/2025
+Data de término real/prevista: 10/10/2025
+Atraso atual: 0 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 0.92
+Valor Planejado (PV): R$ 198692.67
+Valor Agregado (EV): R$ 181331.01
+
+Tarefas críticas:
+- Implementação da API REST
+- Desenvolvimento do módulo de autenticação
+- Implementação do módulo de análise de dados
+- Desenvolvimento da interface do usuário
+- Desenvolvimento do painel administrativo
+
+Tarefas atrasadas:

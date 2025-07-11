@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A possibilidade de atingir seus objetivos direto da fonte (PROJ-0631)
+Data: 11/07/2025
+Gerente: Srta. Ana Clara Aparecida
+
+Orçamento inicial: R$ 1808612.00
+Custo real atual: R$ 1851215.34
+Desvio orçamentário: 2.36%
+Índice de Desempenho de Custo (CPI): 0.98
+Valor Agregado (EV): R$ 1806803.39
+Estimativa para conclusão: R$ 1853.07
+Estimativa no término (EAC): R$ 1853068.41
+Variação no término (VAC): R$ -44456.41
+
+Detalhamento por categoria:
+- Pessoal: R$ 978140.68 (52.8%)
+- Equipamentos: R$ 250574.94 (13.5%)
+- Software: R$ 240032.97 (13.0%)
+- Serviços: R$ 282156.98 (15.2%)
+- Outros: R$ 100309.78 (5.4%)

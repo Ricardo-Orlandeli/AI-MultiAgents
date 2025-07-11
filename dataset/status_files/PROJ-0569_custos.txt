@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A possibilidade de conseguir direto da fonte (PROJ-0569)
+Data: 11/07/2025
+Gerente: Theodoro Aragão
+
+Orçamento inicial: R$ 2713653.00
+Custo real atual: R$ 2577154.39
+Desvio orçamentário: -5.03%
+Índice de Desempenho de Custo (CPI): 0.86
+Valor Agregado (EV): R$ 2205865.24
+Estimativa para conclusão: R$ 593258.11
+Estimativa no término (EAC): R$ 3170412.51
+Variação no término (VAC): R$ -456759.51
+
+Detalhamento por categoria:
+- Pessoal: R$ 1174570.29 (45.6%)
+- Equipamentos: R$ 477902.30 (18.5%)
+- Software: R$ 353533.53 (13.7%)
+- Serviços: R$ 441997.37 (17.2%)
+- Outros: R$ 129150.90 (5.0%)

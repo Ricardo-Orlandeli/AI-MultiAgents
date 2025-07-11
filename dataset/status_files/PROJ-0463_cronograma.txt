@@ -1,0 +1,26 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: O direito de concretizar seus projetos com força total (PROJ-0463)
+Data: 11/07/2025
+Gerente: Dra. Lara Cavalcante
+
+Status atual: Em andamento
+Percentual de conclusão: 85.8%
+Data de início: 14/08/2024
+Data de término planejada: 19/12/2024
+Data de término real/prevista: 17/01/2025
+Atraso atual: 204 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 1.14
+Valor Planejado (PV): R$ 3137696.00
+Valor Agregado (EV): R$ 2692252.68
+
+Tarefas críticas:
+- Implementação do sistema de backup
+- Implementação da API REST
+- Desenvolvimento do módulo de autenticação
+- Testes de segurança
+- Implementação do módulo de exportação de dados
+- Testes de segurança
+- Implementação do sistema de backup
+
+Tarefas atrasadas:

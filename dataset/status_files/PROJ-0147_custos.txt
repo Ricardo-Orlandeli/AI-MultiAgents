@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A vantagem de ganhar sem preocupação (PROJ-0147)
+Data: 11/07/2025
+Gerente: Pedro Henrique Pires
+
+Orçamento inicial: R$ 488098.00
+Custo real atual: R$ 399286.90
+Desvio orçamentário: -18.20%
+Índice de Desempenho de Custo (CPI): 1.22
+Valor Agregado (EV): R$ 487609.90
+Estimativa para conclusão: R$ 399.69
+Estimativa no término (EAC): R$ 399686.59
+Variação no término (VAC): R$ 88411.41
+
+Detalhamento por categoria:
+- Pessoal: R$ 190019.65 (47.6%)
+- Equipamentos: R$ 65749.37 (16.5%)
+- Software: R$ 36649.11 (9.2%)
+- Serviços: R$ 66810.77 (16.7%)
+- Outros: R$ 40058.01 (10.0%)

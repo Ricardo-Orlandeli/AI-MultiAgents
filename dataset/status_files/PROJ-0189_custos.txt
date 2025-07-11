@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A vantagem de evoluir mais facilmente (PROJ-0189)
+Data: 11/07/2025
+Gerente: Srta. Gabriela Carvalho
+
+Orçamento inicial: R$ 1227737.00
+Custo real atual: R$ 1098748.55
+Desvio orçamentário: 5.52%
+Índice de Desempenho de Custo (CPI): 1.08
+Valor Agregado (EV): R$ 1185293.71
+Estimativa para conclusão: R$ 39344.26
+Estimativa no término (EAC): R$ 1138092.81
+Variação no término (VAC): R$ 89644.19
+
+Detalhamento por categoria:
+- Pessoal: R$ 564485.83 (51.4%)
+- Equipamentos: R$ 163740.38 (14.9%)
+- Software: R$ 120247.01 (10.9%)
+- Serviços: R$ 166409.33 (15.1%)
+- Outros: R$ 83866.00 (7.6%)

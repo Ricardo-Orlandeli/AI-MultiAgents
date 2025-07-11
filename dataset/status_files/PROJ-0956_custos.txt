@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O poder de inovar mais facilmente (PROJ-0956)
+Data: 11/07/2025
+Gerente: Maria Clara da Luz
+
+Orçamento inicial: R$ 3066787.00
+Custo real atual: R$ 1810592.36
+Desvio orçamentário: -6.47%
+Índice de Desempenho de Custo (CPI): 0.74
+Valor Agregado (EV): R$ 1336783.84
+Estimativa para conclusão: R$ 2343184.01
+Estimativa no término (EAC): R$ 4153776.37
+Variação no término (VAC): R$ -1086989.37
+
+Detalhamento por categoria:
+- Pessoal: R$ 837260.01 (46.2%)
+- Equipamentos: R$ 281137.94 (15.5%)
+- Software: R$ 133048.76 (7.3%)
+- Serviços: R$ 407002.64 (22.5%)
+- Outros: R$ 152143.00 (8.4%)

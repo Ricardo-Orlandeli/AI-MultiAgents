@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O direito de concretizar seus projetos em estado puro (PROJ-0347)
+Data: 11/07/2025
+Gerente: Mariana Castro
+
+Orçamento inicial: R$ 3181304.00
+Custo real atual: R$ 2047057.10
+Desvio orçamentário: -35.65%
+Índice de Desempenho de Custo (CPI): 0.99
+Valor Agregado (EV): R$ 2019988.56
+Estimativa para conclusão: R$ 1176877.46
+Estimativa no término (EAC): R$ 3223934.56
+Variação no término (VAC): R$ -42630.56
+
+Detalhamento por categoria:
+- Pessoal: R$ 960552.26 (46.9%)
+- Equipamentos: R$ 353109.62 (17.2%)
+- Software: R$ 143599.58 (7.0%)
+- Serviços: R$ 458493.69 (22.4%)
+- Outros: R$ 131301.95 (6.4%)

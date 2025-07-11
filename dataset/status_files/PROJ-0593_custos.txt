@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O conforto de conseguir com força total (PROJ-0593)
+Data: 11/07/2025
+Gerente: Maria da Cruz
+
+Orçamento inicial: R$ 1936515.00
+Custo real atual: R$ 1645679.97
+Desvio orçamentário: -15.02%
+Índice de Desempenho de Custo (CPI): 0.88
+Valor Agregado (EV): R$ 1440567.69
+Estimativa para conclusão: R$ 566561.75
+Estimativa no término (EAC): R$ 2212241.72
+Variação no término (VAC): R$ -275726.72
+
+Detalhamento por categoria:
+- Pessoal: R$ 869142.59 (52.8%)
+- Equipamentos: R$ 340211.38 (20.7%)
+- Software: R$ 131241.28 (8.0%)
+- Serviços: R$ 214623.60 (13.0%)
+- Outros: R$ 90461.13 (5.5%)

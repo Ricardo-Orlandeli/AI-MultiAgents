@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A certeza de evoluir naturalmente (PROJ-0673)
+Data: 11/07/2025
+Gerente: Dr. José Rios
+
+Orçamento inicial: R$ 2514396.00
+Custo real atual: R$ 1309719.45
+Desvio orçamentário: 20.32%
+Índice de Desempenho de Custo (CPI): 0.85
+Valor Agregado (EV): R$ 1117014.53
+Estimativa para conclusão: R$ 1638454.68
+Estimativa no término (EAC): R$ 2948174.13
+Variação no término (VAC): R$ -433778.13
+
+Detalhamento por categoria:
+- Pessoal: R$ 651496.96 (49.7%)
+- Equipamentos: R$ 161225.30 (12.3%)
+- Software: R$ 190296.96 (14.5%)
+- Serviços: R$ 236053.79 (18.0%)
+- Outros: R$ 70646.44 (5.4%)

@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A segurança de evoluir mais rapidamente (PROJ-0221)
+Data: 11/07/2025
+Gerente: Olivia Ribeiro
+
+Orçamento inicial: R$ 2315401.00
+Custo real atual: R$ 2628864.54
+Desvio orçamentário: 68.40%
+Índice de Desempenho de Custo (CPI): 0.88
+Valor Agregado (EV): R$ 2315401.00
+Estimativa para conclusão: R$ 0.00
+Estimativa no término (EAC): R$ 2628864.54
+Variação no término (VAC): R$ -313463.54
+
+Detalhamento por categoria:
+- Pessoal: R$ 1161402.60 (44.2%)
+- Equipamentos: R$ 446772.27 (17.0%)
+- Software: R$ 411445.04 (15.7%)
+- Serviços: R$ 433523.57 (16.5%)
+- Outros: R$ 175721.06 (6.7%)

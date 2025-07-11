@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A simplicidade de conseguir com confiança (PROJ-0526)
+Data: 11/07/2025
+Gerente: Léo Pimenta
+
+Orçamento inicial: R$ 1613685.00
+Custo real atual: R$ 1700694.61
+Desvio orçamentário: 5.39%
+Índice de Desempenho de Custo (CPI): 0.87
+Valor Agregado (EV): R$ 1471314.81
+Estimativa para conclusão: R$ 164565.88
+Estimativa no término (EAC): R$ 1865260.49
+Variação no término (VAC): R$ -251575.49
+
+Detalhamento por categoria:
+- Pessoal: R$ 918630.36 (54.0%)
+- Equipamentos: R$ 309421.95 (18.2%)
+- Software: R$ 137532.45 (8.1%)
+- Serviços: R$ 200377.79 (11.8%)
+- Outros: R$ 134732.06 (7.9%)

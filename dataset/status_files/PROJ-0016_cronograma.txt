@@ -1,0 +1,24 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A vantagem de atingir seus objetivos simplesmente (PROJ-0016)
+Data: 11/07/2025
+Gerente: Melina Teixeira
+
+Status atual: Em andamento
+Percentual de conclusão: 99.9%
+Data de início: 13/01/2025
+Data de término planejada: 06/07/2025
+Data de término real/prevista: 10/07/2025
+Atraso atual: 5 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 1.00
+Valor Planejado (PV): R$ 4526581.00
+Valor Agregado (EV): R$ 4522054.42
+
+Tarefas críticas:
+- Implementação do sistema de backup
+- Migração de dados legados
+- Desenvolvimento do painel administrativo
+- Integração com sistema de pagamentos
+- Integração com sistema de pagamentos
+
+Tarefas atrasadas:

@@ -1,0 +1,26 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A arte de avançar mais facilmente (PROJ-0250)
+Data: 11/07/2025
+Gerente: Thiago Fonseca
+
+Status atual: Atrasado
+Percentual de conclusão: 86.0%
+Data de início: 11/12/2023
+Data de término planejada: 31/05/2024
+Data de término real/prevista: 06/11/2024
+Atraso atual: 406 dias
+Motivo do atraso: Estimativas imprecisas
+Índice de Desempenho de Cronograma (SPI): 0.86
+Valor Planejado (PV): R$ 1416364.00
+Valor Agregado (EV): R$ 1218200.36
+
+Tarefas críticas:
+- Migração de dados legados
+- Implementação do módulo de análise de dados
+- Testes de segurança
+- Implementação do módulo de análise de dados
+- Configuração da infraestrutura
+
+Tarefas atrasadas:
+- Implementação do módulo de análise de dados
+- Configuração da infraestrutura

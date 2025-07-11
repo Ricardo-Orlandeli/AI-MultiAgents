@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE ESCOPO
+Projeto: A vantagem de evoluir naturalmente (PROJ-0850)
+Data: 11/07/2025
+Gerente: Maria Luísa Porto
+
+Escopo original: Sistema para a vantagem de evoluir naturalmente
+Houve mudança de escopo: Sim
+Descrição das mudanças: Expansão do escopo para incluir funcionalidades adicionais
+Impacto no cronograma: 34 dias
+Impacto no custo: R$ 121669.07
+
+Solicitações de mudança:
+- SCM-01: Implementação de módulo de exportação de dados
+
+Requisitos atuais:
+- REQ-01: O sistema deve processar transações em menos de 2 seconds
+- REQ-02: O sistema deve ter alta disponibilidade (99.9%)
+- REQ-03: O sistema deve permitir autenticação de usuários
+- REQ-04: O sistema deve permitir integração com APIs externas
+- REQ-05: O sistema deve ser compatível com dispositivos móveis

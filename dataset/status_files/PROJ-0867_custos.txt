@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A simplicidade de realizar seus sonhos direto da fonte (PROJ-0867)
+Data: 11/07/2025
+Gerente: Pedro Porto
+
+Orçamento inicial: R$ 3690197.00
+Custo real atual: R$ 2804435.70
+Desvio orçamentário: -24.00%
+Índice de Desempenho de Custo (CPI): 0.82
+Valor Agregado (EV): R$ 2288681.05
+Estimativa para conclusão: R$ 1717347.80
+Estimativa no término (EAC): R$ 4521783.51
+Variação no término (VAC): R$ -831586.51
+
+Detalhamento por categoria:
+- Pessoal: R$ 1600618.97 (57.1%)
+- Equipamentos: R$ 451766.19 (16.1%)
+- Software: R$ 236823.48 (8.4%)
+- Serviços: R$ 340707.42 (12.1%)
+- Outros: R$ 174519.64 (6.2%)

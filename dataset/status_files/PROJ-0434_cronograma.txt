@@ -1,0 +1,26 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A simplicidade de ganhar naturalmente (PROJ-0434)
+Data: 11/07/2025
+Gerente: Maria Sophia Sousa
+
+Status atual: Em andamento
+Percentual de conclusão: 51.3%
+Data de início: 19/03/2025
+Data de término planejada: 11/10/2025
+Data de término real/prevista: 09/10/2025
+Atraso atual: 0 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 0.93
+Valor Planejado (PV): R$ 2281203.64
+Valor Agregado (EV): R$ 2113367.41
+
+Tarefas críticas:
+- Desenvolvimento do módulo de autenticação
+- Desenvolvimento do painel administrativo
+- Desenvolvimento do painel administrativo
+- Implementação do módulo de análise de dados
+- Implementação do módulo de análise de dados
+- Desenvolvimento do painel administrativo
+- Integração com sistema de pagamentos
+
+Tarefas atrasadas:

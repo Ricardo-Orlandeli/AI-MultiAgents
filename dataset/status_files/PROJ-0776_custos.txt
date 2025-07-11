@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A possibilidade de concretizar seus projetos em estado puro (PROJ-0776)
+Data: 11/07/2025
+Gerente: Evelyn Melo
+
+Orçamento inicial: R$ 1353631.00
+Custo real atual: R$ 1024915.61
+Desvio orçamentário: -24.28%
+Índice de Desempenho de Custo (CPI): 0.76
+Valor Agregado (EV): R$ 776188.65
+Estimativa para conclusão: R$ 762481.75
+Estimativa no término (EAC): R$ 1787397.36
+Variação no término (VAC): R$ -433766.36
+
+Detalhamento por categoria:
+- Pessoal: R$ 504827.50 (49.3%)
+- Equipamentos: R$ 167632.18 (16.4%)
+- Software: R$ 145554.18 (14.2%)
+- Serviços: R$ 142614.87 (13.9%)
+- Outros: R$ 64286.87 (6.3%)

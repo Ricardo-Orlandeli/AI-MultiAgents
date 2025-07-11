@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A possibilidade de ganhar com força total (PROJ-0015)
+Data: 11/07/2025
+Gerente: Sra. Júlia Montenegro
+
+Orçamento inicial: R$ 3534833.00
+Custo real atual: R$ 3107624.06
+Desvio orçamentário: 0.58%
+Índice de Desempenho de Custo (CPI): 0.98
+Valor Agregado (EV): R$ 3036215.67
+Estimativa para conclusão: R$ 510344.25
+Estimativa no término (EAC): R$ 3617968.31
+Variação no término (VAC): R$ -83135.31
+
+Detalhamento por categoria:
+- Pessoal: R$ 1792215.32 (57.7%)
+- Equipamentos: R$ 396685.04 (12.8%)
+- Software: R$ 292905.21 (9.4%)
+- Serviços: R$ 389403.73 (12.5%)
+- Outros: R$ 236414.76 (7.6%)

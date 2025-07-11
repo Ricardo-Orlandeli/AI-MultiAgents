@@ -1,0 +1,26 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A segurança de concretizar seus projetos direto da fonte (PROJ-0778)
+Data: 11/07/2025
+Gerente: Yasmin Vargas
+
+Status atual: Atrasado
+Percentual de conclusão: 82.6%
+Data de início: 12/09/2024
+Data de término planejada: 13/10/2024
+Data de término real/prevista: 18/11/2024
+Atraso atual: 271 dias
+Motivo do atraso: Falhas em testes de aceitação
+Índice de Desempenho de Cronograma (SPI): 0.83
+Valor Planejado (PV): R$ 4138304.00
+Valor Agregado (EV): R$ 3419980.06
+
+Tarefas críticas:
+- Implementação do módulo de análise de dados
+- Integração com sistema de pagamentos
+- Implementação do módulo de relatórios
+- Implementação do módulo de relatórios
+
+Tarefas atrasadas:
+- Implementação do módulo de relatórios
+- Integração com sistema de pagamentos
+- Implementação do módulo de análise de dados

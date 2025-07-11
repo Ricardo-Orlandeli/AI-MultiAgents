@@ -1,0 +1,26 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A segurança de mudar naturalmente (PROJ-0662)
+Data: 11/07/2025
+Gerente: Sr. Raul Camargo
+
+Status atual: Em andamento
+Percentual de conclusão: 99.9%
+Data de início: 07/06/2024
+Data de término planejada: 14/12/2024
+Data de término real/prevista: 13/12/2024
+Atraso atual: 209 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 1.02
+Valor Planejado (PV): R$ 1490523.00
+Valor Agregado (EV): R$ 1489032.48
+
+Tarefas críticas:
+- Desenvolvimento da interface do usuário
+- Migração de dados legados
+- Testes de segurança
+- Implementação do módulo de exportação de dados
+- Integração com sistema de pagamentos
+- Implementação da API REST
+- Implementação do sistema de backup
+
+Tarefas atrasadas:

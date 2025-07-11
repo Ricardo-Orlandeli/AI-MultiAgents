@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O poder de mudar com força total (PROJ-0476)
+Data: 11/07/2025
+Gerente: Mariah Costa
+
+Orçamento inicial: R$ 174908.00
+Custo real atual: R$ 183113.24
+Desvio orçamentário: 4.69%
+Índice de Desempenho de Custo (CPI): 0.89
+Valor Agregado (EV): R$ 162919.42
+Estimativa para conclusão: R$ 13474.56
+Estimativa no término (EAC): R$ 196587.80
+Variação no término (VAC): R$ -21679.80
+
+Detalhamento por categoria:
+- Pessoal: R$ 88645.67 (48.4%)
+- Equipamentos: R$ 36112.84 (19.7%)
+- Software: R$ 14231.95 (7.8%)
+- Serviços: R$ 24237.04 (13.2%)
+- Outros: R$ 19885.73 (10.9%)

@@ -1,0 +1,29 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A vantagem de atingir seus objetivos de maneira eficaz (PROJ-0996)
+Data: 11/07/2025
+Gerente: Dr. Luiz Felipe Pinto
+
+Status atual: Atrasado
+Percentual de conclusão: 83.1%
+Data de início: 28/07/2024
+Data de término planejada: 11/02/2025
+Data de término real/prevista: 09/03/2025
+Atraso atual: 150 dias
+Motivo do atraso: Problemas de integração com sistemas legados
+Índice de Desempenho de Cronograma (SPI): 0.83
+Valor Planejado (PV): R$ 3708143.00
+Valor Agregado (EV): R$ 3080597.15
+
+Tarefas críticas:
+- Implementação do módulo de relatórios
+- Desenvolvimento do painel administrativo
+- Desenvolvimento do painel administrativo
+- Implementação do módulo de exportação de dados
+- Desenvolvimento da interface do usuário
+- Configuração da infraestrutura
+- Desenvolvimento do painel administrativo
+
+Tarefas atrasadas:
+- Desenvolvimento do painel administrativo
+- Implementação do módulo de relatórios
+- Desenvolvimento do painel administrativo

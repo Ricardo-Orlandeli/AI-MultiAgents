@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A possibilidade de concretizar seus projetos mais facilmente (PROJ-0638)
+Data: 11/07/2025
+Gerente: Maya Cunha
+
+Orçamento inicial: R$ 4917194.00
+Custo real atual: R$ 165725.50
+Desvio orçamentário: 0.55%
+Índice de Desempenho de Custo (CPI): 0.88
+Valor Agregado (EV): R$ 145217.47
+Estimativa para conclusão: R$ 5445888.76
+Estimativa no término (EAC): R$ 5611614.26
+Variação no término (VAC): R$ -694420.26
+
+Detalhamento por categoria:
+- Pessoal: R$ 97068.63 (58.6%)
+- Equipamentos: R$ 19985.90 (12.1%)
+- Software: R$ 9079.26 (5.5%)
+- Serviços: R$ 30995.91 (18.7%)
+- Outros: R$ 8595.81 (5.2%)

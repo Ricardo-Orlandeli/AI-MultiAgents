@@ -1,0 +1,25 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A possibilidade de inovar com força total (PROJ-0887)
+Data: 11/07/2025
+Gerente: Gustavo Henrique Caldeira
+
+Status atual: Em andamento
+Percentual de conclusão: 99.9%
+Data de início: 09/09/2024
+Data de término planejada: 13/03/2025
+Data de término real/prevista: 20/03/2025
+Atraso atual: 120 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 1.07
+Valor Planejado (PV): R$ 4034081.00
+Valor Agregado (EV): R$ 4030046.92
+
+Tarefas críticas:
+- Integração com sistema de pagamentos
+- Desenvolvimento da interface do usuário
+- Implementação do módulo de exportação de dados
+- Configuração do ambiente de produção
+- Testes de aceitação do usuário
+- Implementação do módulo de análise de dados
+
+Tarefas atrasadas:

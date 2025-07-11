@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O conforto de avançar de maneira eficaz (PROJ-0688)
+Data: 11/07/2025
+Gerente: Sophia Borges
+
+Orçamento inicial: R$ 4267604.00
+Custo real atual: R$ 3582097.91
+Desvio orçamentário: -16.06%
+Índice de Desempenho de Custo (CPI): 0.99
+Valor Agregado (EV): R$ 3530822.69
+Estimativa para conclusão: R$ 747480.97
+Estimativa no término (EAC): R$ 4329578.89
+Variação no término (VAC): R$ -61974.89
+
+Detalhamento por categoria:
+- Pessoal: R$ 1597495.71 (44.6%)
+- Equipamentos: R$ 582565.17 (16.3%)
+- Software: R$ 368046.51 (10.3%)
+- Serviços: R$ 759399.32 (21.2%)
+- Outros: R$ 274591.21 (7.7%)

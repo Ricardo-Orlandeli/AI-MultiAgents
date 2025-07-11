@@ -1,0 +1,27 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A liberdade de conseguir sem preocupação (PROJ-0590)
+Data: 11/07/2025
+Gerente: Rael Guerra
+
+Status atual: Concluído
+Percentual de conclusão: 100.0%
+Data de início: 22/03/2025
+Data de término planejada: 12/06/2025
+Data de término real/prevista: 25/06/2025
+Atraso atual: 29 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 1.10
+Valor Planejado (PV): R$ 1323125.00
+Valor Agregado (EV): R$ 1323125.00
+
+Tarefas críticas:
+- Implementação do módulo de relatórios
+- Implementação do módulo de análise de dados
+- Implementação do sistema de backup
+- Configuração da infraestrutura
+- Testes de aceitação do usuário
+- Implementação do módulo de notificações
+- Desenvolvimento do painel administrativo
+- Testes de segurança
+
+Tarefas atrasadas:

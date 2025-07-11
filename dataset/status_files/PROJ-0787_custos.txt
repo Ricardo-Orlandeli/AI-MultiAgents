@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O conforto de ganhar simplesmente (PROJ-0787)
+Data: 11/07/2025
+Gerente: Arthur Gabriel da Luz
+
+Orçamento inicial: R$ 3482614.00
+Custo real atual: R$ 3059206.79
+Desvio orçamentário: -12.16%
+Índice de Desempenho de Custo (CPI): 1.14
+Valor Agregado (EV): R$ 3479131.39
+Estimativa para conclusão: R$ 3062.27
+Estimativa no término (EAC): R$ 3062269.06
+Variação no término (VAC): R$ 420344.94
+
+Detalhamento por categoria:
+- Pessoal: R$ 1433961.66 (46.9%)
+- Equipamentos: R$ 495872.37 (16.2%)
+- Software: R$ 461939.79 (15.1%)
+- Serviços: R$ 389713.05 (12.7%)
+- Outros: R$ 277719.92 (9.1%)

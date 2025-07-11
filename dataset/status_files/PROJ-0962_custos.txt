@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A simplicidade de mudar direto da fonte (PROJ-0962)
+Data: 11/07/2025
+Gerente: Arthur da Conceição
+
+Orçamento inicial: R$ 1617864.00
+Custo real atual: R$ 1146876.56
+Desvio orçamentário: 4.64%
+Índice de Desempenho de Custo (CPI): 0.86
+Valor Agregado (EV): R$ 984790.12
+Estimativa para conclusão: R$ 737271.40
+Estimativa no término (EAC): R$ 1884147.96
+Variação no término (VAC): R$ -266283.96
+
+Detalhamento por categoria:
+- Pessoal: R$ 638830.96 (55.7%)
+- Equipamentos: R$ 142087.37 (12.4%)
+- Software: R$ 77110.91 (6.7%)
+- Serviços: R$ 199046.83 (17.4%)
+- Outros: R$ 89800.49 (7.8%)

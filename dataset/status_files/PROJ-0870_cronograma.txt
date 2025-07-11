@@ -1,0 +1,24 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A liberdade de evoluir com toda a tranquilidade (PROJ-0870)
+Data: 11/07/2025
+Gerente: Benício Rezende
+
+Status atual: Em andamento
+Percentual de conclusão: 24.4%
+Data de início: 29/04/2025
+Data de término planejada: 08/04/2026
+Data de término real/prevista: 28/03/2026
+Atraso atual: 0 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 0.95
+Valor Planejado (PV): R$ 500250.11
+Valor Agregado (EV): R$ 575002.40
+
+Tarefas críticas:
+- Implementação do módulo de exportação de dados
+- Implementação da API REST
+- Desenvolvimento do painel administrativo
+- Implementação do módulo de exportação de dados
+- Integração com sistema de pagamentos
+
+Tarefas atrasadas:

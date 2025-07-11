@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A simplicidade de avançar de maneira eficaz (PROJ-0971)
+Data: 11/07/2025
+Gerente: Maria Júlia da Cruz
+
+Orçamento inicial: R$ 4890371.00
+Custo real atual: R$ 4784244.74
+Desvio orçamentário: -2.17%
+Índice de Desempenho de Custo (CPI): 0.86
+Valor Agregado (EV): R$ 4123043.54
+Estimativa para conclusão: R$ 890381.66
+Estimativa no término (EAC): R$ 5674626.40
+Variação no término (VAC): R$ -784255.40
+
+Detalhamento por categoria:
+- Pessoal: R$ 2409736.37 (50.4%)
+- Equipamentos: R$ 634775.21 (13.3%)
+- Software: R$ 468235.02 (9.8%)
+- Serviços: R$ 996469.82 (20.8%)
+- Outros: R$ 275028.32 (5.7%)

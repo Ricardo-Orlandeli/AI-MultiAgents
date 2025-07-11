@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A vantagem de conseguir antes de tudo (PROJ-0817)
+Data: 11/07/2025
+Gerente: Gustavo Henrique Vargas
+
+Orçamento inicial: R$ 1240799.00
+Custo real atual: R$ 978372.68
+Desvio orçamentário: -21.15%
+Índice de Desempenho de Custo (CPI): 1.14
+Valor Agregado (EV): R$ 1119465.38
+Estimativa para conclusão: R$ 106041.24
+Estimativa no término (EAC): R$ 1084413.92
+Variação no término (VAC): R$ 156385.08
+
+Detalhamento por categoria:
+- Pessoal: R$ 585261.13 (59.8%)
+- Equipamentos: R$ 146243.59 (14.9%)
+- Software: R$ 70052.41 (7.2%)
+- Serviços: R$ 117829.25 (12.0%)
+- Outros: R$ 58986.30 (6.0%)

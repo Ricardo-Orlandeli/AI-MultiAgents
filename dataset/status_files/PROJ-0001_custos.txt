@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A certeza de realizar seus sonhos simplesmente (PROJ-0001)
+Data: 11/07/2025
+Gerente: João Guilherme da Cruz
+
+Orçamento inicial: R$ 2357113.00
+Custo real atual: R$ 1719746.17
+Desvio orçamentário: -1.71%
+Índice de Desempenho de Custo (CPI): 0.91
+Valor Agregado (EV): R$ 1571134.90
+Estimativa para conclusão: R$ 860322.58
+Estimativa no término (EAC): R$ 2580068.75
+Variação no término (VAC): R$ -222955.75
+
+Detalhamento por categoria:
+- Pessoal: R$ 1054630.53 (61.3%)
+- Equipamentos: R$ 198175.61 (11.5%)
+- Software: R$ 168088.96 (9.8%)
+- Serviços: R$ 187757.29 (10.9%)
+- Outros: R$ 111093.79 (6.5%)

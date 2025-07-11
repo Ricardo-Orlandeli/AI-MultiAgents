@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A certeza de inovar mais rapidamente (PROJ-0589)
+Data: 11/07/2025
+Gerente: Danilo Souza
+
+Orçamento inicial: R$ 3161811.00
+Custo real atual: R$ 3799352.75
+Desvio orçamentário: 20.16%
+Índice de Desempenho de Custo (CPI): 0.69
+Valor Agregado (EV): R$ 2602749.57
+Estimativa para conclusão: R$ 816087.57
+Estimativa no término (EAC): R$ 4615440.32
+Variação no término (VAC): R$ -1453629.32
+
+Detalhamento por categoria:
+- Pessoal: R$ 1832969.26 (48.2%)
+- Equipamentos: R$ 568384.65 (15.0%)
+- Software: R$ 387426.62 (10.2%)
+- Serviços: R$ 677735.05 (17.8%)
+- Outros: R$ 332837.17 (8.8%)

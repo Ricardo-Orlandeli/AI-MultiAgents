@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A segurança de inovar simplesmente (PROJ-0655)
+Data: 11/07/2025
+Gerente: Eduardo Mendonça
+
+Orçamento inicial: R$ 516309.00
+Custo real atual: R$ 369586.85
+Desvio orçamentário: -28.42%
+Índice de Desempenho de Custo (CPI): 0.89
+Valor Agregado (EV): R$ 330471.18
+Estimativa para conclusão: R$ 207834.19
+Estimativa no término (EAC): R$ 577421.04
+Variação no término (VAC): R$ -61112.04
+
+Detalhamento por categoria:
+- Pessoal: R$ 169709.54 (45.9%)
+- Equipamentos: R$ 70416.96 (19.1%)
+- Software: R$ 32386.53 (8.8%)
+- Serviços: R$ 56070.15 (15.2%)
+- Outros: R$ 41003.67 (11.1%)

@@ -1,0 +1,22 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: O prazer de ganhar naturalmente (PROJ-0608)
+Data: 11/07/2025
+Gerente: Thiago Monteiro
+
+Status atual: Em andamento
+Percentual de conclusão: 71.8%
+Data de início: 28/11/2024
+Data de término planejada: 08/09/2025
+Data de término real/prevista: 09/09/2025
+Atraso atual: 0 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 1.01
+Valor Planejado (PV): R$ 2904730.99
+Valor Agregado (EV): R$ 2633691.03
+
+Tarefas críticas:
+- Integração com sistema de pagamentos
+- Implementação do módulo de análise de dados
+- Implementação do módulo de relatórios
+
+Tarefas atrasadas:

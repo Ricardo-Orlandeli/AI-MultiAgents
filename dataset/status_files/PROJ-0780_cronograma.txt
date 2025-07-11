@@ -1,0 +1,25 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: O poder de ganhar simplesmente (PROJ-0780)
+Data: 11/07/2025
+Gerente: Rafaela da Mota
+
+Status atual: Em andamento
+Percentual de conclusão: 95.3%
+Data de início: 10/01/2024
+Data de término planejada: 26/06/2024
+Data de término real/prevista: 25/06/2024
+Atraso atual: 380 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 0.86
+Valor Planejado (PV): R$ 325433.00
+Valor Agregado (EV): R$ 310238.92
+
+Tarefas críticas:
+- Implementação da API REST
+- Desenvolvimento do painel administrativo
+- Desenvolvimento da interface do usuário
+- Implementação do módulo de exportação de dados
+- Implementação da API REST
+- Configuração da infraestrutura
+
+Tarefas atrasadas:

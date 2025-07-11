@@ -1,0 +1,27 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A arte de mudar mais facilmente (PROJ-0240)
+Data: 11/07/2025
+Gerente: Rael Castro
+
+Status atual: Atrasado
+Percentual de conclusão: 25.7%
+Data de início: 13/01/2025
+Data de término planejada: 29/12/2025
+Data de término real/prevista: 05/04/2026
+Atraso atual: 0 dias
+Motivo do atraso: Estimativas imprecisas
+Índice de Desempenho de Cronograma (SPI): 0.50
+Valor Planejado (PV): R$ 1894859.22
+Valor Agregado (EV): R$ 951279.11
+
+Tarefas críticas:
+- Desenvolvimento do painel administrativo
+- Desenvolvimento do módulo de autenticação
+- Implementação do módulo de notificações
+- Testes de aceitação do usuário
+- Implementação do módulo de relatórios
+
+Tarefas atrasadas:
+- Implementação do módulo de notificações
+- Implementação do módulo de relatórios
+- Desenvolvimento do módulo de autenticação

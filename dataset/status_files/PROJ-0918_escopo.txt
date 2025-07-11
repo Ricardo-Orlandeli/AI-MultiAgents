@@ -1,0 +1,23 @@
+RELATÓRIO DE STATUS DE ESCOPO
+Projeto: A segurança de inovar com força total (PROJ-0918)
+Data: 11/07/2025
+Gerente: Maria Helena da Rocha
+
+Escopo original: Sistema para a segurança de inovar com força total
+Houve mudança de escopo: Sim
+Descrição das mudanças: Adição de novos requisitos de segurança
+Impacto no cronograma: 48 dias
+Impacto no custo: R$ 83266.68
+
+Solicitações de mudança:
+- SCM-01: Integração com sistema legado
+- SCM-02: Alteração na interface do usuário
+- SCM-03: Alteração na interface do usuário
+
+Requisitos atuais:
+- REQ-01: O sistema deve implementar criptografia de dados sensíveis
+- REQ-02: O sistema deve implementar criptografia de dados sensíveis
+- REQ-03: O sistema deve ter backup automático diário
+- REQ-04: O sistema deve permitir exportação de dados em formato CSV
+- REQ-05: O sistema deve ter documentação completa
+- REQ-06: O sistema deve ter controle de acesso baseado em perfis

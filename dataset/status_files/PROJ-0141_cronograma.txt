@@ -1,0 +1,24 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: O prazer de ganhar com confiança (PROJ-0141)
+Data: 11/07/2025
+Gerente: Léo Pacheco
+
+Status atual: Em andamento
+Percentual de conclusão: 99.9%
+Data de início: 03/10/2024
+Data de término planejada: 02/02/2025
+Data de término real/prevista: 28/01/2025
+Atraso atual: 159 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 0.89
+Valor Planejado (PV): R$ 2875065.00
+Valor Agregado (EV): R$ 2872189.94
+
+Tarefas críticas:
+- Desenvolvimento do painel administrativo
+- Testes de segurança
+- Implementação do módulo de exportação de dados
+- Implementação do módulo de notificações
+- Desenvolvimento do painel administrativo
+
+Tarefas atrasadas:

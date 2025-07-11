@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O poder de evoluir de maneira eficaz (PROJ-0509)
+Data: 11/07/2025
+Gerente: Sr. Rafael Sampaio
+
+Orçamento inicial: R$ 3861003.00
+Custo real atual: R$ 1761210.40
+Desvio orçamentário: 16.21%
+Índice de Desempenho de Custo (CPI): 0.93
+Valor Agregado (EV): R$ 1637929.91
+Estimativa para conclusão: R$ 2390394.98
+Estimativa no término (EAC): R$ 4151605.38
+Variação no término (VAC): R$ -290602.38
+
+Detalhamento por categoria:
+- Pessoal: R$ 955411.93 (54.2%)
+- Equipamentos: R$ 252839.77 (14.4%)
+- Software: R$ 186590.67 (10.6%)
+- Serviços: R$ 188774.81 (10.7%)
+- Outros: R$ 177593.21 (10.1%)

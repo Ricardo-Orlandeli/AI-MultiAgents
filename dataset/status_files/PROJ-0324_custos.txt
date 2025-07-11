@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A liberdade de evoluir com toda a tranquilidade (PROJ-0324)
+Data: 11/07/2025
+Gerente: Nathan Monteiro
+
+Orçamento inicial: R$ 2149338.00
+Custo real atual: R$ 1989611.36
+Desvio orçamentário: -7.43%
+Índice de Desempenho de Custo (CPI): 0.98
+Valor Agregado (EV): R$ 1952858.67
+Estimativa para conclusão: R$ 200177.06
+Estimativa no término (EAC): R$ 2189788.43
+Variação no término (VAC): R$ -40450.43
+
+Detalhamento por categoria:
+- Pessoal: R$ 1027465.53 (51.6%)
+- Equipamentos: R$ 231746.34 (11.6%)
+- Software: R$ 247150.75 (12.4%)
+- Serviços: R$ 265486.01 (13.3%)
+- Outros: R$ 217762.74 (10.9%)

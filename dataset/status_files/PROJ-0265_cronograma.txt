@@ -1,0 +1,25 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A possibilidade de evoluir mais facilmente (PROJ-0265)
+Data: 11/07/2025
+Gerente: Gabriela Cardoso
+
+Status atual: Em andamento
+Percentual de conclusão: 98.9%
+Data de início: 18/08/2024
+Data de término planejada: 12/04/2025
+Data de término real/prevista: 18/04/2025
+Atraso atual: 90 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 1.11
+Valor Planejado (PV): R$ 1354603.00
+Valor Agregado (EV): R$ 1340147.30
+
+Tarefas críticas:
+- Testes de aceitação do usuário
+- Desenvolvimento do painel administrativo
+- Implementação do módulo de análise de dados
+- Desenvolvimento do módulo de autenticação
+- Desenvolvimento da interface do usuário
+- Implementação da API REST
+
+Tarefas atrasadas:

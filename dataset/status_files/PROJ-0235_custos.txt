@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O prazer de mudar mais facilmente (PROJ-0235)
+Data: 11/07/2025
+Gerente: Leandro Barros
+
+Orçamento inicial: R$ 1086660.00
+Custo real atual: R$ 825596.00
+Desvio orçamentário: -7.43%
+Índice de Desempenho de Custo (CPI): 0.87
+Valor Agregado (EV): R$ 715869.88
+Estimativa para conclusão: R$ 427623.58
+Estimativa no término (EAC): R$ 1253219.57
+Variação no término (VAC): R$ -166559.57
+
+Detalhamento por categoria:
+- Pessoal: R$ 415661.56 (50.3%)
+- Equipamentos: R$ 154456.84 (18.7%)
+- Software: R$ 111957.31 (13.6%)
+- Serviços: R$ 98829.31 (12.0%)
+- Outros: R$ 44690.97 (5.4%)

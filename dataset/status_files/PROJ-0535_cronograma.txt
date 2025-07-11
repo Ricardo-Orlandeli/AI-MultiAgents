@@ -1,0 +1,30 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: O direito de evoluir mais facilmente (PROJ-0535)
+Data: 11/07/2025
+Gerente: Sra. Maria Helena Sales
+
+Status atual: Atrasado
+Percentual de conclusão: 18.7%
+Data de início: 10/05/2025
+Data de término planejada: 20/11/2025
+Data de término real/prevista: 16/12/2025
+Atraso atual: 0 dias
+Motivo do atraso: Mudanças de requisitos não planejadas
+Índice de Desempenho de Cronograma (SPI): 0.58
+Valor Planejado (PV): R$ 842445.13
+Valor Agregado (EV): R$ 491663.69
+
+Tarefas críticas:
+- Integração com sistema de pagamentos
+- Migração de dados legados
+- Implementação do módulo de exportação de dados
+- Implementação do módulo de notificações
+- Configuração do ambiente de produção
+- Implementação do módulo de exportação de dados
+- Implementação do sistema de backup
+- Testes de aceitação do usuário
+
+Tarefas atrasadas:
+- Implementação do módulo de notificações
+- Migração de dados legados
+- Integração com sistema de pagamentos

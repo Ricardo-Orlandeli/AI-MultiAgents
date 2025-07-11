@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A arte de ganhar simplesmente (PROJ-0489)
+Data: 11/07/2025
+Gerente: Luana Correia
+
+Orçamento inicial: R$ 2321977.00
+Custo real atual: R$ 678677.08
+Desvio orçamentário: -28.21%
+Índice de Desempenho de Custo (CPI): 1.15
+Valor Agregado (EV): R$ 780545.50
+Estimativa para conclusão: R$ 1340260.40
+Estimativa no término (EAC): R$ 2018937.48
+Variação no término (VAC): R$ 303039.52
+
+Detalhamento por categoria:
+- Pessoal: R$ 374333.33 (55.2%)
+- Equipamentos: R$ 118226.12 (17.4%)
+- Software: R$ 43896.17 (6.5%)
+- Serviços: R$ 96229.41 (14.2%)
+- Outros: R$ 45992.05 (6.8%)

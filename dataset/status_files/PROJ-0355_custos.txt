@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A segurança de conseguir mais rapidamente (PROJ-0355)
+Data: 11/07/2025
+Gerente: Rhavi Farias
+
+Orçamento inicial: R$ 63549.00
+Custo real atual: R$ 75725.34
+Desvio orçamentário: 19.16%
+Índice de Desempenho de Custo (CPI): 0.84
+Valor Agregado (EV): R$ 63485.45
+Estimativa para conclusão: R$ 75.80
+Estimativa no término (EAC): R$ 75801.14
+Variação no término (VAC): R$ -12252.14
+
+Detalhamento por categoria:
+- Pessoal: R$ 39117.41 (51.7%)
+- Equipamentos: R$ 12965.35 (17.1%)
+- Software: R$ 7947.49 (10.5%)
+- Serviços: R$ 11307.27 (14.9%)
+- Outros: R$ 4387.83 (5.8%)

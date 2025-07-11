@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A simplicidade de evoluir simplesmente (PROJ-0453)
+Data: 11/07/2025
+Gerente: Paulo Farias
+
+Orçamento inicial: R$ 1085041.00
+Custo real atual: R$ 1216904.53
+Desvio orçamentário: 12.15%
+Índice de Desempenho de Custo (CPI): 0.89
+Valor Agregado (EV): R$ 1085041.00
+Estimativa para conclusão: R$ 0.00
+Estimativa no término (EAC): R$ 1216904.53
+Variação no término (VAC): R$ -131863.53
+
+Detalhamento por categoria:
+- Pessoal: R$ 641152.30 (52.7%)
+- Equipamentos: R$ 217157.51 (17.8%)
+- Software: R$ 88751.79 (7.3%)
+- Serviços: R$ 208489.09 (17.1%)
+- Outros: R$ 61353.83 (5.0%)

@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O conforto de avançar antes de tudo (PROJ-0890)
+Data: 11/07/2025
+Gerente: Agatha Campos
+
+Orçamento inicial: R$ 2329992.00
+Custo real atual: R$ 2572690.27
+Desvio orçamentário: 10.42%
+Índice de Desempenho de Custo (CPI): 0.87
+Valor Agregado (EV): R$ 2236029.48
+Estimativa para conclusão: R$ 108109.70
+Estimativa no término (EAC): R$ 2680799.97
+Variação no término (VAC): R$ -350807.97
+
+Detalhamento por categoria:
+- Pessoal: R$ 1321930.06 (51.4%)
+- Equipamentos: R$ 312945.62 (12.2%)
+- Software: R$ 181113.48 (7.0%)
+- Serviços: R$ 567000.85 (22.0%)
+- Outros: R$ 189700.25 (7.4%)

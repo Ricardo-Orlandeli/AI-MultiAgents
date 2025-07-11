@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A certeza de avançar simplesmente (PROJ-0294)
+Data: 11/07/2025
+Gerente: Dr. Ravy da Luz
+
+Orçamento inicial: R$ 3387224.00
+Custo real atual: R$ 3485180.22
+Desvio orçamentário: 2.89%
+Índice de Desempenho de Custo (CPI): 0.97
+Valor Agregado (EV): R$ 3387224.00
+Estimativa para conclusão: R$ 0.00
+Estimativa no término (EAC): R$ 3485180.22
+Variação no término (VAC): R$ -97956.22
+
+Detalhamento por categoria:
+- Pessoal: R$ 1822519.37 (52.3%)
+- Equipamentos: R$ 598859.71 (17.2%)
+- Software: R$ 295843.47 (8.5%)
+- Serviços: R$ 539209.09 (15.5%)
+- Outros: R$ 228748.57 (6.6%)

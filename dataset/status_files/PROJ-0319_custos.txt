@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A certeza de realizar seus sonhos com confiança (PROJ-0319)
+Data: 11/07/2025
+Gerente: Dra. Mariah Vargas
+
+Orçamento inicial: R$ 4451143.00
+Custo real atual: R$ 4129668.11
+Desvio orçamentário: -7.22%
+Índice de Desempenho de Custo (CPI): 0.88
+Valor Agregado (EV): R$ 3626995.27
+Estimativa para conclusão: R$ 938368.08
+Estimativa no término (EAC): R$ 5068036.19
+Variação no término (VAC): R$ -616893.19
+
+Detalhamento por categoria:
+- Pessoal: R$ 2103179.00 (50.9%)
+- Equipamentos: R$ 538210.60 (13.0%)
+- Software: R$ 391482.53 (9.5%)
+- Serviços: R$ 703278.37 (17.0%)
+- Outros: R$ 393517.60 (9.5%)

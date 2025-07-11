@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O conforto de evoluir naturalmente (PROJ-0145)
+Data: 11/07/2025
+Gerente: Letícia Cassiano
+
+Orçamento inicial: R$ 3211417.00
+Custo real atual: R$ 1698735.94
+Desvio orçamentário: -17.97%
+Índice de Desempenho de Custo (CPI): 0.79
+Valor Agregado (EV): R$ 1340825.09
+Estimativa para conclusão: R$ 2369915.16
+Estimativa no término (EAC): R$ 4068651.10
+Variação no término (VAC): R$ -857234.10
+
+Detalhamento por categoria:
+- Pessoal: R$ 903582.32 (53.2%)
+- Equipamentos: R$ 263457.54 (15.5%)
+- Software: R$ 139589.18 (8.2%)
+- Serviços: R$ 299061.35 (17.6%)
+- Outros: R$ 93045.56 (5.5%)

@@ -1,0 +1,27 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A possibilidade de concretizar seus projetos em estado puro (PROJ-0776)
+Data: 11/07/2025
+Gerente: Evelyn Melo
+
+Status atual: Atrasado
+Percentual de conclusão: 57.3%
+Data de início: 21/04/2024
+Data de término planejada: 27/10/2024
+Data de término real/prevista: 07/03/2025
+Atraso atual: 257 dias
+Motivo do atraso: Problemas técnicos inesperados
+Índice de Desempenho de Cronograma (SPI): 0.57
+Valor Planejado (PV): R$ 1353631.00
+Valor Agregado (EV): R$ 776188.65
+
+Tarefas críticas:
+- Desenvolvimento da interface do usuário
+- Implementação do módulo de notificações
+- Migração de dados legados
+- Migração de dados legados
+- Implementação do sistema de backup
+
+Tarefas atrasadas:
+- Migração de dados legados
+- Desenvolvimento da interface do usuário
+- Implementação do sistema de backup

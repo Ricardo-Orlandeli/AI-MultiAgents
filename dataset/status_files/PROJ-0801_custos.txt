@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A simplicidade de inovar direto da fonte (PROJ-0801)
+Data: 11/07/2025
+Gerente: Luiza da Rocha
+
+Orçamento inicial: R$ 4829537.00
+Custo real atual: R$ 5126027.70
+Desvio orçamentário: 6.14%
+Índice de Desempenho de Custo (CPI): 0.94
+Valor Agregado (EV): R$ 4824707.46
+Estimativa para conclusão: R$ 5131.16
+Estimativa no término (EAC): R$ 5131158.86
+Variação no término (VAC): R$ -301621.86
+
+Detalhamento por categoria:
+- Pessoal: R$ 2567144.14 (50.1%)
+- Equipamentos: R$ 653377.62 (12.7%)
+- Software: R$ 756899.57 (14.8%)
+- Serviços: R$ 861673.59 (16.8%)
+- Outros: R$ 286932.77 (5.6%)

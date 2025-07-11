@@ -1,0 +1,27 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A segurança de inovar de maneira eficaz (PROJ-0105)
+Data: 11/07/2025
+Gerente: Ayla Silveira
+
+Status atual: Concluído
+Percentual de conclusão: 100.0%
+Data de início: 07/03/2025
+Data de término planejada: 23/12/2025
+Data de término real/prevista: 10/12/2025
+Atraso atual: 0 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 1.01
+Valor Planejado (PV): R$ 745143.22
+Valor Agregado (EV): R$ 1720926.00
+
+Tarefas críticas:
+- Implementação do módulo de notificações
+- Testes de aceitação do usuário
+- Implementação do módulo de notificações
+- Implementação do sistema de backup
+- Migração de dados legados
+- Configuração do ambiente de produção
+- Desenvolvimento do módulo de autenticação
+- Desenvolvimento da interface do usuário
+
+Tarefas atrasadas:

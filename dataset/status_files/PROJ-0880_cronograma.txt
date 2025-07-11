@@ -1,0 +1,24 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A arte de inovar com toda a tranquilidade (PROJ-0880)
+Data: 11/07/2025
+Gerente: Raquel Pereira
+
+Status atual: Atrasado
+Percentual de conclusão: 65.5%
+Data de início: 07/06/2024
+Data de término planejada: 25/07/2024
+Data de término real/prevista: 06/01/2025
+Atraso atual: 351 dias
+Motivo do atraso: Problemas de integração com sistemas legados
+Índice de Desempenho de Cronograma (SPI): 0.66
+Valor Planejado (PV): R$ 2615250.00
+Valor Agregado (EV): R$ 1713583.79
+
+Tarefas críticas:
+- Integração com sistema de pagamentos
+- Implementação do módulo de notificações
+- Implementação do módulo de notificações
+
+Tarefas atrasadas:
+- Implementação do módulo de notificações
+- Integração com sistema de pagamentos

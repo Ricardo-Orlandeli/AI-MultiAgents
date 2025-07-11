@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O prazer de realizar seus sonhos direto da fonte (PROJ-0889)
+Data: 11/07/2025
+Gerente: Maria Flor Porto
+
+Orçamento inicial: R$ 1508700.00
+Custo real atual: R$ 928430.32
+Desvio orçamentário: -20.48%
+Índice de Desempenho de Custo (CPI): 1.25
+Valor Agregado (EV): R$ 1156621.89
+Estimativa para conclusão: R$ 282616.13
+Estimativa no término (EAC): R$ 1211046.45
+Variação no término (VAC): R$ 297653.55
+
+Detalhamento por categoria:
+- Pessoal: R$ 438173.58 (47.2%)
+- Equipamentos: R$ 145505.79 (15.7%)
+- Software: R$ 130481.42 (14.1%)
+- Serviços: R$ 163792.42 (17.6%)
+- Outros: R$ 50477.11 (5.4%)

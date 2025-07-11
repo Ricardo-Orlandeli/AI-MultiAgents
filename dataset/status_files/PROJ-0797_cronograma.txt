@@ -1,0 +1,25 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A segurança de realizar seus sonhos mais rapidamente (PROJ-0797)
+Data: 11/07/2025
+Gerente: Breno Gomes
+
+Status atual: Em andamento
+Percentual de conclusão: 89.5%
+Data de início: 23/11/2024
+Data de término planejada: 22/09/2025
+Data de término real/prevista: 07/09/2025
+Atraso atual: 0 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 1.02
+Valor Planejado (PV): R$ 1191896.44
+Valor Agregado (EV): R$ 1405615.05
+
+Tarefas críticas:
+- Configuração da infraestrutura
+- Desenvolvimento da interface do usuário
+- Implementação da API REST
+- Testes de aceitação do usuário
+- Implementação do módulo de relatórios
+- Testes de aceitação do usuário
+
+Tarefas atrasadas:

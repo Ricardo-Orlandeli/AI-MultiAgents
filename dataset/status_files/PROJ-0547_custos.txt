@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A certeza de inovar mais rapidamente (PROJ-0547)
+Data: 11/07/2025
+Gerente: Maria Clara Novais
+
+Orçamento inicial: R$ 2444649.00
+Custo real atual: R$ 1575382.22
+Desvio orçamentário: -4.11%
+Índice de Desempenho de Custo (CPI): 0.86
+Valor Agregado (EV): R$ 1361291.16
+Estimativa para conclusão: R$ 1253738.16
+Estimativa no término (EAC): R$ 2829120.38
+Variação no término (VAC): R$ -384471.38
+
+Detalhamento por categoria:
+- Pessoal: R$ 852491.83 (54.1%)
+- Equipamentos: R$ 231249.91 (14.7%)
+- Software: R$ 153913.73 (9.8%)
+- Serviços: R$ 222835.22 (14.1%)
+- Outros: R$ 114891.53 (7.3%)

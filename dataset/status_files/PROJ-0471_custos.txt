@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A simplicidade de avançar mais facilmente (PROJ-0471)
+Data: 11/07/2025
+Gerente: Lucas Gabriel Fernandes
+
+Orçamento inicial: R$ 4634259.00
+Custo real atual: R$ 3068645.86
+Desvio orçamentário: -33.78%
+Índice de Desempenho de Custo (CPI): 0.80
+Valor Agregado (EV): R$ 2467055.99
+Estimativa para conclusão: R$ 2695673.93
+Estimativa no término (EAC): R$ 5764319.79
+Variação no término (VAC): R$ -1130060.79
+
+Detalhamento por categoria:
+- Pessoal: R$ 1448160.49 (47.2%)
+- Equipamentos: R$ 558619.56 (18.2%)
+- Software: R$ 392132.17 (12.8%)
+- Serviços: R$ 422636.83 (13.8%)
+- Outros: R$ 247096.81 (8.1%)

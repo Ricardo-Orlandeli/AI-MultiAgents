@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A possibilidade de inovar com toda a tranquilidade (PROJ-0812)
+Data: 11/07/2025
+Gerente: Cecília da Paz
+
+Orçamento inicial: R$ 4902673.00
+Custo real atual: R$ 4312779.73
+Desvio orçamentário: -12.03%
+Índice de Desempenho de Custo (CPI): 1.14
+Valor Agregado (EV): R$ 4902673.00
+Estimativa para conclusão: R$ 0.00
+Estimativa no término (EAC): R$ 4312779.73
+Variação no término (VAC): R$ 589893.27
+
+Detalhamento por categoria:
+- Pessoal: R$ 2027657.09 (47.0%)
+- Equipamentos: R$ 663685.84 (15.4%)
+- Software: R$ 440027.62 (10.2%)
+- Serviços: R$ 801983.97 (18.6%)
+- Outros: R$ 379425.22 (8.8%)

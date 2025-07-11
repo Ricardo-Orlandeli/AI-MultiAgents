@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O conforto de concretizar seus projetos mais facilmente (PROJ-0216)
+Data: 11/07/2025
+Gerente: Cauã Andrade
+
+Orçamento inicial: R$ 4605353.00
+Custo real atual: R$ 3520612.33
+Desvio orçamentário: -23.55%
+Índice de Desempenho de Custo (CPI): 0.68
+Valor Agregado (EV): R$ 2381817.12
+Estimativa para conclusão: R$ 3286653.61
+Estimativa no término (EAC): R$ 6807265.94
+Variação no término (VAC): R$ -2201912.94
+
+Detalhamento por categoria:
+- Pessoal: R$ 1526639.54 (43.4%)
+- Equipamentos: R$ 731638.48 (20.8%)
+- Software: R$ 450547.25 (12.8%)
+- Serviços: R$ 592767.21 (16.8%)
+- Outros: R$ 219019.85 (6.2%)

@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O poder de inovar com confiança (PROJ-0452)
+Data: 11/07/2025
+Gerente: Sr. Luiz Otávio Montenegro
+
+Orçamento inicial: R$ 1471870.00
+Custo real atual: R$ 1434447.73
+Desvio orçamentário: -2.54%
+Índice de Desempenho de Custo (CPI): 1.03
+Valor Agregado (EV): R$ 1470398.13
+Estimativa para conclusão: R$ 1435.88
+Estimativa no término (EAC): R$ 1435883.61
+Variação no término (VAC): R$ 35986.39
+
+Detalhamento por categoria:
+- Pessoal: R$ 669407.41 (46.7%)
+- Equipamentos: R$ 250132.80 (17.4%)
+- Software: R$ 198367.98 (13.8%)
+- Serviços: R$ 196871.99 (13.7%)
+- Outros: R$ 119667.54 (8.3%)

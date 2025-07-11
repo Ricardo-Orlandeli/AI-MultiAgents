@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O poder de atingir seus objetivos de maneira eficaz (PROJ-0627)
+Data: 11/07/2025
+Gerente: Lucca Peixoto
+
+Orçamento inicial: R$ 3899758.00
+Custo real atual: R$ 3101394.52
+Desvio orçamentário: -20.47%
+Índice de Desempenho de Custo (CPI): 0.96
+Valor Agregado (EV): R$ 2968259.04
+Estimativa para conclusão: R$ 973279.53
+Estimativa no término (EAC): R$ 4074674.05
+Variação no término (VAC): R$ -174916.05
+
+Detalhamento por categoria:
+- Pessoal: R$ 1595896.19 (51.5%)
+- Equipamentos: R$ 352838.06 (11.4%)
+- Software: R$ 448114.84 (14.4%)
+- Serviços: R$ 410537.33 (13.2%)
+- Outros: R$ 294008.11 (9.5%)

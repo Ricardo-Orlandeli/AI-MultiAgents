@@ -1,0 +1,22 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A segurança de realizar seus sonhos antes de tudo (PROJ-0645)
+Data: 11/07/2025
+Gerente: Mateus Marques
+
+Status atual: Em andamento
+Percentual de conclusão: 99.9%
+Data de início: 01/08/2024
+Data de término planejada: 20/01/2025
+Data de término real/prevista: 04/02/2025
+Atraso atual: 172 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 1.11
+Valor Planejado (PV): R$ 1759055.00
+Valor Agregado (EV): R$ 1757295.95
+
+Tarefas críticas:
+- Configuração da infraestrutura
+- Configuração do ambiente de produção
+- Implementação do módulo de exportação de dados
+
+Tarefas atrasadas:

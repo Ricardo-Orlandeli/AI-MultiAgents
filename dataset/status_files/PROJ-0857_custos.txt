@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O direito de avançar com toda a tranquilidade (PROJ-0857)
+Data: 11/07/2025
+Gerente: Ana Clara Siqueira
+
+Orçamento inicial: R$ 2460645.00
+Custo real atual: R$ 2344622.89
+Desvio orçamentário: 14.58%
+Índice de Desempenho de Custo (CPI): 0.93
+Valor Agregado (EV): R$ 2185256.41
+Estimativa para conclusão: R$ 295472.14
+Estimativa no término (EAC): R$ 2640095.02
+Variação no término (VAC): R$ -179450.02
+
+Detalhamento por categoria:
+- Pessoal: R$ 1059972.23 (45.2%)
+- Equipamentos: R$ 437245.75 (18.6%)
+- Software: R$ 251014.69 (10.7%)
+- Serviços: R$ 449403.72 (19.2%)
+- Outros: R$ 146986.50 (6.3%)

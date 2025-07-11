@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O direito de concretizar seus projetos sem preocupação (PROJ-0266)
+Data: 11/07/2025
+Gerente: Sr. Daniel Rodrigues
+
+Orçamento inicial: R$ 2283551.00
+Custo real atual: R$ 2299129.47
+Desvio orçamentário: 0.68%
+Índice de Desempenho de Custo (CPI): 0.97
+Valor Agregado (EV): R$ 2226709.47
+Estimativa para conclusão: R$ 58690.21
+Estimativa no término (EAC): R$ 2357819.67
+Variação no término (VAC): R$ -74268.67
+
+Detalhamento por categoria:
+- Pessoal: R$ 1296134.83 (56.4%)
+- Equipamentos: R$ 294589.76 (12.8%)
+- Software: R$ 142732.79 (6.2%)
+- Serviços: R$ 444857.73 (19.3%)
+- Outros: R$ 120814.35 (5.3%)

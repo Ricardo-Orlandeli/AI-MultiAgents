@@ -1,0 +1,43 @@
+RELATÓRIO DE STATUS DE RISCOS
+Projeto: O direito de evoluir com confiança (PROJ-0567)
+Data: 11/07/2025
+Gerente: Dr. Pietro Marques
+
+Riscos identificados:
+- R01: Falhas em testes de aceitação
+  Probabilidade: 3/5, Impacto: 4/5, Nível: Médio
+  Mitigação: Realizar testes de aceitação com usuários-chave
+
+- R02: Indisponibilidade de recursos especializados
+  Probabilidade: 3/5, Impacto: 1/5, Nível: Baixo
+  Mitigação: Melhorar a documentação de requisitos
+
+- R03: Requisitos mal definidos
+  Probabilidade: 3/5, Impacto: 4/5, Nível: Médio
+  Mitigação: Realizar testes de integração antecipados
+
+- R04: Falhas de infraestrutura
+  Probabilidade: 2/5, Impacto: 3/5, Nível: Baixo
+  Mitigação: Fortalecer medidas de segurança
+
+- R05: Atraso na entrega de componentes críticos
+  Probabilidade: 1/5, Impacto: 5/5, Nível: Baixo
+  Mitigação: Contratar pessoal adicional
+
+- R06: Atraso na entrega de componentes críticos
+  Probabilidade: 2/5, Impacto: 5/5, Nível: Médio
+  Mitigação: Monitorar mudanças regulatórias
+
+Riscos ocorridos:
+- R03 (ocorrido em 28/06/2024)
+  Impacto real: Problemas de qualidade
+  Ações tomadas: Implementação de controles adicionais
+
+- R01 (ocorrido em 18/11/2024)
+  Impacto real: Perda de recursos-chave
+  Ações tomadas: Revisão de processos
+
+- R02 (ocorrido em 08/12/2024)
+  Impacto real: Perda de recursos-chave
+  Ações tomadas: Implementação do plano de contingência
+

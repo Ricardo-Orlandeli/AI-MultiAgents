@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A possibilidade de realizar seus sonhos de maneira eficaz (PROJ-0315)
+Data: 11/07/2025
+Gerente: Srta. Maria Laura Siqueira
+
+Orçamento inicial: R$ 4606848.00
+Custo real atual: R$ 4078191.47
+Desvio orçamentário: -11.48%
+Índice de Desempenho de Custo (CPI): 1.13
+Valor Agregado (EV): R$ 4602241.15
+Estimativa para conclusão: R$ 4082.27
+Estimativa no término (EAC): R$ 4082273.75
+Variação no término (VAC): R$ 524574.25
+
+Detalhamento por categoria:
+- Pessoal: R$ 1843418.62 (45.2%)
+- Equipamentos: R$ 467161.84 (11.5%)
+- Software: R$ 483394.36 (11.9%)
+- Serviços: R$ 856096.52 (21.0%)
+- Outros: R$ 428120.15 (10.5%)

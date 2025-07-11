@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O prazer de concretizar seus projetos sem preocupação (PROJ-0399)
+Data: 11/07/2025
+Gerente: Brayan Macedo
+
+Orçamento inicial: R$ 2050160.00
+Custo real atual: R$ 2286089.65
+Desvio orçamentário: 11.51%
+Índice de Desempenho de Custo (CPI): 0.86
+Valor Agregado (EV): R$ 1968732.43
+Estimativa para conclusão: R$ 94553.59
+Estimativa no término (EAC): R$ 2380643.25
+Variação no término (VAC): R$ -330483.25
+
+Detalhamento por categoria:
+- Pessoal: R$ 1226831.80 (53.7%)
+- Equipamentos: R$ 281809.81 (12.3%)
+- Software: R$ 201382.86 (8.8%)
+- Serviços: R$ 397966.74 (17.4%)
+- Outros: R$ 178098.45 (7.8%)

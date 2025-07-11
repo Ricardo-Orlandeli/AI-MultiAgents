@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A segurança de realizar seus sonhos mais rapidamente (PROJ-0797)
+Data: 11/07/2025
+Gerente: Breno Gomes
+
+Orçamento inicial: R$ 1570194.00
+Custo real atual: R$ 1132340.85
+Desvio orçamentário: -5.00%
+Índice de Desempenho de Custo (CPI): 1.24
+Valor Agregado (EV): R$ 1405615.05
+Estimativa para conclusão: R$ 132582.15
+Estimativa no término (EAC): R$ 1264923.00
+Variação no término (VAC): R$ 305271.00
+
+Detalhamento por categoria:
+- Pessoal: R$ 598496.44 (52.9%)
+- Equipamentos: R$ 178241.81 (15.7%)
+- Software: R$ 109961.90 (9.7%)
+- Serviços: R$ 138098.28 (12.2%)
+- Outros: R$ 107542.42 (9.5%)

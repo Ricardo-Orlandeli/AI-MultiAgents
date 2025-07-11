@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O conforto de atingir seus objetivos antes de tudo (PROJ-0502)
+Data: 11/07/2025
+Gerente: Mariane Mendes
+
+Orçamento inicial: R$ 3531927.00
+Custo real atual: R$ 3117566.58
+Desvio orçamentário: -11.73%
+Índice de Desempenho de Custo (CPI): 1.01
+Valor Agregado (EV): R$ 3164130.73
+Estimativa para conclusão: R$ 362383.69
+Estimativa no término (EAC): R$ 3479950.27
+Variação no término (VAC): R$ 51976.73
+
+Detalhamento por categoria:
+- Pessoal: R$ 1608126.82 (51.6%)
+- Equipamentos: R$ 337655.72 (10.8%)
+- Software: R$ 425204.11 (13.6%)
+- Serviços: R$ 487556.56 (15.6%)
+- Outros: R$ 259023.38 (8.3%)

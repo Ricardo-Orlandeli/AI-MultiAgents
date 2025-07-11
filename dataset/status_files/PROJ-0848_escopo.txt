@@ -1,0 +1,28 @@
+RELATÓRIO DE STATUS DE ESCOPO
+Projeto: A certeza de mudar sem preocupação (PROJ-0848)
+Data: 11/07/2025
+Gerente: Pedro Gonçalves
+
+Escopo original: Sistema para a certeza de mudar sem preocupação
+Houve mudança de escopo: Sim
+Descrição das mudanças: Mudança na plataforma de implementação
+Impacto no cronograma: 42 dias
+Impacto no custo: R$ 503607.03
+
+Solicitações de mudança:
+- SCM-01: Implementação de módulo de exportação de dados
+- SCM-02: Integração com sistema legado
+
+Requisitos atuais:
+- REQ-01: O sistema deve permitir integração com APIs externas
+- REQ-02: O sistema deve registrar logs de auditoria
+- REQ-03: O sistema deve ser compatível com dispositivos móveis
+- REQ-04: O sistema deve ter backup automático diário
+- REQ-05: O sistema deve ser compatível com navegadores modernos
+- REQ-06: O sistema deve ter documentação completa
+- REQ-07: O sistema deve processar transações em menos de 2 seconds
+- REQ-08: O sistema deve ter documentação completa
+- REQ-09: O sistema deve permitir autenticação de usuários
+- REQ-10: O sistema deve permitir integração com APIs externas
+- REQ-11: O sistema deve ter alta disponibilidade (99.9%)
+- REQ-12: O sistema deve passar por testes de segurança

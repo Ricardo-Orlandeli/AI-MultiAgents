@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A simplicidade de ganhar naturalmente (PROJ-0434)
+Data: 11/07/2025
+Gerente: Maria Sophia Sousa
+
+Orçamento inicial: R$ 4122175.00
+Custo real atual: R$ 2385358.50
+Desvio orçamentário: 4.57%
+Índice de Desempenho de Custo (CPI): 0.89
+Valor Agregado (EV): R$ 2113367.41
+Estimativa para conclusão: R$ 2267341.81
+Estimativa no término (EAC): R$ 4652700.31
+Variação no término (VAC): R$ -530525.31
+
+Detalhamento por categoria:
+- Pessoal: R$ 1324655.60 (55.5%)
+- Equipamentos: R$ 410429.26 (17.2%)
+- Software: R$ 189563.51 (7.9%)
+- Serviços: R$ 300702.43 (12.6%)
+- Outros: R$ 160007.70 (6.7%)

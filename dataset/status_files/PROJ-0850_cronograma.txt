@@ -1,0 +1,24 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A vantagem de evoluir naturalmente (PROJ-0850)
+Data: 11/07/2025
+Gerente: Maria Luísa Porto
+
+Status atual: Em andamento
+Percentual de conclusão: 93.8%
+Data de início: 26/09/2023
+Data de término planejada: 12/04/2024
+Data de término real/prevista: 07/05/2024
+Atraso atual: 455 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 0.91
+Valor Planejado (PV): R$ 2407565.00
+Valor Agregado (EV): R$ 2258507.68
+
+Tarefas críticas:
+- Desenvolvimento do painel administrativo
+- Implementação do módulo de notificações
+- Implementação do módulo de notificações
+- Configuração do ambiente de produção
+- Testes de aceitação do usuário
+
+Tarefas atrasadas:

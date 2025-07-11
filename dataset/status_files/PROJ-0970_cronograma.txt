@@ -1,0 +1,22 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A arte de inovar sem preocupação (PROJ-0970)
+Data: 11/07/2025
+Gerente: Sr. João Vitor Campos
+
+Status atual: Em andamento
+Percentual de conclusão: 93.0%
+Data de início: 09/08/2023
+Data de término planejada: 22/07/2024
+Data de término real/prevista: 17/08/2024
+Atraso atual: 354 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 1.09
+Valor Planejado (PV): R$ 4025263.00
+Valor Agregado (EV): R$ 3742787.76
+
+Tarefas críticas:
+- Integração com sistema de pagamentos
+- Integração com sistema de pagamentos
+- Configuração da infraestrutura
+
+Tarefas atrasadas:

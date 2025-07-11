@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A segurança de mudar em estado puro (PROJ-0470)
+Data: 11/07/2025
+Gerente: Sr. Raul da Rosa
+
+Orçamento inicial: R$ 3483704.00
+Custo real atual: R$ 2399850.80
+Desvio orçamentário: -31.11%
+Índice de Desempenho de Custo (CPI): 0.96
+Valor Agregado (EV): R$ 2311782.19
+Estimativa para conclusão: R$ 1216566.81
+Estimativa no término (EAC): R$ 3616417.61
+Variação no término (VAC): R$ -132713.61
+
+Detalhamento por categoria:
+- Pessoal: R$ 1318768.62 (55.0%)
+- Equipamentos: R$ 443937.08 (18.5%)
+- Software: R$ 158224.05 (6.6%)
+- Serviços: R$ 353446.41 (14.7%)
+- Outros: R$ 125474.64 (5.2%)

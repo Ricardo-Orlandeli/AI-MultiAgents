@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A certeza de concretizar seus projetos direto da fonte (PROJ-0038)
+Data: 11/07/2025
+Gerente: Joaquim Aragão
+
+Orçamento inicial: R$ 1483487.00
+Custo real atual: R$ 1692378.63
+Desvio orçamentário: 33.79%
+Índice de Desempenho de Custo (CPI): 0.87
+Valor Agregado (EV): R$ 1473527.19
+Estimativa para conclusão: R$ 11439.06
+Estimativa no término (EAC): R$ 1703817.70
+Variação no término (VAC): R$ -220330.70
+
+Detalhamento por categoria:
+- Pessoal: R$ 866748.60 (51.2%)
+- Equipamentos: R$ 229424.12 (13.6%)
+- Software: R$ 254388.70 (15.0%)
+- Serviços: R$ 210723.77 (12.5%)
+- Outros: R$ 131093.43 (7.7%)

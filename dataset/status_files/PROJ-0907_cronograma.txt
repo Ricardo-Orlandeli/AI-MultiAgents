@@ -1,0 +1,24 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: O direito de inovar de maneira eficaz (PROJ-0907)
+Data: 11/07/2025
+Gerente: Hadassa Silva
+
+Status atual: Atrasado
+Percentual de conclusão: 11.1%
+Data de início: 02/06/2025
+Data de término planejada: 13/02/2026
+Data de término real/prevista: 04/08/2026
+Atraso atual: 0 dias
+Motivo do atraso: Problemas técnicos inesperados
+Índice de Desempenho de Cronograma (SPI): 0.73
+Valor Planejado (PV): R$ 443977.98
+Valor Agregado (EV): R$ 323917.34
+
+Tarefas críticas:
+- Implementação do módulo de exportação de dados
+- Configuração do ambiente de produção
+- Desenvolvimento do painel administrativo
+
+Tarefas atrasadas:
+- Configuração do ambiente de produção
+- Implementação do módulo de exportação de dados

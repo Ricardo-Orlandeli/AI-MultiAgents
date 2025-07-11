@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O direito de concretizar seus projetos simplesmente (PROJ-0123)
+Data: 11/07/2025
+Gerente: Caio Jesus
+
+Orçamento inicial: R$ 1016117.00
+Custo real atual: R$ 974586.06
+Desvio orçamentário: 221.10%
+Índice de Desempenho de Custo (CPI): 1.04
+Valor Agregado (EV): R$ 1016117.00
+Estimativa para conclusão: R$ 0.00
+Estimativa no término (EAC): R$ 974586.06
+Variação no término (VAC): R$ 41530.94
+
+Detalhamento por categoria:
+- Pessoal: R$ 529016.98 (54.3%)
+- Equipamentos: R$ 108016.62 (11.1%)
+- Software: R$ 63654.70 (6.5%)
+- Serviços: R$ 180750.50 (18.5%)
+- Outros: R$ 93147.25 (9.6%)

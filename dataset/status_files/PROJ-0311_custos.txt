@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O direito de conseguir de maneira eficaz (PROJ-0311)
+Data: 11/07/2025
+Gerente: Pedro Lucas Viana
+
+Orçamento inicial: R$ 1297547.00
+Custo real atual: R$ 118424.20
+Desvio orçamentário: -37.89%
+Índice de Desempenho de Custo (CPI): 0.90
+Valor Agregado (EV): R$ 106737.13
+Estimativa para conclusão: R$ 1321196.36
+Estimativa no término (EAC): R$ 1439620.56
+Variação no término (VAC): R$ -142073.56
+
+Detalhamento por categoria:
+- Pessoal: R$ 60344.87 (51.0%)
+- Equipamentos: R$ 21022.00 (17.8%)
+- Software: R$ 12498.90 (10.6%)
+- Serviços: R$ 15739.49 (13.3%)
+- Outros: R$ 8818.95 (7.4%)

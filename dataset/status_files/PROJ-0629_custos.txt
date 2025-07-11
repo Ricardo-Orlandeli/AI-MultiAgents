@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A possibilidade de ganhar com força total (PROJ-0629)
+Data: 11/07/2025
+Gerente: Dra. Maria Clara Porto
+
+Orçamento inicial: R$ 4695084.00
+Custo real atual: R$ 3828198.53
+Desvio orçamentário: -18.46%
+Índice de Desempenho de Custo (CPI): 1.20
+Valor Agregado (EV): R$ 4595739.98
+Estimativa para conclusão: R$ 82752.42
+Estimativa no término (EAC): R$ 3910950.95
+Variação no término (VAC): R$ 784133.05
+
+Detalhamento por categoria:
+- Pessoal: R$ 1781434.31 (46.5%)
+- Equipamentos: R$ 651452.84 (17.0%)
+- Software: R$ 508513.02 (13.3%)
+- Serviços: R$ 649973.15 (17.0%)
+- Outros: R$ 236825.21 (6.2%)

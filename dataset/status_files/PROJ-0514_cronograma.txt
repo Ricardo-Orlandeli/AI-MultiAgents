@@ -1,0 +1,27 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: O direito de atingir seus objetivos sem preocupação (PROJ-0514)
+Data: 11/07/2025
+Gerente: Alice Martins
+
+Status atual: Em andamento
+Percentual de conclusão: 93.1%
+Data de início: 30/12/2024
+Data de término planejada: 25/08/2025
+Data de término real/prevista: 07/09/2025
+Atraso atual: 0 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 1.05
+Valor Planejado (PV): R$ 3738889.26
+Valor Agregado (EV): R$ 4292368.62
+
+Tarefas críticas:
+- Implementação do módulo de exportação de dados
+- Implementação do módulo de análise de dados
+- Testes de aceitação do usuário
+- Implementação do módulo de exportação de dados
+- Configuração da infraestrutura
+- Configuração da infraestrutura
+- Configuração da infraestrutura
+- Configuração da infraestrutura
+
+Tarefas atrasadas:

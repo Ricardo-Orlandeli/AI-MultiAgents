@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A liberdade de realizar seus sonhos sem preocupação (PROJ-0156)
+Data: 11/07/2025
+Gerente: Luiz Gustavo Garcia
+
+Orçamento inicial: R$ 1607868.00
+Custo real atual: R$ 1812721.06
+Desvio orçamentário: 12.74%
+Índice de Desempenho de Custo (CPI): 0.89
+Valor Agregado (EV): R$ 1606260.13
+Estimativa para conclusão: R$ 1814.54
+Estimativa no término (EAC): R$ 1814535.60
+Variação no término (VAC): R$ -206667.60
+
+Detalhamento por categoria:
+- Pessoal: R$ 1008847.04 (55.7%)
+- Equipamentos: R$ 266859.35 (14.7%)
+- Software: R$ 193249.05 (10.7%)
+- Serviços: R$ 237993.52 (13.1%)
+- Outros: R$ 105772.12 (5.8%)

@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O conforto de atingir seus objetivos em estado puro (PROJ-0230)
+Data: 11/07/2025
+Gerente: Jade Novais
+
+Orçamento inicial: R$ 1099787.00
+Custo real atual: R$ 906921.87
+Desvio orçamentário: -17.54%
+Índice de Desempenho de Custo (CPI): 1.14
+Valor Agregado (EV): R$ 1030543.54
+Estimativa para conclusão: R$ 60937.18
+Estimativa no término (EAC): R$ 967859.05
+Variação no término (VAC): R$ 131927.95
+
+Detalhamento por categoria:
+- Pessoal: R$ 448469.99 (49.4%)
+- Equipamentos: R$ 172737.79 (19.0%)
+- Software: R$ 48931.30 (5.4%)
+- Serviços: R$ 156635.68 (17.3%)
+- Outros: R$ 80147.11 (8.8%)

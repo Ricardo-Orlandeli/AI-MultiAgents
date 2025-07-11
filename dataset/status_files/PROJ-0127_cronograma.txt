@@ -1,0 +1,24 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A simplicidade de conseguir mais rapidamente (PROJ-0127)
+Data: 11/07/2025
+Gerente: Ágatha Castro
+
+Status atual: Em andamento
+Percentual de conclusão: 99.9%
+Data de início: 26/10/2023
+Data de término planejada: 01/07/2024
+Data de término real/prevista: 30/07/2024
+Atraso atual: 375 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 0.86
+Valor Planejado (PV): R$ 314793.00
+Valor Agregado (EV): R$ 314478.21
+
+Tarefas críticas:
+- Configuração da infraestrutura
+- Implementação do sistema de backup
+- Configuração da infraestrutura
+- Implementação da API REST
+- Implementação do módulo de notificações
+
+Tarefas atrasadas:

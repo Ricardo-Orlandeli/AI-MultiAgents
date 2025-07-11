@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A vantagem de atingir seus objetivos com toda a tranquilidade (PROJ-0262)
+Data: 11/07/2025
+Gerente: Maria Julia Viana
+
+Orçamento inicial: R$ 4759752.00
+Custo real atual: R$ 2002247.00
+Desvio orçamentário: 28.30%
+Índice de Desempenho de Custo (CPI): 0.93
+Valor Agregado (EV): R$ 1857094.11
+Estimativa para conclusão: R$ 3129533.39
+Estimativa no término (EAC): R$ 5131780.40
+Variação no término (VAC): R$ -372028.40
+
+Detalhamento por categoria:
+- Pessoal: R$ 1020810.82 (51.0%)
+- Equipamentos: R$ 303007.12 (15.1%)
+- Software: R$ 128156.35 (6.4%)
+- Serviços: R$ 338823.73 (16.9%)
+- Outros: R$ 211448.98 (10.6%)

@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A possibilidade de concretizar seus projetos de maneira eficaz (PROJ-0917)
+Data: 11/07/2025
+Gerente: Rhavi Barbosa
+
+Orçamento inicial: R$ 4774486.00
+Custo real atual: R$ 3433013.10
+Desvio orçamentário: -9.16%
+Índice de Desempenho de Custo (CPI): 0.99
+Valor Agregado (EV): R$ 3384536.02
+Estimativa para conclusão: R$ 1409858.38
+Estimativa no término (EAC): R$ 4842871.48
+Variação no término (VAC): R$ -68385.48
+
+Detalhamento por categoria:
+- Pessoal: R$ 1661850.73 (48.4%)
+- Equipamentos: R$ 574696.10 (16.7%)
+- Software: R$ 394878.56 (11.5%)
+- Serviços: R$ 572240.26 (16.7%)
+- Outros: R$ 229347.44 (6.7%)

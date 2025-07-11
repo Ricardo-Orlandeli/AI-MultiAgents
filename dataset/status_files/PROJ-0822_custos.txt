@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O direito de concretizar seus projetos com força total (PROJ-0822)
+Data: 11/07/2025
+Gerente: Ana Vitória Costela
+
+Orçamento inicial: R$ 3085089.00
+Custo real atual: R$ 227517.50
+Desvio orçamentário: -1.49%
+Índice de Desempenho de Custo (CPI): 1.07
+Valor Agregado (EV): R$ 244119.93
+Estimativa para conclusão: R$ 2647756.81
+Estimativa no término (EAC): R$ 2875274.32
+Variação no término (VAC): R$ 209814.68
+
+Detalhamento por categoria:
+- Pessoal: R$ 123961.24 (54.5%)
+- Equipamentos: R$ 23994.75 (10.5%)
+- Software: R$ 34795.71 (15.3%)
+- Serviços: R$ 31991.98 (14.1%)
+- Outros: R$ 12773.82 (5.6%)

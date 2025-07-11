@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A certeza de evoluir simplesmente (PROJ-0525)
+Data: 11/07/2025
+Gerente: João Miguel Sousa
+
+Orçamento inicial: R$ 3951414.00
+Custo real atual: R$ 3012893.80
+Desvio orçamentário: -23.75%
+Índice de Desempenho de Custo (CPI): 0.86
+Valor Agregado (EV): R$ 2582631.38
+Estimativa para conclusão: R$ 1596819.69
+Estimativa no término (EAC): R$ 4609713.49
+Variação no término (VAC): R$ -658299.49
+
+Detalhamento por categoria:
+- Pessoal: R$ 1554141.35 (51.6%)
+- Equipamentos: R$ 596931.64 (19.8%)
+- Software: R$ 192489.18 (6.4%)
+- Serviços: R$ 388031.01 (12.9%)
+- Outros: R$ 281300.62 (9.3%)

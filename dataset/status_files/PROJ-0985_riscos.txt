@@ -1,0 +1,39 @@
+RELATÓRIO DE STATUS DE RISCOS
+Projeto: A arte de mudar com toda a tranquilidade (PROJ-0985)
+Data: 11/07/2025
+Gerente: Rebeca Marques
+
+Riscos identificados:
+- R01: Mudanças regulatórias
+  Probabilidade: 3/5, Impacto: 2/5, Nível: Baixo
+  Mitigação: Gerenciar dependências ativamente
+
+- R02: Dependências externas não cumpridas
+  Probabilidade: 3/5, Impacto: 5/5, Nível: Médio
+  Mitigação: Contratar pessoal adicional
+
+- R03: Dependências externas não cumpridas
+  Probabilidade: 5/5, Impacto: 2/5, Nível: Médio
+  Mitigação: Fortalecer medidas de segurança
+
+- R04: Problemas de comunicação com stakeholders
+  Probabilidade: 5/5, Impacto: 4/5, Nível: Alto
+  Mitigação: Comunicar benefícios da mudança
+
+- R05: Falhas em testes de aceitação
+  Probabilidade: 3/5, Impacto: 5/5, Nível: Médio
+  Mitigação: Comunicar benefícios da mudança
+
+Riscos ocorridos:
+- R02 (ocorrido em 01/12/2024)
+  Impacto real: Problemas de qualidade
+  Ações tomadas: Realocação de recursos
+
+- R03 (ocorrido em 15/11/2024)
+  Impacto real: Falhas de segurança
+  Ações tomadas: Implementação de controles adicionais
+
+- R04 (ocorrido em 16/06/2025)
+  Impacto real: Retrabalho significativo
+  Ações tomadas: Realocação de recursos
+

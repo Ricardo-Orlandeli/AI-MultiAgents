@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A segurança de evoluir mais facilmente (PROJ-0263)
+Data: 11/07/2025
+Gerente: Benjamin Moura
+
+Orçamento inicial: R$ 987034.00
+Custo real atual: R$ 849818.58
+Desvio orçamentário: -13.90%
+Índice de Desempenho de Custo (CPI): 0.98
+Valor Agregado (EV): R$ 828606.42
+Estimativa para conclusão: R$ 162483.29
+Estimativa no término (EAC): R$ 1012301.88
+Variação no término (VAC): R$ -25267.88
+
+Detalhamento por categoria:
+- Pessoal: R$ 391924.82 (46.1%)
+- Equipamentos: R$ 176864.43 (20.8%)
+- Software: R$ 112667.41 (13.3%)
+- Serviços: R$ 105641.27 (12.4%)
+- Outros: R$ 62720.65 (7.4%)

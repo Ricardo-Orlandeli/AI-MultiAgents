@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A arte de concretizar seus projetos mais rapidamente (PROJ-0475)
+Data: 11/07/2025
+Gerente: Dra. Maria Alice da Cruz
+
+Orçamento inicial: R$ 761891.00
+Custo real atual: R$ 658262.28
+Desvio orçamentário: -3.44%
+Índice de Desempenho de Custo (CPI): 1.02
+Valor Agregado (EV): R$ 673756.38
+Estimativa para conclusão: R$ 86107.82
+Estimativa no término (EAC): R$ 744370.10
+Variação no término (VAC): R$ 17520.90
+
+Detalhamento por categoria:
+- Pessoal: R$ 326722.94 (49.6%)
+- Equipamentos: R$ 131951.68 (20.0%)
+- Software: R$ 61675.18 (9.4%)
+- Serviços: R$ 74783.00 (11.4%)
+- Outros: R$ 63129.47 (9.6%)

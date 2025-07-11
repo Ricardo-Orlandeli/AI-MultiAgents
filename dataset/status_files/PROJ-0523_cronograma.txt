@@ -1,0 +1,26 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A simplicidade de inovar simplesmente (PROJ-0523)
+Data: 11/07/2025
+Gerente: Isaque Mendes
+
+Status atual: Em andamento
+Percentual de conclusão: 99.9%
+Data de início: 15/10/2024
+Data de término planejada: 16/06/2025
+Data de término real/prevista: 12/07/2025
+Atraso atual: 25 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 1.03
+Valor Planejado (PV): R$ 4096549.00
+Valor Agregado (EV): R$ 4092452.45
+
+Tarefas críticas:
+- Integração com sistema de pagamentos
+- Desenvolvimento da interface do usuário
+- Integração com sistema de pagamentos
+- Implementação do módulo de notificações
+- Implementação da API REST
+- Desenvolvimento do painel administrativo
+- Desenvolvimento do módulo de autenticação
+
+Tarefas atrasadas:

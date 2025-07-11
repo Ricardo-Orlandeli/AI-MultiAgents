@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A vantagem de evoluir simplesmente (PROJ-0469)
+Data: 11/07/2025
+Gerente: Marcela Souza
+
+Orçamento inicial: R$ 4184840.00
+Custo real atual: R$ 498512.36
+Desvio orçamentário: -16.20%
+Índice de Desempenho de Custo (CPI): 0.86
+Valor Agregado (EV): R$ 426625.54
+Estimativa para conclusão: R$ 4391477.32
+Estimativa no término (EAC): R$ 4889989.68
+Variação no término (VAC): R$ -705149.68
+
+Detalhamento por categoria:
+- Pessoal: R$ 242719.37 (48.7%)
+- Equipamentos: R$ 80475.79 (16.1%)
+- Software: R$ 48025.44 (9.6%)
+- Serviços: R$ 75613.02 (15.2%)
+- Outros: R$ 51678.74 (10.4%)

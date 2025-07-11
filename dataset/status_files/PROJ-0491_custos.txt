@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O prazer de atingir seus objetivos sem preocupação (PROJ-0491)
+Data: 11/07/2025
+Gerente: Maria Fernanda Abreu
+
+Orçamento inicial: R$ 567953.00
+Custo real atual: R$ 574692.89
+Desvio orçamentário: 1.19%
+Índice de Desempenho de Custo (CPI): 0.83
+Valor Agregado (EV): R$ 478798.98
+Estimativa para conclusão: R$ 107009.79
+Estimativa no término (EAC): R$ 681702.68
+Variação no término (VAC): R$ -113749.68
+
+Detalhamento por categoria:
+- Pessoal: R$ 291232.47 (50.7%)
+- Equipamentos: R$ 84116.16 (14.6%)
+- Software: R$ 69336.85 (12.1%)
+- Serviços: R$ 68306.54 (11.9%)
+- Outros: R$ 61700.88 (10.7%)

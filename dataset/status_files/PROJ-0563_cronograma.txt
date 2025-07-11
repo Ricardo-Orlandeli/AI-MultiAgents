@@ -1,0 +1,26 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A vantagem de conseguir com toda a tranquilidade (PROJ-0563)
+Data: 11/07/2025
+Gerente: Isabela Guerra
+
+Status atual: Atrasado
+Percentual de conclusão: 77.0%
+Data de início: 02/01/2025
+Data de término planejada: 30/07/2025
+Data de término real/prevista: 20/08/2025
+Atraso atual: 0 dias
+Motivo do atraso: Problemas técnicos inesperados
+Índice de Desempenho de Cronograma (SPI): 0.85
+Valor Planejado (PV): R$ 1345672.73
+Valor Agregado (EV): R$ 1139472.16
+
+Tarefas críticas:
+- Integração com sistema de pagamentos
+- Testes de segurança
+- Implementação do módulo de relatórios
+- Configuração da infraestrutura
+- Implementação do módulo de relatórios
+- Desenvolvimento do painel administrativo
+
+Tarefas atrasadas:
+- Implementação do módulo de relatórios

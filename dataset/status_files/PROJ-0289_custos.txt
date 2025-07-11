@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A vantagem de evoluir com toda a tranquilidade (PROJ-0289)
+Data: 11/07/2025
+Gerente: Maya Silveira
+
+Orçamento inicial: R$ 741942.00
+Custo real atual: R$ 658179.40
+Desvio orçamentário: -11.29%
+Índice de Desempenho de Custo (CPI): 1.02
+Valor Agregado (EV): R$ 672215.99
+Estimativa para conclusão: R$ 68270.05
+Estimativa no término (EAC): R$ 726449.45
+Variação no término (VAC): R$ 15492.55
+
+Detalhamento por categoria:
+- Pessoal: R$ 342211.17 (52.0%)
+- Equipamentos: R$ 135548.87 (20.6%)
+- Software: R$ 55923.04 (8.5%)
+- Serviços: R$ 81027.90 (12.3%)
+- Outros: R$ 43468.42 (6.6%)

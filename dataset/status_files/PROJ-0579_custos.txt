@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A segurança de evoluir simplesmente (PROJ-0579)
+Data: 11/07/2025
+Gerente: Sophie Carvalho
+
+Orçamento inicial: R$ 725445.00
+Custo real atual: R$ 752720.41
+Desvio orçamentário: 3.76%
+Índice de Desempenho de Custo (CPI): 0.96
+Valor Agregado (EV): R$ 724719.56
+Estimativa para conclusão: R$ 753.47
+Estimativa no término (EAC): R$ 753473.88
+Variação no término (VAC): R$ -28028.88
+
+Detalhamento por categoria:
+- Pessoal: R$ 388984.00 (51.7%)
+- Equipamentos: R$ 128276.25 (17.0%)
+- Software: R$ 66147.96 (8.8%)
+- Serviços: R$ 106367.29 (14.1%)
+- Outros: R$ 62944.91 (8.4%)

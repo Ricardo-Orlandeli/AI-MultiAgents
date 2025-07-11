@@ -1,0 +1,25 @@
+RELATÓRIO DE STATUS DE ESCOPO
+Projeto: A segurança de atingir seus objetivos direto da fonte (PROJ-0762)
+Data: 11/07/2025
+Gerente: Nicolas Camargo
+
+Escopo original: Sistema para a segurança de atingir seus objetivos direto da fonte
+Houve mudança de escopo: Sim
+Descrição das mudanças: Redução do escopo devido a restrições orçamentárias
+Impacto no cronograma: 25 dias
+Impacto no custo: R$ 264573.78
+
+Solicitações de mudança:
+- SCM-01: Mudança na arquitetura do sistema
+- SCM-02: Adição de relatórios gerenciais
+
+Requisitos atuais:
+- REQ-01: O sistema deve ser compatível com navegadores modernos
+- REQ-02: O sistema deve passar por testes de segurança
+- REQ-03: O sistema deve ter backup automático diário
+- REQ-04: O sistema deve ter interface responsiva
+- REQ-05: O sistema deve processar transações em menos de 2 seconds
+- REQ-06: O sistema deve permitir exportação de dados em formato CSV
+- REQ-07: O sistema deve processar transações em menos de 2 seconds
+- REQ-08: O sistema deve ter documentação completa
+- REQ-09: O sistema deve ter documentação completa

@@ -1,0 +1,26 @@
+RELATÓRIO DE STATUS DE ESCOPO
+Projeto: A arte de mudar com toda a tranquilidade (PROJ-0985)
+Data: 11/07/2025
+Gerente: Rebeca Marques
+
+Escopo original: Sistema para a arte de mudar com toda a tranquilidade
+Houve mudança de escopo: Sim
+Descrição das mudanças: Alteração nas especificações técnicas
+Impacto no cronograma: 32 dias
+Impacto no custo: R$ 8047.77
+
+Solicitações de mudança:
+- SCM-01: Alteração na interface do usuário
+- SCM-02: Mudança na arquitetura do sistema
+- SCM-03: Alteração nos requisitos de desempenho
+- SCM-04: Alteração nos requisitos de desempenho
+
+Requisitos atuais:
+- REQ-01: O sistema deve permitir exportação de dados em formato CSV
+- REQ-02: O sistema deve ter backup automático diário
+- REQ-03: O sistema deve ser compatível com dispositivos móveis
+- REQ-04: O sistema deve ter interface responsiva
+- REQ-05: O sistema deve ter alta disponibilidade (99.9%)
+- REQ-06: O sistema deve ser compatível com navegadores modernos
+- REQ-07: O sistema deve processar transações em menos de 2 seconds
+- REQ-08: O sistema deve passar por testes de segurança

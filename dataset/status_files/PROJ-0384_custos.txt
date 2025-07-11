@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O conforto de ganhar com força total (PROJ-0384)
+Data: 11/07/2025
+Gerente: Evelyn Correia
+
+Orçamento inicial: R$ 110667.00
+Custo real atual: R$ 55133.75
+Desvio orçamentário: -13.65%
+Índice de Desempenho de Custo (CPI): 0.95
+Valor Agregado (EV): R$ 52639.56
+Estimativa para conclusão: R$ 60776.92
+Estimativa no término (EAC): R$ 115910.67
+Variação no término (VAC): R$ -5243.67
+
+Detalhamento por categoria:
+- Pessoal: R$ 26584.09 (48.2%)
+- Equipamentos: R$ 10380.78 (18.8%)
+- Software: R$ 4551.25 (8.3%)
+- Serviços: R$ 9193.84 (16.7%)
+- Outros: R$ 4423.79 (8.0%)

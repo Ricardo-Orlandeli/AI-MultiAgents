@@ -1,0 +1,31 @@
+RELATÓRIO DE STATUS DE RISCOS
+Projeto: A segurança de inovar sem preocupação (PROJ-0277)
+Data: 11/07/2025
+Gerente: Maria Julia Castro
+
+Riscos identificados:
+- R01: Falhas de segurança
+  Probabilidade: 5/5, Impacto: 1/5, Nível: Baixo
+  Mitigação: Refinar estimativas com base em dados históricos
+
+- R02: Problemas de comunicação com stakeholders
+  Probabilidade: 1/5, Impacto: 4/5, Nível: Baixo
+  Mitigação: Buscar fornecedores alternativos
+
+- R03: Falhas de infraestrutura
+  Probabilidade: 4/5, Impacto: 5/5, Nível: Alto
+  Mitigação: Fortalecer medidas de segurança
+
+Riscos ocorridos:
+- R03 (ocorrido em 24/05/2025)
+  Impacto real: Retrabalho significativo
+  Ações tomadas: Realocação de recursos
+
+- R02 (ocorrido em 09/03/2025)
+  Impacto real: Perda de recursos-chave
+  Ações tomadas: Comunicação intensificada com stakeholders
+
+- R01 (ocorrido em 25/05/2025)
+  Impacto real: Problemas de qualidade
+  Ações tomadas: Revisão de processos
+

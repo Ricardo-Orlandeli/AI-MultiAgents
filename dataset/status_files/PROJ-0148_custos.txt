@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O direito de concretizar seus projetos mais rapidamente (PROJ-0148)
+Data: 11/07/2025
+Gerente: Enrico da Paz
+
+Orçamento inicial: R$ 4939207.00
+Custo real atual: R$ 2646086.32
+Desvio orçamentário: -16.99%
+Índice de Desempenho de Custo (CPI): 0.78
+Valor Agregado (EV): R$ 2066415.45
+Estimativa para conclusão: R$ 3678667.04
+Estimativa no término (EAC): R$ 6324753.36
+Variação no término (VAC): R$ -1385546.36
+
+Detalhamento por categoria:
+- Pessoal: R$ 1365327.27 (51.6%)
+- Equipamentos: R$ 432801.05 (16.4%)
+- Software: R$ 329802.09 (12.5%)
+- Serviços: R$ 315270.18 (11.9%)
+- Outros: R$ 202885.74 (7.7%)

@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O poder de evoluir direto da fonte (PROJ-0217)
+Data: 11/07/2025
+Gerente: Dr. Joaquim da Rocha
+
+Orçamento inicial: R$ 4968648.00
+Custo real atual: R$ 4562646.17
+Desvio orçamentário: -8.17%
+Índice de Desempenho de Custo (CPI): 1.09
+Valor Agregado (EV): R$ 4968648.00
+Estimativa para conclusão: R$ 0.00
+Estimativa no término (EAC): R$ 4562646.17
+Variação no término (VAC): R$ 406001.83
+
+Detalhamento por categoria:
+- Pessoal: R$ 1896452.52 (41.6%)
+- Equipamentos: R$ 859384.10 (18.8%)
+- Software: R$ 545563.81 (12.0%)
+- Serviços: R$ 928493.13 (20.3%)
+- Outros: R$ 332752.60 (7.3%)

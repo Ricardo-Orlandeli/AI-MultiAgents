@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A certeza de atingir seus objetivos com confiança (PROJ-0446)
+Data: 11/07/2025
+Gerente: Sr. Calebe Duarte
+
+Orçamento inicial: R$ 387040.00
+Custo real atual: R$ 308482.49
+Desvio orçamentário: -20.30%
+Índice de Desempenho de Custo (CPI): 0.84
+Valor Agregado (EV): R$ 260476.45
+Estimativa para conclusão: R$ 149889.33
+Estimativa no término (EAC): R$ 458371.82
+Variação no término (VAC): R$ -71331.82
+
+Detalhamento por categoria:
+- Pessoal: R$ 150350.00 (48.7%)
+- Equipamentos: R$ 52291.53 (17.0%)
+- Software: R$ 17020.48 (5.5%)
+- Serviços: R$ 64065.61 (20.8%)
+- Outros: R$ 24754.88 (8.0%)

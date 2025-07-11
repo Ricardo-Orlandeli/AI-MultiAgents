@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O conforto de avançar de maneira eficaz (PROJ-0680)
+Data: 11/07/2025
+Gerente: Isaac Nascimento
+
+Orçamento inicial: R$ 1336220.00
+Custo real atual: R$ 1674967.09
+Desvio orçamentário: 25.35%
+Índice de Desempenho de Custo (CPI): 0.67
+Valor Agregado (EV): R$ 1127929.61
+Estimativa para conclusão: R$ 309309.67
+Estimativa no término (EAC): R$ 1984276.76
+Variação no término (VAC): R$ -648056.76
+
+Detalhamento por categoria:
+- Pessoal: R$ 930558.70 (55.6%)
+- Equipamentos: R$ 251252.99 (15.0%)
+- Software: R$ 154773.97 (9.2%)
+- Serviços: R$ 199513.64 (11.9%)
+- Outros: R$ 138867.79 (8.3%)

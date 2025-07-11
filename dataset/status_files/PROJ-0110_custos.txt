@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O direito de avançar sem preocupação (PROJ-0110)
+Data: 11/07/2025
+Gerente: João Miguel Oliveira
+
+Orçamento inicial: R$ 822004.00
+Custo real atual: R$ 868642.31
+Desvio orçamentário: 5.67%
+Índice de Desempenho de Custo (CPI): 0.89
+Valor Agregado (EV): R$ 773749.13
+Estimativa para conclusão: R$ 54172.88
+Estimativa no término (EAC): R$ 922815.19
+Variação no término (VAC): R$ -100811.19
+
+Detalhamento por categoria:
+- Pessoal: R$ 405801.93 (46.7%)
+- Equipamentos: R$ 91810.67 (10.6%)
+- Software: R$ 127485.52 (14.7%)
+- Serviços: R$ 162695.38 (18.7%)
+- Outros: R$ 80848.82 (9.3%)

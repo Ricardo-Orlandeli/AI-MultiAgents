@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O prazer de ganhar com confiança (PROJ-0141)
+Data: 11/07/2025
+Gerente: Léo Pacheco
+
+Orçamento inicial: R$ 2875065.00
+Custo real atual: R$ 2526344.18
+Desvio orçamentário: -12.13%
+Índice de Desempenho de Custo (CPI): 1.14
+Valor Agregado (EV): R$ 2872189.94
+Estimativa para conclusão: R$ 2528.87
+Estimativa no término (EAC): R$ 2528873.05
+Variação no término (VAC): R$ 346191.95
+
+Detalhamento por categoria:
+- Pessoal: R$ 1505417.51 (59.6%)
+- Equipamentos: R$ 408182.26 (16.2%)
+- Software: R$ 184473.76 (7.3%)
+- Serviços: R$ 285668.81 (11.3%)
+- Outros: R$ 142601.84 (5.6%)

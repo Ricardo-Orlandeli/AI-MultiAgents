@@ -1,0 +1,26 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: O conforto de realizar seus sonhos antes de tudo (PROJ-0751)
+Data: 11/07/2025
+Gerente: Emilly Aragão
+
+Status atual: Em andamento
+Percentual de conclusão: 99.9%
+Data de início: 27/03/2024
+Data de término planejada: 10/12/2024
+Data de término real/prevista: 26/11/2024
+Atraso atual: 213 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 1.00
+Valor Planejado (PV): R$ 3134994.00
+Valor Agregado (EV): R$ 3131859.01
+
+Tarefas críticas:
+- Implementação do módulo de notificações
+- Integração com sistema de pagamentos
+- Testes de aceitação do usuário
+- Desenvolvimento do módulo de autenticação
+- Implementação do sistema de backup
+- Testes de aceitação do usuário
+- Desenvolvimento da interface do usuário
+
+Tarefas atrasadas:

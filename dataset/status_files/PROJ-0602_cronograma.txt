@@ -1,0 +1,24 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A simplicidade de conseguir sem preocupação (PROJ-0602)
+Data: 11/07/2025
+Gerente: Luiz Felipe Casa Grande
+
+Status atual: Em andamento
+Percentual de conclusão: 99.9%
+Data de início: 14/08/2023
+Data de término planejada: 16/07/2024
+Data de término real/prevista: 18/07/2024
+Atraso atual: 360 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 1.11
+Valor Planejado (PV): R$ 4578701.00
+Valor Agregado (EV): R$ 4574122.30
+
+Tarefas críticas:
+- Testes de aceitação do usuário
+- Testes de aceitação do usuário
+- Desenvolvimento do painel administrativo
+- Implementação do módulo de notificações
+- Implementação do sistema de backup
+
+Tarefas atrasadas:

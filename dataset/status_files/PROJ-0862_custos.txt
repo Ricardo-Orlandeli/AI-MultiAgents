@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A possibilidade de concretizar seus projetos mais rapidamente (PROJ-0862)
+Data: 11/07/2025
+Gerente: Nathan Souza
+
+Orçamento inicial: R$ 4601424.00
+Custo real atual: R$ 1897109.53
+Desvio orçamentário: -3.27%
+Índice de Desempenho de Custo (CPI): 0.85
+Valor Agregado (EV): R$ 1621126.30
+Estimativa para conclusão: R$ 3487668.53
+Estimativa no término (EAC): R$ 5384778.06
+Variação no término (VAC): R$ -783354.06
+
+Detalhamento por categoria:
+- Pessoal: R$ 1014232.95 (53.5%)
+- Equipamentos: R$ 284143.72 (15.0%)
+- Software: R$ 239722.62 (12.6%)
+- Serviços: R$ 247917.05 (13.1%)
+- Outros: R$ 111093.19 (5.9%)

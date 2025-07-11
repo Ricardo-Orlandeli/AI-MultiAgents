@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A vantagem de evoluir naturalmente (PROJ-0850)
+Data: 11/07/2025
+Gerente: Maria Luísa Porto
+
+Orçamento inicial: R$ 2407565.00
+Custo real atual: R$ 2457884.00
+Desvio orçamentário: 2.09%
+Índice de Desempenho de Custo (CPI): 0.92
+Valor Agregado (EV): R$ 2258507.68
+Estimativa para conclusão: R$ 162215.79
+Estimativa no término (EAC): R$ 2620099.78
+Variação no término (VAC): R$ -212534.78
+
+Detalhamento por categoria:
+- Pessoal: R$ 1235454.58 (50.3%)
+- Equipamentos: R$ 400502.66 (16.3%)
+- Software: R$ 209692.48 (8.5%)
+- Serviços: R$ 461352.29 (18.8%)
+- Outros: R$ 150881.99 (6.1%)

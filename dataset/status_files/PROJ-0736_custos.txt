@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O conforto de atingir seus objetivos antes de tudo (PROJ-0736)
+Data: 11/07/2025
+Gerente: Liz Mendes
+
+Orçamento inicial: R$ 634917.00
+Custo real atual: R$ 519208.48
+Desvio orçamentário: 27.43%
+Índice de Desempenho de Custo (CPI): 1.22
+Valor Agregado (EV): R$ 634917.00
+Estimativa para conclusão: R$ 0.00
+Estimativa no término (EAC): R$ 519208.48
+Variação no término (VAC): R$ 115708.52
+
+Detalhamento por categoria:
+- Pessoal: R$ 269925.39 (52.0%)
+- Equipamentos: R$ 72357.04 (13.9%)
+- Software: R$ 65804.52 (12.7%)
+- Serviços: R$ 65992.60 (12.7%)
+- Outros: R$ 45128.93 (8.7%)

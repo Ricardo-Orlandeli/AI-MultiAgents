@@ -1,0 +1,25 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A certeza de realizar seus sonhos com confiança (PROJ-0319)
+Data: 11/07/2025
+Gerente: Dra. Mariah Vargas
+
+Status atual: Atrasado
+Percentual de conclusão: 81.5%
+Data de início: 13/01/2025
+Data de término planejada: 13/02/2025
+Data de término real/prevista: 22/04/2025
+Atraso atual: 148 dias
+Motivo do atraso: Recursos insuficientes
+Índice de Desempenho de Cronograma (SPI): 0.81
+Valor Planejado (PV): R$ 4451143.00
+Valor Agregado (EV): R$ 3626995.27
+
+Tarefas críticas:
+- Testes de segurança
+- Configuração da infraestrutura
+- Integração com sistema de pagamentos
+- Implementação do módulo de exportação de dados
+- Configuração do ambiente de produção
+
+Tarefas atrasadas:
+- Testes de segurança

@@ -1,0 +1,29 @@
+RELATÓRIO DE STATUS DE ESCOPO
+Projeto: A liberdade de atingir seus objetivos com força total (PROJ-0586)
+Data: 11/07/2025
+Gerente: Davi Lima
+
+Escopo original: Sistema para a liberdade de atingir seus objetivos com força total
+Houve mudança de escopo: Sim
+Descrição das mudanças: Mudança na plataforma de implementação
+Impacto no cronograma: 14 dias
+Impacto no custo: R$ 163692.37
+
+Solicitações de mudança:
+- SCM-01: Integração com sistema legado
+- SCM-02: Mudança na arquitetura do sistema
+- SCM-03: Adição de relatórios gerenciais
+- SCM-04: Adição de funcionalidade de autenticação biométrica
+
+Requisitos atuais:
+- REQ-01: O sistema deve implementar criptografia de dados sensíveis
+- REQ-02: O sistema deve ter backup automático diário
+- REQ-03: O sistema deve ter documentação completa
+- REQ-04: O sistema deve passar por testes de segurança
+- REQ-05: O sistema deve permitir autenticação de usuários
+- REQ-06: O sistema deve ter controle de acesso baseado em perfis
+- REQ-07: O sistema deve ter controle de acesso baseado em perfis
+- REQ-08: O sistema deve ter backup automático diário
+- REQ-09: O sistema deve permitir autenticação de usuários
+- REQ-10: O sistema deve implementar criptografia de dados sensíveis
+- REQ-11: O sistema deve implementar criptografia de dados sensíveis

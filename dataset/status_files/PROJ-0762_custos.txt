@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A segurança de atingir seus objetivos direto da fonte (PROJ-0762)
+Data: 11/07/2025
+Gerente: Nicolas Camargo
+
+Orçamento inicial: R$ 1536376.00
+Custo real atual: R$ 1285687.52
+Desvio orçamentário: 80.19%
+Índice de Desempenho de Custo (CPI): 1.19
+Valor Agregado (EV): R$ 1536376.00
+Estimativa para conclusão: R$ 0.00
+Estimativa no término (EAC): R$ 1285687.52
+Variação no término (VAC): R$ 250688.48
+
+Detalhamento por categoria:
+- Pessoal: R$ 579555.24 (45.1%)
+- Equipamentos: R$ 231964.11 (18.0%)
+- Software: R$ 172127.56 (13.4%)
+- Serviços: R$ 191467.58 (14.9%)
+- Outros: R$ 110573.03 (8.6%)

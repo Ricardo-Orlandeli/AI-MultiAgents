@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A arte de inovar em estado puro (PROJ-0348)
+Data: 11/07/2025
+Gerente: Erick Oliveira
+
+Orçamento inicial: R$ 4886698.00
+Custo real atual: R$ 4087729.62
+Desvio orçamentário: -16.35%
+Índice de Desempenho de Custo (CPI): 0.79
+Valor Agregado (EV): R$ 3240358.41
+Estimativa para conclusão: R$ 2076866.28
+Estimativa no término (EAC): R$ 6164595.90
+Variação no término (VAC): R$ -1277897.90
+
+Detalhamento por categoria:
+- Pessoal: R$ 2140313.03 (52.4%)
+- Equipamentos: R$ 491334.49 (12.0%)
+- Software: R$ 350381.82 (8.6%)
+- Serviços: R$ 816868.42 (20.0%)
+- Outros: R$ 288831.85 (7.1%)

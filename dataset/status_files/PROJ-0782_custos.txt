@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A simplicidade de atingir seus objetivos antes de tudo (PROJ-0782)
+Data: 11/07/2025
+Gerente: Isabel Santos
+
+Orçamento inicial: R$ 4099220.00
+Custo real atual: R$ 4521780.92
+Desvio orçamentário: 10.31%
+Índice de Desempenho de Custo (CPI): 0.91
+Valor Agregado (EV): R$ 4095120.78
+Estimativa para conclusão: R$ 4526.31
+Estimativa no término (EAC): R$ 4526307.22
+Variação no término (VAC): R$ -427087.22
+
+Detalhamento por categoria:
+- Pessoal: R$ 2376533.82 (52.6%)
+- Equipamentos: R$ 650389.89 (14.4%)
+- Software: R$ 569696.18 (12.6%)
+- Serviços: R$ 593551.38 (13.1%)
+- Outros: R$ 331609.64 (7.3%)

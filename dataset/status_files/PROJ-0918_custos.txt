@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A segurança de inovar com força total (PROJ-0918)
+Data: 11/07/2025
+Gerente: Maria Helena da Rocha
+
+Orçamento inicial: R$ 1321674.00
+Custo real atual: R$ 1454494.89
+Desvio orçamentário: 10.05%
+Índice de Desempenho de Custo (CPI): 0.91
+Valor Agregado (EV): R$ 1320352.33
+Estimativa para conclusão: R$ 1455.95
+Estimativa no término (EAC): R$ 1455950.84
+Variação no término (VAC): R$ -134276.84
+
+Detalhamento por categoria:
+- Pessoal: R$ 706151.24 (48.5%)
+- Equipamentos: R$ 254687.62 (17.5%)
+- Software: R$ 93449.48 (6.4%)
+- Serviços: R$ 258818.03 (17.8%)
+- Outros: R$ 141388.52 (9.7%)

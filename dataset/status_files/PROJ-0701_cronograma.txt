@@ -1,0 +1,25 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: O poder de ganhar com toda a tranquilidade (PROJ-0701)
+Data: 11/07/2025
+Gerente: Cecília Martins
+
+Status atual: Concluído
+Percentual de conclusão: 100.0%
+Data de início: 21/08/2024
+Data de término planejada: 22/10/2024
+Data de término real/prevista: 01/10/2024
+Atraso atual: 262 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 1.05
+Valor Planejado (PV): R$ 4582988.00
+Valor Agregado (EV): R$ 4582988.00
+
+Tarefas críticas:
+- Testes de aceitação do usuário
+- Implementação do sistema de backup
+- Desenvolvimento do painel administrativo
+- Configuração da infraestrutura
+- Testes de aceitação do usuário
+- Configuração da infraestrutura
+
+Tarefas atrasadas:

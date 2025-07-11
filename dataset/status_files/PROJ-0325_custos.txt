@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A possibilidade de evoluir com confiança (PROJ-0325)
+Data: 11/07/2025
+Gerente: Sr. Bryan da Paz
+
+Orçamento inicial: R$ 259206.00
+Custo real atual: R$ 146043.35
+Desvio orçamentário: -35.89%
+Índice de Desempenho de Custo (CPI): 0.95
+Valor Agregado (EV): R$ 138666.51
+Estimativa para conclusão: R$ 126952.00
+Estimativa no término (EAC): R$ 272995.35
+Variação no término (VAC): R$ -13789.35
+
+Detalhamento por categoria:
+- Pessoal: R$ 78185.18 (53.5%)
+- Equipamentos: R$ 27594.28 (18.9%)
+- Software: R$ 18217.82 (12.5%)
+- Serviços: R$ 14727.82 (10.1%)
+- Outros: R$ 7318.26 (5.0%)

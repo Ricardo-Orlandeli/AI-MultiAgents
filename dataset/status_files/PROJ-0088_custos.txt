@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O prazer de realizar seus sonhos mais facilmente (PROJ-0088)
+Data: 11/07/2025
+Gerente: Marcela Ferreira
+
+Orçamento inicial: R$ 3160924.00
+Custo real atual: R$ 2894049.82
+Desvio orçamentário: -8.44%
+Índice de Desempenho de Custo (CPI): 1.09
+Valor Agregado (EV): R$ 3157763.08
+Estimativa para conclusão: R$ 2896.95
+Estimativa no término (EAC): R$ 2896946.76
+Variação no término (VAC): R$ 263977.24
+
+Detalhamento por categoria:
+- Pessoal: R$ 1386036.81 (47.9%)
+- Equipamentos: R$ 524634.08 (18.1%)
+- Software: R$ 313158.31 (10.8%)
+- Serviços: R$ 462331.45 (16.0%)
+- Outros: R$ 207889.17 (7.2%)

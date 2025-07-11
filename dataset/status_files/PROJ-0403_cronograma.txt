@@ -1,0 +1,23 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A segurança de inovar mais rapidamente (PROJ-0403)
+Data: 11/07/2025
+Gerente: Catarina Mendonça
+
+Status atual: Em andamento
+Percentual de conclusão: 94.6%
+Data de início: 06/08/2024
+Data de término planejada: 26/07/2025
+Data de término real/prevista: 25/08/2025
+Atraso atual: 0 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 1.13
+Valor Planejado (PV): R$ 621437.75
+Valor Agregado (EV): R$ 613851.01
+
+Tarefas críticas:
+- Implementação do módulo de relatórios
+- Implementação do módulo de notificações
+- Implementação do módulo de notificações
+- Testes de segurança
+
+Tarefas atrasadas:

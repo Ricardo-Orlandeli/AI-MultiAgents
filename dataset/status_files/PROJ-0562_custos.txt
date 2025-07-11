@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O conforto de atingir seus objetivos mais facilmente (PROJ-0562)
+Data: 11/07/2025
+Gerente: Ravi Lucca da Costa
+
+Orçamento inicial: R$ 2293631.00
+Custo real atual: R$ 2137574.19
+Desvio orçamentário: -6.80%
+Índice de Desempenho de Custo (CPI): 0.96
+Valor Agregado (EV): R$ 2050274.87
+Estimativa para conclusão: R$ 253718.08
+Estimativa no término (EAC): R$ 2391292.27
+Variação no término (VAC): R$ -97661.27
+
+Detalhamento por categoria:
+- Pessoal: R$ 1231300.11 (57.6%)
+- Equipamentos: R$ 297256.12 (13.9%)
+- Software: R$ 121919.22 (5.7%)
+- Serviços: R$ 334570.24 (15.7%)
+- Outros: R$ 152528.51 (7.1%)

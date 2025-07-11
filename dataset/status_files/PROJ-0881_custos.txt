@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A simplicidade de mudar com força total (PROJ-0881)
+Data: 11/07/2025
+Gerente: Rhavi Novais
+
+Orçamento inicial: R$ 3388494.00
+Custo real atual: R$ 3221767.07
+Desvio orçamentário: -4.92%
+Índice de Desempenho de Custo (CPI): 0.75
+Valor Agregado (EV): R$ 2430498.91
+Estimativa para conclusão: R$ 1269877.98
+Estimativa no término (EAC): R$ 4491645.05
+Variação no término (VAC): R$ -1103151.05
+
+Detalhamento por categoria:
+- Pessoal: R$ 1544035.94 (47.9%)
+- Equipamentos: R$ 484561.97 (15.0%)
+- Software: R$ 368697.72 (11.4%)
+- Serviços: R$ 600036.99 (18.6%)
+- Outros: R$ 224434.45 (7.0%)

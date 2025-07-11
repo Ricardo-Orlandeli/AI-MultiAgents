@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O direito de avançar direto da fonte (PROJ-0322)
+Data: 11/07/2025
+Gerente: Yasmin da Luz
+
+Orçamento inicial: R$ 4296382.00
+Custo real atual: R$ 5138760.61
+Desvio orçamentário: 19.61%
+Índice de Desempenho de Custo (CPI): 0.84
+Valor Agregado (EV): R$ 4296382.00
+Estimativa para conclusão: R$ 0.00
+Estimativa no término (EAC): R$ 5138760.61
+Variação no término (VAC): R$ -842378.61
+
+Detalhamento por categoria:
+- Pessoal: R$ 2824807.01 (55.0%)
+- Equipamentos: R$ 747298.57 (14.5%)
+- Software: R$ 481486.53 (9.4%)
+- Serviços: R$ 700333.83 (13.6%)
+- Outros: R$ 384834.67 (7.5%)

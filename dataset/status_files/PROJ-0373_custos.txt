@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A certeza de avançar mais rapidamente (PROJ-0373)
+Data: 11/07/2025
+Gerente: Dr. Benjamin Garcia
+
+Orçamento inicial: R$ 565887.00
+Custo real atual: R$ 358646.70
+Desvio orçamentário: 3.68%
+Índice de Desempenho de Custo (CPI): 0.96
+Valor Agregado (EV): R$ 344164.16
+Estimativa para conclusão: R$ 231053.00
+Estimativa no término (EAC): R$ 589699.70
+Variação no término (VAC): R$ -23812.70
+
+Detalhamento por categoria:
+- Pessoal: R$ 172582.93 (48.1%)
+- Equipamentos: R$ 46750.30 (13.0%)
+- Software: R$ 48237.79 (13.4%)
+- Serviços: R$ 52661.94 (14.7%)
+- Outros: R$ 38413.74 (10.7%)

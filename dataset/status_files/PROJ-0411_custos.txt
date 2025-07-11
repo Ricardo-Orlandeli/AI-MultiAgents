@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O conforto de avançar em estado puro (PROJ-0411)
+Data: 11/07/2025
+Gerente: Noah Jesus
+
+Orçamento inicial: R$ 3965340.00
+Custo real atual: R$ 4147204.62
+Desvio orçamentário: 4.59%
+Índice de Desempenho de Custo (CPI): 0.96
+Valor Agregado (EV): R$ 3961374.66
+Estimativa para conclusão: R$ 4151.36
+Estimativa no término (EAC): R$ 4151355.98
+Variação no término (VAC): R$ -186015.98
+
+Detalhamento por categoria:
+- Pessoal: R$ 2347623.21 (56.6%)
+- Equipamentos: R$ 598390.51 (14.4%)
+- Software: R$ 241857.79 (5.8%)
+- Serviços: R$ 657440.47 (15.9%)
+- Outros: R$ 301892.65 (7.3%)

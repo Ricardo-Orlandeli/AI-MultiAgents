@@ -1,0 +1,27 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A segurança de evoluir antes de tudo (PROJ-0376)
+Data: 11/07/2025
+Gerente: Sara Guerra
+
+Status atual: Em andamento
+Percentual de conclusão: 99.9%
+Data de início: 11/08/2024
+Data de término planejada: 14/02/2025
+Data de término real/prevista: 11/02/2025
+Atraso atual: 147 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 0.90
+Valor Planejado (PV): R$ 281611.00
+Valor Agregado (EV): R$ 281329.39
+
+Tarefas críticas:
+- Implementação do módulo de exportação de dados
+- Desenvolvimento da interface do usuário
+- Testes de segurança
+- Testes de segurança
+- Implementação da API REST
+- Desenvolvimento do módulo de autenticação
+- Migração de dados legados
+- Desenvolvimento do módulo de autenticação
+
+Tarefas atrasadas:

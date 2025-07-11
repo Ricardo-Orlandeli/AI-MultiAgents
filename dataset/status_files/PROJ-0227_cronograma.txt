@@ -1,0 +1,24 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: O direito de inovar com confiança (PROJ-0227)
+Data: 11/07/2025
+Gerente: Marcos Vinicius Rezende
+
+Status atual: Atrasado
+Percentual de conclusão: 77.4%
+Data de início: 25/01/2024
+Data de término planejada: 27/11/2024
+Data de término real/prevista: 26/04/2025
+Atraso atual: 226 dias
+Motivo do atraso: Falhas em testes de aceitação
+Índice de Desempenho de Cronograma (SPI): 0.77
+Valor Planejado (PV): R$ 1235924.00
+Valor Agregado (EV): R$ 957048.50
+
+Tarefas críticas:
+- Implementação do módulo de notificações
+- Implementação da API REST
+- Implementação do módulo de análise de dados
+- Implementação do sistema de backup
+
+Tarefas atrasadas:
+- Implementação do módulo de análise de dados

@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A arte de mudar sem preocupação (PROJ-0691)
+Data: 11/07/2025
+Gerente: Catarina Macedo
+
+Orçamento inicial: R$ 3204292.00
+Custo real atual: R$ 1691128.14
+Desvio orçamentário: -26.18%
+Índice de Desempenho de Custo (CPI): 0.76
+Valor Agregado (EV): R$ 1280308.13
+Estimativa para conclusão: R$ 2541343.90
+Estimativa no término (EAC): R$ 4232472.04
+Variação no término (VAC): R$ -1028180.04
+
+Detalhamento por categoria:
+- Pessoal: R$ 802674.06 (47.5%)
+- Equipamentos: R$ 338204.45 (20.0%)
+- Software: R$ 143377.90 (8.5%)
+- Serviços: R$ 273647.95 (16.2%)
+- Outros: R$ 133223.78 (7.9%)

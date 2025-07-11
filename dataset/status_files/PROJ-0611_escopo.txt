@@ -1,0 +1,26 @@
+RELATÓRIO DE STATUS DE ESCOPO
+Projeto: A vantagem de avançar direto da fonte (PROJ-0611)
+Data: 11/07/2025
+Gerente: Yuri Peixoto
+
+Escopo original: Sistema para a vantagem de avançar direto da fonte
+Houve mudança de escopo: Sim
+Descrição das mudanças: Adição de novos requisitos de segurança
+Impacto no cronograma: 52 dias
+Impacto no custo: R$ 565439.47
+
+Solicitações de mudança:
+- SCM-01: Integração com sistema legado
+- SCM-02: Adição de relatórios gerenciais
+- SCM-03: Mudança na arquitetura do sistema
+- SCM-04: Integração com sistema legado
+- SCM-05: Integração com sistema legado
+
+Requisitos atuais:
+- REQ-01: O sistema deve registrar logs de auditoria
+- REQ-02: O sistema deve ser compatível com dispositivos móveis
+- REQ-03: O sistema deve ter backup automático diário
+- REQ-04: O sistema deve ter controle de acesso baseado em perfis
+- REQ-05: O sistema deve ter documentação completa
+- REQ-06: O sistema deve permitir exportação de dados em formato CSV
+- REQ-07: O sistema deve ter documentação completa

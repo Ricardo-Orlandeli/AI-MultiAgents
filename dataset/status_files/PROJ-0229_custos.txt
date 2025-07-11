@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A vantagem de inovar antes de tudo (PROJ-0229)
+Data: 11/07/2025
+Gerente: Pedro Lucas Camargo
+
+Orçamento inicial: R$ 67021.00
+Custo real atual: R$ 56574.76
+Desvio orçamentário: -15.59%
+Índice de Desempenho de Custo (CPI): 1.18
+Valor Agregado (EV): R$ 66689.68
+Estimativa para conclusão: R$ 281.07
+Estimativa no término (EAC): R$ 56855.82
+Variação no término (VAC): R$ 10165.18
+
+Detalhamento por categoria:
+- Pessoal: R$ 28041.38 (49.6%)
+- Equipamentos: R$ 8605.20 (15.2%)
+- Software: R$ 5963.05 (10.5%)
+- Serviços: R$ 8300.09 (14.7%)
+- Outros: R$ 5665.03 (10.0%)

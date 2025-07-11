@@ -1,0 +1,21 @@
+RELATÓRIO DE STATUS DE ESCOPO
+Projeto: A simplicidade de avançar mais facilmente (PROJ-0471)
+Data: 11/07/2025
+Gerente: Lucas Gabriel Fernandes
+
+Escopo original: Sistema para a simplicidade de avançar mais facilmente
+Houve mudança de escopo: Sim
+Descrição das mudanças: Alteração nas especificações técnicas
+Impacto no cronograma: 13 dias
+Impacto no custo: R$ 395660.89
+
+Solicitações de mudança:
+- SCM-01: Mudança na arquitetura do sistema
+- SCM-02: Adição de relatórios gerenciais
+
+Requisitos atuais:
+- REQ-01: O sistema deve ter controle de acesso baseado em perfis
+- REQ-02: O sistema deve ter alta disponibilidade (99.9%)
+- REQ-03: O sistema deve ter backup automático diário
+- REQ-04: O sistema deve processar transações em menos de 2 seconds
+- REQ-05: O sistema deve registrar logs de auditoria

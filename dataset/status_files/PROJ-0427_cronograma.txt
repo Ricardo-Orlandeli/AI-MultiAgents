@@ -1,0 +1,26 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A segurança de evoluir direto da fonte (PROJ-0427)
+Data: 11/07/2025
+Gerente: Maria Júlia Dias
+
+Status atual: Em andamento
+Percentual de conclusão: 64.7%
+Data de início: 30/01/2025
+Data de término planejada: 14/10/2025
+Data de término real/prevista: 15/10/2025
+Atraso atual: 0 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 1.05
+Valor Planejado (PV): R$ 1697700.75
+Valor Agregado (EV): R$ 1743794.30
+
+Tarefas críticas:
+- Desenvolvimento do módulo de autenticação
+- Implementação do módulo de exportação de dados
+- Desenvolvimento da interface do usuário
+- Desenvolvimento do painel administrativo
+- Implementação do módulo de notificações
+- Implementação do módulo de exportação de dados
+- Implementação do módulo de notificações
+
+Tarefas atrasadas:

@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A liberdade de concretizar seus projetos naturalmente (PROJ-0500)
+Data: 11/07/2025
+Gerente: Diego Almeida
+
+Orçamento inicial: R$ 4520825.00
+Custo real atual: R$ 3616566.89
+Desvio orçamentário: -20.00%
+Índice de Desempenho de Custo (CPI): 1.25
+Valor Agregado (EV): R$ 4516304.18
+Estimativa para conclusão: R$ 3620.19
+Estimativa no término (EAC): R$ 3620187.08
+Variação no término (VAC): R$ 900637.92
+
+Detalhamento por categoria:
+- Pessoal: R$ 2055710.48 (56.8%)
+- Equipamentos: R$ 625568.95 (17.3%)
+- Software: R$ 250760.91 (6.9%)
+- Serviços: R$ 457101.28 (12.6%)
+- Outros: R$ 227425.28 (6.3%)

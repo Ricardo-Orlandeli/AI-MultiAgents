@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A segurança de concretizar seus projetos com toda a tranquilidade (PROJ-0588)
+Data: 11/07/2025
+Gerente: Léo Sampaio
+
+Orçamento inicial: R$ 1063793.00
+Custo real atual: R$ 1258258.56
+Desvio orçamentário: 18.28%
+Índice de Desempenho de Custo (CPI): 0.85
+Valor Agregado (EV): R$ 1063793.00
+Estimativa para conclusão: R$ 0.00
+Estimativa no término (EAC): R$ 1258258.56
+Variação no término (VAC): R$ -194465.56
+
+Detalhamento por categoria:
+- Pessoal: R$ 549796.68 (43.7%)
+- Equipamentos: R$ 258183.97 (20.5%)
+- Software: R$ 185587.37 (14.7%)
+- Serviços: R$ 155256.47 (12.3%)
+- Outros: R$ 109434.07 (8.7%)

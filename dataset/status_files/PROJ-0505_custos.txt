@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O prazer de inovar naturalmente (PROJ-0505)
+Data: 11/07/2025
+Gerente: Davi Luiz da Luz
+
+Orçamento inicial: R$ 4489489.00
+Custo real atual: R$ 3234723.97
+Desvio orçamentário: -27.95%
+Índice de Desempenho de Custo (CPI): 0.82
+Valor Agregado (EV): R$ 2656224.30
+Estimativa para conclusão: R$ 2232531.81
+Estimativa no término (EAC): R$ 5467255.78
+Variação no término (VAC): R$ -977766.78
+
+Detalhamento por categoria:
+- Pessoal: R$ 1533529.70 (47.4%)
+- Equipamentos: R$ 631194.40 (19.5%)
+- Software: R$ 187046.77 (5.8%)
+- Serviços: R$ 586202.74 (18.1%)
+- Outros: R$ 296750.34 (9.2%)

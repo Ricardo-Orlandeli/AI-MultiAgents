@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O direito de avançar simplesmente (PROJ-0992)
+Data: 11/07/2025
+Gerente: Pedro Lucas Caldeira
+
+Orçamento inicial: R$ 4886200.00
+Custo real atual: R$ 4404519.57
+Desvio orçamentário: -9.86%
+Índice de Desempenho de Custo (CPI): 1.11
+Valor Agregado (EV): R$ 4881313.80
+Estimativa para conclusão: R$ 4408.93
+Estimativa no término (EAC): R$ 4408928.50
+Variação no término (VAC): R$ 477271.50
+
+Detalhamento por categoria:
+- Pessoal: R$ 2415386.59 (54.8%)
+- Equipamentos: R$ 722252.76 (16.4%)
+- Software: R$ 270480.41 (6.1%)
+- Serviços: R$ 783337.09 (17.8%)
+- Outros: R$ 213062.72 (4.8%)

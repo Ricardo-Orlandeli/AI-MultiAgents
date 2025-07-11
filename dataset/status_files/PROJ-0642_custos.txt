@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A arte de avançar mais facilmente (PROJ-0642)
+Data: 11/07/2025
+Gerente: Fernando Viana
+
+Orçamento inicial: R$ 2247685.00
+Custo real atual: R$ 912263.26
+Desvio orçamentário: -18.08%
+Índice de Desempenho de Custo (CPI): 0.92
+Valor Agregado (EV): R$ 835208.39
+Estimativa para conclusão: R$ 1542789.24
+Estimativa no término (EAC): R$ 2455052.50
+Variação no término (VAC): R$ -207367.50
+
+Detalhamento por categoria:
+- Pessoal: R$ 506421.19 (55.5%)
+- Equipamentos: R$ 147471.78 (16.2%)
+- Software: R$ 83400.14 (9.1%)
+- Serviços: R$ 112572.03 (12.3%)
+- Outros: R$ 62398.11 (6.8%)

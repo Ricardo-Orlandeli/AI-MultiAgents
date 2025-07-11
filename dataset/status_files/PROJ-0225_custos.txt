@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A liberdade de mudar de maneira eficaz (PROJ-0225)
+Data: 11/07/2025
+Gerente: Srta. Agatha Lopes
+
+Orçamento inicial: R$ 3915531.00
+Custo real atual: R$ 1431987.75
+Desvio orçamentário: -3.05%
+Índice de Desempenho de Custo (CPI): 0.85
+Valor Agregado (EV): R$ 1223501.95
+Estimativa para conclusão: R$ 3150753.12
+Estimativa no término (EAC): R$ 4582740.87
+Variação no término (VAC): R$ -667209.87
+
+Detalhamento por categoria:
+- Pessoal: R$ 682915.31 (47.7%)
+- Equipamentos: R$ 227638.34 (15.9%)
+- Software: R$ 135190.35 (9.4%)
+- Serviços: R$ 269139.13 (18.8%)
+- Outros: R$ 117104.63 (8.2%)

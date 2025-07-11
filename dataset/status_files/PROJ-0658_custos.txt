@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A segurança de mudar sem preocupação (PROJ-0658)
+Data: 11/07/2025
+Gerente: Eloah Teixeira
+
+Orçamento inicial: R$ 4495563.00
+Custo real atual: R$ 4143021.75
+Desvio orçamentário: -7.84%
+Índice de Desempenho de Custo (CPI): 0.90
+Valor Agregado (EV): R$ 3736316.87
+Estimativa para conclusão: R$ 841891.45
+Estimativa no término (EAC): R$ 4984913.20
+Variação no término (VAC): R$ -489350.20
+
+Detalhamento por categoria:
+- Pessoal: R$ 2126077.14 (51.3%)
+- Equipamentos: R$ 675071.09 (16.3%)
+- Software: R$ 455608.87 (11.0%)
+- Serviços: R$ 636909.08 (15.4%)
+- Outros: R$ 249355.57 (6.0%)

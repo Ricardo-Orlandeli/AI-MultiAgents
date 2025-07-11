@@ -1,0 +1,31 @@
+RELATÓRIO DE STATUS DE RISCOS
+Projeto: A arte de ganhar em estado puro (PROJ-0854)
+Data: 11/07/2025
+Gerente: Calebe Sousa
+
+Riscos identificados:
+- R01: Rotatividade de pessoal-chave
+  Probabilidade: 1/5, Impacto: 3/5, Nível: Baixo
+  Mitigação: Refinar estimativas com base em dados históricos
+
+- R02: Falhas de infraestrutura
+  Probabilidade: 1/5, Impacto: 5/5, Nível: Baixo
+  Mitigação: Buscar fornecedores alternativos
+
+- R03: Indisponibilidade de recursos especializados
+  Probabilidade: 4/5, Impacto: 5/5, Nível: Alto
+  Mitigação: Comunicar benefícios da mudança
+
+Riscos ocorridos:
+- R03 (ocorrido em 24/04/2025)
+  Impacto real: Indisponibilidade temporária
+  Ações tomadas: Implementação do plano de contingência
+
+- R01 (ocorrido em 01/11/2024)
+  Impacto real: Aumento de 10% nos custos
+  Ações tomadas: Realocação de recursos
+
+- R02 (ocorrido em 20/10/2024)
+  Impacto real: Retrabalho significativo
+  Ações tomadas: Contratação de recursos adicionais
+

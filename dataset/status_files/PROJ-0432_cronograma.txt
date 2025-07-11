@@ -1,0 +1,28 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: O conforto de inovar com confiança (PROJ-0432)
+Data: 11/07/2025
+Gerente: Joana da Paz
+
+Status atual: Atrasado
+Percentual de conclusão: 67.0%
+Data de início: 02/10/2023
+Data de término planejada: 30/03/2024
+Data de término real/prevista: 27/05/2024
+Atraso atual: 468 dias
+Motivo do atraso: Mudanças de requisitos não planejadas
+Índice de Desempenho de Cronograma (SPI): 0.67
+Valor Planejado (PV): R$ 4739463.00
+Valor Agregado (EV): R$ 3176178.79
+
+Tarefas críticas:
+- Implementação do sistema de backup
+- Implementação do módulo de notificações
+- Desenvolvimento do painel administrativo
+- Migração de dados legados
+- Desenvolvimento da interface do usuário
+- Implementação do sistema de backup
+- Integração com sistema de pagamentos
+- Desenvolvimento do painel administrativo
+
+Tarefas atrasadas:
+- Implementação do sistema de backup

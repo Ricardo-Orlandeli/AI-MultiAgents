@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O prazer de avançar direto da fonte (PROJ-0293)
+Data: 11/07/2025
+Gerente: Ana Lívia Cassiano
+
+Orçamento inicial: R$ 1296148.00
+Custo real atual: R$ 683671.95
+Desvio orçamentário: -10.76%
+Índice de Desempenho de Custo (CPI): 0.94
+Valor Agregado (EV): R$ 644070.56
+Estimativa para conclusão: R$ 692171.14
+Estimativa no término (EAC): R$ 1375843.09
+Variação no término (VAC): R$ -79695.09
+
+Detalhamento por categoria:
+- Pessoal: R$ 378765.99 (55.4%)
+- Equipamentos: R$ 79563.70 (11.6%)
+- Software: R$ 83293.62 (12.2%)
+- Serviços: R$ 77369.85 (11.3%)
+- Outros: R$ 64678.79 (9.5%)

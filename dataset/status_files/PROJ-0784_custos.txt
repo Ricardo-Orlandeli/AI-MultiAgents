@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A vantagem de ganhar sem preocupação (PROJ-0784)
+Data: 11/07/2025
+Gerente: Daniela Camargo
+
+Orçamento inicial: R$ 1466949.00
+Custo real atual: R$ 1386854.77
+Desvio orçamentário: 210.63%
+Índice de Desempenho de Custo (CPI): 1.06
+Valor Agregado (EV): R$ 1466949.00
+Estimativa para conclusão: R$ 0.00
+Estimativa no término (EAC): R$ 1386854.77
+Variação no término (VAC): R$ 80094.23
+
+Detalhamento por categoria:
+- Pessoal: R$ 622920.60 (44.9%)
+- Equipamentos: R$ 249450.07 (18.0%)
+- Software: R$ 215971.66 (15.6%)
+- Serviços: R$ 181038.31 (13.1%)
+- Outros: R$ 117474.12 (8.5%)

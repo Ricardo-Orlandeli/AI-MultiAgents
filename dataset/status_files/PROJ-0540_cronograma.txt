@@ -1,0 +1,25 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A certeza de evoluir sem preocupação (PROJ-0540)
+Data: 11/07/2025
+Gerente: Sr. Theodoro Sampaio
+
+Status atual: Em andamento
+Percentual de conclusão: 49.8%
+Data de início: 04/02/2025
+Data de término planejada: 16/01/2026
+Data de término real/prevista: 12/01/2026
+Atraso atual: 0 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 0.88
+Valor Planejado (PV): R$ 562945.28
+Valor Agregado (EV): R$ 617430.24
+
+Tarefas críticas:
+- Testes de aceitação do usuário
+- Desenvolvimento do módulo de autenticação
+- Implementação do sistema de backup
+- Implementação do módulo de análise de dados
+- Testes de segurança
+- Desenvolvimento da interface do usuário
+
+Tarefas atrasadas:

@@ -1,0 +1,27 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A certeza de mudar antes de tudo (PROJ-0728)
+Data: 11/07/2025
+Gerente: Fernanda Borges
+
+Status atual: Em andamento
+Percentual de conclusão: 99.9%
+Data de início: 22/07/2023
+Data de término planejada: 09/05/2024
+Data de término real/prevista: 11/05/2024
+Atraso atual: 428 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 1.10
+Valor Planejado (PV): R$ 4268072.00
+Valor Agregado (EV): R$ 4263803.93
+
+Tarefas críticas:
+- Implementação do sistema de backup
+- Implementação do módulo de análise de dados
+- Integração com sistema de pagamentos
+- Implementação do módulo de relatórios
+- Integração com sistema de pagamentos
+- Implementação do módulo de notificações
+- Implementação do módulo de exportação de dados
+- Configuração da infraestrutura
+
+Tarefas atrasadas:

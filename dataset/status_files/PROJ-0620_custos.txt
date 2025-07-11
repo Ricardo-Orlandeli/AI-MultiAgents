@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A segurança de conseguir sem preocupação (PROJ-0620)
+Data: 11/07/2025
+Gerente: Caroline Siqueira
+
+Orçamento inicial: R$ 1031435.00
+Custo real atual: R$ 1135671.36
+Desvio orçamentário: 10.11%
+Índice de Desempenho de Custo (CPI): 0.90
+Valor Agregado (EV): R$ 1024421.54
+Estimativa para conclusão: R$ 7775.11
+Estimativa no término (EAC): R$ 1143446.47
+Variação no término (VAC): R$ -112011.47
+
+Detalhamento por categoria:
+- Pessoal: R$ 564158.19 (49.7%)
+- Equipamentos: R$ 150269.17 (13.2%)
+- Software: R$ 153406.56 (13.5%)
+- Serviços: R$ 202764.82 (17.9%)
+- Outros: R$ 65072.62 (5.7%)

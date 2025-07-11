@@ -1,0 +1,25 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A liberdade de mudar de maneira eficaz (PROJ-0226)
+Data: 11/07/2025
+Gerente: Helena Viana
+
+Status atual: Em andamento
+Percentual de conclusão: 99.9%
+Data de início: 08/02/2024
+Data de término planejada: 01/07/2024
+Data de término real/prevista: 05/07/2024
+Atraso atual: 375 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 0.90
+Valor Planejado (PV): R$ 2482689.00
+Valor Agregado (EV): R$ 2480206.31
+
+Tarefas críticas:
+- Implementação do módulo de relatórios
+- Implementação do módulo de relatórios
+- Implementação do módulo de notificações
+- Configuração do ambiente de produção
+- Implementação do módulo de exportação de dados
+- Implementação da API REST
+
+Tarefas atrasadas:

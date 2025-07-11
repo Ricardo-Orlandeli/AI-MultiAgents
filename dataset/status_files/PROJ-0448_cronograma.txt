@@ -1,0 +1,25 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A vantagem de inovar naturalmente (PROJ-0448)
+Data: 11/07/2025
+Gerente: Lucas Gabriel Nascimento
+
+Status atual: Atrasado
+Percentual de conclusão: 61.7%
+Data de início: 12/04/2024
+Data de término planejada: 01/02/2025
+Data de término real/prevista: 09/06/2025
+Atraso atual: 160 dias
+Motivo do atraso: Problemas de comunicação
+Índice de Desempenho de Cronograma (SPI): 0.62
+Valor Planejado (PV): R$ 4778822.00
+Valor Agregado (EV): R$ 2947538.79
+
+Tarefas críticas:
+- Integração com sistema de pagamentos
+- Migração de dados legados
+- Implementação do módulo de exportação de dados
+- Desenvolvimento da interface do usuário
+- Testes de segurança
+
+Tarefas atrasadas:
+- Migração de dados legados

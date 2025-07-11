@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O direito de mudar de maneira eficaz (PROJ-0214)
+Data: 11/07/2025
+Gerente: Olívia Duarte
+
+Orçamento inicial: R$ 2075228.00
+Custo real atual: R$ 727954.45
+Desvio orçamentário: -64.92%
+Índice de Desempenho de Custo (CPI): 0.91
+Valor Agregado (EV): R$ 661548.78
+Estimativa para conclusão: R$ 1555583.07
+Estimativa no término (EAC): R$ 2283537.52
+Variação no término (VAC): R$ -208309.52
+
+Detalhamento por categoria:
+- Pessoal: R$ 315910.66 (43.4%)
+- Equipamentos: R$ 131242.76 (18.0%)
+- Software: R$ 105390.22 (14.5%)
+- Serviços: R$ 103390.54 (14.2%)
+- Outros: R$ 72020.27 (9.9%)

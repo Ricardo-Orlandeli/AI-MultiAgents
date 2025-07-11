@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O direito de conseguir direto da fonte (PROJ-0828)
+Data: 11/07/2025
+Gerente: Bento Pinto
+
+Orçamento inicial: R$ 1549830.00
+Custo real atual: R$ 1570334.74
+Desvio orçamentário: 1.32%
+Índice de Desempenho de Custo (CPI): 0.99
+Valor Agregado (EV): R$ 1548280.17
+Estimativa para conclusão: R$ 1571.91
+Estimativa no término (EAC): R$ 1571906.64
+Variação no término (VAC): R$ -22076.64
+
+Detalhamento por categoria:
+- Pessoal: R$ 721863.24 (46.0%)
+- Equipamentos: R$ 281824.66 (17.9%)
+- Software: R$ 106266.18 (6.8%)
+- Serviços: R$ 307407.50 (19.6%)
+- Outros: R$ 152973.16 (9.7%)

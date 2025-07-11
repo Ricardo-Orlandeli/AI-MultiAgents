@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A simplicidade de evoluir de maneira eficaz (PROJ-0186)
+Data: 11/07/2025
+Gerente: Esther Correia
+
+Orçamento inicial: R$ 800018.00
+Custo real atual: R$ 939602.03
+Desvio orçamentário: 17.45%
+Índice de Desempenho de Custo (CPI): 0.73
+Valor Agregado (EV): R$ 690279.37
+Estimativa para conclusão: R$ 149375.23
+Estimativa no término (EAC): R$ 1088977.26
+Variação no término (VAC): R$ -288959.26
+
+Detalhamento por categoria:
+- Pessoal: R$ 495937.10 (52.8%)
+- Equipamentos: R$ 146169.00 (15.6%)
+- Software: R$ 104881.20 (11.2%)
+- Serviços: R$ 118250.77 (12.6%)
+- Outros: R$ 74363.97 (7.9%)

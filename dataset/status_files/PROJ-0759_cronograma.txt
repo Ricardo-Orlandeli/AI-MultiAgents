@@ -1,0 +1,26 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: O poder de mudar com confiança (PROJ-0759)
+Data: 11/07/2025
+Gerente: Ryan Oliveira
+
+Status atual: Atrasado
+Percentual de conclusão: 26.1%
+Data de início: 03/01/2025
+Data de término planejada: 01/01/2026
+Data de término real/prevista: 14/06/2026
+Atraso atual: 0 dias
+Motivo do atraso: Recursos insuficientes
+Índice de Desempenho de Cronograma (SPI): 0.50
+Valor Planejado (PV): R$ 1743976.41
+Valor Agregado (EV): R$ 873262.10
+
+Tarefas críticas:
+- Desenvolvimento do módulo de autenticação
+- Desenvolvimento da interface do usuário
+- Implementação do módulo de exportação de dados
+- Implementação do módulo de exportação de dados
+- Migração de dados legados
+
+Tarefas atrasadas:
+- Desenvolvimento do módulo de autenticação
+- Implementação do módulo de exportação de dados

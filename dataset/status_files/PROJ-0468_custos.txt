@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A segurança de evoluir naturalmente (PROJ-0468)
+Data: 11/07/2025
+Gerente: Ryan da Mata
+
+Orçamento inicial: R$ 1451528.00
+Custo real atual: R$ 1551612.29
+Desvio orçamentário: 6.90%
+Índice de Desempenho de Custo (CPI): 0.94
+Valor Agregado (EV): R$ 1451528.00
+Estimativa para conclusão: R$ 0.00
+Estimativa no término (EAC): R$ 1551612.29
+Variação no término (VAC): R$ -100084.29
+
+Detalhamento por categoria:
+- Pessoal: R$ 778297.88 (50.2%)
+- Equipamentos: R$ 297996.71 (19.2%)
+- Software: R$ 143773.85 (9.3%)
+- Serviços: R$ 231598.62 (14.9%)
+- Outros: R$ 99945.22 (6.4%)

@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A vantagem de atingir seus objetivos mais facilmente (PROJ-0773)
+Data: 11/07/2025
+Gerente: Ana Vitória Pires
+
+Orçamento inicial: R$ 4819551.00
+Custo real atual: R$ 3762308.55
+Desvio orçamentário: -21.94%
+Índice de Desempenho de Custo (CPI): 1.06
+Valor Agregado (EV): R$ 3981357.21
+Estimativa para conclusão: R$ 792077.55
+Estimativa no término (EAC): R$ 4554386.09
+Variação no término (VAC): R$ 265164.91
+
+Detalhamento por categoria:
+- Pessoal: R$ 1629153.59 (43.3%)
+- Equipamentos: R$ 584273.24 (15.5%)
+- Software: R$ 536890.69 (14.3%)
+- Serviços: R$ 694015.73 (18.4%)
+- Outros: R$ 317975.30 (8.5%)

@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O direito de mudar com força total (PROJ-0739)
+Data: 11/07/2025
+Gerente: Heitor Novaes
+
+Orçamento inicial: R$ 1772909.00
+Custo real atual: R$ 2224622.35
+Desvio orçamentário: 25.48%
+Índice de Desempenho de Custo (CPI): 0.69
+Valor Agregado (EV): R$ 1533663.91
+Estimativa para conclusão: R$ 347031.68
+Estimativa no término (EAC): R$ 2571654.03
+Variação no término (VAC): R$ -798745.03
+
+Detalhamento por categoria:
+- Pessoal: R$ 1108845.90 (49.8%)
+- Equipamentos: R$ 404586.98 (18.2%)
+- Software: R$ 302511.13 (13.6%)
+- Serviços: R$ 268412.15 (12.1%)
+- Outros: R$ 140266.19 (6.3%)

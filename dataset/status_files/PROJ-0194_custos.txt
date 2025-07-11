@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A possibilidade de realizar seus sonhos com confiança (PROJ-0194)
+Data: 11/07/2025
+Gerente: Ana Clara Nunes
+
+Orçamento inicial: R$ 2291165.00
+Custo real atual: R$ 205229.74
+Desvio orçamentário: -9.48%
+Índice de Desempenho de Custo (CPI): 0.96
+Valor Agregado (EV): R$ 197820.78
+Estimativa para conclusão: R$ 2171746.09
+Estimativa no término (EAC): R$ 2376975.83
+Variação no término (VAC): R$ -85810.83
+
+Detalhamento por categoria:
+- Pessoal: R$ 109761.46 (53.5%)
+- Equipamentos: R$ 24469.69 (11.9%)
+- Software: R$ 20423.39 (10.0%)
+- Serviços: R$ 35649.81 (17.4%)
+- Outros: R$ 14925.39 (7.3%)

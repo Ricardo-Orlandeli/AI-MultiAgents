@@ -1,0 +1,19 @@
+RELATÓRIO DE STATUS DE ESCOPO
+Projeto: A simplicidade de evoluir de maneira eficaz (PROJ-0186)
+Data: 11/07/2025
+Gerente: Esther Correia
+
+Escopo original: Sistema para a simplicidade de evoluir de maneira eficaz
+Houve mudança de escopo: Não
+Descrição das mudanças: N/A
+Impacto no cronograma: 0 dias
+Impacto no custo: R$ 0.00
+
+Solicitações de mudança:
+
+Requisitos atuais:
+- REQ-01: O sistema deve ter documentação completa
+- REQ-02: O sistema deve implementar criptografia de dados sensíveis
+- REQ-03: O sistema deve passar por testes de segurança
+- REQ-04: O sistema deve passar por testes de segurança
+- REQ-05: O sistema deve ter controle de acesso baseado em perfis

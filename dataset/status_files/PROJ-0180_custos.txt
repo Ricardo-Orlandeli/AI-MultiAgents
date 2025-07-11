@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O conforto de realizar seus sonhos com confiança (PROJ-0180)
+Data: 11/07/2025
+Gerente: Brayan Pires
+
+Orçamento inicial: R$ 3214704.00
+Custo real atual: R$ 2538985.83
+Desvio orçamentário: -21.02%
+Índice de Desempenho de Custo (CPI): 1.05
+Valor Agregado (EV): R$ 2657502.69
+Estimativa para conclusão: R$ 532351.76
+Estimativa no término (EAC): R$ 3071337.59
+Variação no término (VAC): R$ 143366.41
+
+Detalhamento por categoria:
+- Pessoal: R$ 1311914.23 (51.7%)
+- Equipamentos: R$ 425189.91 (16.7%)
+- Software: R$ 226411.75 (8.9%)
+- Serviços: R$ 422761.48 (16.7%)
+- Outros: R$ 152708.47 (6.0%)

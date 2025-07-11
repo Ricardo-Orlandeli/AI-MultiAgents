@@ -1,0 +1,25 @@
+RELATÓRIO DE STATUS DE ESCOPO
+Projeto: A liberdade de concretizar seus projetos naturalmente (PROJ-0500)
+Data: 11/07/2025
+Gerente: Diego Almeida
+
+Escopo original: Sistema para a liberdade de concretizar seus projetos naturalmente
+Houve mudança de escopo: Não
+Descrição das mudanças: N/A
+Impacto no cronograma: 0 dias
+Impacto no custo: R$ 0.00
+
+Solicitações de mudança:
+
+Requisitos atuais:
+- REQ-01: O sistema deve ser compatível com navegadores modernos
+- REQ-02: O sistema deve permitir autenticação de usuários
+- REQ-03: O sistema deve passar por testes de segurança
+- REQ-04: O sistema deve implementar criptografia de dados sensíveis
+- REQ-05: O sistema deve ter controle de acesso baseado em perfis
+- REQ-06: O sistema deve ser compatível com navegadores modernos
+- REQ-07: O sistema deve implementar criptografia de dados sensíveis
+- REQ-08: O sistema deve permitir autenticação de usuários
+- REQ-09: O sistema deve processar transações em menos de 2 seconds
+- REQ-10: O sistema deve ter documentação completa
+- REQ-11: O sistema deve ser compatível com dispositivos móveis

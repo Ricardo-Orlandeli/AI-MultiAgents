@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O direito de realizar seus sonhos sem preocupação (PROJ-0595)
+Data: 11/07/2025
+Gerente: Rafael Vasconcelos
+
+Orçamento inicial: R$ 4357080.00
+Custo real atual: R$ 2079650.86
+Desvio orçamentário: -24.66%
+Índice de Desempenho de Custo (CPI): 0.76
+Valor Agregado (EV): R$ 1571464.85
+Estimativa para conclusão: R$ 3686437.49
+Estimativa no término (EAC): R$ 5766088.35
+Variação no término (VAC): R$ -1409008.35
+
+Detalhamento por categoria:
+- Pessoal: R$ 1183752.16 (56.9%)
+- Equipamentos: R$ 350094.57 (16.8%)
+- Software: R$ 115022.99 (5.5%)
+- Serviços: R$ 237934.57 (11.4%)
+- Outros: R$ 192846.57 (9.3%)

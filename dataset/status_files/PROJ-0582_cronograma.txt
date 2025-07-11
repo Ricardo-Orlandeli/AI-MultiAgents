@@ -1,0 +1,23 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: O direito de mudar com confiança (PROJ-0582)
+Data: 11/07/2025
+Gerente: Enzo Gabriel Fogaça
+
+Status atual: Concluído
+Percentual de conclusão: 100.0%
+Data de início: 19/05/2025
+Data de término planejada: 22/07/2025
+Data de término real/prevista: 23/07/2025
+Atraso atual: 0 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 1.00
+Valor Planejado (PV): R$ 3024556.80
+Valor Agregado (EV): R$ 3652295.00
+
+Tarefas críticas:
+- Implementação do módulo de relatórios
+- Implementação da API REST
+- Desenvolvimento da interface do usuário
+- Configuração do ambiente de produção
+
+Tarefas atrasadas:

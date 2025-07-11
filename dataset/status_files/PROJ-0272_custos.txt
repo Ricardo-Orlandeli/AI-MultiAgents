@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O direito de concretizar seus projetos naturalmente (PROJ-0272)
+Data: 11/07/2025
+Gerente: Ana Luiza Nunes
+
+Orçamento inicial: R$ 640051.00
+Custo real atual: R$ 525748.13
+Desvio orçamentário: -17.86%
+Índice de Desempenho de Custo (CPI): 1.22
+Valor Agregado (EV): R$ 639410.95
+Estimativa para conclusão: R$ 526.27
+Estimativa no término (EAC): R$ 526274.41
+Variação no término (VAC): R$ 113776.59
+
+Detalhamento por categoria:
+- Pessoal: R$ 257721.69 (49.0%)
+- Equipamentos: R$ 76599.77 (14.6%)
+- Software: R$ 63734.28 (12.1%)
+- Serviços: R$ 83602.92 (15.9%)
+- Outros: R$ 44089.46 (8.4%)

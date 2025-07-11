@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O direito de conseguir mais rapidamente (PROJ-0695)
+Data: 11/07/2025
+Gerente: João Pedro Caldeira
+
+Orçamento inicial: R$ 1159262.00
+Custo real atual: R$ 924645.18
+Desvio orçamentário: -20.24%
+Índice de Desempenho de Custo (CPI): 1.22
+Valor Agregado (EV): R$ 1130422.70
+Estimativa para conclusão: R$ 23589.51
+Estimativa no término (EAC): R$ 948234.69
+Variação no término (VAC): R$ 211027.31
+
+Detalhamento por categoria:
+- Pessoal: R$ 487674.01 (52.7%)
+- Equipamentos: R$ 164849.47 (17.8%)
+- Software: R$ 83556.28 (9.0%)
+- Serviços: R$ 115721.63 (12.5%)
+- Outros: R$ 72843.78 (7.9%)

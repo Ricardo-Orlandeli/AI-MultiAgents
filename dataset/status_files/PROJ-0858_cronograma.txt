@@ -1,0 +1,24 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A certeza de concretizar seus projetos mais facilmente (PROJ-0858)
+Data: 11/07/2025
+Gerente: Gustavo Santos
+
+Status atual: Atrasado
+Percentual de conclusão: 56.9%
+Data de início: 17/09/2024
+Data de término planejada: 05/08/2025
+Data de término real/prevista: 13/12/2025
+Atraso atual: 0 dias
+Motivo do atraso: Atraso na entrega de componentes por fornecedores
+Índice de Desempenho de Cronograma (SPI): 0.62
+Valor Planejado (PV): R$ 2097081.95
+Valor Agregado (EV): R$ 1294492.52
+
+Tarefas críticas:
+- Testes de segurança
+- Configuração do ambiente de produção
+- Testes de aceitação do usuário
+- Desenvolvimento do painel administrativo
+
+Tarefas atrasadas:
+- Testes de segurança

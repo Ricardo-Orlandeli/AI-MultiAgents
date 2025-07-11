@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A liberdade de atingir seus objetivos naturalmente (PROJ-0481)
+Data: 11/07/2025
+Gerente: Laís Casa Grande
+
+Orçamento inicial: R$ 1264899.00
+Custo real atual: R$ 962363.87
+Desvio orçamentário: -23.92%
+Índice de Desempenho de Custo (CPI): 1.18
+Valor Agregado (EV): R$ 1132433.25
+Estimativa para conclusão: R$ 112571.98
+Estimativa no término (EAC): R$ 1074935.85
+Variação no término (VAC): R$ 189963.15
+
+Detalhamento por categoria:
+- Pessoal: R$ 430618.60 (44.7%)
+- Equipamentos: R$ 171777.60 (17.8%)
+- Software: R$ 115787.45 (12.0%)
+- Serviços: R$ 154043.42 (16.0%)
+- Outros: R$ 90136.80 (9.4%)

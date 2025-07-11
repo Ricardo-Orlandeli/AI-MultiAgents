@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A vantagem de avançar direto da fonte (PROJ-0611)
+Data: 11/07/2025
+Gerente: Yuri Peixoto
+
+Orçamento inicial: R$ 3177390.00
+Custo real atual: R$ 2174020.22
+Desvio orçamentário: -31.58%
+Índice de Desempenho de Custo (CPI): 1.19
+Valor Agregado (EV): R$ 2582327.65
+Estimativa para conclusão: R$ 500973.44
+Estimativa no término (EAC): R$ 2674993.66
+Variação no término (VAC): R$ 502396.34
+
+Detalhamento por categoria:
+- Pessoal: R$ 1105880.33 (50.9%)
+- Equipamentos: R$ 305787.08 (14.1%)
+- Software: R$ 161540.44 (7.4%)
+- Serviços: R$ 404356.99 (18.6%)
+- Outros: R$ 196455.37 (9.0%)

@@ -1,0 +1,24 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A segurança de ganhar mais rapidamente (PROJ-0810)
+Data: 11/07/2025
+Gerente: Isabelly Casa Grande
+
+Status atual: Em andamento
+Percentual de conclusão: 99.9%
+Data de início: 21/08/2024
+Data de término planejada: 18/07/2025
+Data de término real/prevista: 12/08/2025
+Atraso atual: 0 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 1.13
+Valor Planejado (PV): R$ 3941275.98
+Valor Agregado (EV): R$ 4022400.57
+
+Tarefas críticas:
+- Implementação do sistema de backup
+- Integração com sistema de pagamentos
+- Implementação da API REST
+- Migração de dados legados
+- Implementação do módulo de análise de dados
+
+Tarefas atrasadas:

@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A possibilidade de ganhar em estado puro (PROJ-0445)
+Data: 11/07/2025
+Gerente: Leonardo da Mota
+
+Orçamento inicial: R$ 4875887.00
+Custo real atual: R$ 4735426.05
+Desvio orçamentário: -2.88%
+Índice de Desempenho de Custo (CPI): 1.03
+Valor Agregado (EV): R$ 4871011.11
+Estimativa para conclusão: R$ 4740.17
+Estimativa no término (EAC): R$ 4740166.22
+Variação no término (VAC): R$ 135720.78
+
+Detalhamento por categoria:
+- Pessoal: R$ 2482322.34 (52.4%)
+- Equipamentos: R$ 648087.60 (13.7%)
+- Software: R$ 600141.29 (12.7%)
+- Serviços: R$ 755573.16 (16.0%)
+- Outros: R$ 249301.66 (5.3%)

@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O conforto de evoluir em estado puro (PROJ-0641)
+Data: 11/07/2025
+Gerente: Jade Cunha
+
+Orçamento inicial: R$ 1857490.00
+Custo real atual: R$ 1448739.27
+Desvio orçamentário: -14.73%
+Índice de Desempenho de Custo (CPI): 0.74
+Valor Agregado (EV): R$ 1071793.38
+Estimativa para conclusão: R$ 1062023.31
+Estimativa no término (EAC): R$ 2510762.58
+Variação no término (VAC): R$ -653272.58
+
+Detalhamento por categoria:
+- Pessoal: R$ 731477.63 (50.5%)
+- Equipamentos: R$ 253799.08 (17.5%)
+- Software: R$ 218918.21 (15.1%)
+- Serviços: R$ 162739.27 (11.2%)
+- Outros: R$ 81805.08 (5.6%)

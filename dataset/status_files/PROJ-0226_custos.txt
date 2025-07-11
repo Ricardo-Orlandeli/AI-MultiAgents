@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A liberdade de mudar de maneira eficaz (PROJ-0226)
+Data: 11/07/2025
+Gerente: Helena Viana
+
+Orçamento inicial: R$ 2482689.00
+Custo real atual: R$ 2540210.89
+Desvio orçamentário: 2.32%
+Índice de Desempenho de Custo (CPI): 0.98
+Valor Agregado (EV): R$ 2480206.31
+Estimativa para conclusão: R$ 2542.75
+Estimativa no término (EAC): R$ 2542753.64
+Variação no término (VAC): R$ -60064.64
+
+Detalhamento por categoria:
+- Pessoal: R$ 1256727.56 (49.5%)
+- Equipamentos: R$ 398652.45 (15.7%)
+- Software: R$ 262740.51 (10.3%)
+- Serviços: R$ 409197.08 (16.1%)
+- Outros: R$ 212893.30 (8.4%)

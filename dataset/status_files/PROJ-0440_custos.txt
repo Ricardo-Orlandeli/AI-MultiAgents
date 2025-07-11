@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O poder de atingir seus objetivos mais facilmente (PROJ-0440)
+Data: 11/07/2025
+Gerente: Srta. Isadora Pimenta
+
+Orçamento inicial: R$ 4144497.00
+Custo real atual: R$ 3481390.56
+Desvio orçamentário: -16.00%
+Índice de Desempenho de Custo (CPI): 1.19
+Valor Agregado (EV): R$ 4140352.50
+Estimativa para conclusão: R$ 3484.88
+Estimativa no término (EAC): R$ 3484875.44
+Variação no término (VAC): R$ 659621.56
+
+Detalhamento por categoria:
+- Pessoal: R$ 1963151.32 (56.4%)
+- Equipamentos: R$ 405593.55 (11.7%)
+- Software: R$ 327520.45 (9.4%)
+- Serviços: R$ 523231.96 (15.0%)
+- Outros: R$ 261893.28 (7.5%)

@@ -1,0 +1,27 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A certeza de inovar simplesmente (PROJ-0543)
+Data: 11/07/2025
+Gerente: Dr. João Gabriel Macedo
+
+Status atual: Em andamento
+Percentual de conclusão: 94.5%
+Data de início: 30/01/2025
+Data de término planejada: 09/07/2025
+Data de término real/prevista: 28/07/2025
+Atraso atual: 2 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 0.95
+Valor Planejado (PV): R$ 1758362.00
+Valor Agregado (EV): R$ 1662511.01
+
+Tarefas críticas:
+- Testes de aceitação do usuário
+- Configuração da infraestrutura
+- Desenvolvimento da interface do usuário
+- Implementação do sistema de backup
+- Integração com sistema de pagamentos
+- Configuração da infraestrutura
+- Configuração do ambiente de produção
+- Testes de segurança
+
+Tarefas atrasadas:

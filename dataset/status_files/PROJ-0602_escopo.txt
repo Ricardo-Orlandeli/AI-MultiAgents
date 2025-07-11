@@ -1,0 +1,23 @@
+RELATÓRIO DE STATUS DE ESCOPO
+Projeto: A simplicidade de conseguir sem preocupação (PROJ-0602)
+Data: 11/07/2025
+Gerente: Luiz Felipe Casa Grande
+
+Escopo original: Sistema para a simplicidade de conseguir sem preocupação
+Houve mudança de escopo: Sim
+Descrição das mudanças: Redução do escopo devido a restrições orçamentárias
+Impacto no cronograma: 42 dias
+Impacto no custo: R$ 606066.58
+
+Solicitações de mudança:
+- SCM-01: Adição de funcionalidade de autenticação biométrica
+- SCM-02: Adição de relatórios gerenciais
+- SCM-03: Alteração nos requisitos de desempenho
+
+Requisitos atuais:
+- REQ-01: O sistema deve permitir integração com APIs externas
+- REQ-02: O sistema deve processar transações em menos de 2 seconds
+- REQ-03: O sistema deve ter backup automático diário
+- REQ-04: O sistema deve processar transações em menos de 2 seconds
+- REQ-05: O sistema deve permitir exportação de dados em formato CSV
+- REQ-06: O sistema deve ser compatível com navegadores modernos

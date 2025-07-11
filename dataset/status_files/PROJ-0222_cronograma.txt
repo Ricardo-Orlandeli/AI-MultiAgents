@@ -1,0 +1,24 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A certeza de concretizar seus projetos antes de tudo (PROJ-0222)
+Data: 11/07/2025
+Gerente: Maria Julia Lima
+
+Status atual: Concluído
+Percentual de conclusão: 100.0%
+Data de início: 15/10/2023
+Data de término planejada: 04/09/2024
+Data de término real/prevista: 16/08/2024
+Atraso atual: 310 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 1.06
+Valor Planejado (PV): R$ 1804055.00
+Valor Agregado (EV): R$ 1804055.00
+
+Tarefas críticas:
+- Implementação do módulo de análise de dados
+- Integração com sistema de pagamentos
+- Desenvolvimento do painel administrativo
+- Testes de aceitação do usuário
+- Migração de dados legados
+
+Tarefas atrasadas:

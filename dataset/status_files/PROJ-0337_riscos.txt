@@ -1,0 +1,31 @@
+RELATÓRIO DE STATUS DE RISCOS
+Projeto: O prazer de realizar seus sonhos de maneira eficaz (PROJ-0337)
+Data: 11/07/2025
+Gerente: Srta. Manuela Santos
+
+Riscos identificados:
+- R01: Rotatividade de pessoal-chave
+  Probabilidade: 4/5, Impacto: 4/5, Nível: Alto
+  Mitigação: Testar compatibilidade em diferentes ambientes
+
+- R02: Rotatividade de pessoal-chave
+  Probabilidade: 1/5, Impacto: 5/5, Nível: Baixo
+  Mitigação: Gerenciar dependências ativamente
+
+- R03: Problemas de comunicação com stakeholders
+  Probabilidade: 3/5, Impacto: 5/5, Nível: Médio
+  Mitigação: Comunicar benefícios da mudança
+
+Riscos ocorridos:
+- R01 (ocorrido em 13/04/2025)
+  Impacto real: Falhas de segurança
+  Ações tomadas: Realocação de recursos
+
+- R02 (ocorrido em 12/03/2025)
+  Impacto real: Redução de funcionalidades
+  Ações tomadas: Implementação do plano de contingência
+
+- R03 (ocorrido em 10/02/2025)
+  Impacto real: Indisponibilidade temporária
+  Ações tomadas: Revisão de prioridades
+

@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A segurança de concretizar seus projetos direto da fonte (PROJ-0778)
+Data: 11/07/2025
+Gerente: Yasmin Vargas
+
+Orçamento inicial: R$ 4138304.00
+Custo real atual: R$ 4882094.37
+Desvio orçamentário: 17.97%
+Índice de Desempenho de Custo (CPI): 0.70
+Valor Agregado (EV): R$ 3419980.06
+Estimativa para conclusão: R$ 1025422.72
+Estimativa no término (EAC): R$ 5907517.08
+Variação no término (VAC): R$ -1769213.08
+
+Detalhamento por categoria:
+- Pessoal: R$ 2221441.58 (45.5%)
+- Equipamentos: R$ 1008187.31 (20.7%)
+- Software: R$ 471788.99 (9.7%)
+- Serviços: R$ 735024.96 (15.1%)
+- Outros: R$ 445651.52 (9.1%)

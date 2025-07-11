@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A simplicidade de mudar sem preocupação (PROJ-0905)
+Data: 11/07/2025
+Gerente: Luna Gomes
+
+Orçamento inicial: R$ 536399.00
+Custo real atual: R$ 559294.69
+Desvio orçamentário: 4.27%
+Índice de Desempenho de Custo (CPI): 0.96
+Valor Agregado (EV): R$ 535862.60
+Estimativa para conclusão: R$ 559.85
+Estimativa no término (EAC): R$ 559854.54
+Variação no término (VAC): R$ -23455.54
+
+Detalhamento por categoria:
+- Pessoal: R$ 268095.54 (47.9%)
+- Equipamentos: R$ 94043.61 (16.8%)
+- Software: R$ 66024.48 (11.8%)
+- Serviços: R$ 86598.08 (15.5%)
+- Outros: R$ 44532.99 (8.0%)

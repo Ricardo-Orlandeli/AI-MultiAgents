@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A possibilidade de ganhar antes de tudo (PROJ-0097)
+Data: 11/07/2025
+Gerente: Anthony Gabriel Costela
+
+Orçamento inicial: R$ 3424157.00
+Custo real atual: R$ 2085761.21
+Desvio orçamentário: -35.29%
+Índice de Desempenho de Custo (CPI): 0.85
+Valor Agregado (EV): R$ 1772896.88
+Estimativa para conclusão: R$ 1942659.13
+Estimativa no término (EAC): R$ 4028420.34
+Variação no término (VAC): R$ -604263.34
+
+Detalhamento por categoria:
+- Pessoal: R$ 1149287.80 (55.1%)
+- Equipamentos: R$ 277594.43 (13.3%)
+- Software: R$ 179261.30 (8.6%)
+- Serviços: R$ 338598.34 (16.2%)
+- Outros: R$ 141019.34 (6.8%)

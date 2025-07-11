@@ -1,0 +1,31 @@
+RELATÓRIO DE STATUS DE ESCOPO
+Projeto: O direito de avançar sem preocupação (PROJ-0110)
+Data: 11/07/2025
+Gerente: João Miguel Oliveira
+
+Escopo original: Sistema para o direito de avançar sem preocupação
+Houve mudança de escopo: Sim
+Descrição das mudanças: Adição de novos requisitos de segurança
+Impacto no cronograma: 15 dias
+Impacto no custo: R$ 59079.02
+
+Solicitações de mudança:
+- SCM-01: Mudança no banco de dados
+- SCM-02: Mudança na arquitetura do sistema
+
+Requisitos atuais:
+- REQ-01: O sistema deve ter interface responsiva
+- REQ-02: O sistema deve permitir autenticação de usuários
+- REQ-03: O sistema deve ter interface responsiva
+- REQ-04: O sistema deve passar por testes de segurança
+- REQ-05: O sistema deve permitir integração com APIs externas
+- REQ-06: O sistema deve ter documentação completa
+- REQ-07: O sistema deve ter documentação completa
+- REQ-08: O sistema deve permitir integração com APIs externas
+- REQ-09: O sistema deve processar transações em menos de 2 seconds
+- REQ-10: O sistema deve ter documentação completa
+- REQ-11: O sistema deve ter controle de acesso baseado em perfis
+- REQ-12: O sistema deve ter documentação completa
+- REQ-13: O sistema deve ter documentação completa
+- REQ-14: O sistema deve permitir integração com APIs externas
+- REQ-15: O sistema deve permitir exportação de dados em formato CSV

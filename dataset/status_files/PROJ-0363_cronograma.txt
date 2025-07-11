@@ -1,0 +1,26 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A possibilidade de evoluir direto da fonte (PROJ-0363)
+Data: 11/07/2025
+Gerente: Eloá Brito
+
+Status atual: Em andamento
+Percentual de conclusão: 99.9%
+Data de início: 20/11/2023
+Data de término planejada: 24/07/2024
+Data de término real/prevista: 18/07/2024
+Atraso atual: 352 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 1.02
+Valor Planejado (PV): R$ 1555529.00
+Valor Agregado (EV): R$ 1553973.47
+
+Tarefas críticas:
+- Implementação do sistema de backup
+- Implementação do sistema de backup
+- Testes de segurança
+- Desenvolvimento da interface do usuário
+- Desenvolvimento do painel administrativo
+- Testes de segurança
+- Implementação da API REST
+
+Tarefas atrasadas:

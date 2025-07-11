@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A possibilidade de avançar com força total (PROJ-0398)
+Data: 11/07/2025
+Gerente: Marcos Vinicius Pires
+
+Orçamento inicial: R$ 912353.00
+Custo real atual: R$ 878776.76
+Desvio orçamentário: -3.68%
+Índice de Desempenho de Custo (CPI): 0.84
+Valor Agregado (EV): R$ 740558.75
+Estimativa para conclusão: R$ 203857.96
+Estimativa no término (EAC): R$ 1082634.72
+Variação no término (VAC): R$ -170281.72
+
+Detalhamento por categoria:
+- Pessoal: R$ 467152.10 (53.2%)
+- Equipamentos: R$ 96085.85 (10.9%)
+- Software: R$ 81915.13 (9.3%)
+- Serviços: R$ 165757.77 (18.9%)
+- Outros: R$ 67865.92 (7.7%)

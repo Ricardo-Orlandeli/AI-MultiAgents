@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O poder de evoluir de maneira eficaz (PROJ-0882)
+Data: 11/07/2025
+Gerente: Dr. Rael Pimenta
+
+Orçamento inicial: R$ 4082447.00
+Custo real atual: R$ 961769.46
+Desvio orçamentário: -71.95%
+Índice de Desempenho de Custo (CPI): 0.96
+Valor Agregado (EV): R$ 919809.72
+Estimativa para conclusão: R$ 3306909.99
+Estimativa no término (EAC): R$ 4268679.45
+Variação no término (VAC): R$ -186232.45
+
+Detalhamento por categoria:
+- Pessoal: R$ 459754.67 (47.8%)
+- Equipamentos: R$ 181306.21 (18.9%)
+- Software: R$ 101902.13 (10.6%)
+- Serviços: R$ 154458.26 (16.1%)
+- Outros: R$ 64348.19 (6.7%)

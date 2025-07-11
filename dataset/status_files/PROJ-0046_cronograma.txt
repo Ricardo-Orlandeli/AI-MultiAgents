@@ -1,0 +1,24 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: O prazer de atingir seus objetivos simplesmente (PROJ-0046)
+Data: 11/07/2025
+Gerente: Henry Gabriel da Rosa
+
+Status atual: Atrasado
+Percentual de conclusão: 55.6%
+Data de início: 10/06/2024
+Data de término planejada: 12/02/2025
+Data de término real/prevista: 22/07/2025
+Atraso atual: 149 dias
+Motivo do atraso: Problemas técnicos inesperados
+Índice de Desempenho de Cronograma (SPI): 0.56
+Valor Planejado (PV): R$ 3524509.00
+Valor Agregado (EV): R$ 1959017.53
+
+Tarefas críticas:
+- Implementação do sistema de backup
+- Configuração da infraestrutura
+- Implementação do sistema de backup
+
+Tarefas atrasadas:
+- Implementação do sistema de backup
+- Implementação do sistema de backup

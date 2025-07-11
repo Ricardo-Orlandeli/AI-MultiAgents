@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE ESCOPO
+Projeto: A segurança de mudar em estado puro (PROJ-0470)
+Data: 11/07/2025
+Gerente: Sr. Raul da Rosa
+
+Escopo original: Sistema para a segurança de mudar em estado puro
+Houve mudança de escopo: Não
+Descrição das mudanças: N/A
+Impacto no cronograma: 0 dias
+Impacto no custo: R$ 0.00
+
+Solicitações de mudança:
+
+Requisitos atuais:
+- REQ-01: O sistema deve passar por testes de segurança
+- REQ-02: O sistema deve ter documentação completa
+- REQ-03: O sistema deve permitir exportação de dados em formato CSV
+- REQ-04: O sistema deve ser escalável para suportar até 10.000 usuários simultâneos
+- REQ-05: O sistema deve ser compatível com dispositivos móveis
+- REQ-06: O sistema deve permitir exportação de dados em formato CSV

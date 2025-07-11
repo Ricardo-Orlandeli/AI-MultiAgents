@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A possibilidade de atingir seus objetivos mais rapidamente (PROJ-0021)
+Data: 11/07/2025
+Gerente: Davi Lucca Nogueira
+
+Orçamento inicial: R$ 3144719.00
+Custo real atual: R$ 1034308.96
+Desvio orçamentário: -1.96%
+Índice de Desempenho de Custo (CPI): 0.90
+Valor Agregado (EV): R$ 928628.37
+Estimativa para conclusão: R$ 2468288.14
+Estimativa no término (EAC): R$ 3502597.10
+Variação no término (VAC): R$ -357878.10
+
+Detalhamento por categoria:
+- Pessoal: R$ 454317.51 (43.9%)
+- Equipamentos: R$ 138596.96 (13.4%)
+- Software: R$ 149089.34 (14.4%)
+- Serviços: R$ 202362.47 (19.6%)
+- Outros: R$ 89942.68 (8.7%)

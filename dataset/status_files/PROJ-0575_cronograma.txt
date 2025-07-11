@@ -1,0 +1,24 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A arte de inovar com força total (PROJ-0575)
+Data: 11/07/2025
+Gerente: Ana Clara Ferreira
+
+Status atual: Concluído
+Percentual de conclusão: 100.0%
+Data de início: 05/12/2024
+Data de término planejada: 22/09/2025
+Data de término real/prevista: 22/10/2025
+Atraso atual: 0 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 1.04
+Valor Planejado (PV): R$ 2154266.26
+Valor Agregado (EV): R$ 2875649.00
+
+Tarefas críticas:
+- Implementação do módulo de exportação de dados
+- Implementação do módulo de análise de dados
+- Implementação do módulo de exportação de dados
+- Configuração do ambiente de produção
+- Implementação do módulo de exportação de dados
+
+Tarefas atrasadas:

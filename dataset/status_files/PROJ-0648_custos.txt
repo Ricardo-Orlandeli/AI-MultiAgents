@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A certeza de inovar simplesmente (PROJ-0648)
+Data: 11/07/2025
+Gerente: Ryan Costa
+
+Orçamento inicial: R$ 719033.00
+Custo real atual: R$ 838166.23
+Desvio orçamentário: 16.57%
+Índice de Desempenho de Custo (CPI): 0.86
+Valor Agregado (EV): R$ 718313.97
+Estimativa para conclusão: R$ 839.01
+Estimativa no término (EAC): R$ 839005.23
+Variação no término (VAC): R$ -119972.23
+
+Detalhamento por categoria:
+- Pessoal: R$ 451842.50 (53.9%)
+- Equipamentos: R$ 132074.62 (15.8%)
+- Software: R$ 99795.51 (11.9%)
+- Serviços: R$ 89648.76 (10.7%)
+- Outros: R$ 64804.85 (7.7%)

@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A liberdade de atingir seus objetivos em estado puro (PROJ-0802)
+Data: 11/07/2025
+Gerente: Cauã Sá
+
+Orçamento inicial: R$ 3906606.00
+Custo real atual: R$ 4576657.58
+Desvio orçamentário: 17.15%
+Índice de Desempenho de Custo (CPI): 0.71
+Valor Agregado (EV): R$ 3229305.24
+Estimativa para conclusão: R$ 959888.71
+Estimativa no término (EAC): R$ 5536546.29
+Variação no término (VAC): R$ -1629940.29
+
+Detalhamento por categoria:
+- Pessoal: R$ 2191542.78 (47.9%)
+- Equipamentos: R$ 854478.59 (18.7%)
+- Software: R$ 354087.58 (7.7%)
+- Serviços: R$ 894275.21 (19.5%)
+- Outros: R$ 282273.42 (6.2%)

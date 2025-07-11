@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O poder de conseguir simplesmente (PROJ-0647)
+Data: 11/07/2025
+Gerente: Rodrigo Moura
+
+Orçamento inicial: R$ 554449.00
+Custo real atual: R$ 477803.77
+Desvio orçamentário: -13.82%
+Índice de Desempenho de Custo (CPI): 0.98
+Valor Agregado (EV): R$ 466295.86
+Estimativa para conclusão: R$ 90328.71
+Estimativa no término (EAC): R$ 568132.48
+Variação no término (VAC): R$ -13683.48
+
+Detalhamento por categoria:
+- Pessoal: R$ 232919.31 (48.7%)
+- Equipamentos: R$ 70839.24 (14.8%)
+- Software: R$ 59898.12 (12.5%)
+- Serviços: R$ 63495.35 (13.3%)
+- Outros: R$ 50651.74 (10.6%)

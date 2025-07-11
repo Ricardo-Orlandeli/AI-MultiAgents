@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A arte de inovar com força total (PROJ-0575)
+Data: 11/07/2025
+Gerente: Ana Clara Ferreira
+
+Orçamento inicial: R$ 2875649.00
+Custo real atual: R$ 2312291.48
+Desvio orçamentário: 7.34%
+Índice de Desempenho de Custo (CPI): 1.24
+Valor Agregado (EV): R$ 2875649.00
+Estimativa para conclusão: R$ 0.00
+Estimativa no término (EAC): R$ 2312291.48
+Variação no término (VAC): R$ 563357.52
+
+Detalhamento por categoria:
+- Pessoal: R$ 1129127.38 (48.8%)
+- Equipamentos: R$ 407299.34 (17.6%)
+- Software: R$ 241639.16 (10.5%)
+- Serviços: R$ 320745.01 (13.9%)
+- Outros: R$ 213480.59 (9.2%)

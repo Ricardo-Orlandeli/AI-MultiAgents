@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A segurança de inovar sem preocupação (PROJ-0433)
+Data: 11/07/2025
+Gerente: João Pedro Novais
+
+Orçamento inicial: R$ 3219654.00
+Custo real atual: R$ 3504948.87
+Desvio orçamentário: 8.86%
+Índice de Desempenho de Custo (CPI): 0.88
+Valor Agregado (EV): R$ 3076213.18
+Estimativa para conclusão: R$ 163432.35
+Estimativa no término (EAC): R$ 3668381.22
+Variação no término (VAC): R$ -448727.22
+
+Detalhamento por categoria:
+- Pessoal: R$ 1909460.73 (54.5%)
+- Equipamentos: R$ 472789.95 (13.5%)
+- Software: R$ 442635.28 (12.6%)
+- Serviços: R$ 452875.06 (12.9%)
+- Outros: R$ 227187.84 (6.5%)

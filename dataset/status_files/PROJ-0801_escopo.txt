@@ -1,0 +1,28 @@
+RELATÓRIO DE STATUS DE ESCOPO
+Projeto: A simplicidade de inovar direto da fonte (PROJ-0801)
+Data: 11/07/2025
+Gerente: Luiza da Rocha
+
+Escopo original: Sistema para a simplicidade de inovar direto da fonte
+Houve mudança de escopo: Sim
+Descrição das mudanças: Mudança na plataforma de implementação
+Impacto no cronograma: 17 dias
+Impacto no custo: R$ 737154.13
+
+Solicitações de mudança:
+- SCM-01: Integração com sistema legado
+- SCM-02: Mudança no banco de dados
+
+Requisitos atuais:
+- REQ-01: O sistema deve implementar criptografia de dados sensíveis
+- REQ-02: O sistema deve ser compatível com dispositivos móveis
+- REQ-03: O sistema deve permitir integração com APIs externas
+- REQ-04: O sistema deve passar por testes de segurança
+- REQ-05: O sistema deve permitir integração com APIs externas
+- REQ-06: O sistema deve implementar criptografia de dados sensíveis
+- REQ-07: O sistema deve ter controle de acesso baseado em perfis
+- REQ-08: O sistema deve ser escalável para suportar até 10.000 usuários simultâneos
+- REQ-09: O sistema deve ser escalável para suportar até 10.000 usuários simultâneos
+- REQ-10: O sistema deve ter backup automático diário
+- REQ-11: O sistema deve ter interface responsiva
+- REQ-12: O sistema deve ter documentação completa

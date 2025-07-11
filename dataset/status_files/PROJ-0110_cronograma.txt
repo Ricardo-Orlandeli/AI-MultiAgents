@@ -1,0 +1,25 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: O direito de avançar sem preocupação (PROJ-0110)
+Data: 11/07/2025
+Gerente: João Miguel Oliveira
+
+Status atual: Em andamento
+Percentual de conclusão: 94.1%
+Data de início: 28/02/2024
+Data de término planejada: 10/05/2024
+Data de término real/prevista: 19/05/2024
+Atraso atual: 427 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 1.01
+Valor Planejado (PV): R$ 822004.00
+Valor Agregado (EV): R$ 773749.13
+
+Tarefas críticas:
+- Integração com sistema de pagamentos
+- Implementação do módulo de análise de dados
+- Implementação da API REST
+- Testes de segurança
+- Desenvolvimento do painel administrativo
+- Desenvolvimento do módulo de autenticação
+
+Tarefas atrasadas:

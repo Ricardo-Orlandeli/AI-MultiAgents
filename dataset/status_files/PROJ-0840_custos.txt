@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A possibilidade de evoluir naturalmente (PROJ-0840)
+Data: 11/07/2025
+Gerente: Dr. Vinicius Lima
+
+Orçamento inicial: R$ 241477.00
+Custo real atual: R$ 206112.79
+Desvio orçamentário: 33.29%
+Índice de Desempenho de Custo (CPI): 0.87
+Valor Agregado (EV): R$ 179138.97
+Estimativa para conclusão: R$ 71724.57
+Estimativa no término (EAC): R$ 277837.36
+Variação no término (VAC): R$ -36360.36
+
+Detalhamento por categoria:
+- Pessoal: R$ 119935.53 (58.2%)
+- Equipamentos: R$ 22825.04 (11.1%)
+- Software: R$ 20779.86 (10.1%)
+- Serviços: R$ 23077.42 (11.2%)
+- Outros: R$ 19494.94 (9.5%)

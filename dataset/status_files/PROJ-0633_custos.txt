@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A segurança de realizar seus sonhos simplesmente (PROJ-0633)
+Data: 11/07/2025
+Gerente: Benício Nogueira
+
+Orçamento inicial: R$ 251262.00
+Custo real atual: R$ 211967.36
+Desvio orçamentário: -15.64%
+Índice de Desempenho de Custo (CPI): 1.19
+Valor Agregado (EV): R$ 251262.00
+Estimativa para conclusão: R$ 0.00
+Estimativa no término (EAC): R$ 211967.36
+Variação no término (VAC): R$ 39294.64
+
+Detalhamento por categoria:
+- Pessoal: R$ 107606.09 (50.8%)
+- Equipamentos: R$ 33475.88 (15.8%)
+- Software: R$ 16131.87 (7.6%)
+- Serviços: R$ 37818.37 (17.8%)
+- Outros: R$ 16935.15 (8.0%)

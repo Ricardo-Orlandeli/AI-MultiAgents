@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A arte de ganhar com toda a tranquilidade (PROJ-0892)
+Data: 11/07/2025
+Gerente: Calebe Marques
+
+Orçamento inicial: R$ 1976365.00
+Custo real atual: R$ 1398667.52
+Desvio orçamentário: -29.23%
+Índice de Desempenho de Custo (CPI): 0.91
+Valor Agregado (EV): R$ 1275461.13
+Estimativa para conclusão: R$ 768609.45
+Estimativa no término (EAC): R$ 2167276.97
+Variação no término (VAC): R$ -190911.97
+
+Detalhamento por categoria:
+- Pessoal: R$ 643668.38 (46.0%)
+- Equipamentos: R$ 185350.75 (13.3%)
+- Software: R$ 176734.83 (12.6%)
+- Serviços: R$ 270086.39 (19.3%)
+- Outros: R$ 122827.17 (8.8%)

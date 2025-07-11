@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A simplicidade de evoluir com força total (PROJ-0261)
+Data: 11/07/2025
+Gerente: Luiz Fernando Ramos
+
+Orçamento inicial: R$ 4377155.00
+Custo real atual: R$ 2753705.63
+Desvio orçamentário: -37.09%
+Índice de Desempenho de Custo (CPI): 0.96
+Valor Agregado (EV): R$ 2637300.84
+Estimativa para conclusão: R$ 1816647.59
+Estimativa no término (EAC): R$ 4570353.21
+Variação no término (VAC): R$ -193198.21
+
+Detalhamento por categoria:
+- Pessoal: R$ 1427568.89 (51.8%)
+- Equipamentos: R$ 329619.47 (12.0%)
+- Software: R$ 386213.84 (14.0%)
+- Serviços: R$ 369166.77 (13.4%)
+- Outros: R$ 241136.65 (8.8%)

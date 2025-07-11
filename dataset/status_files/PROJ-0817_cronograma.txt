@@ -1,0 +1,26 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A vantagem de conseguir antes de tudo (PROJ-0817)
+Data: 11/07/2025
+Gerente: Gustavo Henrique Vargas
+
+Status atual: Em andamento
+Percentual de conclusão: 90.2%
+Data de início: 06/09/2024
+Data de término planejada: 26/06/2025
+Data de término real/prevista: 15/07/2025
+Atraso atual: 15 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 1.13
+Valor Planejado (PV): R$ 1240799.00
+Valor Agregado (EV): R$ 1119465.38
+
+Tarefas críticas:
+- Desenvolvimento do painel administrativo
+- Configuração da infraestrutura
+- Testes de aceitação do usuário
+- Implementação da API REST
+- Implementação do módulo de notificações
+- Implementação do módulo de exportação de dados
+- Testes de segurança
+
+Tarefas atrasadas:

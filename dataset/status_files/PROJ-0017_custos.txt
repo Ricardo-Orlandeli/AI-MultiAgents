@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A simplicidade de realizar seus sonhos naturalmente (PROJ-0017)
+Data: 11/07/2025
+Gerente: Ana Clara Dias
+
+Orçamento inicial: R$ 1344168.00
+Custo real atual: R$ 891204.98
+Desvio orçamentário: 3.48%
+Índice de Desempenho de Custo (CPI): 1.06
+Valor Agregado (EV): R$ 943793.04
+Estimativa para conclusão: R$ 378066.10
+Estimativa no término (EAC): R$ 1269271.08
+Variação no término (VAC): R$ 74896.92
+
+Detalhamento por categoria:
+- Pessoal: R$ 512367.81 (57.5%)
+- Equipamentos: R$ 125763.87 (14.1%)
+- Software: R$ 109799.88 (12.3%)
+- Serviços: R$ 95948.95 (10.8%)
+- Outros: R$ 47324.47 (5.3%)

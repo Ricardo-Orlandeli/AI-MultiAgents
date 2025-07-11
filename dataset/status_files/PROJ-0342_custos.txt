@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O poder de conseguir com força total (PROJ-0342)
+Data: 11/07/2025
+Gerente: Maria Laura Cirino
+
+Orçamento inicial: R$ 4911602.00
+Custo real atual: R$ 3505783.91
+Desvio orçamentário: -28.62%
+Índice de Desempenho de Custo (CPI): 0.99
+Valor Agregado (EV): R$ 3453365.16
+Estimativa para conclusão: R$ 1480371.47
+Estimativa no término (EAC): R$ 4986155.39
+Variação no término (VAC): R$ -74553.39
+
+Detalhamento por categoria:
+- Pessoal: R$ 1571138.68 (44.8%)
+- Equipamentos: R$ 638777.79 (18.2%)
+- Software: R$ 409022.98 (11.7%)
+- Serviços: R$ 583010.51 (16.6%)
+- Outros: R$ 303833.95 (8.7%)

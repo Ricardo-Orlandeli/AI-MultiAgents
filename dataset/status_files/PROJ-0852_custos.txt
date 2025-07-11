@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O conforto de atingir seus objetivos simplesmente (PROJ-0852)
+Data: 11/07/2025
+Gerente: Luna Sampaio
+
+Orçamento inicial: R$ 2161903.00
+Custo real atual: R$ 2065506.83
+Desvio orçamentário: 0.05%
+Índice de Desempenho de Custo (CPI): 0.97
+Valor Agregado (EV): R$ 2011555.08
+Estimativa para conclusão: R$ 154380.39
+Estimativa no término (EAC): R$ 2219887.22
+Variação no término (VAC): R$ -57984.22
+
+Detalhamento por categoria:
+- Pessoal: R$ 1140483.70 (55.2%)
+- Equipamentos: R$ 233479.75 (11.3%)
+- Software: R$ 194972.40 (9.4%)
+- Serviços: R$ 386044.54 (18.7%)
+- Outros: R$ 110526.44 (5.4%)

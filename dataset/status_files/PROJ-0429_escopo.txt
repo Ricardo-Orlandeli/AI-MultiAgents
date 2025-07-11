@@ -1,0 +1,28 @@
+RELATÓRIO DE STATUS DE ESCOPO
+Projeto: A arte de avançar com força total (PROJ-0429)
+Data: 11/07/2025
+Gerente: Fernando Sousa
+
+Escopo original: Sistema para a arte de avançar com força total
+Houve mudança de escopo: Sim
+Descrição das mudanças: Redução do escopo devido a restrições orçamentárias
+Impacto no cronograma: 55 dias
+Impacto no custo: R$ 760264.73
+
+Solicitações de mudança:
+- SCM-01: Alteração nos requisitos de desempenho
+- SCM-02: Adição de funcionalidade de autenticação biométrica
+
+Requisitos atuais:
+- REQ-01: O sistema deve ser compatível com navegadores modernos
+- REQ-02: O sistema deve registrar logs de auditoria
+- REQ-03: O sistema deve implementar criptografia de dados sensíveis
+- REQ-04: O sistema deve permitir exportação de dados em formato CSV
+- REQ-05: O sistema deve permitir autenticação de usuários
+- REQ-06: O sistema deve permitir integração com APIs externas
+- REQ-07: O sistema deve ser compatível com navegadores modernos
+- REQ-08: O sistema deve ter controle de acesso baseado em perfis
+- REQ-09: O sistema deve ter backup automático diário
+- REQ-10: O sistema deve permitir exportação de dados em formato CSV
+- REQ-11: O sistema deve ter documentação completa
+- REQ-12: O sistema deve implementar criptografia de dados sensíveis

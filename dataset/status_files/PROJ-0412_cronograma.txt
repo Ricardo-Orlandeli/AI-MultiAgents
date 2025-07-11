@@ -1,0 +1,27 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: O conforto de concretizar seus projetos naturalmente (PROJ-0412)
+Data: 11/07/2025
+Gerente: Luísa Caldeira
+
+Status atual: Concluído
+Percentual de conclusão: 100.0%
+Data de início: 03/06/2025
+Data de término planejada: 18/05/2026
+Data de término real/prevista: 22/05/2026
+Atraso atual: 0 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 1.01
+Valor Planejado (PV): R$ 79676.20
+Valor Agregado (EV): R$ 731763.00
+
+Tarefas críticas:
+- Desenvolvimento da interface do usuário
+- Desenvolvimento do painel administrativo
+- Desenvolvimento da interface do usuário
+- Implementação do módulo de notificações
+- Implementação do módulo de análise de dados
+- Testes de aceitação do usuário
+- Implementação do módulo de notificações
+- Implementação do módulo de relatórios
+
+Tarefas atrasadas:

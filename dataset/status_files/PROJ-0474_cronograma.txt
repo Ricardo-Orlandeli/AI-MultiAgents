@@ -1,0 +1,22 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A simplicidade de inovar mais facilmente (PROJ-0474)
+Data: 11/07/2025
+Gerente: Caroline Cirino
+
+Status atual: Em andamento
+Percentual de conclusão: 99.9%
+Data de início: 27/12/2023
+Data de término planejada: 05/05/2024
+Data de término real/prevista: 28/04/2024
+Atraso atual: 432 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 0.95
+Valor Planejado (PV): R$ 3534592.00
+Valor Agregado (EV): R$ 3531057.41
+
+Tarefas críticas:
+- Integração com sistema de pagamentos
+- Implementação do módulo de notificações
+- Implementação da API REST
+
+Tarefas atrasadas:

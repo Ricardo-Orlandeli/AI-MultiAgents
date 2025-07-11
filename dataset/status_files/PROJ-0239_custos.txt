@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A simplicidade de atingir seus objetivos sem preocupação (PROJ-0239)
+Data: 11/07/2025
+Gerente: Mariah Porto
+
+Orçamento inicial: R$ 2210635.00
+Custo real atual: R$ 1942140.91
+Desvio orçamentário: -12.15%
+Índice de Desempenho de Custo (CPI): 0.95
+Valor Agregado (EV): R$ 1846703.49
+Estimativa para conclusão: R$ 382739.45
+Estimativa no término (EAC): R$ 2324880.36
+Variação no término (VAC): R$ -114245.36
+
+Detalhamento por categoria:
+- Pessoal: R$ 1003851.36 (51.7%)
+- Equipamentos: R$ 336657.15 (17.3%)
+- Software: R$ 162571.91 (8.4%)
+- Serviços: R$ 271640.97 (14.0%)
+- Outros: R$ 167419.52 (8.6%)

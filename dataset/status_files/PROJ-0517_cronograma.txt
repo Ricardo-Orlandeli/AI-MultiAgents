@@ -1,0 +1,23 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A possibilidade de realizar seus sonhos direto da fonte (PROJ-0517)
+Data: 11/07/2025
+Gerente: Maria Julia Pastor
+
+Status atual: Concluído
+Percentual de conclusão: 100.0%
+Data de início: 24/02/2024
+Data de término planejada: 02/08/2024
+Data de término real/prevista: 26/08/2024
+Atraso atual: 343 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 0.98
+Valor Planejado (PV): R$ 2602416.00
+Valor Agregado (EV): R$ 2602416.00
+
+Tarefas críticas:
+- Testes de segurança
+- Implementação do módulo de análise de dados
+- Desenvolvimento da interface do usuário
+- Configuração da infraestrutura
+
+Tarefas atrasadas:

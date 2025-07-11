@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O direito de concretizar seus projetos simplesmente (PROJ-0282)
+Data: 11/07/2025
+Gerente: Renan da Cunha
+
+Orçamento inicial: R$ 3790491.00
+Custo real atual: R$ 387187.70
+Desvio orçamentário: -7.36%
+Índice de Desempenho de Custo (CPI): 1.15
+Valor Agregado (EV): R$ 447128.80
+Estimativa para conclusão: R$ 2895158.43
+Estimativa no término (EAC): R$ 3282346.13
+Variação no término (VAC): R$ 508144.87
+
+Detalhamento por categoria:
+- Pessoal: R$ 216311.54 (55.9%)
+- Equipamentos: R$ 58832.05 (15.2%)
+- Software: R$ 32559.24 (8.4%)
+- Serviços: R$ 42160.29 (10.9%)
+- Outros: R$ 37324.58 (9.6%)

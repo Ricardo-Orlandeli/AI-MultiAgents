@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A possibilidade de atingir seus objetivos mais facilmente (PROJ-0192)
+Data: 11/07/2025
+Gerente: Bruno da Cruz
+
+Orçamento inicial: R$ 1822171.00
+Custo real atual: R$ 2078223.78
+Desvio orçamentário: 14.05%
+Índice de Desempenho de Custo (CPI): 0.88
+Valor Agregado (EV): R$ 1820348.83
+Estimativa para conclusão: R$ 2080.30
+Estimativa no término (EAC): R$ 2080304.08
+Variação no término (VAC): R$ -258133.08
+
+Detalhamento por categoria:
+- Pessoal: R$ 1022319.42 (49.2%)
+- Equipamentos: R$ 411328.27 (19.8%)
+- Software: R$ 131406.37 (6.3%)
+- Serviços: R$ 311093.94 (15.0%)
+- Outros: R$ 202075.78 (9.7%)

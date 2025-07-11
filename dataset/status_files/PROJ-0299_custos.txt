@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O prazer de evoluir mais rapidamente (PROJ-0299)
+Data: 11/07/2025
+Gerente: Theodoro Siqueira
+
+Orçamento inicial: R$ 1496861.00
+Custo real atual: R$ 453403.93
+Desvio orçamentário: 25.20%
+Índice de Desempenho de Custo (CPI): 0.84
+Valor Agregado (EV): R$ 382630.25
+Estimativa para conclusão: R$ 1320325.85
+Estimativa no término (EAC): R$ 1773729.78
+Variação no término (VAC): R$ -276868.78
+
+Detalhamento por categoria:
+- Pessoal: R$ 216533.85 (47.8%)
+- Equipamentos: R$ 80151.41 (17.7%)
+- Software: R$ 25873.70 (5.7%)
+- Serviços: R$ 92872.73 (20.5%)
+- Outros: R$ 37972.24 (8.4%)

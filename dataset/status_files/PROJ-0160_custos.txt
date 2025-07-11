@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A segurança de mudar em estado puro (PROJ-0160)
+Data: 11/07/2025
+Gerente: Dr. Gustavo Guerra
+
+Orçamento inicial: R$ 3556314.00
+Custo real atual: R$ 3515811.31
+Desvio orçamentário: -1.14%
+Índice de Desempenho de Custo (CPI): 1.01
+Valor Agregado (EV): R$ 3552757.69
+Estimativa para conclusão: R$ 3519.33
+Estimativa no término (EAC): R$ 3519330.64
+Variação no término (VAC): R$ 36983.36
+
+Detalhamento por categoria:
+- Pessoal: R$ 1638521.55 (46.6%)
+- Equipamentos: R$ 492903.08 (14.0%)
+- Software: R$ 464949.94 (13.2%)
+- Serviços: R$ 659020.23 (18.7%)
+- Outros: R$ 260416.52 (7.4%)

@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A arte de mudar mais facilmente (PROJ-0240)
+Data: 11/07/2025
+Gerente: Rael Castro
+
+Orçamento inicial: R$ 3705032.00
+Custo real atual: R$ 1024772.60
+Desvio orçamentário: -45.92%
+Índice de Desempenho de Custo (CPI): 0.93
+Valor Agregado (EV): R$ 951279.11
+Estimativa para conclusão: R$ 2966501.07
+Estimativa no término (EAC): R$ 3991273.66
+Variação no término (VAC): R$ -286241.66
+
+Detalhamento por categoria:
+- Pessoal: R$ 558683.16 (54.5%)
+- Equipamentos: R$ 189963.42 (18.5%)
+- Software: R$ 66568.75 (6.5%)
+- Serviços: R$ 145210.68 (14.2%)
+- Outros: R$ 64346.59 (6.3%)

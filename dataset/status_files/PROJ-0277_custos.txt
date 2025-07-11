@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A segurança de inovar sem preocupação (PROJ-0277)
+Data: 11/07/2025
+Gerente: Maria Julia Castro
+
+Orçamento inicial: R$ 2650721.00
+Custo real atual: R$ 2985177.53
+Desvio orçamentário: 12.62%
+Índice de Desempenho de Custo (CPI): 0.84
+Valor Agregado (EV): R$ 2507151.57
+Estimativa para conclusão: R$ 170943.09
+Estimativa no término (EAC): R$ 3156120.62
+Variação no término (VAC): R$ -505399.62
+
+Detalhamento por categoria:
+- Pessoal: R$ 1545481.97 (51.8%)
+- Equipamentos: R$ 452160.70 (15.1%)
+- Software: R$ 345840.07 (11.6%)
+- Serviços: R$ 341006.96 (11.4%)
+- Outros: R$ 300687.83 (10.1%)

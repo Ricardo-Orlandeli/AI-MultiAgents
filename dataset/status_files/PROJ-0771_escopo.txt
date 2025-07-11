@@ -1,0 +1,29 @@
+RELATÓRIO DE STATUS DE ESCOPO
+Projeto: O conforto de inovar mais facilmente (PROJ-0771)
+Data: 11/07/2025
+Gerente: Rhavi Novaes
+
+Escopo original: Sistema para o conforto de inovar mais facilmente
+Houve mudança de escopo: Sim
+Descrição das mudanças: Expansão do escopo para incluir funcionalidades adicionais
+Impacto no cronograma: 21 dias
+Impacto no custo: R$ 833711.66
+
+Solicitações de mudança:
+- SCM-01: Adição de funcionalidade de autenticação biométrica
+- SCM-02: Mudança no banco de dados
+
+Requisitos atuais:
+- REQ-01: O sistema deve registrar logs de auditoria
+- REQ-02: O sistema deve ter backup automático diário
+- REQ-03: O sistema deve ter backup automático diário
+- REQ-04: O sistema deve permitir exportação de dados em formato CSV
+- REQ-05: O sistema deve ter documentação completa
+- REQ-06: O sistema deve processar transações em menos de 2 seconds
+- REQ-07: O sistema deve ser compatível com navegadores modernos
+- REQ-08: O sistema deve permitir integração com APIs externas
+- REQ-09: O sistema deve ter interface responsiva
+- REQ-10: O sistema deve permitir autenticação de usuários
+- REQ-11: O sistema deve permitir autenticação de usuários
+- REQ-12: O sistema deve ter backup automático diário
+- REQ-13: O sistema deve ser escalável para suportar até 10.000 usuários simultâneos

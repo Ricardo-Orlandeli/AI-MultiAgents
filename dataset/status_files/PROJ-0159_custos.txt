@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A vantagem de mudar simplesmente (PROJ-0159)
+Data: 11/07/2025
+Gerente: Bento Cardoso
+
+Orçamento inicial: R$ 112274.00
+Custo real atual: R$ 86564.25
+Desvio orçamentário: -22.90%
+Índice de Desempenho de Custo (CPI): 0.81
+Valor Agregado (EV): R$ 69722.65
+Estimativa para conclusão: R$ 52829.68
+Estimativa no término (EAC): R$ 139393.93
+Variação no término (VAC): R$ -27119.93
+
+Detalhamento por categoria:
+- Pessoal: R$ 39212.74 (45.3%)
+- Equipamentos: R$ 14336.21 (16.6%)
+- Software: R$ 8472.82 (9.8%)
+- Serviços: R$ 15122.52 (17.5%)
+- Outros: R$ 9419.96 (10.9%)

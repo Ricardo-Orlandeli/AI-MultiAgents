@@ -1,0 +1,25 @@
+RELATÓRIO DE STATUS DE ESCOPO
+Projeto: A vantagem de ganhar sem preocupação (PROJ-0784)
+Data: 11/07/2025
+Gerente: Daniela Camargo
+
+Escopo original: Sistema para a vantagem de ganhar sem preocupação
+Houve mudança de escopo: Sim
+Descrição das mudanças: Alteração nas especificações técnicas
+Impacto no cronograma: 32 dias
+Impacto no custo: R$ 106250.46
+
+Solicitações de mudança:
+- SCM-01: Adição de funcionalidade de autenticação biométrica
+- SCM-02: Mudança na arquitetura do sistema
+- SCM-03: Integração com sistema legado
+- SCM-04: Alteração nos requisitos de desempenho
+- SCM-05: Mudança no banco de dados
+
+Requisitos atuais:
+- REQ-01: O sistema deve permitir autenticação de usuários
+- REQ-02: O sistema deve ter alta disponibilidade (99.9%)
+- REQ-03: O sistema deve permitir integração com APIs externas
+- REQ-04: O sistema deve ter controle de acesso baseado em perfis
+- REQ-05: O sistema deve processar transações em menos de 2 seconds
+- REQ-06: O sistema deve ter alta disponibilidade (99.9%)

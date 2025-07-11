@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O poder de atingir seus objetivos antes de tudo (PROJ-0459)
+Data: 11/07/2025
+Gerente: Yago Araújo
+
+Orçamento inicial: R$ 149702.00
+Custo real atual: R$ 121935.40
+Desvio orçamentário: 41.56%
+Índice de Desempenho de Custo (CPI): 1.23
+Valor Agregado (EV): R$ 149702.00
+Estimativa para conclusão: R$ 0.00
+Estimativa no término (EAC): R$ 121935.40
+Variação no término (VAC): R$ 27766.60
+
+Detalhamento por categoria:
+- Pessoal: R$ 59568.54 (48.9%)
+- Equipamentos: R$ 21768.08 (17.9%)
+- Software: R$ 16266.51 (13.3%)
+- Serviços: R$ 18466.06 (15.1%)
+- Outros: R$ 5866.21 (4.8%)

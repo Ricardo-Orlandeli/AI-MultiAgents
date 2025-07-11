@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A certeza de evoluir sem preocupação (PROJ-0540)
+Data: 11/07/2025
+Gerente: Sr. Theodoro Sampaio
+
+Orçamento inicial: R$ 1240631.00
+Custo real atual: R$ 701486.32
+Desvio orçamentário: 24.61%
+Índice de Desempenho de Custo (CPI): 0.88
+Valor Agregado (EV): R$ 617430.24
+Estimativa para conclusão: R$ 708042.43
+Estimativa no término (EAC): R$ 1409528.74
+Variação no término (VAC): R$ -168897.74
+
+Detalhamento por categoria:
+- Pessoal: R$ 404584.36 (57.7%)
+- Equipamentos: R$ 95873.70 (13.7%)
+- Software: R$ 67359.56 (9.6%)
+- Serviços: R$ 87077.33 (12.4%)
+- Outros: R$ 46591.36 (6.6%)

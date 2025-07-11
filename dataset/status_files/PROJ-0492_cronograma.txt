@@ -1,0 +1,22 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A segurança de realizar seus sonhos antes de tudo (PROJ-0492)
+Data: 11/07/2025
+Gerente: Sra. Alice Gonçalves
+
+Status atual: Em andamento
+Percentual de conclusão: 99.9%
+Data de início: 28/04/2024
+Data de término planejada: 11/06/2024
+Data de término real/prevista: 28/06/2024
+Atraso atual: 395 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 1.10
+Valor Planejado (PV): R$ 966699.00
+Valor Agregado (EV): R$ 965732.30
+
+Tarefas críticas:
+- Implementação do módulo de notificações
+- Configuração da infraestrutura
+- Implementação do sistema de backup
+
+Tarefas atrasadas:

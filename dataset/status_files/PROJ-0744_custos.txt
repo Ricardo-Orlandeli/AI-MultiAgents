@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O poder de ganhar com confiança (PROJ-0744)
+Data: 11/07/2025
+Gerente: Dra. Luana Dias
+
+Orçamento inicial: R$ 2666339.00
+Custo real atual: R$ 566502.21
+Desvio orçamentário: -78.75%
+Índice de Desempenho de Custo (CPI): 0.90
+Valor Agregado (EV): R$ 511697.39
+Estimativa para conclusão: R$ 2385412.28
+Estimativa no término (EAC): R$ 2951914.48
+Variação no término (VAC): R$ -285575.48
+
+Detalhamento por categoria:
+- Pessoal: R$ 265900.78 (46.9%)
+- Equipamentos: R$ 109360.02 (19.3%)
+- Software: R$ 66172.58 (11.7%)
+- Serviços: R$ 82610.33 (14.6%)
+- Outros: R$ 42458.49 (7.5%)

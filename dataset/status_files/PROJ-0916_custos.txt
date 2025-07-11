@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A simplicidade de inovar de maneira eficaz (PROJ-0916)
+Data: 11/07/2025
+Gerente: Julia Pires
+
+Orçamento inicial: R$ 1777918.00
+Custo real atual: R$ 1654638.58
+Desvio orçamentário: 32.21%
+Índice de Desempenho de Custo (CPI): 0.88
+Valor Agregado (EV): R$ 1454712.68
+Estimativa para conclusão: R$ 367624.48
+Estimativa no término (EAC): R$ 2022263.06
+Variação no término (VAC): R$ -244345.06
+
+Detalhamento por categoria:
+- Pessoal: R$ 867879.00 (52.5%)
+- Equipamentos: R$ 259485.08 (15.7%)
+- Software: R$ 123795.91 (7.5%)
+- Serviços: R$ 285977.02 (17.3%)
+- Outros: R$ 117501.57 (7.1%)

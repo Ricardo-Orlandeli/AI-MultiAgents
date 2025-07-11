@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A certeza de evoluir com força total (PROJ-0007)
+Data: 11/07/2025
+Gerente: Leandro Fonseca
+
+Orçamento inicial: R$ 3247998.00
+Custo real atual: R$ 2967745.10
+Desvio orçamentário: -8.63%
+Índice de Desempenho de Custo (CPI): 0.72
+Valor Agregado (EV): R$ 2125592.21
+Estimativa para conclusão: R$ 1567099.41
+Estimativa no término (EAC): R$ 4534844.51
+Variação no término (VAC): R$ -1286846.51
+
+Detalhamento por categoria:
+- Pessoal: R$ 1569412.18 (52.9%)
+- Equipamentos: R$ 340896.52 (11.5%)
+- Software: R$ 433427.01 (14.6%)
+- Serviços: R$ 333245.09 (11.2%)
+- Outros: R$ 290764.31 (9.8%)

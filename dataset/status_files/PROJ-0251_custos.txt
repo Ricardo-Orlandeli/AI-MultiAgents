@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A certeza de avançar simplesmente (PROJ-0251)
+Data: 11/07/2025
+Gerente: Leandro Guerra
+
+Orçamento inicial: R$ 413962.00
+Custo real atual: R$ 458504.34
+Desvio orçamentário: 10.76%
+Índice de Desempenho de Custo (CPI): 0.87
+Valor Agregado (EV): R$ 399284.31
+Estimativa para conclusão: R$ 16854.62
+Estimativa no término (EAC): R$ 475358.96
+Variação no término (VAC): R$ -61396.96
+
+Detalhamento por categoria:
+- Pessoal: R$ 240892.80 (52.5%)
+- Equipamentos: R$ 73242.29 (16.0%)
+- Software: R$ 29695.73 (6.5%)
+- Serviços: R$ 85522.39 (18.7%)
+- Outros: R$ 29151.14 (6.4%)

@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O prazer de avançar com toda a tranquilidade (PROJ-0503)
+Data: 11/07/2025
+Gerente: Maria Helena da Rocha
+
+Orçamento inicial: R$ 1403117.00
+Custo real atual: R$ 88584.71
+Desvio orçamentário: -12.87%
+Índice de Desempenho de Custo (CPI): 0.91
+Valor Agregado (EV): R$ 80546.78
+Estimativa para conclusão: R$ 1454552.38
+Estimativa no término (EAC): R$ 1543137.09
+Variação no término (VAC): R$ -140020.09
+
+Detalhamento por categoria:
+- Pessoal: R$ 45977.26 (51.9%)
+- Equipamentos: R$ 12718.11 (14.4%)
+- Software: R$ 7675.58 (8.7%)
+- Serviços: R$ 16105.19 (18.2%)
+- Outros: R$ 6108.57 (6.9%)

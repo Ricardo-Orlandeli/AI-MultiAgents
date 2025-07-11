@@ -1,0 +1,25 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A segurança de evoluir direto da fonte (PROJ-0727)
+Data: 11/07/2025
+Gerente: Oliver Barbosa
+
+Status atual: Em andamento
+Percentual de conclusão: 96.8%
+Data de início: 05/11/2023
+Data de término planejada: 08/05/2024
+Data de término real/prevista: 06/05/2024
+Atraso atual: 429 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 0.89
+Valor Planejado (PV): R$ 3561489.00
+Valor Agregado (EV): R$ 3447319.29
+
+Tarefas críticas:
+- Implementação do sistema de backup
+- Testes de segurança
+- Implementação do sistema de backup
+- Implementação da API REST
+- Implementação do sistema de backup
+- Implementação do módulo de exportação de dados
+
+Tarefas atrasadas:

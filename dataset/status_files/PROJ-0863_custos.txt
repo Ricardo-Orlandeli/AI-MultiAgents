@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A certeza de concretizar seus projetos simplesmente (PROJ-0863)
+Data: 11/07/2025
+Gerente: Matheus Viana
+
+Orçamento inicial: R$ 2995326.00
+Custo real atual: R$ 503911.44
+Desvio orçamentário: -26.76%
+Índice de Desempenho de Custo (CPI): 1.19
+Valor Agregado (EV): R$ 598680.40
+Estimativa para conclusão: R$ 2017265.22
+Estimativa no término (EAC): R$ 2521176.67
+Variação no término (VAC): R$ 474149.33
+
+Detalhamento por categoria:
+- Pessoal: R$ 232737.20 (46.2%)
+- Equipamentos: R$ 77662.69 (15.4%)
+- Software: R$ 63925.27 (12.7%)
+- Serviços: R$ 84406.54 (16.8%)
+- Outros: R$ 45179.74 (9.0%)

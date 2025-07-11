@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O direito de inovar antes de tudo (PROJ-0768)
+Data: 11/07/2025
+Gerente: Juan Abreu
+
+Orçamento inicial: R$ 4457218.00
+Custo real atual: R$ 4029415.17
+Desvio orçamentário: 6.81%
+Índice de Desempenho de Custo (CPI): 0.82
+Valor Agregado (EV): R$ 3322228.57
+Estimativa para conclusão: R$ 1376589.09
+Estimativa no término (EAC): R$ 5406004.25
+Variação no término (VAC): R$ -948786.25
+
+Detalhamento por categoria:
+- Pessoal: R$ 2065371.55 (51.3%)
+- Equipamentos: R$ 726634.97 (18.0%)
+- Software: R$ 297317.87 (7.4%)
+- Serviços: R$ 546277.20 (13.6%)
+- Outros: R$ 393813.57 (9.8%)

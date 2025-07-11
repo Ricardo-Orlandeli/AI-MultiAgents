@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A simplicidade de evoluir de maneira eficaz (PROJ-0656)
+Data: 11/07/2025
+Gerente: Léo Farias
+
+Orçamento inicial: R$ 4631658.00
+Custo real atual: R$ 4480801.56
+Desvio orçamentário: -3.26%
+Índice de Desempenho de Custo (CPI): 0.70
+Valor Agregado (EV): R$ 3129975.03
+Estimativa para conclusão: R$ 2149775.43
+Estimativa no término (EAC): R$ 6630576.99
+Variação no término (VAC): R$ -1998918.99
+
+Detalhamento por categoria:
+- Pessoal: R$ 2051161.10 (45.8%)
+- Equipamentos: R$ 872946.14 (19.5%)
+- Software: R$ 497630.44 (11.1%)
+- Serviços: R$ 715727.76 (16.0%)
+- Outros: R$ 343336.12 (7.7%)

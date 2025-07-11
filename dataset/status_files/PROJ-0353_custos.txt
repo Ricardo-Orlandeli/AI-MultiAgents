@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A vantagem de concretizar seus projetos naturalmente (PROJ-0353)
+Data: 11/07/2025
+Gerente: Juliana Vargas
+
+Orçamento inicial: R$ 1889948.00
+Custo real atual: R$ 1705472.00
+Desvio orçamentário: -9.76%
+Índice de Desempenho de Custo (CPI): 0.92
+Valor Agregado (EV): R$ 1576330.39
+Estimativa para conclusão: R$ 339310.88
+Estimativa no término (EAC): R$ 2044782.88
+Variação no término (VAC): R$ -154834.88
+
+Detalhamento por categoria:
+- Pessoal: R$ 919453.05 (53.9%)
+- Equipamentos: R$ 214208.69 (12.6%)
+- Software: R$ 127938.92 (7.5%)
+- Serviços: R$ 295861.29 (17.3%)
+- Outros: R$ 148010.04 (8.7%)

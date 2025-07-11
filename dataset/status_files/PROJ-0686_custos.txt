@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O conforto de atingir seus objetivos sem preocupação (PROJ-0686)
+Data: 11/07/2025
+Gerente: Sr. Renan Araújo
+
+Orçamento inicial: R$ 1629663.00
+Custo real atual: R$ 1328173.85
+Desvio orçamentário: -18.50%
+Índice de Desempenho de Custo (CPI): 0.79
+Valor Agregado (EV): R$ 1049925.24
+Estimativa para conclusão: R$ 733378.44
+Estimativa no término (EAC): R$ 2061552.29
+Variação no término (VAC): R$ -431889.29
+
+Detalhamento por categoria:
+- Pessoal: R$ 736216.66 (55.4%)
+- Equipamentos: R$ 242825.22 (18.3%)
+- Software: R$ 118409.62 (8.9%)
+- Serviços: R$ 156911.09 (11.8%)
+- Outros: R$ 73811.26 (5.6%)

@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O conforto de conseguir sem preocupação (PROJ-0986)
+Data: 11/07/2025
+Gerente: Rafael Silva
+
+Orçamento inicial: R$ 4002072.00
+Custo real atual: R$ 3071540.51
+Desvio orçamentário: -23.25%
+Índice de Desempenho de Custo (CPI): 1.14
+Valor Agregado (EV): R$ 3499347.04
+Estimativa para conclusão: R$ 441265.20
+Estimativa no término (EAC): R$ 3512805.71
+Variação no término (VAC): R$ 489266.29
+
+Detalhamento por categoria:
+- Pessoal: R$ 1651859.17 (53.8%)
+- Equipamentos: R$ 583282.60 (19.0%)
+- Software: R$ 255431.83 (8.3%)
+- Serviços: R$ 385629.22 (12.6%)
+- Outros: R$ 195337.70 (6.4%)

@@ -1,0 +1,28 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: O direito de avançar mais rapidamente (PROJ-0619)
+Data: 11/07/2025
+Gerente: Ravi Lucca Novais
+
+Status atual: Atrasado
+Percentual de conclusão: 87.7%
+Data de início: 15/09/2023
+Data de término planejada: 24/12/2023
+Data de término real/prevista: 04/04/2024
+Atraso atual: 565 dias
+Motivo do atraso: Problemas de comunicação
+Índice de Desempenho de Cronograma (SPI): 0.88
+Valor Planejado (PV): R$ 2760621.00
+Valor Agregado (EV): R$ 2421767.38
+
+Tarefas críticas:
+- Desenvolvimento da interface do usuário
+- Implementação do módulo de relatórios
+- Testes de aceitação do usuário
+- Configuração da infraestrutura
+- Implementação do módulo de análise de dados
+- Testes de segurança
+
+Tarefas atrasadas:
+- Testes de aceitação do usuário
+- Implementação do módulo de análise de dados
+- Configuração da infraestrutura

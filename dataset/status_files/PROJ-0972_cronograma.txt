@@ -1,0 +1,25 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A segurança de mudar mais facilmente (PROJ-0972)
+Data: 11/07/2025
+Gerente: Sra. Heloisa Câmara
+
+Status atual: Concluído
+Percentual de conclusão: 100.0%
+Data de início: 15/04/2024
+Data de término planejada: 30/08/2024
+Data de término real/prevista: 25/09/2024
+Atraso atual: 315 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 1.04
+Valor Planejado (PV): R$ 993523.00
+Valor Agregado (EV): R$ 993523.00
+
+Tarefas críticas:
+- Implementação da API REST
+- Configuração do ambiente de produção
+- Implementação do módulo de relatórios
+- Implementação do módulo de exportação de dados
+- Implementação do módulo de notificações
+- Desenvolvimento da interface do usuário
+
+Tarefas atrasadas:

@@ -1,0 +1,27 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: O prazer de ganhar mais rapidamente (PROJ-0142)
+Data: 11/07/2025
+Gerente: José Pedro Camargo
+
+Status atual: Atrasado
+Percentual de conclusão: 60.0%
+Data de início: 01/08/2024
+Data de término planejada: 14/11/2024
+Data de término real/prevista: 11/01/2025
+Atraso atual: 239 dias
+Motivo do atraso: Atraso na entrega de componentes por fornecedores
+Índice de Desempenho de Cronograma (SPI): 0.60
+Valor Planejado (PV): R$ 4122398.00
+Valor Agregado (EV): R$ 2471960.96
+
+Tarefas críticas:
+- Configuração da infraestrutura
+- Implementação da API REST
+- Implementação do sistema de backup
+- Implementação do módulo de relatórios
+- Implementação do módulo de relatórios
+- Implementação do módulo de exportação de dados
+
+Tarefas atrasadas:
+- Implementação do módulo de relatórios
+- Implementação da API REST

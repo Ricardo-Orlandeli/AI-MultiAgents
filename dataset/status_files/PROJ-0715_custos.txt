@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O prazer de concretizar seus projetos direto da fonte (PROJ-0715)
+Data: 11/07/2025
+Gerente: Enrico Borges
+
+Orçamento inicial: R$ 1645156.00
+Custo real atual: R$ 1832694.72
+Desvio orçamentário: 11.40%
+Índice de Desempenho de Custo (CPI): 0.77
+Valor Agregado (EV): R$ 1414563.23
+Estimativa para conclusão: R$ 298753.80
+Estimativa no término (EAC): R$ 2131448.52
+Variação no término (VAC): R$ -486292.52
+
+Detalhamento por categoria:
+- Pessoal: R$ 791929.18 (43.2%)
+- Equipamentos: R$ 269012.36 (14.7%)
+- Software: R$ 268453.76 (14.6%)
+- Serviços: R$ 359626.32 (19.6%)
+- Outros: R$ 143673.10 (7.8%)

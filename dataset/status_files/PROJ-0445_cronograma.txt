@@ -1,0 +1,26 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A possibilidade de ganhar em estado puro (PROJ-0445)
+Data: 11/07/2025
+Gerente: Leonardo da Mota
+
+Status atual: Em andamento
+Percentual de conclusão: 99.9%
+Data de início: 22/11/2023
+Data de término planejada: 30/07/2024
+Data de término real/prevista: 11/08/2024
+Atraso atual: 346 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 1.09
+Valor Planejado (PV): R$ 4875887.00
+Valor Agregado (EV): R$ 4871011.11
+
+Tarefas críticas:
+- Configuração do ambiente de produção
+- Implementação da API REST
+- Migração de dados legados
+- Implementação do módulo de relatórios
+- Desenvolvimento do painel administrativo
+- Configuração da infraestrutura
+- Implementação do módulo de relatórios
+
+Tarefas atrasadas:

@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A arte de atingir seus objetivos com toda a tranquilidade (PROJ-0592)
+Data: 11/07/2025
+Gerente: Benjamim Correia
+
+Orçamento inicial: R$ 4366300.00
+Custo real atual: R$ 3044956.46
+Desvio orçamentário: -30.26%
+Índice de Desempenho de Custo (CPI): 1.21
+Valor Agregado (EV): R$ 3682028.55
+Estimativa para conclusão: R$ 565877.41
+Estimativa no término (EAC): R$ 3610833.86
+Variação no término (VAC): R$ 755466.14
+
+Detalhamento por categoria:
+- Pessoal: R$ 1419204.09 (46.6%)
+- Equipamentos: R$ 377439.75 (12.4%)
+- Software: R$ 498019.00 (16.4%)
+- Serviços: R$ 465681.63 (15.3%)
+- Outros: R$ 284611.98 (9.3%)

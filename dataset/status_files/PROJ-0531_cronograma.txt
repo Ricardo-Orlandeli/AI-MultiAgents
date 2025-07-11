@@ -1,0 +1,27 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A certeza de concretizar seus projetos com toda a tranquilidade (PROJ-0531)
+Data: 11/07/2025
+Gerente: Maria Fernanda Almeida
+
+Status atual: Em andamento
+Percentual de conclusão: 88.0%
+Data de início: 01/05/2024
+Data de término planejada: 02/02/2025
+Data de término real/prevista: 19/01/2025
+Atraso atual: 159 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 1.11
+Valor Planejado (PV): R$ 270186.00
+Valor Agregado (EV): R$ 237744.62
+
+Tarefas críticas:
+- Testes de aceitação do usuário
+- Desenvolvimento do painel administrativo
+- Implementação do módulo de notificações
+- Implementação do módulo de notificações
+- Desenvolvimento da interface do usuário
+- Testes de segurança
+- Configuração do ambiente de produção
+- Implementação da API REST
+
+Tarefas atrasadas:

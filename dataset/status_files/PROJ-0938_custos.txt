@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O prazer de ganhar de maneira eficaz (PROJ-0938)
+Data: 11/07/2025
+Gerente: Marcos Vinicius Santos
+
+Orçamento inicial: R$ 3532828.00
+Custo real atual: R$ 1983511.60
+Desvio orçamentário: -43.85%
+Índice de Desempenho de Custo (CPI): 0.94
+Valor Agregado (EV): R$ 1862484.09
+Estimativa para conclusão: R$ 1778885.81
+Estimativa no término (EAC): R$ 3762397.40
+Variação no término (VAC): R$ -229569.40
+
+Detalhamento por categoria:
+- Pessoal: R$ 1020096.90 (51.4%)
+- Equipamentos: R$ 345744.64 (17.4%)
+- Software: R$ 162017.60 (8.2%)
+- Serviços: R$ 310740.22 (15.7%)
+- Outros: R$ 144912.23 (7.3%)

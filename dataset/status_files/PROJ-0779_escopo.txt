@@ -1,0 +1,24 @@
+RELATÓRIO DE STATUS DE ESCOPO
+Projeto: O conforto de ganhar sem preocupação (PROJ-0779)
+Data: 11/07/2025
+Gerente: Breno da Mata
+
+Escopo original: Sistema para o conforto de ganhar sem preocupação
+Houve mudança de escopo: Sim
+Descrição das mudanças: Expansão do escopo para incluir funcionalidades adicionais
+Impacto no cronograma: 15 dias
+Impacto no custo: R$ 464934.45
+
+Solicitações de mudança:
+- SCM-01: Alteração na interface do usuário
+- SCM-02: Adição de relatórios gerenciais
+- SCM-03: Alteração na interface do usuário
+
+Requisitos atuais:
+- REQ-01: O sistema deve registrar logs de auditoria
+- REQ-02: O sistema deve ser escalável para suportar até 10.000 usuários simultâneos
+- REQ-03: O sistema deve ser compatível com navegadores modernos
+- REQ-04: O sistema deve ter backup automático diário
+- REQ-05: O sistema deve ter documentação completa
+- REQ-06: O sistema deve ter interface responsiva
+- REQ-07: O sistema deve permitir integração com APIs externas

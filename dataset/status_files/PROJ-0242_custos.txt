@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A vantagem de evoluir antes de tudo (PROJ-0242)
+Data: 11/07/2025
+Gerente: Sra. Luísa Viana
+
+Orçamento inicial: R$ 1406969.00
+Custo real atual: R$ 1101068.48
+Desvio orçamentário: -21.74%
+Índice de Desempenho de Custo (CPI): 1.23
+Valor Agregado (EV): R$ 1354009.13
+Estimativa para conclusão: R$ 43066.51
+Estimativa no término (EAC): R$ 1144134.98
+Variação no término (VAC): R$ 262834.02
+
+Detalhamento por categoria:
+- Pessoal: R$ 539173.38 (49.0%)
+- Equipamentos: R$ 173995.38 (15.8%)
+- Software: R$ 121206.34 (11.0%)
+- Serviços: R$ 194757.91 (17.7%)
+- Outros: R$ 71935.47 (6.5%)

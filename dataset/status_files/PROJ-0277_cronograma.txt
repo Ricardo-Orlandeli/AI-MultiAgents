@@ -1,0 +1,25 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A segurança de inovar sem preocupação (PROJ-0277)
+Data: 11/07/2025
+Gerente: Maria Julia Castro
+
+Status atual: Em andamento
+Percentual de conclusão: 94.6%
+Data de início: 20/08/2024
+Data de término planejada: 19/06/2025
+Data de término real/prevista: 28/06/2025
+Atraso atual: 22 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 0.95
+Valor Planejado (PV): R$ 2650721.00
+Valor Agregado (EV): R$ 2507151.57
+
+Tarefas críticas:
+- Implementação do módulo de análise de dados
+- Configuração do ambiente de produção
+- Implementação do módulo de exportação de dados
+- Implementação da API REST
+- Testes de segurança
+- Configuração da infraestrutura
+
+Tarefas atrasadas:

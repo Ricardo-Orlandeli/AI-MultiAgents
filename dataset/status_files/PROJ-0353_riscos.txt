@@ -1,0 +1,31 @@
+RELATÓRIO DE STATUS DE RISCOS
+Projeto: A vantagem de concretizar seus projetos naturalmente (PROJ-0353)
+Data: 11/07/2025
+Gerente: Juliana Vargas
+
+Riscos identificados:
+- R01: Dependências externas não cumpridas
+  Probabilidade: 3/5, Impacto: 2/5, Nível: Baixo
+  Mitigação: Implementar redundância de infraestrutura
+
+- R02: Problemas de comunicação com stakeholders
+  Probabilidade: 4/5, Impacto: 4/5, Nível: Alto
+  Mitigação: Refinar estimativas com base em dados históricos
+
+- R03: Indisponibilidade de recursos especializados
+  Probabilidade: 1/5, Impacto: 2/5, Nível: Baixo
+  Mitigação: Fortalecer medidas de segurança
+
+Riscos ocorridos:
+- R02 (ocorrido em 03/03/2025)
+  Impacto real: Perda de dados
+  Ações tomadas: Revisão do orçamento
+
+- R03 (ocorrido em 30/06/2024)
+  Impacto real: Problemas de qualidade
+  Ações tomadas: Revisão do orçamento
+
+- R01 (ocorrido em 17/05/2024)
+  Impacto real: Problemas de qualidade
+  Ações tomadas: Revisão de prioridades
+

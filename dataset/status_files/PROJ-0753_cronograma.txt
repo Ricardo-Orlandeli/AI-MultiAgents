@@ -1,0 +1,27 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: O prazer de atingir seus objetivos de maneira eficaz (PROJ-0753)
+Data: 11/07/2025
+Gerente: Luiz Henrique Gonçalves
+
+Status atual: Em andamento
+Percentual de conclusão: 95.1%
+Data de início: 04/12/2023
+Data de término planejada: 29/06/2024
+Data de término real/prevista: 14/07/2024
+Atraso atual: 377 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 1.03
+Valor Planejado (PV): R$ 2709171.00
+Valor Agregado (EV): R$ 2577535.59
+
+Tarefas críticas:
+- Implementação da API REST
+- Implementação do módulo de exportação de dados
+- Desenvolvimento do módulo de autenticação
+- Implementação do sistema de backup
+- Testes de segurança
+- Desenvolvimento do painel administrativo
+- Testes de aceitação do usuário
+- Integração com sistema de pagamentos
+
+Tarefas atrasadas:

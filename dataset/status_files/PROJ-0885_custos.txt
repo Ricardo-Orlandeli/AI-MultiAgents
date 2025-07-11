@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A segurança de ganhar com confiança (PROJ-0885)
+Data: 11/07/2025
+Gerente: Ana Liz Câmara
+
+Orçamento inicial: R$ 2466370.00
+Custo real atual: R$ 2892151.52
+Desvio orçamentário: 17.26%
+Índice de Desempenho de Custo (CPI): 0.85
+Valor Agregado (EV): R$ 2463903.63
+Estimativa para conclusão: R$ 2895.05
+Estimativa no término (EAC): R$ 2895046.57
+Variação no término (VAC): R$ -428676.57
+
+Detalhamento por categoria:
+- Pessoal: R$ 1550197.18 (53.6%)
+- Equipamentos: R$ 432260.74 (14.9%)
+- Software: R$ 298273.52 (10.3%)
+- Serviços: R$ 376737.90 (13.0%)
+- Outros: R$ 234682.18 (8.1%)

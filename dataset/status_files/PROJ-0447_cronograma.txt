@@ -1,0 +1,22 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A liberdade de evoluir naturalmente (PROJ-0447)
+Data: 11/07/2025
+Gerente: Isaac Fernandes
+
+Status atual: Em andamento
+Percentual de conclusão: 94.5%
+Data de início: 21/09/2024
+Data de término planejada: 26/06/2025
+Data de término real/prevista: 15/07/2025
+Atraso atual: 15 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 1.09
+Valor Planejado (PV): R$ 3295083.00
+Valor Agregado (EV): R$ 3112956.91
+
+Tarefas críticas:
+- Configuração da infraestrutura
+- Desenvolvimento do módulo de autenticação
+- Migração de dados legados
+
+Tarefas atrasadas:

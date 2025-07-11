@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A arte de concretizar seus projetos simplesmente (PROJ-0804)
+Data: 11/07/2025
+Gerente: Maria Helena Cavalcanti
+
+Orçamento inicial: R$ 3631851.00
+Custo real atual: R$ 2647829.91
+Desvio orçamentário: -13.58%
+Índice de Desempenho de Custo (CPI): 1.02
+Valor Agregado (EV): R$ 2702682.38
+Estimativa para conclusão: R$ 910310.62
+Estimativa no término (EAC): R$ 3558140.53
+Variação no término (VAC): R$ 73710.47
+
+Detalhamento por categoria:
+- Pessoal: R$ 1347860.17 (50.9%)
+- Equipamentos: R$ 424106.55 (16.0%)
+- Software: R$ 195839.17 (7.4%)
+- Serviços: R$ 485249.58 (18.3%)
+- Outros: R$ 194774.44 (7.4%)

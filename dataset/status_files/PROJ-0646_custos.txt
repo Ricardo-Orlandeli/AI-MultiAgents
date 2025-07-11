@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A simplicidade de concretizar seus projetos antes de tudo (PROJ-0646)
+Data: 11/07/2025
+Gerente: Gabriela Ferreira
+
+Orçamento inicial: R$ 1459596.00
+Custo real atual: R$ 553009.81
+Desvio orçamentário: -46.80%
+Índice de Desempenho de Custo (CPI): 0.98
+Valor Agregado (EV): R$ 542562.90
+Estimativa para conclusão: R$ 934690.35
+Estimativa no término (EAC): R$ 1487700.17
+Variação no término (VAC): R$ -28104.17
+
+Detalhamento por categoria:
+- Pessoal: R$ 303827.75 (54.9%)
+- Equipamentos: R$ 78981.44 (14.3%)
+- Software: R$ 65557.58 (11.9%)
+- Serviços: R$ 61323.14 (11.1%)
+- Outros: R$ 43319.91 (7.8%)

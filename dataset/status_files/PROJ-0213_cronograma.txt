@@ -1,0 +1,25 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: O conforto de mudar mais rapidamente (PROJ-0213)
+Data: 11/07/2025
+Gerente: Bárbara Nunes
+
+Status atual: Em andamento
+Percentual de conclusão: 82.8%
+Data de início: 31/07/2023
+Data de término planejada: 17/07/2024
+Data de término real/prevista: 26/07/2024
+Atraso atual: 359 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 0.90
+Valor Planejado (PV): R$ 2570436.00
+Valor Agregado (EV): R$ 2129152.16
+
+Tarefas críticas:
+- Implementação do módulo de notificações
+- Configuração da infraestrutura
+- Implementação do módulo de análise de dados
+- Integração com sistema de pagamentos
+- Testes de segurança
+- Desenvolvimento do painel administrativo
+
+Tarefas atrasadas:

@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A certeza de atingir seus objetivos simplesmente (PROJ-0364)
+Data: 11/07/2025
+Gerente: Davi Luiz Ribeiro
+
+Orçamento inicial: R$ 541597.00
+Custo real atual: R$ 80853.73
+Desvio orçamentário: -4.73%
+Índice de Desempenho de Custo (CPI): 0.92
+Valor Agregado (EV): R$ 74311.90
+Estimativa para conclusão: R$ 508421.17
+Estimativa no término (EAC): R$ 589274.89
+Variação no término (VAC): R$ -47677.89
+
+Detalhamento por categoria:
+- Pessoal: R$ 39319.06 (48.6%)
+- Equipamentos: R$ 12171.82 (15.1%)
+- Software: R$ 8282.22 (10.2%)
+- Serviços: R$ 12416.20 (15.4%)
+- Outros: R$ 8664.42 (10.7%)

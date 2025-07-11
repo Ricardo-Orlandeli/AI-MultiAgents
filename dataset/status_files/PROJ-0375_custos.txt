@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O poder de inovar com toda a tranquilidade (PROJ-0375)
+Data: 11/07/2025
+Gerente: Yasmin Pinto
+
+Orçamento inicial: R$ 4715449.00
+Custo real atual: R$ 5029123.85
+Desvio orçamentário: 6.65%
+Índice de Desempenho de Custo (CPI): 0.68
+Valor Agregado (EV): R$ 3443726.49
+Estimativa para conclusão: R$ 1857188.72
+Estimativa no término (EAC): R$ 6886312.57
+Variação no término (VAC): R$ -2170863.57
+
+Detalhamento por categoria:
+- Pessoal: R$ 2893049.16 (57.5%)
+- Equipamentos: R$ 651162.18 (12.9%)
+- Software: R$ 329990.60 (6.6%)
+- Serviços: R$ 787211.28 (15.7%)
+- Outros: R$ 367710.63 (7.3%)

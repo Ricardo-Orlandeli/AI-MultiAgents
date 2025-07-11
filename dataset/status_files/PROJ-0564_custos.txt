@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A simplicidade de mudar antes de tudo (PROJ-0564)
+Data: 11/07/2025
+Gerente: Fernando Vieira
+
+Orçamento inicial: R$ 3041058.00
+Custo real atual: R$ 3400934.01
+Desvio orçamentário: 11.83%
+Índice de Desempenho de Custo (CPI): 0.89
+Valor Agregado (EV): R$ 3041058.00
+Estimativa para conclusão: R$ 0.00
+Estimativa no término (EAC): R$ 3400934.01
+Variação no término (VAC): R$ -359876.01
+
+Detalhamento por categoria:
+- Pessoal: R$ 1746625.14 (51.4%)
+- Equipamentos: R$ 534092.14 (15.7%)
+- Software: R$ 454964.17 (13.4%)
+- Serviços: R$ 499734.74 (14.7%)
+- Outros: R$ 165517.82 (4.9%)

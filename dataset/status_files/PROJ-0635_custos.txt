@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A segurança de evoluir mais rapidamente (PROJ-0635)
+Data: 11/07/2025
+Gerente: Laura Monteiro
+
+Orçamento inicial: R$ 4515297.00
+Custo real atual: R$ 4238870.81
+Desvio orçamentário: -6.12%
+Índice de Desempenho de Custo (CPI): 0.91
+Valor Agregado (EV): R$ 3872067.22
+Estimativa para conclusão: R$ 704163.38
+Estimativa no término (EAC): R$ 4943034.19
+Variação no término (VAC): R$ -427737.19
+
+Detalhamento por categoria:
+- Pessoal: R$ 2133299.60 (50.3%)
+- Equipamentos: R$ 624675.62 (14.7%)
+- Software: R$ 554137.75 (13.1%)
+- Serviços: R$ 717678.82 (16.9%)
+- Outros: R$ 209079.02 (4.9%)

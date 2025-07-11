@@ -1,0 +1,27 @@
+RELATÓRIO DE STATUS DE ESCOPO
+Projeto: A simplicidade de evoluir antes de tudo (PROJ-0865)
+Data: 11/07/2025
+Gerente: Ana Carolina Ferreira
+
+Escopo original: Sistema para a simplicidade de evoluir antes de tudo
+Houve mudança de escopo: Sim
+Descrição das mudanças: Adição de novos requisitos de segurança
+Impacto no cronograma: 5 dias
+Impacto no custo: R$ 262341.74
+
+Solicitações de mudança:
+- SCM-01: Mudança no banco de dados
+
+Requisitos atuais:
+- REQ-01: O sistema deve permitir autenticação de usuários
+- REQ-02: O sistema deve ter controle de acesso baseado em perfis
+- REQ-03: O sistema deve permitir autenticação de usuários
+- REQ-04: O sistema deve ter backup automático diário
+- REQ-05: O sistema deve ser compatível com dispositivos móveis
+- REQ-06: O sistema deve ter documentação completa
+- REQ-07: O sistema deve registrar logs de auditoria
+- REQ-08: O sistema deve ter alta disponibilidade (99.9%)
+- REQ-09: O sistema deve ter documentação completa
+- REQ-10: O sistema deve ter controle de acesso baseado em perfis
+- REQ-11: O sistema deve processar transações em menos de 2 seconds
+- REQ-12: O sistema deve registrar logs de auditoria

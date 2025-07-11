@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A arte de avançar com força total (PROJ-0429)
+Data: 11/07/2025
+Gerente: Fernando Sousa
+
+Orçamento inicial: R$ 4904344.00
+Custo real atual: R$ 554857.68
+Desvio orçamentário: -30.79%
+Índice de Desempenho de Custo (CPI): 0.80
+Valor Agregado (EV): R$ 443108.81
+Estimativa para conclusão: R$ 5586326.82
+Estimativa no término (EAC): R$ 6141184.50
+Variação no término (VAC): R$ -1236840.50
+
+Detalhamento por categoria:
+- Pessoal: R$ 284337.51 (51.2%)
+- Equipamentos: R$ 80070.27 (14.4%)
+- Software: R$ 40014.48 (7.2%)
+- Serviços: R$ 85134.65 (15.3%)
+- Outros: R$ 65300.76 (11.8%)

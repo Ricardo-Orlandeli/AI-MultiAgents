@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A vantagem de conseguir naturalmente (PROJ-0722)
+Data: 11/07/2025
+Gerente: Lucca Martins
+
+Orçamento inicial: R$ 4020432.00
+Custo real atual: R$ 1181720.24
+Desvio orçamentário: 0.55%
+Índice de Desempenho de Custo (CPI): 1.11
+Valor Agregado (EV): R$ 1315408.13
+Estimativa para conclusão: R$ 2430106.20
+Estimativa no término (EAC): R$ 3611826.44
+Variação no término (VAC): R$ 408605.56
+
+Detalhamento por categoria:
+- Pessoal: R$ 591155.11 (50.0%)
+- Equipamentos: R$ 200849.41 (17.0%)
+- Software: R$ 121362.04 (10.3%)
+- Serviços: R$ 205908.96 (17.4%)
+- Outros: R$ 62444.72 (5.3%)

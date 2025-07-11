@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O prazer de atingir seus objetivos com força total (PROJ-0757)
+Data: 11/07/2025
+Gerente: Dr. Otto Machado
+
+Orçamento inicial: R$ 4125645.00
+Custo real atual: R$ 3133750.58
+Desvio orçamentário: -24.04%
+Índice de Desempenho de Custo (CPI): 1.22
+Valor Agregado (EV): R$ 3810805.64
+Estimativa para conclusão: R$ 258902.74
+Estimativa no término (EAC): R$ 3392653.32
+Variação no término (VAC): R$ 732991.68
+
+Detalhamento por categoria:
+- Pessoal: R$ 1792057.78 (57.2%)
+- Equipamentos: R$ 358393.21 (11.4%)
+- Software: R$ 188885.26 (6.0%)
+- Serviços: R$ 623685.69 (19.9%)
+- Outros: R$ 170728.65 (5.4%)

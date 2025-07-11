@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A possibilidade de realizar seus sonhos com toda a tranquilidade (PROJ-0749)
+Data: 11/07/2025
+Gerente: Marina Cavalcanti
+
+Orçamento inicial: R$ 3699542.00
+Custo real atual: R$ 3126165.74
+Desvio orçamentário: -15.50%
+Índice de Desempenho de Custo (CPI): 1.18
+Valor Agregado (EV): R$ 3699542.00
+Estimativa para conclusão: R$ 0.00
+Estimativa no término (EAC): R$ 3126165.74
+Variação no término (VAC): R$ 573376.26
+
+Detalhamento por categoria:
+- Pessoal: R$ 1512910.00 (48.4%)
+- Equipamentos: R$ 497348.52 (15.9%)
+- Software: R$ 331661.80 (10.6%)
+- Serviços: R$ 562547.85 (18.0%)
+- Outros: R$ 221697.57 (7.1%)

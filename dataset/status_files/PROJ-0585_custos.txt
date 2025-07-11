@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A vantagem de avançar naturalmente (PROJ-0585)
+Data: 11/07/2025
+Gerente: Gustavo Henrique Leão
+
+Orçamento inicial: R$ 4955099.00
+Custo real atual: R$ 4411288.53
+Desvio orçamentário: -10.97%
+Índice de Desempenho de Custo (CPI): 1.00
+Valor Agregado (EV): R$ 4401188.35
+Estimativa para conclusão: R$ 555181.80
+Estimativa no término (EAC): R$ 4966470.33
+Variação no término (VAC): R$ -11371.33
+
+Detalhamento por categoria:
+- Pessoal: R$ 2447433.02 (55.5%)
+- Equipamentos: R$ 601431.54 (13.6%)
+- Software: R$ 285576.41 (6.5%)
+- Serviços: R$ 658244.69 (14.9%)
+- Outros: R$ 418602.87 (9.5%)

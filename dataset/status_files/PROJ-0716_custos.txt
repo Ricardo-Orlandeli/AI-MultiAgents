@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A arte de ganhar com confiança (PROJ-0716)
+Data: 11/07/2025
+Gerente: Sr. Antônio da Paz
+
+Orçamento inicial: R$ 3417198.00
+Custo real atual: R$ 3304478.02
+Desvio orçamentário: -3.30%
+Índice de Desempenho de Custo (CPI): 0.96
+Valor Agregado (EV): R$ 3169675.36
+Estimativa para conclusão: R$ 258049.49
+Estimativa no término (EAC): R$ 3562527.52
+Variação no término (VAC): R$ -145329.52
+
+Detalhamento por categoria:
+- Pessoal: R$ 1921177.24 (58.1%)
+- Equipamentos: R$ 494079.90 (15.0%)
+- Software: R$ 189162.59 (5.7%)
+- Serviços: R$ 493337.15 (14.9%)
+- Outros: R$ 206721.15 (6.3%)

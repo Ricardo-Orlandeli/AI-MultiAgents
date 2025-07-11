@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A simplicidade de realizar seus sonhos mais rapidamente (PROJ-0169)
+Data: 11/07/2025
+Gerente: Leonardo da Costa
+
+Orçamento inicial: R$ 165707.00
+Custo real atual: R$ 132906.97
+Desvio orçamentário: 13.29%
+Índice de Desempenho de Custo (CPI): 0.74
+Valor Agregado (EV): R$ 98209.96
+Estimativa para conclusão: R$ 91343.36
+Estimativa no término (EAC): R$ 224250.33
+Variação no término (VAC): R$ -58543.33
+
+Detalhamento por categoria:
+- Pessoal: R$ 58804.85 (44.2%)
+- Equipamentos: R$ 20242.43 (15.2%)
+- Software: R$ 19890.22 (15.0%)
+- Serviços: R$ 21932.51 (16.5%)
+- Outros: R$ 12036.97 (9.1%)

@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O prazer de evoluir antes de tudo (PROJ-0667)
+Data: 11/07/2025
+Gerente: Dra. Maria Liz das Neves
+
+Orçamento inicial: R$ 4977559.00
+Custo real atual: R$ 3592172.32
+Desvio orçamentário: -27.83%
+Índice de Desempenho de Custo (CPI): 0.90
+Valor Agregado (EV): R$ 3215470.96
+Estimativa para conclusão: R$ 1968521.55
+Estimativa no término (EAC): R$ 5560693.87
+Variação no término (VAC): R$ -583134.87
+
+Detalhamento por categoria:
+- Pessoal: R$ 1894213.56 (52.7%)
+- Equipamentos: R$ 583100.91 (16.2%)
+- Software: R$ 390677.53 (10.9%)
+- Serviços: R$ 440645.48 (12.3%)
+- Outros: R$ 283534.83 (7.9%)

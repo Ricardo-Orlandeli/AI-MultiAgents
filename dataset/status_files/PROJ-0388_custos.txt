@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O poder de concretizar seus projetos mais rapidamente (PROJ-0388)
+Data: 11/07/2025
+Gerente: Dra. Eloá Santos
+
+Orçamento inicial: R$ 4129531.00
+Custo real atual: R$ 4817783.85
+Desvio orçamentário: 16.67%
+Índice de Desempenho de Custo (CPI): 0.86
+Valor Agregado (EV): R$ 4125401.47
+Estimativa para conclusão: R$ 4822.61
+Estimativa no término (EAC): R$ 4822606.46
+Variação no término (VAC): R$ -693075.46
+
+Detalhamento por categoria:
+- Pessoal: R$ 2514385.22 (52.2%)
+- Equipamentos: R$ 563375.96 (11.7%)
+- Software: R$ 712238.79 (14.8%)
+- Serviços: R$ 583314.00 (12.1%)
+- Outros: R$ 444469.89 (9.2%)

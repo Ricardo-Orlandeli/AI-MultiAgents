@@ -1,0 +1,28 @@
+RELATÓRIO DE STATUS DE ESCOPO
+Projeto: A vantagem de ganhar simplesmente (PROJ-0754)
+Data: 11/07/2025
+Gerente: Luísa Mendes
+
+Escopo original: Sistema para a vantagem de ganhar simplesmente
+Houve mudança de escopo: Sim
+Descrição das mudanças: Alteração nas especificações técnicas
+Impacto no cronograma: 27 dias
+Impacto no custo: R$ 174516.97
+
+Solicitações de mudança:
+- SCM-01: Alteração nos requisitos de desempenho
+- SCM-02: Adição de relatórios gerenciais
+- SCM-03: Mudança no banco de dados
+- SCM-04: Integração com sistema legado
+- SCM-05: Integração com sistema legado
+
+Requisitos atuais:
+- REQ-01: O sistema deve ter documentação completa
+- REQ-02: O sistema deve registrar logs de auditoria
+- REQ-03: O sistema deve permitir autenticação de usuários
+- REQ-04: O sistema deve ser compatível com dispositivos móveis
+- REQ-05: O sistema deve processar transações em menos de 2 seconds
+- REQ-06: O sistema deve ser compatível com dispositivos móveis
+- REQ-07: O sistema deve ter backup automático diário
+- REQ-08: O sistema deve passar por testes de segurança
+- REQ-09: O sistema deve registrar logs de auditoria

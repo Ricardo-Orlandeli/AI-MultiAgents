@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A possibilidade de evoluir com força total (PROJ-0700)
+Data: 11/07/2025
+Gerente: Isabel Oliveira
+
+Orçamento inicial: R$ 1153590.00
+Custo real atual: R$ 1333743.96
+Desvio orçamentário: 15.62%
+Índice de Desempenho de Custo (CPI): 0.86
+Valor Agregado (EV): R$ 1153590.00
+Estimativa para conclusão: R$ 0.00
+Estimativa no término (EAC): R$ 1333743.96
+Variação no término (VAC): R$ -180153.96
+
+Detalhamento por categoria:
+- Pessoal: R$ 745358.17 (55.9%)
+- Equipamentos: R$ 168209.00 (12.6%)
+- Software: R$ 96969.18 (7.3%)
+- Serviços: R$ 227775.03 (17.1%)
+- Outros: R$ 95432.58 (7.2%)

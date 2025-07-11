@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A arte de avançar mais rapidamente (PROJ-0219)
+Data: 11/07/2025
+Gerente: Luna da Luz
+
+Orçamento inicial: R$ 3498332.00
+Custo real atual: R$ 2453164.70
+Desvio orçamentário: -29.88%
+Índice de Desempenho de Custo (CPI): 1.21
+Valor Agregado (EV): R$ 2957554.43
+Estimativa para conclusão: R$ 448551.83
+Estimativa no término (EAC): R$ 2901716.53
+Variação no término (VAC): R$ 596615.47
+
+Detalhamento por categoria:
+- Pessoal: R$ 1098719.80 (44.8%)
+- Equipamentos: R$ 460823.93 (18.8%)
+- Software: R$ 307601.76 (12.5%)
+- Serviços: R$ 371986.59 (15.2%)
+- Outros: R$ 214032.63 (8.7%)

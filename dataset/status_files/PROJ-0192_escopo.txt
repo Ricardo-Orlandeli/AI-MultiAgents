@@ -1,0 +1,32 @@
+RELATÓRIO DE STATUS DE ESCOPO
+Projeto: A possibilidade de atingir seus objetivos mais facilmente (PROJ-0192)
+Data: 11/07/2025
+Gerente: Bruno da Cruz
+
+Escopo original: Sistema para a possibilidade de atingir seus objetivos mais facilmente
+Houve mudança de escopo: Sim
+Descrição das mudanças: Alteração nas especificações técnicas
+Impacto no cronograma: 28 dias
+Impacto no custo: R$ 318734.98
+
+Solicitações de mudança:
+- SCM-01: Integração com sistema legado
+- SCM-02: Alteração nos requisitos de desempenho
+- SCM-03: Alteração na interface do usuário
+- SCM-04: Alteração nos requisitos de desempenho
+
+Requisitos atuais:
+- REQ-01: O sistema deve implementar criptografia de dados sensíveis
+- REQ-02: O sistema deve registrar logs de auditoria
+- REQ-03: O sistema deve permitir integração com APIs externas
+- REQ-04: O sistema deve permitir exportação de dados em formato CSV
+- REQ-05: O sistema deve ter backup automático diário
+- REQ-06: O sistema deve ser compatível com dispositivos móveis
+- REQ-07: O sistema deve ter controle de acesso baseado em perfis
+- REQ-08: O sistema deve ter controle de acesso baseado em perfis
+- REQ-09: O sistema deve processar transações em menos de 2 seconds
+- REQ-10: O sistema deve processar transações em menos de 2 seconds
+- REQ-11: O sistema deve registrar logs de auditoria
+- REQ-12: O sistema deve passar por testes de segurança
+- REQ-13: O sistema deve ser compatível com dispositivos móveis
+- REQ-14: O sistema deve permitir exportação de dados em formato CSV

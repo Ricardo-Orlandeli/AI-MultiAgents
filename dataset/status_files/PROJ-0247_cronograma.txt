@@ -1,0 +1,26 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: O poder de atingir seus objetivos sem preocupação (PROJ-0247)
+Data: 11/07/2025
+Gerente: Sra. Olivia Aparecida
+
+Status atual: Concluído
+Percentual de conclusão: 100.0%
+Data de início: 05/11/2023
+Data de término planejada: 20/09/2024
+Data de término real/prevista: 13/09/2024
+Atraso atual: 294 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 1.05
+Valor Planejado (PV): R$ 3735762.00
+Valor Agregado (EV): R$ 3735762.00
+
+Tarefas críticas:
+- Implementação do módulo de exportação de dados
+- Implementação da API REST
+- Configuração do ambiente de produção
+- Implementação do módulo de exportação de dados
+- Testes de segurança
+- Configuração da infraestrutura
+- Implementação do módulo de análise de dados
+
+Tarefas atrasadas:

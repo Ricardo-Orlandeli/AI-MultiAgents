@@ -1,0 +1,25 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A vantagem de inovar de maneira eficaz (PROJ-0711)
+Data: 11/07/2025
+Gerente: Isabelly Pires
+
+Status atual: Em andamento
+Percentual de conclusão: 79.6%
+Data de início: 24/02/2025
+Data de término planejada: 20/07/2025
+Data de término real/prevista: 08/07/2025
+Atraso atual: 0 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 0.98
+Valor Planejado (PV): R$ 3256503.14
+Valor Agregado (EV): R$ 2763733.10
+
+Tarefas críticas:
+- Implementação do módulo de relatórios
+- Testes de segurança
+- Migração de dados legados
+- Configuração da infraestrutura
+- Integração com sistema de pagamentos
+- Implementação do módulo de análise de dados
+
+Tarefas atrasadas:

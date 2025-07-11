@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A arte de ganhar com confiança (PROJ-0271)
+Data: 11/07/2025
+Gerente: Pedro Vieira
+
+Orçamento inicial: R$ 2955637.00
+Custo real atual: R$ 433999.37
+Desvio orçamentário: 1.20%
+Índice de Desempenho de Custo (CPI): 0.84
+Valor Agregado (EV): R$ 366701.34
+Estimativa para conclusão: R$ 3064064.21
+Estimativa no término (EAC): R$ 3498063.58
+Variação no término (VAC): R$ -542426.58
+
+Detalhamento por categoria:
+- Pessoal: R$ 225016.08 (51.8%)
+- Equipamentos: R$ 55622.31 (12.8%)
+- Software: R$ 53735.20 (12.4%)
+- Serviços: R$ 66403.32 (15.3%)
+- Outros: R$ 33222.45 (7.7%)

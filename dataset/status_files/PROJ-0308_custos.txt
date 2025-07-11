@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O prazer de avançar mais facilmente (PROJ-0308)
+Data: 11/07/2025
+Gerente: Alícia Rios
+
+Orçamento inicial: R$ 1270372.00
+Custo real atual: R$ 1190443.20
+Desvio orçamentário: -6.29%
+Índice de Desempenho de Custo (CPI): 1.07
+Valor Agregado (EV): R$ 1269101.63
+Estimativa para conclusão: R$ 1191.63
+Estimativa no término (EAC): R$ 1191634.83
+Variação no término (VAC): R$ 78737.17
+
+Detalhamento por categoria:
+- Pessoal: R$ 574785.73 (48.3%)
+- Equipamentos: R$ 227081.68 (19.1%)
+- Software: R$ 118205.67 (9.9%)
+- Serviços: R$ 194493.94 (16.3%)
+- Outros: R$ 75876.17 (6.4%)

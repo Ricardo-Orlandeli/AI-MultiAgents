@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A liberdade de conseguir de maneira eficaz (PROJ-0886)
+Data: 11/07/2025
+Gerente: José Pedro Aragão
+
+Orçamento inicial: R$ 4445882.00
+Custo real atual: R$ 3062496.11
+Desvio orçamentário: -4.62%
+Índice de Desempenho de Custo (CPI): 1.23
+Valor Agregado (EV): R$ 3757226.33
+Estimativa para conclusão: R$ 561319.74
+Estimativa no término (EAC): R$ 3623815.85
+Variação no término (VAC): R$ 822066.15
+
+Detalhamento por categoria:
+- Pessoal: R$ 1434483.70 (46.8%)
+- Equipamentos: R$ 463875.83 (15.1%)
+- Software: R$ 393036.99 (12.8%)
+- Serviços: R$ 554187.74 (18.1%)
+- Outros: R$ 216911.85 (7.1%)

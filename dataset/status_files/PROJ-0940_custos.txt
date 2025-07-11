@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A certeza de concretizar seus projetos de maneira eficaz (PROJ-0940)
+Data: 11/07/2025
+Gerente: Gabrielly Viana
+
+Orçamento inicial: R$ 83231.00
+Custo real atual: R$ 91099.81
+Desvio orçamentário: 9.45%
+Índice de Desempenho de Custo (CPI): 0.91
+Valor Agregado (EV): R$ 83231.00
+Estimativa para conclusão: R$ 0.00
+Estimativa no término (EAC): R$ 91099.81
+Variação no término (VAC): R$ -7868.81
+
+Detalhamento por categoria:
+- Pessoal: R$ 47412.28 (52.0%)
+- Equipamentos: R$ 18472.64 (20.3%)
+- Software: R$ 6726.80 (7.4%)
+- Serviços: R$ 9412.95 (10.3%)
+- Outros: R$ 9075.14 (10.0%)

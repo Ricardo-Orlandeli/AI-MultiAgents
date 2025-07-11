@@ -1,0 +1,29 @@
+RELATÓRIO DE STATUS DE ESCOPO
+Projeto: A segurança de evoluir direto da fonte (PROJ-0727)
+Data: 11/07/2025
+Gerente: Oliver Barbosa
+
+Escopo original: Sistema para a segurança de evoluir direto da fonte
+Houve mudança de escopo: Sim
+Descrição das mudanças: Expansão do escopo para incluir funcionalidades adicionais
+Impacto no cronograma: 8 dias
+Impacto no custo: R$ 619676.44
+
+Solicitações de mudança:
+- SCM-01: Adição de funcionalidade de autenticação biométrica
+
+Requisitos atuais:
+- REQ-01: O sistema deve ter controle de acesso baseado em perfis
+- REQ-02: O sistema deve ter backup automático diário
+- REQ-03: O sistema deve ter alta disponibilidade (99.9%)
+- REQ-04: O sistema deve ter alta disponibilidade (99.9%)
+- REQ-05: O sistema deve ter controle de acesso baseado em perfis
+- REQ-06: O sistema deve permitir integração com APIs externas
+- REQ-07: O sistema deve ter documentação completa
+- REQ-08: O sistema deve registrar logs de auditoria
+- REQ-09: O sistema deve ter backup automático diário
+- REQ-10: O sistema deve ser compatível com navegadores modernos
+- REQ-11: O sistema deve ter controle de acesso baseado em perfis
+- REQ-12: O sistema deve ter documentação completa
+- REQ-13: O sistema deve permitir autenticação de usuários
+- REQ-14: O sistema deve registrar logs de auditoria

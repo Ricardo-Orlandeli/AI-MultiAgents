@@ -1,0 +1,25 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: O direito de evoluir antes de tudo (PROJ-0729)
+Data: 11/07/2025
+Gerente: Srta. Bianca Aragão
+
+Status atual: Cancelado
+Percentual de conclusão: 33.3%
+Data de início: 24/01/2025
+Data de término planejada: 01/12/2025
+Data de término real/prevista: 07/05/2025
+Atraso atual: 0 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 0.62
+Valor Planejado (PV): R$ 1484735.38
+Valor Agregado (EV): R$ 916501.97
+
+Tarefas críticas:
+- Implementação do módulo de exportação de dados
+- Implementação do módulo de exportação de dados
+- Testes de aceitação do usuário
+- Desenvolvimento da interface do usuário
+- Desenvolvimento do painel administrativo
+- Implementação da API REST
+
+Tarefas atrasadas:

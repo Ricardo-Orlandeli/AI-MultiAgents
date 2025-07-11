@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A possibilidade de concretizar seus projetos mais facilmente (PROJ-0215)
+Data: 11/07/2025
+Gerente: Sr. Henry Gabriel da Rocha
+
+Orçamento inicial: R$ 618074.00
+Custo real atual: R$ 645127.83
+Desvio orçamentário: 4.38%
+Índice de Desempenho de Custo (CPI): 0.75
+Valor Agregado (EV): R$ 485315.92
+Estimativa para conclusão: R$ 176474.60
+Estimativa no término (EAC): R$ 821602.43
+Variação no término (VAC): R$ -203528.43
+
+Detalhamento por categoria:
+- Pessoal: R$ 362865.61 (56.2%)
+- Equipamentos: R$ 69459.84 (10.8%)
+- Software: R$ 85289.82 (13.2%)
+- Serviços: R$ 70024.89 (10.9%)
+- Outros: R$ 57487.67 (8.9%)

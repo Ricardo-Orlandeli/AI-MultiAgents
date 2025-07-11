@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A simplicidade de realizar seus sonhos mais rapidamente (PROJ-0326)
+Data: 11/07/2025
+Gerente: Dr. José Cirino
+
+Orçamento inicial: R$ 1938485.00
+Custo real atual: R$ 1800128.52
+Desvio orçamentário: -7.14%
+Índice de Desempenho de Custo (CPI): 0.70
+Valor Agregado (EV): R$ 1256381.95
+Estimativa para conclusão: R$ 977308.81
+Estimativa no término (EAC): R$ 2777437.33
+Variação no término (VAC): R$ -838952.33
+
+Detalhamento por categoria:
+- Pessoal: R$ 859579.69 (47.8%)
+- Equipamentos: R$ 322143.09 (17.9%)
+- Software: R$ 216707.32 (12.0%)
+- Serviços: R$ 295417.17 (16.4%)
+- Outros: R$ 106281.25 (5.9%)

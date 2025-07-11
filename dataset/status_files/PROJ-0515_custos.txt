@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A simplicidade de inovar direto da fonte (PROJ-0515)
+Data: 11/07/2025
+Gerente: Melissa Siqueira
+
+Orçamento inicial: R$ 2669421.00
+Custo real atual: R$ 2971012.04
+Desvio orçamentário: 11.30%
+Índice de Desempenho de Custo (CPI): 0.90
+Valor Agregado (EV): R$ 2666751.58
+Estimativa para conclusão: R$ 2973.99
+Estimativa no término (EAC): R$ 2973986.02
+Variação no término (VAC): R$ -304565.02
+
+Detalhamento por categoria:
+- Pessoal: R$ 1466801.55 (49.4%)
+- Equipamentos: R$ 651658.33 (21.9%)
+- Software: R$ 191851.21 (6.5%)
+- Serviços: R$ 405761.85 (13.7%)
+- Outros: R$ 254939.09 (8.6%)

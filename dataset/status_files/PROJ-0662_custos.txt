@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A segurança de mudar naturalmente (PROJ-0662)
+Data: 11/07/2025
+Gerente: Sr. Raul Camargo
+
+Orçamento inicial: R$ 1490523.00
+Custo real atual: R$ 1250127.43
+Desvio orçamentário: -16.13%
+Índice de Desempenho de Custo (CPI): 1.19
+Valor Agregado (EV): R$ 1489032.48
+Estimativa para conclusão: R$ 1251.38
+Estimativa no término (EAC): R$ 1251378.81
+Variação no término (VAC): R$ 239144.19
+
+Detalhamento por categoria:
+- Pessoal: R$ 640694.72 (51.3%)
+- Equipamentos: R$ 179126.53 (14.3%)
+- Software: R$ 103929.97 (8.3%)
+- Serviços: R$ 241582.63 (19.3%)
+- Outros: R$ 84793.57 (6.8%)

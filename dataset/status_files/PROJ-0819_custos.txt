@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A vantagem de atingir seus objetivos antes de tudo (PROJ-0819)
+Data: 11/07/2025
+Gerente: Isabelly Sales
+
+Orçamento inicial: R$ 2368405.00
+Custo real atual: R$ 2838838.20
+Desvio orçamentário: 19.86%
+Índice de Desempenho de Custo (CPI): 0.83
+Valor Agregado (EV): R$ 2368405.00
+Estimativa para conclusão: R$ 0.00
+Estimativa no término (EAC): R$ 2838838.20
+Variação no término (VAC): R$ -470433.20
+
+Detalhamento por categoria:
+- Pessoal: R$ 1478669.59 (52.1%)
+- Equipamentos: R$ 546046.22 (19.2%)
+- Software: R$ 158424.14 (5.6%)
+- Serviços: R$ 351651.53 (12.4%)
+- Outros: R$ 304046.72 (10.7%)

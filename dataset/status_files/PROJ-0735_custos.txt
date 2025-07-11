@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A simplicidade de atingir seus objetivos direto da fonte (PROJ-0735)
+Data: 11/07/2025
+Gerente: Davi Lucas das Neves
+
+Orçamento inicial: R$ 1365295.00
+Custo real atual: R$ 1546714.80
+Desvio orçamentário: 13.29%
+Índice de Desempenho de Custo (CPI): 0.88
+Valor Agregado (EV): R$ 1363929.71
+Estimativa para conclusão: R$ 1548.26
+Estimativa no término (EAC): R$ 1548263.06
+Variação no término (VAC): R$ -182968.06
+
+Detalhamento por categoria:
+- Pessoal: R$ 828974.13 (53.6%)
+- Equipamentos: R$ 186342.44 (12.0%)
+- Software: R$ 149414.88 (9.7%)
+- Serviços: R$ 244011.33 (15.8%)
+- Outros: R$ 137972.02 (8.9%)

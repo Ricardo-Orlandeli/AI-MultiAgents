@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A arte de evoluir direto da fonte (PROJ-0915)
+Data: 11/07/2025
+Gerente: Maria Clara Viana
+
+Orçamento inicial: R$ 957625.00
+Custo real atual: R$ 1057074.86
+Desvio orçamentário: 10.39%
+Índice de Desempenho de Custo (CPI): 0.84
+Valor Agregado (EV): R$ 882927.68
+Estimativa para conclusão: R$ 89430.49
+Estimativa no término (EAC): R$ 1146505.35
+Variação no término (VAC): R$ -188880.35
+
+Detalhamento por categoria:
+- Pessoal: R$ 502897.54 (47.6%)
+- Equipamentos: R$ 171049.09 (16.2%)
+- Software: R$ 146395.78 (13.8%)
+- Serviços: R$ 137963.25 (13.1%)
+- Outros: R$ 98769.21 (9.3%)

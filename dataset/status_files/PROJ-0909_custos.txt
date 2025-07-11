@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A liberdade de inovar em estado puro (PROJ-0909)
+Data: 11/07/2025
+Gerente: Maria Julia da Conceição
+
+Orçamento inicial: R$ 1000439.00
+Custo real atual: R$ 454809.20
+Desvio orçamentário: -5.69%
+Índice de Desempenho de Custo (CPI): 1.18
+Valor Agregado (EV): R$ 538391.83
+Estimativa para conclusão: R$ 390316.67
+Estimativa no término (EAC): R$ 845125.87
+Variação no término (VAC): R$ 155313.13
+
+Detalhamento por categoria:
+- Pessoal: R$ 238608.74 (52.5%)
+- Equipamentos: R$ 62751.21 (13.8%)
+- Software: R$ 37327.59 (8.2%)
+- Serviços: R$ 76313.58 (16.8%)
+- Outros: R$ 39808.09 (8.8%)

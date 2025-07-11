@@ -1,0 +1,23 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: O direito de ganhar mais facilmente (PROJ-0331)
+Data: 11/07/2025
+Gerente: Eduardo Oliveira
+
+Status atual: Em andamento
+Percentual de conclusão: 99.9%
+Data de início: 04/03/2024
+Data de término planejada: 04/01/2025
+Data de término real/prevista: 15/01/2025
+Atraso atual: 188 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 0.90
+Valor Planejado (PV): R$ 731947.00
+Valor Agregado (EV): R$ 731215.05
+
+Tarefas críticas:
+- Desenvolvimento do módulo de autenticação
+- Implementação do sistema de backup
+- Desenvolvimento da interface do usuário
+- Implementação do módulo de exportação de dados
+
+Tarefas atrasadas:

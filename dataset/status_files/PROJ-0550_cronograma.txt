@@ -1,0 +1,23 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A arte de inovar em estado puro (PROJ-0550)
+Data: 11/07/2025
+Gerente: Ana Carolina Duarte
+
+Status atual: Cancelado
+Percentual de conclusão: 33.4%
+Data de início: 30/09/2024
+Data de término planejada: 18/07/2025
+Data de término real/prevista: 05/01/2025
+Atraso atual: 0 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 0.34
+Valor Planejado (PV): R$ 1629064.01
+Valor Agregado (EV): R$ 556863.67
+
+Tarefas críticas:
+- Implementação do módulo de análise de dados
+- Migração de dados legados
+- Configuração da infraestrutura
+- Implementação da API REST
+
+Tarefas atrasadas:

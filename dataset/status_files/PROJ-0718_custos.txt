@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A simplicidade de ganhar com confiança (PROJ-0718)
+Data: 11/07/2025
+Gerente: Anna Liz da Cruz
+
+Orçamento inicial: R$ 1324189.00
+Custo real atual: R$ 924791.28
+Desvio orçamentário: -19.22%
+Índice de Desempenho de Custo (CPI): 0.99
+Valor Agregado (EV): R$ 917861.88
+Estimativa para conclusão: R$ 409394.69
+Estimativa no término (EAC): R$ 1334185.97
+Variação no término (VAC): R$ -9996.97
+
+Detalhamento por categoria:
+- Pessoal: R$ 523280.45 (56.6%)
+- Equipamentos: R$ 152772.96 (16.5%)
+- Software: R$ 84546.02 (9.1%)
+- Serviços: R$ 97857.06 (10.6%)
+- Outros: R$ 66334.80 (7.2%)

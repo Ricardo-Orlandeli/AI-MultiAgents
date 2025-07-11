@@ -1,0 +1,22 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A liberdade de concretizar seus projetos com confiança (PROJ-0798)
+Data: 11/07/2025
+Gerente: Srta. Alana Sá
+
+Status atual: Em andamento
+Percentual de conclusão: 90.8%
+Data de início: 19/09/2024
+Data de término planejada: 10/05/2025
+Data de término real/prevista: 02/06/2025
+Atraso atual: 62 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 0.91
+Valor Planejado (PV): R$ 945733.00
+Valor Agregado (EV): R$ 858794.49
+
+Tarefas críticas:
+- Implementação da API REST
+- Implementação do sistema de backup
+- Desenvolvimento do painel administrativo
+
+Tarefas atrasadas:

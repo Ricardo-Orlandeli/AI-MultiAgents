@@ -1,0 +1,22 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A simplicidade de evoluir simplesmente (PROJ-0184)
+Data: 11/07/2025
+Gerente: Sra. Alana Fogaça
+
+Status atual: Em andamento
+Percentual de conclusão: 99.9%
+Data de início: 21/10/2023
+Data de término planejada: 06/08/2024
+Data de término real/prevista: 03/08/2024
+Atraso atual: 339 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 1.05
+Valor Planejado (PV): R$ 1841612.00
+Valor Agregado (EV): R$ 1839770.39
+
+Tarefas críticas:
+- Implementação do módulo de relatórios
+- Integração com sistema de pagamentos
+- Desenvolvimento do módulo de autenticação
+
+Tarefas atrasadas:

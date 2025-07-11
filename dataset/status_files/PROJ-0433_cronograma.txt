@@ -1,0 +1,26 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A segurança de inovar sem preocupação (PROJ-0433)
+Data: 11/07/2025
+Gerente: João Pedro Novais
+
+Status atual: Em andamento
+Percentual de conclusão: 95.5%
+Data de início: 21/11/2023
+Data de término planejada: 01/10/2024
+Data de término real/prevista: 26/10/2024
+Atraso atual: 283 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 0.94
+Valor Planejado (PV): R$ 3219654.00
+Valor Agregado (EV): R$ 3076213.18
+
+Tarefas críticas:
+- Implementação do módulo de exportação de dados
+- Implementação do módulo de análise de dados
+- Testes de aceitação do usuário
+- Configuração da infraestrutura
+- Implementação do sistema de backup
+- Implementação do módulo de análise de dados
+- Configuração do ambiente de produção
+
+Tarefas atrasadas:

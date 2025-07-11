@@ -1,0 +1,28 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: O conforto de evoluir mais rapidamente (PROJ-0393)
+Data: 11/07/2025
+Gerente: Laís Lopes
+
+Status atual: Atrasado
+Percentual de conclusão: 3.2%
+Data de início: 24/06/2025
+Data de término planejada: 29/04/2026
+Data de término real/prevista: 18/08/2026
+Atraso atual: 0 dias
+Motivo do atraso: Atraso na entrega de componentes por fornecedores
+Índice de Desempenho de Cronograma (SPI): 0.58
+Valor Planejado (PV): R$ 93236.03
+Valor Agregado (EV): R$ 54314.04
+
+Tarefas críticas:
+- Desenvolvimento da interface do usuário
+- Testes de aceitação do usuário
+- Implementação do sistema de backup
+- Migração de dados legados
+- Desenvolvimento do módulo de autenticação
+- Implementação do módulo de notificações
+
+Tarefas atrasadas:
+- Desenvolvimento do módulo de autenticação
+- Testes de aceitação do usuário
+- Migração de dados legados

@@ -1,0 +1,23 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A liberdade de mudar com força total (PROJ-0082)
+Data: 11/07/2025
+Gerente: Dra. Maya da Mota
+
+Status atual: Em andamento
+Percentual de conclusão: 65.5%
+Data de início: 03/02/2025
+Data de término planejada: 19/11/2025
+Data de término real/prevista: 29/11/2025
+Atraso atual: 0 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 1.08
+Valor Planejado (PV): R$ 106274.96
+Valor Agregado (EV): R$ 127238.92
+
+Tarefas críticas:
+- Testes de segurança
+- Testes de aceitação do usuário
+- Integração com sistema de pagamentos
+- Implementação do módulo de relatórios
+
+Tarefas atrasadas:

@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A arte de avançar em estado puro (PROJ-0732)
+Data: 11/07/2025
+Gerente: Rebeca Rodrigues
+
+Orçamento inicial: R$ 3858841.00
+Custo real atual: R$ 3143060.75
+Desvio orçamentário: -18.55%
+Índice de Desempenho de Custo (CPI): 1.23
+Valor Agregado (EV): R$ 3858841.00
+Estimativa para conclusão: R$ 0.00
+Estimativa no término (EAC): R$ 3143060.75
+Variação no término (VAC): R$ 715780.25
+
+Detalhamento por categoria:
+- Pessoal: R$ 1770279.53 (56.3%)
+- Equipamentos: R$ 483213.28 (15.4%)
+- Software: R$ 377247.08 (12.0%)
+- Serviços: R$ 320097.34 (10.2%)
+- Outros: R$ 192223.53 (6.1%)

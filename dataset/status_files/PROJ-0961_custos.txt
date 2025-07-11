@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A vantagem de concretizar seus projetos simplesmente (PROJ-0961)
+Data: 11/07/2025
+Gerente: Maria Cecília Fogaça
+
+Orçamento inicial: R$ 753326.00
+Custo real atual: R$ 580180.41
+Desvio orçamentário: 38.98%
+Índice de Desempenho de Custo (CPI): 0.85
+Valor Agregado (EV): R$ 490418.77
+Estimativa para conclusão: R$ 311027.30
+Estimativa no término (EAC): R$ 891207.71
+Variação no término (VAC): R$ -137881.71
+
+Detalhamento por categoria:
+- Pessoal: R$ 247642.70 (42.7%)
+- Equipamentos: R$ 100819.46 (17.4%)
+- Software: R$ 82614.58 (14.2%)
+- Serviços: R$ 102675.19 (17.7%)
+- Outros: R$ 46428.48 (8.0%)

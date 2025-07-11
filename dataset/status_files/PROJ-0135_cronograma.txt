@@ -1,0 +1,25 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A certeza de avançar com força total (PROJ-0135)
+Data: 11/07/2025
+Gerente: Josué da Costa
+
+Status atual: Em andamento
+Percentual de conclusão: 99.5%
+Data de início: 21/08/2023
+Data de término planejada: 27/01/2024
+Data de término real/prevista: 29/01/2024
+Atraso atual: 531 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 1.07
+Valor Planejado (PV): R$ 2388279.00
+Valor Agregado (EV): R$ 2376122.37
+
+Tarefas críticas:
+- Testes de aceitação do usuário
+- Implementação do módulo de análise de dados
+- Testes de aceitação do usuário
+- Integração com sistema de pagamentos
+- Desenvolvimento do painel administrativo
+- Testes de aceitação do usuário
+
+Tarefas atrasadas:

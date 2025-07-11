@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A vantagem de atingir seus objetivos simplesmente (PROJ-0626)
+Data: 11/07/2025
+Gerente: Valentina Guerra
+
+Orçamento inicial: R$ 2545094.00
+Custo real atual: R$ 1868531.34
+Desvio orçamentário: -26.58%
+Índice de Desempenho de Custo (CPI): 0.81
+Valor Agregado (EV): R$ 1510690.27
+Estimativa para conclusão: R$ 1279425.58
+Estimativa no término (EAC): R$ 3147956.92
+Variação no término (VAC): R$ -602862.92
+
+Detalhamento por categoria:
+- Pessoal: R$ 900726.01 (48.2%)
+- Equipamentos: R$ 233631.54 (12.5%)
+- Software: R$ 242665.03 (13.0%)
+- Serviços: R$ 311428.04 (16.7%)
+- Outros: R$ 180080.71 (9.6%)

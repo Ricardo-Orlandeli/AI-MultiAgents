@@ -1,0 +1,24 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A arte de concretizar seus projetos simplesmente (PROJ-0804)
+Data: 11/07/2025
+Gerente: Maria Helena Cavalcanti
+
+Status atual: Em andamento
+Percentual de conclusão: 74.4%
+Data de início: 18/12/2024
+Data de término planejada: 18/08/2025
+Data de término real/prevista: 12/08/2025
+Atraso atual: 0 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 1.02
+Valor Planejado (PV): R$ 3063907.22
+Valor Agregado (EV): R$ 2702682.38
+
+Tarefas críticas:
+- Integração com sistema de pagamentos
+- Testes de segurança
+- Migração de dados legados
+- Testes de segurança
+- Implementação do módulo de relatórios
+
+Tarefas atrasadas:

@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A liberdade de inovar naturalmente (PROJ-0136)
+Data: 11/07/2025
+Gerente: Mariane Costela
+
+Orçamento inicial: R$ 2064122.00
+Custo real atual: R$ 1158482.58
+Desvio orçamentário: -9.13%
+Índice de Desempenho de Custo (CPI): 1.20
+Valor Agregado (EV): R$ 1389310.80
+Estimativa para conclusão: R$ 562694.12
+Estimativa no término (EAC): R$ 1721176.71
+Variação no término (VAC): R$ 342945.29
+
+Detalhamento por categoria:
+- Pessoal: R$ 669175.24 (57.8%)
+- Equipamentos: R$ 157605.59 (13.6%)
+- Software: R$ 87430.76 (7.5%)
+- Serviços: R$ 166980.30 (14.4%)
+- Outros: R$ 77290.70 (6.7%)

@@ -1,0 +1,28 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A simplicidade de atingir seus objetivos sem preocupação (PROJ-0239)
+Data: 11/07/2025
+Gerente: Mariah Porto
+
+Status atual: Atrasado
+Percentual de conclusão: 83.5%
+Data de início: 11/12/2024
+Data de término planejada: 10/04/2025
+Data de término real/prevista: 09/07/2025
+Atraso atual: 92 dias
+Motivo do atraso: Falhas em testes de aceitação
+Índice de Desempenho de Cronograma (SPI): 0.84
+Valor Planejado (PV): R$ 2210635.00
+Valor Agregado (EV): R$ 1846703.49
+
+Tarefas críticas:
+- Testes de aceitação do usuário
+- Implementação do módulo de exportação de dados
+- Implementação da API REST
+- Desenvolvimento do painel administrativo
+- Testes de aceitação do usuário
+- Migração de dados legados
+- Desenvolvimento do módulo de autenticação
+- Migração de dados legados
+
+Tarefas atrasadas:
+- Testes de aceitação do usuário

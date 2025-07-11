@@ -1,0 +1,22 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A certeza de avançar sem preocupação (PROJ-0313)
+Data: 11/07/2025
+Gerente: Vinícius Sousa
+
+Status atual: Em andamento
+Percentual de conclusão: 98.4%
+Data de início: 11/03/2025
+Data de término planejada: 14/07/2025
+Data de término real/prevista: 10/07/2025
+Atraso atual: 0 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 1.11
+Valor Planejado (PV): R$ 2892233.50
+Valor Agregado (EV): R$ 2917184.51
+
+Tarefas críticas:
+- Implementação do sistema de backup
+- Desenvolvimento do módulo de autenticação
+- Migração de dados legados
+
+Tarefas atrasadas:

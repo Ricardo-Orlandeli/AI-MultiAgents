@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O prazer de evoluir de maneira eficaz (PROJ-0019)
+Data: 11/07/2025
+Gerente: Cecilia Pires
+
+Orçamento inicial: R$ 2292636.00
+Custo real atual: R$ 2735117.33
+Desvio orçamentário: 19.30%
+Índice de Desempenho de Custo (CPI): 0.84
+Valor Agregado (EV): R$ 2290343.36
+Estimativa para conclusão: R$ 2737.86
+Estimativa no término (EAC): R$ 2737855.18
+Variação no término (VAC): R$ -445219.18
+
+Detalhamento por categoria:
+- Pessoal: R$ 1106959.25 (40.5%)
+- Equipamentos: R$ 518490.48 (19.0%)
+- Software: R$ 339631.18 (12.4%)
+- Serviços: R$ 506866.47 (18.5%)
+- Outros: R$ 263169.93 (9.6%)

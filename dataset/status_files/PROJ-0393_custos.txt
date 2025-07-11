@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O conforto de evoluir mais rapidamente (PROJ-0393)
+Data: 11/07/2025
+Gerente: Laís Lopes
+
+Orçamento inicial: R$ 1694702.00
+Custo real atual: R$ 79950.57
+Desvio orçamentário: -14.25%
+Índice de Desempenho de Custo (CPI): 0.68
+Valor Agregado (EV): R$ 54314.04
+Estimativa para conclusão: R$ 2414660.10
+Estimativa no término (EAC): R$ 2494610.67
+Variação no término (VAC): R$ -799908.67
+
+Detalhamento por categoria:
+- Pessoal: R$ 43135.90 (54.0%)
+- Equipamentos: R$ 11875.19 (14.9%)
+- Software: R$ 8124.99 (10.2%)
+- Serviços: R$ 8594.93 (10.8%)
+- Outros: R$ 8219.56 (10.3%)

@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A possibilidade de ganhar sem preocupação (PROJ-0842)
+Data: 11/07/2025
+Gerente: Thales Novaes
+
+Orçamento inicial: R$ 3533663.00
+Custo real atual: R$ 3411663.39
+Desvio orçamentário: -3.45%
+Índice de Desempenho de Custo (CPI): 1.03
+Valor Agregado (EV): R$ 3530129.34
+Estimativa para conclusão: R$ 3415.08
+Estimativa no término (EAC): R$ 3415078.46
+Variação no término (VAC): R$ 118584.54
+
+Detalhamento por categoria:
+- Pessoal: R$ 1703518.36 (49.9%)
+- Equipamentos: R$ 435349.51 (12.8%)
+- Software: R$ 422298.71 (12.4%)
+- Serviços: R$ 600354.56 (17.6%)
+- Outros: R$ 250142.25 (7.3%)

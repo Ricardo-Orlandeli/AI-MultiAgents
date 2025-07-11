@@ -1,0 +1,31 @@
+RELATÓRIO DE STATUS DE ESCOPO
+Projeto: A segurança de ganhar mais rapidamente (PROJ-0810)
+Data: 11/07/2025
+Gerente: Isabelly Casa Grande
+
+Escopo original: Sistema para a segurança de ganhar mais rapidamente
+Houve mudança de escopo: Sim
+Descrição das mudanças: Adição de novos requisitos de segurança
+Impacto no cronograma: 39 dias
+Impacto no custo: R$ 732734.81
+
+Solicitações de mudança:
+- SCM-01: Adição de relatórios gerenciais
+- SCM-02: Integração com sistema legado
+
+Requisitos atuais:
+- REQ-01: O sistema deve registrar logs de auditoria
+- REQ-02: O sistema deve permitir autenticação de usuários
+- REQ-03: O sistema deve passar por testes de segurança
+- REQ-04: O sistema deve permitir exportação de dados em formato CSV
+- REQ-05: O sistema deve ter controle de acesso baseado em perfis
+- REQ-06: O sistema deve permitir autenticação de usuários
+- REQ-07: O sistema deve permitir integração com APIs externas
+- REQ-08: O sistema deve registrar logs de auditoria
+- REQ-09: O sistema deve ter documentação completa
+- REQ-10: O sistema deve passar por testes de segurança
+- REQ-11: O sistema deve ter interface responsiva
+- REQ-12: O sistema deve ter documentação completa
+- REQ-13: O sistema deve processar transações em menos de 2 seconds
+- REQ-14: O sistema deve permitir exportação de dados em formato CSV
+- REQ-15: O sistema deve processar transações em menos de 2 seconds

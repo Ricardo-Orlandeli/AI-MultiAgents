@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O poder de concretizar seus projetos mais rapidamente (PROJ-0911)
+Data: 11/07/2025
+Gerente: Dr. Samuel Silva
+
+Orçamento inicial: R$ 2725940.00
+Custo real atual: R$ 2953522.98
+Desvio orçamentário: 8.35%
+Índice de Desempenho de Custo (CPI): 0.92
+Valor Agregado (EV): R$ 2723214.06
+Estimativa para conclusão: R$ 2956.48
+Estimativa no término (EAC): R$ 2956479.46
+Variação no término (VAC): R$ -230539.46
+
+Detalhamento por categoria:
+- Pessoal: R$ 1516434.37 (51.3%)
+- Equipamentos: R$ 408832.53 (13.8%)
+- Software: R$ 408457.07 (13.8%)
+- Serviços: R$ 341949.68 (11.6%)
+- Outros: R$ 277849.33 (9.4%)

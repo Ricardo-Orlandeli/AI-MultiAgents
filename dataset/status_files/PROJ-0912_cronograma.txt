@@ -1,0 +1,22 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A arte de mudar mais facilmente (PROJ-0912)
+Data: 11/07/2025
+Gerente: Mateus Teixeira
+
+Status atual: Concluído
+Percentual de conclusão: 100.0%
+Data de início: 31/12/2024
+Data de término planejada: 05/10/2025
+Data de término real/prevista: 29/10/2025
+Atraso atual: 0 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 1.04
+Valor Planejado (PV): R$ 413166.73
+Valor Agregado (EV): R$ 598231.00
+
+Tarefas críticas:
+- Testes de aceitação do usuário
+- Migração de dados legados
+- Testes de aceitação do usuário
+
+Tarefas atrasadas:

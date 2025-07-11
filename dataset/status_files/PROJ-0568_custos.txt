@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O poder de mudar com toda a tranquilidade (PROJ-0568)
+Data: 11/07/2025
+Gerente: Yuri Camargo
+
+Orçamento inicial: R$ 3644048.00
+Custo real atual: R$ 3562923.64
+Desvio orçamentário: -2.23%
+Índice de Desempenho de Custo (CPI): 1.02
+Valor Agregado (EV): R$ 3640403.95
+Estimativa para conclusão: R$ 3566.49
+Estimativa no término (EAC): R$ 3566490.13
+Variação no término (VAC): R$ 77557.87
+
+Detalhamento por categoria:
+- Pessoal: R$ 1884917.55 (52.9%)
+- Equipamentos: R$ 590964.79 (16.6%)
+- Software: R$ 403493.30 (11.3%)
+- Serviços: R$ 467112.70 (13.1%)
+- Outros: R$ 216435.31 (6.1%)

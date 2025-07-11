@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A possibilidade de concretizar seus projetos mais rapidamente (PROJ-0457)
+Data: 11/07/2025
+Gerente: Laís Cunha
+
+Orçamento inicial: R$ 4459007.00
+Custo real atual: R$ 2398330.51
+Desvio orçamentário: -5.67%
+Índice de Desempenho de Custo (CPI): 0.94
+Valor Agregado (EV): R$ 2251496.60
+Estimativa para conclusão: R$ 2351475.70
+Estimativa no término (EAC): R$ 4749806.21
+Variação no término (VAC): R$ -290799.21
+
+Detalhamento por categoria:
+- Pessoal: R$ 1143684.08 (47.7%)
+- Equipamentos: R$ 502870.53 (21.0%)
+- Software: R$ 182892.94 (7.6%)
+- Serviços: R$ 320251.19 (13.4%)
+- Outros: R$ 248631.78 (10.4%)

@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O conforto de conseguir simplesmente (PROJ-0305)
+Data: 11/07/2025
+Gerente: Joaquim Mendonça
+
+Orçamento inicial: R$ 4241322.00
+Custo real atual: R$ 3462244.68
+Desvio orçamentário: -18.37%
+Índice de Desempenho de Custo (CPI): 1.22
+Valor Agregado (EV): R$ 4237080.68
+Estimativa para conclusão: R$ 3465.71
+Estimativa no término (EAC): R$ 3465710.39
+Variação no término (VAC): R$ 775611.61
+
+Detalhamento por categoria:
+- Pessoal: R$ 1599099.11 (46.2%)
+- Equipamentos: R$ 598913.55 (17.3%)
+- Software: R$ 382065.32 (11.0%)
+- Serviços: R$ 674455.06 (19.5%)
+- Outros: R$ 207711.64 (6.0%)

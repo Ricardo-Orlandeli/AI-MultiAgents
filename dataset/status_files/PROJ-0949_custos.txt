@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O conforto de inovar com toda a tranquilidade (PROJ-0949)
+Data: 11/07/2025
+Gerente: Thales Campos
+
+Orçamento inicial: R$ 4446877.00
+Custo real atual: R$ 3291370.52
+Desvio orçamentário: -25.98%
+Índice de Desempenho de Custo (CPI): 0.81
+Valor Agregado (EV): R$ 2672058.91
+Estimativa para conclusão: R$ 2186173.34
+Estimativa no término (EAC): R$ 5477543.86
+Variação no término (VAC): R$ -1030666.86
+
+Detalhamento por categoria:
+- Pessoal: R$ 1609535.58 (48.9%)
+- Equipamentos: R$ 360989.00 (11.0%)
+- Software: R$ 425665.74 (12.9%)
+- Serviços: R$ 592887.37 (18.0%)
+- Outros: R$ 302292.82 (9.2%)

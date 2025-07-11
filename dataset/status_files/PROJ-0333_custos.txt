@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A possibilidade de avançar mais facilmente (PROJ-0333)
+Data: 11/07/2025
+Gerente: Kamilly Rezende
+
+Orçamento inicial: R$ 4145254.00
+Custo real atual: R$ 3405655.41
+Desvio orçamentário: -17.84%
+Índice de Desempenho de Custo (CPI): 1.22
+Valor Agregado (EV): R$ 4141108.75
+Estimativa para conclusão: R$ 3409.06
+Estimativa no término (EAC): R$ 3409064.48
+Variação no término (VAC): R$ 736189.52
+
+Detalhamento por categoria:
+- Pessoal: R$ 1745389.51 (51.2%)
+- Equipamentos: R$ 601604.55 (17.7%)
+- Software: R$ 347377.30 (10.2%)
+- Serviços: R$ 460908.59 (13.5%)
+- Outros: R$ 250375.46 (7.4%)

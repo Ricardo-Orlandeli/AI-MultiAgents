@@ -1,0 +1,23 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A arte de evoluir com força total (PROJ-0639)
+Data: 11/07/2025
+Gerente: Pedro Lucas Gonçalves
+
+Status atual: Atrasado
+Percentual de conclusão: 79.6%
+Data de início: 16/07/2023
+Data de término planejada: 09/06/2024
+Data de término real/prevista: 24/11/2024
+Atraso atual: 397 dias
+Motivo do atraso: Problemas de comunicação
+Índice de Desempenho de Cronograma (SPI): 0.80
+Valor Planejado (PV): R$ 4529996.00
+Valor Agregado (EV): R$ 3607722.69
+
+Tarefas críticas:
+- Testes de segurança
+- Implementação do módulo de exportação de dados
+- Testes de aceitação do usuário
+
+Tarefas atrasadas:
+- Implementação do módulo de exportação de dados

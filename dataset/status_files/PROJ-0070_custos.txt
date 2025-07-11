@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O conforto de avançar de maneira eficaz (PROJ-0070)
+Data: 11/07/2025
+Gerente: Sr. Leandro Leão
+
+Orçamento inicial: R$ 4020000.00
+Custo real atual: R$ 4257408.00
+Desvio orçamentário: 5.91%
+Índice de Desempenho de Custo (CPI): 0.94
+Valor Agregado (EV): R$ 4015980.00
+Estimativa para conclusão: R$ 4261.67
+Estimativa no término (EAC): R$ 4261669.67
+Variação no término (VAC): R$ -241669.67
+
+Detalhamento por categoria:
+- Pessoal: R$ 2028457.43 (47.6%)
+- Equipamentos: R$ 749095.96 (17.6%)
+- Software: R$ 257664.34 (6.1%)
+- Serviços: R$ 887704.55 (20.9%)
+- Outros: R$ 334485.73 (7.9%)

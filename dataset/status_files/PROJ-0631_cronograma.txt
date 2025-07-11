@@ -1,0 +1,24 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A possibilidade de atingir seus objetivos direto da fonte (PROJ-0631)
+Data: 11/07/2025
+Gerente: Srta. Ana Clara Aparecida
+
+Status atual: Em andamento
+Percentual de conclusão: 99.9%
+Data de início: 11/07/2024
+Data de término planejada: 24/04/2025
+Data de término real/prevista: 26/04/2025
+Atraso atual: 78 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 0.89
+Valor Planejado (PV): R$ 1808612.00
+Valor Agregado (EV): R$ 1806803.39
+
+Tarefas críticas:
+- Implementação do módulo de análise de dados
+- Integração com sistema de pagamentos
+- Desenvolvimento do painel administrativo
+- Integração com sistema de pagamentos
+- Implementação do módulo de análise de dados
+
+Tarefas atrasadas:

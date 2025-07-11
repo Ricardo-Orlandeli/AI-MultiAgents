@@ -1,0 +1,19 @@
+RELATÓRIO DE STATUS DE ESCOPO
+Projeto: A arte de mudar mais facilmente (PROJ-0240)
+Data: 11/07/2025
+Gerente: Rael Castro
+
+Escopo original: Sistema para a arte de mudar mais facilmente
+Houve mudança de escopo: Não
+Descrição das mudanças: N/A
+Impacto no cronograma: 0 dias
+Impacto no custo: R$ 0.00
+
+Solicitações de mudança:
+
+Requisitos atuais:
+- REQ-01: O sistema deve ser compatível com dispositivos móveis
+- REQ-02: O sistema deve ser compatível com navegadores modernos
+- REQ-03: O sistema deve registrar logs de auditoria
+- REQ-04: O sistema deve registrar logs de auditoria
+- REQ-05: O sistema deve ter alta disponibilidade (99.9%)

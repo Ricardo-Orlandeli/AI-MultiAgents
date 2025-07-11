@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A segurança de conseguir mais rapidamente (PROJ-0351)
+Data: 11/07/2025
+Gerente: Marcos Vinicius da Conceição
+
+Orçamento inicial: R$ 953576.00
+Custo real atual: R$ 1082713.28
+Desvio orçamentário: 13.54%
+Índice de Desempenho de Custo (CPI): 0.88
+Valor Agregado (EV): R$ 952622.42
+Estimativa para conclusão: R$ 1083.80
+Estimativa no término (EAC): R$ 1083797.08
+Variação no término (VAC): R$ -130221.08
+
+Detalhamento por categoria:
+- Pessoal: R$ 530165.48 (49.0%)
+- Equipamentos: R$ 175949.43 (16.3%)
+- Software: R$ 144910.32 (13.4%)
+- Serviços: R$ 177460.12 (16.4%)
+- Outros: R$ 54227.93 (5.0%)

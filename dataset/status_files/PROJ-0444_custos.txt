@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A simplicidade de inovar com confiança (PROJ-0444)
+Data: 11/07/2025
+Gerente: Dr. Eduardo Sá
+
+Orçamento inicial: R$ 911682.00
+Custo real atual: R$ 1027862.16
+Desvio orçamentário: 12.74%
+Índice de Desempenho de Custo (CPI): 0.89
+Valor Agregado (EV): R$ 911682.00
+Estimativa para conclusão: R$ 0.00
+Estimativa no término (EAC): R$ 1027862.16
+Variação no término (VAC): R$ -116180.16
+
+Detalhamento por categoria:
+- Pessoal: R$ 571072.11 (55.6%)
+- Equipamentos: R$ 157715.13 (15.3%)
+- Software: R$ 126910.65 (12.3%)
+- Serviços: R$ 121908.50 (11.9%)
+- Outros: R$ 50255.77 (4.9%)

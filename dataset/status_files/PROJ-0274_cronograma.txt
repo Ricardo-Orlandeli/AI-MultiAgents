@@ -1,0 +1,24 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A arte de concretizar seus projetos mais facilmente (PROJ-0274)
+Data: 11/07/2025
+Gerente: Josué Mendonça
+
+Status atual: Atrasado
+Percentual de conclusão: 66.5%
+Data de início: 15/09/2024
+Data de término planejada: 30/05/2025
+Data de término real/prevista: 03/07/2025
+Atraso atual: 42 dias
+Motivo do atraso: Atraso na entrega de componentes por fornecedores
+Índice de Desempenho de Cronograma (SPI): 0.67
+Valor Planejado (PV): R$ 1605422.00
+Valor Agregado (EV): R$ 1068060.37
+
+Tarefas críticas:
+- Desenvolvimento da interface do usuário
+- Desenvolvimento do painel administrativo
+- Implementação do sistema de backup
+
+Tarefas atrasadas:
+- Implementação do sistema de backup
+- Desenvolvimento da interface do usuário

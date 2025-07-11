@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A vantagem de avançar com força total (PROJ-0339)
+Data: 11/07/2025
+Gerente: Antônio Souza
+
+Orçamento inicial: R$ 215521.00
+Custo real atual: R$ 63104.86
+Desvio orçamentário: 9.34%
+Índice de Desempenho de Custo (CPI): 0.87
+Valor Agregado (EV): R$ 54898.53
+Estimativa para conclusão: R$ 184632.58
+Estimativa no término (EAC): R$ 247737.44
+Variação no término (VAC): R$ -32216.44
+
+Detalhamento por categoria:
+- Pessoal: R$ 34526.47 (54.7%)
+- Equipamentos: R$ 9890.60 (15.7%)
+- Software: R$ 4346.39 (6.9%)
+- Serviços: R$ 8628.93 (13.7%)
+- Outros: R$ 5712.46 (9.1%)

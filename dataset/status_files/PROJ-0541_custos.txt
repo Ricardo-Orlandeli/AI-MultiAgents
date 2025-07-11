@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A liberdade de ganhar com confiança (PROJ-0541)
+Data: 11/07/2025
+Gerente: Ana Julia Nunes
+
+Orçamento inicial: R$ 243595.00
+Custo real atual: R$ 251915.24
+Desvio orçamentário: 3.42%
+Índice de Desempenho de Custo (CPI): 0.68
+Valor Agregado (EV): R$ 170315.96
+Estimativa para conclusão: R$ 108387.42
+Estimativa no término (EAC): R$ 360302.66
+Variação no término (VAC): R$ -116707.66
+
+Detalhamento por categoria:
+- Pessoal: R$ 112686.52 (44.7%)
+- Equipamentos: R$ 48692.68 (19.3%)
+- Software: R$ 22380.91 (8.9%)
+- Serviços: R$ 43306.49 (17.2%)
+- Outros: R$ 24848.64 (9.9%)

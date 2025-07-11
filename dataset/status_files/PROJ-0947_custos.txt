@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O direito de evoluir com confiança (PROJ-0947)
+Data: 11/07/2025
+Gerente: Ravi Lucca Ramos
+
+Orçamento inicial: R$ 4383722.00
+Custo real atual: R$ 3468865.35
+Desvio orçamentário: -20.87%
+Índice de Desempenho de Custo (CPI): 1.20
+Valor Agregado (EV): R$ 4177404.81
+Estimativa para conclusão: R$ 171323.25
+Estimativa no término (EAC): R$ 3640188.60
+Variação no término (VAC): R$ 743533.40
+
+Detalhamento por categoria:
+- Pessoal: R$ 1714388.70 (49.4%)
+- Equipamentos: R$ 664109.33 (19.1%)
+- Software: R$ 388764.38 (11.2%)
+- Serviços: R$ 488423.04 (14.1%)
+- Outros: R$ 213179.89 (6.1%)

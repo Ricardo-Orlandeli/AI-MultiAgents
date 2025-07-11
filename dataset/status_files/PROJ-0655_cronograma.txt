@@ -1,0 +1,27 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A segurança de inovar simplesmente (PROJ-0655)
+Data: 11/07/2025
+Gerente: Eduardo Mendonça
+
+Status atual: Atrasado
+Percentual de conclusão: 64.0%
+Data de início: 15/02/2024
+Data de término planejada: 06/02/2025
+Data de término real/prevista: 26/07/2025
+Atraso atual: 155 dias
+Motivo do atraso: Rotatividade de pessoal-chave
+Índice de Desempenho de Cronograma (SPI): 0.64
+Valor Planejado (PV): R$ 516309.00
+Valor Agregado (EV): R$ 330471.18
+
+Tarefas críticas:
+- Migração de dados legados
+- Desenvolvimento do módulo de autenticação
+- Desenvolvimento da interface do usuário
+- Configuração da infraestrutura
+- Migração de dados legados
+
+Tarefas atrasadas:
+- Configuração da infraestrutura
+- Desenvolvimento da interface do usuário
+- Migração de dados legados

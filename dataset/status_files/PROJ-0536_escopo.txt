@@ -1,0 +1,21 @@
+RELATÓRIO DE STATUS DE ESCOPO
+Projeto: A segurança de atingir seus objetivos antes de tudo (PROJ-0536)
+Data: 11/07/2025
+Gerente: Ana Julia Santos
+
+Escopo original: Sistema para a segurança de atingir seus objetivos antes de tudo
+Houve mudança de escopo: Sim
+Descrição das mudanças: Redução do escopo devido a restrições orçamentárias
+Impacto no cronograma: 11 dias
+Impacto no custo: R$ 296220.05
+
+Solicitações de mudança:
+- SCM-01: Implementação de módulo de exportação de dados
+- SCM-02: Alteração na interface do usuário
+
+Requisitos atuais:
+- REQ-01: O sistema deve permitir exportação de dados em formato CSV
+- REQ-02: O sistema deve ter alta disponibilidade (99.9%)
+- REQ-03: O sistema deve permitir autenticação de usuários
+- REQ-04: O sistema deve ser compatível com dispositivos móveis
+- REQ-05: O sistema deve ter documentação completa

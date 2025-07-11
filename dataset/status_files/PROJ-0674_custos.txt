@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A possibilidade de evoluir simplesmente (PROJ-0674)
+Data: 11/07/2025
+Gerente: Dante Castro
+
+Orçamento inicial: R$ 3187072.00
+Custo real atual: R$ 2456043.56
+Desvio orçamentário: -22.94%
+Índice de Desempenho de Custo (CPI): 0.85
+Valor Agregado (EV): R$ 2081584.65
+Estimativa para conclusão: R$ 1304354.88
+Estimativa no término (EAC): R$ 3760398.44
+Variação no término (VAC): R$ -573326.44
+
+Detalhamento por categoria:
+- Pessoal: R$ 1344345.72 (54.7%)
+- Equipamentos: R$ 299367.61 (12.2%)
+- Software: R$ 316899.07 (12.9%)
+- Serviços: R$ 296184.23 (12.1%)
+- Outros: R$ 199246.94 (8.1%)

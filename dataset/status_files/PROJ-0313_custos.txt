@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A certeza de avançar sem preocupação (PROJ-0313)
+Data: 11/07/2025
+Gerente: Vinícius Sousa
+
+Orçamento inicial: R$ 2963354.00
+Custo real atual: R$ 3006497.19
+Desvio orçamentário: 3.95%
+Índice de Desempenho de Custo (CPI): 0.97
+Valor Agregado (EV): R$ 2917184.51
+Estimativa para conclusão: R$ 47583.01
+Estimativa no término (EAC): R$ 3054080.21
+Variação no término (VAC): R$ -90726.21
+
+Detalhamento por categoria:
+- Pessoal: R$ 1650247.13 (54.9%)
+- Equipamentos: R$ 307129.86 (10.2%)
+- Software: R$ 278459.34 (9.3%)
+- Serviços: R$ 526043.53 (17.5%)
+- Outros: R$ 244617.33 (8.1%)

@@ -1,0 +1,35 @@
+RELATÓRIO DE STATUS DE RISCOS
+Projeto: A liberdade de conseguir mais rapidamente (PROJ-0561)
+Data: 11/07/2025
+Gerente: Gael Henrique Pires
+
+Riscos identificados:
+- R01: Requisitos mal definidos
+  Probabilidade: 3/5, Impacto: 3/5, Nível: Médio
+  Mitigação: Realizar testes de aceitação com usuários-chave
+
+- R02: Dependências externas não cumpridas
+  Probabilidade: 2/5, Impacto: 5/5, Nível: Médio
+  Mitigação: Realizar testes de aceitação com usuários-chave
+
+- R03: Falhas de segurança
+  Probabilidade: 4/5, Impacto: 5/5, Nível: Alto
+  Mitigação: Implementar redundância de infraestrutura
+
+- R04: Estimativas imprecisas
+  Probabilidade: 1/5, Impacto: 5/5, Nível: Baixo
+  Mitigação: Contratar pessoal adicional
+
+Riscos ocorridos:
+- R03 (ocorrido em 15/11/2024)
+  Impacto real: Problemas de qualidade
+  Ações tomadas: Realocação de recursos
+
+- R01 (ocorrido em 28/12/2023)
+  Impacto real: Problemas de qualidade
+  Ações tomadas: Implementação de controles adicionais
+
+- R04 (ocorrido em 19/02/2025)
+  Impacto real: Redução de funcionalidades
+  Ações tomadas: Realocação de recursos
+

@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A liberdade de inovar em estado puro (PROJ-0120)
+Data: 11/07/2025
+Gerente: Sr. Yago Carvalho
+
+Orçamento inicial: R$ 1491642.00
+Custo real atual: R$ 816670.52
+Desvio orçamentário: -45.25%
+Índice de Desempenho de Custo (CPI): 0.77
+Valor Agregado (EV): R$ 630846.92
+Estimativa para conclusão: R$ 1114352.71
+Estimativa no término (EAC): R$ 1931023.23
+Variação no término (VAC): R$ -439381.23
+
+Detalhamento por categoria:
+- Pessoal: R$ 448091.25 (54.9%)
+- Equipamentos: R$ 95471.56 (11.7%)
+- Software: R$ 80433.08 (9.8%)
+- Serviços: R$ 139167.25 (17.0%)
+- Outros: R$ 53507.38 (6.6%)

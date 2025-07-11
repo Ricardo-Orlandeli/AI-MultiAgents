@@ -1,0 +1,27 @@
+RELATÓRIO DE STATUS DE ESCOPO
+Projeto: A simplicidade de mudar sem preocupação (PROJ-0905)
+Data: 11/07/2025
+Gerente: Luna Gomes
+
+Escopo original: Sistema para a simplicidade de mudar sem preocupação
+Houve mudança de escopo: Sim
+Descrição das mudanças: Mudança na plataforma de implementação
+Impacto no cronograma: 15 dias
+Impacto no custo: R$ 73554.56
+
+Solicitações de mudança:
+- SCM-01: Alteração nos requisitos de desempenho
+- SCM-02: Alteração na interface do usuário
+- SCM-03: Alteração nos requisitos de desempenho
+- SCM-04: Implementação de módulo de exportação de dados
+
+Requisitos atuais:
+- REQ-01: O sistema deve passar por testes de segurança
+- REQ-02: O sistema deve permitir integração com APIs externas
+- REQ-03: O sistema deve permitir exportação de dados em formato CSV
+- REQ-04: O sistema deve implementar criptografia de dados sensíveis
+- REQ-05: O sistema deve ter interface responsiva
+- REQ-06: O sistema deve permitir autenticação de usuários
+- REQ-07: O sistema deve permitir exportação de dados em formato CSV
+- REQ-08: O sistema deve ter controle de acesso baseado em perfis
+- REQ-09: O sistema deve implementar criptografia de dados sensíveis

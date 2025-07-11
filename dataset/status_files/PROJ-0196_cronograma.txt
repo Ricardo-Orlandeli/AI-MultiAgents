@@ -1,0 +1,23 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A segurança de atingir seus objetivos com toda a tranquilidade (PROJ-0196)
+Data: 11/07/2025
+Gerente: Ana Cecília Pinto
+
+Status atual: Em andamento
+Percentual de conclusão: 39.0%
+Data de início: 11/04/2025
+Data de término planejada: 25/11/2025
+Data de término real/prevista: 30/11/2025
+Atraso atual: 0 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 1.00
+Valor Planejado (PV): R$ 1333789.00
+Valor Agregado (EV): R$ 1304176.85
+
+Tarefas críticas:
+- Configuração da infraestrutura
+- Desenvolvimento da interface do usuário
+- Implementação do módulo de exportação de dados
+- Testes de segurança
+
+Tarefas atrasadas:

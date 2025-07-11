@@ -1,0 +1,24 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A liberdade de inovar com força total (PROJ-0969)
+Data: 11/07/2025
+Gerente: Emanuelly Pimenta
+
+Status atual: Cancelado
+Percentual de conclusão: 61.4%
+Data de início: 30/04/2025
+Data de término planejada: 09/07/2025
+Data de término real/prevista: 11/06/2025
+Atraso atual: 2 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 0.61
+Valor Planejado (PV): R$ 1886220.00
+Valor Agregado (EV): R$ 1158500.51
+
+Tarefas críticas:
+- Implementação do módulo de exportação de dados
+- Configuração do ambiente de produção
+- Implementação do módulo de análise de dados
+- Testes de segurança
+- Implementação do módulo de análise de dados
+
+Tarefas atrasadas:

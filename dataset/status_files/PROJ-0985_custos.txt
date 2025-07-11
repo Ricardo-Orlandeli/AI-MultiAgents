@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A arte de mudar com toda a tranquilidade (PROJ-0985)
+Data: 11/07/2025
+Gerente: Rebeca Marques
+
+Orçamento inicial: R$ 123133.00
+Custo real atual: R$ 99729.46
+Desvio orçamentário: -19.01%
+Índice de Desempenho de Custo (CPI): 1.23
+Valor Agregado (EV): R$ 123009.87
+Estimativa para conclusão: R$ 99.83
+Estimativa no término (EAC): R$ 99829.29
+Variação no término (VAC): R$ 23303.71
+
+Detalhamento por categoria:
+- Pessoal: R$ 50104.98 (50.2%)
+- Equipamentos: R$ 17781.27 (17.8%)
+- Software: R$ 9780.13 (9.8%)
+- Serviços: R$ 16121.96 (16.2%)
+- Outros: R$ 5941.12 (6.0%)

@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O direito de mudar mais rapidamente (PROJ-0527)
+Data: 11/07/2025
+Gerente: Bruno Teixeira
+
+Orçamento inicial: R$ 1969277.00
+Custo real atual: R$ 725676.32
+Desvio orçamentário: -24.11%
+Índice de Desempenho de Custo (CPI): 0.76
+Valor Agregado (EV): R$ 553869.80
+Estimativa para conclusão: R$ 1854456.57
+Estimativa no término (EAC): R$ 2580132.89
+Variação no término (VAC): R$ -610855.89
+
+Detalhamento por categoria:
+- Pessoal: R$ 385491.67 (53.1%)
+- Equipamentos: R$ 121919.58 (16.8%)
+- Software: R$ 66355.88 (9.1%)
+- Serviços: R$ 82679.96 (11.4%)
+- Outros: R$ 69229.23 (9.5%)

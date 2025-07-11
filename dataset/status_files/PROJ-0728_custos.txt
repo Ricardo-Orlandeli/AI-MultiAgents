@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A certeza de mudar antes de tudo (PROJ-0728)
+Data: 11/07/2025
+Gerente: Fernanda Borges
+
+Orçamento inicial: R$ 4268072.00
+Custo real atual: R$ 3489715.75
+Desvio orçamentário: -18.24%
+Índice de Desempenho de Custo (CPI): 1.22
+Valor Agregado (EV): R$ 4263803.93
+Estimativa para conclusão: R$ 3493.21
+Estimativa no término (EAC): R$ 3493208.96
+Variação no término (VAC): R$ 774863.04
+
+Detalhamento por categoria:
+- Pessoal: R$ 1598067.53 (45.8%)
+- Equipamentos: R$ 647710.86 (18.6%)
+- Software: R$ 198924.81 (5.7%)
+- Serviços: R$ 714211.08 (20.5%)
+- Outros: R$ 330801.48 (9.5%)

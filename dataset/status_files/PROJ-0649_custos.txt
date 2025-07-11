@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O direito de avançar de maneira eficaz (PROJ-0649)
+Data: 11/07/2025
+Gerente: Maria Fernanda da Mata
+
+Orçamento inicial: R$ 3479889.00
+Custo real atual: R$ 2140235.09
+Desvio orçamentário: -34.00%
+Índice de Desempenho de Custo (CPI): 0.94
+Valor Agregado (EV): R$ 2003193.81
+Estimativa para conclusão: R$ 1577717.96
+Estimativa no término (EAC): R$ 3717953.04
+Variação no término (VAC): R$ -238064.04
+
+Detalhamento por categoria:
+- Pessoal: R$ 1029225.67 (48.1%)
+- Equipamentos: R$ 396275.76 (18.5%)
+- Software: R$ 117369.39 (5.5%)
+- Serviços: R$ 407590.79 (19.0%)
+- Outros: R$ 189773.47 (8.9%)

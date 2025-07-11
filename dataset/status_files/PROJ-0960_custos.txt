@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O prazer de atingir seus objetivos sem preocupação (PROJ-0960)
+Data: 11/07/2025
+Gerente: Sr. Otávio Abreu
+
+Orçamento inicial: R$ 3408391.00
+Custo real atual: R$ 3931898.58
+Desvio orçamentário: 15.36%
+Índice de Desempenho de Custo (CPI): 0.87
+Valor Agregado (EV): R$ 3404982.61
+Estimativa para conclusão: R$ 3935.83
+Estimativa no término (EAC): R$ 3935834.41
+Variação no término (VAC): R$ -527443.41
+
+Detalhamento por categoria:
+- Pessoal: R$ 2187879.52 (55.6%)
+- Equipamentos: R$ 609492.26 (15.5%)
+- Software: R$ 350182.95 (8.9%)
+- Serviços: R$ 482388.56 (12.3%)
+- Outros: R$ 301955.28 (7.7%)

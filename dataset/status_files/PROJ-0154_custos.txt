@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A simplicidade de realizar seus sonhos naturalmente (PROJ-0154)
+Data: 11/07/2025
+Gerente: Eduardo das Neves
+
+Orçamento inicial: R$ 2060895.00
+Custo real atual: R$ 2233941.69
+Desvio orçamentário: 8.40%
+Índice de Desempenho de Custo (CPI): 0.92
+Valor Agregado (EV): R$ 2058150.93
+Estimativa para conclusão: R$ 2978.45
+Estimativa no término (EAC): R$ 2236920.14
+Variação no término (VAC): R$ -176025.14
+
+Detalhamento por categoria:
+- Pessoal: R$ 1274158.18 (57.0%)
+- Equipamentos: R$ 267744.13 (12.0%)
+- Software: R$ 142014.33 (6.4%)
+- Serviços: R$ 295789.31 (13.2%)
+- Outros: R$ 254235.74 (11.4%)

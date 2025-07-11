@@ -1,0 +1,26 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: O conforto de avançar antes de tudo (PROJ-0900)
+Data: 11/07/2025
+Gerente: Noah Aparecida
+
+Status atual: Em andamento
+Percentual de conclusão: 90.4%
+Data de início: 29/02/2024
+Data de término planejada: 03/01/2025
+Data de término real/prevista: 21/12/2024
+Atraso atual: 189 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 0.95
+Valor Planejado (PV): R$ 1942258.00
+Valor Agregado (EV): R$ 1755530.94
+
+Tarefas críticas:
+- Implementação do sistema de backup
+- Implementação do sistema de backup
+- Implementação do sistema de backup
+- Implementação do módulo de notificações
+- Desenvolvimento da interface do usuário
+- Implementação do módulo de notificações
+- Desenvolvimento da interface do usuário
+
+Tarefas atrasadas:

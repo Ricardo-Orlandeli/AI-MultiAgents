@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A simplicidade de concretizar seus projetos naturalmente (PROJ-0407)
+Data: 11/07/2025
+Gerente: Ravy Jesus
+
+Orçamento inicial: R$ 2491269.00
+Custo real atual: R$ 2354712.52
+Desvio orçamentário: -5.48%
+Índice de Desempenho de Custo (CPI): 0.86
+Valor Agregado (EV): R$ 2024234.14
+Estimativa para conclusão: R$ 543283.42
+Estimativa no término (EAC): R$ 2897995.94
+Variação no término (VAC): R$ -406726.94
+
+Detalhamento por categoria:
+- Pessoal: R$ 1254113.44 (53.3%)
+- Equipamentos: R$ 311684.87 (13.2%)
+- Software: R$ 321864.33 (13.7%)
+- Serviços: R$ 333529.32 (14.2%)
+- Outros: R$ 133520.56 (5.7%)

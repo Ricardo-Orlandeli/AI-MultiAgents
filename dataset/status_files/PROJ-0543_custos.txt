@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A certeza de inovar simplesmente (PROJ-0543)
+Data: 11/07/2025
+Gerente: Dr. João Gabriel Macedo
+
+Orçamento inicial: R$ 1758362.00
+Custo real atual: R$ 1481668.56
+Desvio orçamentário: -15.74%
+Índice de Desempenho de Custo (CPI): 1.12
+Valor Agregado (EV): R$ 1662511.01
+Estimativa para conclusão: R$ 85424.64
+Estimativa no término (EAC): R$ 1567093.20
+Variação no término (VAC): R$ 191268.80
+
+Detalhamento por categoria:
+- Pessoal: R$ 883740.23 (59.6%)
+- Equipamentos: R$ 162965.43 (11.0%)
+- Software: R$ 80631.10 (5.4%)
+- Serviços: R$ 245949.61 (16.6%)
+- Outros: R$ 108382.19 (7.3%)

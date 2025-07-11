@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O conforto de realizar seus sonhos antes de tudo (PROJ-0751)
+Data: 11/07/2025
+Gerente: Emilly Aragão
+
+Orçamento inicial: R$ 3134994.00
+Custo real atual: R$ 3558216.33
+Desvio orçamentário: 13.50%
+Índice de Desempenho de Custo (CPI): 0.88
+Valor Agregado (EV): R$ 3131859.01
+Estimativa para conclusão: R$ 3561.78
+Estimativa no término (EAC): R$ 3561778.11
+Variação no término (VAC): R$ -426784.11
+
+Detalhamento por categoria:
+- Pessoal: R$ 1888669.88 (53.1%)
+- Equipamentos: R$ 672921.73 (18.9%)
+- Software: R$ 265872.24 (7.5%)
+- Serviços: R$ 422682.32 (11.9%)
+- Outros: R$ 308070.17 (8.7%)

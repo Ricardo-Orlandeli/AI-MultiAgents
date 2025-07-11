@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O poder de atingir seus objetivos de maneira eficaz (PROJ-0278)
+Data: 11/07/2025
+Gerente: Eduarda Brito
+
+Orçamento inicial: R$ 3920854.00
+Custo real atual: R$ 4015412.80
+Desvio orçamentário: 2.41%
+Índice de Desempenho de Custo (CPI): 0.98
+Valor Agregado (EV): R$ 3920854.00
+Estimativa para conclusão: R$ 0.00
+Estimativa no término (EAC): R$ 4015412.80
+Variação no término (VAC): R$ -94558.80
+
+Detalhamento por categoria:
+- Pessoal: R$ 2033328.03 (50.6%)
+- Equipamentos: R$ 658350.45 (16.4%)
+- Software: R$ 554553.35 (13.8%)
+- Serviços: R$ 565823.70 (14.1%)
+- Outros: R$ 203357.27 (5.1%)

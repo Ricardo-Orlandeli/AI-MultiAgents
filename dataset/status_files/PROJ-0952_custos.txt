@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A possibilidade de realizar seus sonhos com toda a tranquilidade (PROJ-0952)
+Data: 11/07/2025
+Gerente: Maria Luiza Aparecida
+
+Orçamento inicial: R$ 3586822.00
+Custo real atual: R$ 4231601.37
+Desvio orçamentário: 17.98%
+Índice de Desempenho de Custo (CPI): 0.85
+Valor Agregado (EV): R$ 3586822.00
+Estimativa para conclusão: R$ 0.00
+Estimativa no término (EAC): R$ 4231601.37
+Variação no término (VAC): R$ -644779.37
+
+Detalhamento por categoria:
+- Pessoal: R$ 2457875.03 (58.1%)
+- Equipamentos: R$ 476689.59 (11.3%)
+- Software: R$ 363912.25 (8.6%)
+- Serviços: R$ 563998.69 (13.3%)
+- Outros: R$ 369125.81 (8.7%)

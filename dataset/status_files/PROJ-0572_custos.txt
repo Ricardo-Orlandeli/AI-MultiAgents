@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O prazer de mudar direto da fonte (PROJ-0572)
+Data: 11/07/2025
+Gerente: Vitor Hugo Camargo
+
+Orçamento inicial: R$ 2436791.00
+Custo real atual: R$ 2523285.95
+Desvio orçamentário: 3.55%
+Índice de Desempenho de Custo (CPI): 0.97
+Valor Agregado (EV): R$ 2436791.00
+Estimativa para conclusão: R$ 0.00
+Estimativa no término (EAC): R$ 2523285.95
+Variação no término (VAC): R$ -86494.95
+
+Detalhamento por categoria:
+- Pessoal: R$ 1313790.48 (52.1%)
+- Equipamentos: R$ 338090.84 (13.4%)
+- Software: R$ 239504.93 (9.5%)
+- Serviços: R$ 336780.30 (13.3%)
+- Outros: R$ 295119.40 (11.7%)

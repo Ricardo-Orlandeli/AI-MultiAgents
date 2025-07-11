@@ -1,0 +1,23 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A possibilidade de inovar com toda a tranquilidade (PROJ-0812)
+Data: 11/07/2025
+Gerente: Cecília da Paz
+
+Status atual: Concluído
+Percentual de conclusão: 100.0%
+Data de início: 24/07/2023
+Data de término planejada: 07/10/2023
+Data de término real/prevista: 05/11/2023
+Atraso atual: 643 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 1.08
+Valor Planejado (PV): R$ 4902673.00
+Valor Agregado (EV): R$ 4902673.00
+
+Tarefas críticas:
+- Desenvolvimento do módulo de autenticação
+- Implementação do módulo de relatórios
+- Integração com sistema de pagamentos
+- Implementação do módulo de exportação de dados
+
+Tarefas atrasadas:

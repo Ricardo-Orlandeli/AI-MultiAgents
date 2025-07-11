@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O prazer de conseguir simplesmente (PROJ-0478)
+Data: 11/07/2025
+Gerente: Henrique Melo
+
+Orçamento inicial: R$ 4850714.00
+Custo real atual: R$ 4402548.23
+Desvio orçamentário: -9.24%
+Índice de Desempenho de Custo (CPI): 1.10
+Valor Agregado (EV): R$ 4845863.29
+Estimativa para conclusão: R$ 4406.96
+Estimativa no término (EAC): R$ 4406955.19
+Variação no término (VAC): R$ 443758.81
+
+Detalhamento por categoria:
+- Pessoal: R$ 2398889.44 (54.5%)
+- Equipamentos: R$ 617188.74 (14.0%)
+- Software: R$ 323765.44 (7.4%)
+- Serviços: R$ 717458.56 (16.3%)
+- Outros: R$ 345246.05 (7.8%)

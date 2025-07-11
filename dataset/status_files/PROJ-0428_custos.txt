@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A liberdade de ganhar com confiança (PROJ-0428)
+Data: 11/07/2025
+Gerente: Juliana Dias
+
+Orçamento inicial: R$ 4570771.00
+Custo real atual: R$ 3703570.18
+Desvio orçamentário: 14.72%
+Índice de Desempenho de Custo (CPI): 1.23
+Valor Agregado (EV): R$ 4570771.00
+Estimativa para conclusão: R$ 0.00
+Estimativa no término (EAC): R$ 3703570.18
+Variação no término (VAC): R$ 867200.82
+
+Detalhamento por categoria:
+- Pessoal: R$ 1625717.95 (43.9%)
+- Equipamentos: R$ 683840.61 (18.5%)
+- Software: R$ 491763.08 (13.3%)
+- Serviços: R$ 563073.73 (15.2%)
+- Outros: R$ 339174.80 (9.2%)

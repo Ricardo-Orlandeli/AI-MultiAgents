@@ -1,0 +1,23 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A liberdade de concretizar seus projetos naturalmente (PROJ-0719)
+Data: 11/07/2025
+Gerente: Allana Castro
+
+Status atual: Atrasado
+Percentual de conclusão: 56.5%
+Data de início: 19/06/2024
+Data de término planejada: 18/03/2025
+Data de término real/prevista: 08/07/2025
+Atraso atual: 115 dias
+Motivo do atraso: Problemas técnicos inesperados
+Índice de Desempenho de Cronograma (SPI): 0.56
+Valor Planejado (PV): R$ 1506752.00
+Valor Agregado (EV): R$ 850799.13
+
+Tarefas críticas:
+- Testes de segurança
+- Implementação da API REST
+- Implementação do módulo de relatórios
+
+Tarefas atrasadas:
+- Implementação da API REST

@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O direito de inovar mais rapidamente (PROJ-0117)
+Data: 11/07/2025
+Gerente: Henrique Peixoto
+
+Orçamento inicial: R$ 3223377.00
+Custo real atual: R$ 2248659.42
+Desvio orçamentário: -22.24%
+Índice de Desempenho de Custo (CPI): 1.21
+Valor Agregado (EV): R$ 2712098.25
+Estimativa para conclusão: R$ 423912.29
+Estimativa no término (EAC): R$ 2672571.70
+Variação no término (VAC): R$ 550805.30
+
+Detalhamento por categoria:
+- Pessoal: R$ 1012197.62 (45.0%)
+- Equipamentos: R$ 372222.06 (16.6%)
+- Software: R$ 232575.52 (10.3%)
+- Serviços: R$ 419965.85 (18.7%)
+- Outros: R$ 211698.37 (9.4%)

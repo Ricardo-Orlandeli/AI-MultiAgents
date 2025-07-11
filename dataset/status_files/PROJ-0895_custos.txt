@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A segurança de realizar seus sonhos de maneira eficaz (PROJ-0895)
+Data: 11/07/2025
+Gerente: Rebeca Silva
+
+Orçamento inicial: R$ 698973.00
+Custo real atual: R$ 727170.35
+Desvio orçamentário: 29.62%
+Índice de Desempenho de Custo (CPI): 0.87
+Valor Agregado (EV): R$ 632845.87
+Estimativa para conclusão: R$ 75983.26
+Estimativa no término (EAC): R$ 803153.61
+Variação no término (VAC): R$ -104180.61
+
+Detalhamento por categoria:
+- Pessoal: R$ 394434.34 (54.2%)
+- Equipamentos: R$ 84502.78 (11.6%)
+- Software: R$ 52843.24 (7.3%)
+- Serviços: R$ 131216.65 (18.0%)
+- Outros: R$ 64173.34 (8.8%)

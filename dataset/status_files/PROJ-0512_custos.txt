@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A possibilidade de concretizar seus projetos em estado puro (PROJ-0512)
+Data: 11/07/2025
+Gerente: Sr. Rael Cunha
+
+Orçamento inicial: R$ 867107.00
+Custo real atual: R$ 500219.80
+Desvio orçamentário: -10.26%
+Índice de Desempenho de Custo (CPI): 0.70
+Valor Agregado (EV): R$ 348282.55
+Estimativa para conclusão: R$ 745160.09
+Estimativa no término (EAC): R$ 1245379.89
+Variação no término (VAC): R$ -378272.89
+
+Detalhamento por categoria:
+- Pessoal: R$ 232830.14 (46.5%)
+- Equipamentos: R$ 112274.85 (22.4%)
+- Software: R$ 48515.27 (9.7%)
+- Serviços: R$ 59384.40 (11.9%)
+- Outros: R$ 47215.14 (9.4%)

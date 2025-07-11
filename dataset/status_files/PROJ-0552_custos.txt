@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O direito de inovar antes de tudo (PROJ-0552)
+Data: 11/07/2025
+Gerente: Sra. Alana Farias
+
+Orçamento inicial: R$ 3940606.00
+Custo real atual: R$ 3031634.37
+Desvio orçamentário: 125.06%
+Índice de Desempenho de Custo (CPI): 0.79
+Valor Agregado (EV): R$ 2396612.06
+Estimativa para conclusão: R$ 1953100.87
+Estimativa no término (EAC): R$ 4984735.24
+Variação no término (VAC): R$ -1044129.24
+
+Detalhamento por categoria:
+- Pessoal: R$ 1477877.19 (48.7%)
+- Equipamentos: R$ 425465.40 (14.0%)
+- Software: R$ 268014.64 (8.8%)
+- Serviços: R$ 612119.96 (20.2%)
+- Outros: R$ 248157.17 (8.2%)

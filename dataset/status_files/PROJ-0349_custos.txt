@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A certeza de conseguir de maneira eficaz (PROJ-0349)
+Data: 11/07/2025
+Gerente: Davi Rios
+
+Orçamento inicial: R$ 325836.00
+Custo real atual: R$ 239042.23
+Desvio orçamentário: -26.64%
+Índice de Desempenho de Custo (CPI): 0.86
+Valor Agregado (EV): R$ 205947.78
+Estimativa para conclusão: R$ 139153.46
+Estimativa no término (EAC): R$ 378195.68
+Variação no término (VAC): R$ -52359.68
+
+Detalhamento por categoria:
+- Pessoal: R$ 130600.22 (54.6%)
+- Equipamentos: R$ 43055.57 (18.0%)
+- Software: R$ 17336.42 (7.3%)
+- Serviços: R$ 34103.54 (14.3%)
+- Outros: R$ 13946.48 (5.8%)

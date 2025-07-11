@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O conforto de atingir seus objetivos naturalmente (PROJ-0495)
+Data: 11/07/2025
+Gerente: Olivia Gomes
+
+Orçamento inicial: R$ 3551977.00
+Custo real atual: R$ 2902903.41
+Desvio orçamentário: -18.27%
+Índice de Desempenho de Custo (CPI): 1.13
+Valor Agregado (EV): R$ 3266600.86
+Estimativa para conclusão: R$ 253602.87
+Estimativa no término (EAC): R$ 3156506.28
+Variação no término (VAC): R$ 395470.72
+
+Detalhamento por categoria:
+- Pessoal: R$ 1375382.63 (47.4%)
+- Equipamentos: R$ 391638.16 (13.5%)
+- Software: R$ 355039.05 (12.2%)
+- Serviços: R$ 500411.76 (17.2%)
+- Outros: R$ 280431.81 (9.7%)

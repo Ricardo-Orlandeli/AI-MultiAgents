@@ -1,0 +1,24 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: O conforto de realizar seus sonhos mais rapidamente (PROJ-0764)
+Data: 11/07/2025
+Gerente: Isis da Cruz
+
+Status atual: Em andamento
+Percentual de conclusão: 99.9%
+Data de início: 13/04/2025
+Data de término planejada: 01/07/2025
+Data de término real/prevista: 07/07/2025
+Atraso atual: 10 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 0.98
+Valor Planejado (PV): R$ 1713974.00
+Valor Agregado (EV): R$ 1712260.03
+
+Tarefas críticas:
+- Configuração da infraestrutura
+- Desenvolvimento do painel administrativo
+- Integração com sistema de pagamentos
+- Configuração da infraestrutura
+- Configuração da infraestrutura
+
+Tarefas atrasadas:

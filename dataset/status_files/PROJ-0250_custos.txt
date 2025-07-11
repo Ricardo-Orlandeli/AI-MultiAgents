@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A arte de avançar mais facilmente (PROJ-0250)
+Data: 11/07/2025
+Gerente: Thiago Fonseca
+
+Orçamento inicial: R$ 1416364.00
+Custo real atual: R$ 1420915.54
+Desvio orçamentário: 0.32%
+Índice de Desempenho de Custo (CPI): 0.86
+Valor Agregado (EV): R$ 1218200.36
+Estimativa para conclusão: R$ 231139.15
+Estimativa no término (EAC): R$ 1652054.69
+Variação no término (VAC): R$ -235690.69
+
+Detalhamento por categoria:
+- Pessoal: R$ 601682.70 (42.3%)
+- Equipamentos: R$ 260216.45 (18.3%)
+- Software: R$ 189666.11 (13.3%)
+- Serviços: R$ 244586.03 (17.2%)
+- Outros: R$ 124764.25 (8.8%)

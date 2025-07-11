@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A simplicidade de conseguir mais rapidamente (PROJ-0127)
+Data: 11/07/2025
+Gerente: Ágatha Castro
+
+Orçamento inicial: R$ 314793.00
+Custo real atual: R$ 287955.39
+Desvio orçamentário: -8.53%
+Índice de Desempenho de Custo (CPI): 1.09
+Valor Agregado (EV): R$ 314478.21
+Estimativa para conclusão: R$ 288.24
+Estimativa no término (EAC): R$ 288243.63
+Variação no término (VAC): R$ 26549.37
+
+Detalhamento por categoria:
+- Pessoal: R$ 154050.89 (53.5%)
+- Equipamentos: R$ 42066.78 (14.6%)
+- Software: R$ 16897.33 (5.9%)
+- Serviços: R$ 52674.23 (18.3%)
+- Outros: R$ 22266.16 (7.7%)

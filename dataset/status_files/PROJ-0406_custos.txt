@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O poder de ganhar antes de tudo (PROJ-0406)
+Data: 11/07/2025
+Gerente: Apollo da Cunha
+
+Orçamento inicial: R$ 2684546.00
+Custo real atual: R$ 2150602.34
+Desvio orçamentário: -19.89%
+Índice de Desempenho de Custo (CPI): 1.25
+Valor Agregado (EV): R$ 2681861.45
+Estimativa para conclusão: R$ 2152.76
+Estimativa no término (EAC): R$ 2152755.10
+Variação no término (VAC): R$ 531790.90
+
+Detalhamento por categoria:
+- Pessoal: R$ 1115871.83 (51.9%)
+- Equipamentos: R$ 299317.90 (13.9%)
+- Software: R$ 160598.63 (7.5%)
+- Serviços: R$ 395904.52 (18.4%)
+- Outros: R$ 178909.46 (8.3%)

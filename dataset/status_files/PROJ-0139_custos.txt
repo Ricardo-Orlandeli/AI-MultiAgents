@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O prazer de atingir seus objetivos antes de tudo (PROJ-0139)
+Data: 11/07/2025
+Gerente: Maria Julia Albuquerque
+
+Orçamento inicial: R$ 4619246.00
+Custo real atual: R$ 1445591.71
+Desvio orçamentário: 10.01%
+Índice de Desempenho de Custo (CPI): 0.88
+Valor Agregado (EV): R$ 1272232.22
+Estimativa para conclusão: R$ 3803091.36
+Estimativa no término (EAC): R$ 5248683.07
+Variação no término (VAC): R$ -629437.07
+
+Detalhamento por categoria:
+- Pessoal: R$ 751128.51 (52.0%)
+- Equipamentos: R$ 215187.34 (14.9%)
+- Software: R$ 178811.22 (12.4%)
+- Serviços: R$ 216891.76 (15.0%)
+- Outros: R$ 83572.87 (5.8%)

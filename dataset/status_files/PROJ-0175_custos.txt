@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A possibilidade de mudar mais rapidamente (PROJ-0175)
+Data: 11/07/2025
+Gerente: Ana Luiza Ramos
+
+Orçamento inicial: R$ 4651179.00
+Custo real atual: R$ 3242743.61
+Desvio orçamentário: -30.28%
+Índice de Desempenho de Custo (CPI): 1.19
+Valor Agregado (EV): R$ 3865346.01
+Estimativa para conclusão: R$ 659256.61
+Estimativa no término (EAC): R$ 3902000.22
+Variação no término (VAC): R$ 749178.78
+
+Detalhamento por categoria:
+- Pessoal: R$ 1683243.05 (51.9%)
+- Equipamentos: R$ 533409.18 (16.4%)
+- Software: R$ 323034.05 (10.0%)
+- Serviços: R$ 394981.65 (12.2%)
+- Outros: R$ 308075.68 (9.5%)

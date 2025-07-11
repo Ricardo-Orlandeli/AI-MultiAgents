@@ -1,0 +1,26 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A certeza de evoluir mais facilmente (PROJ-0153)
+Data: 11/07/2025
+Gerente: Melina Sousa
+
+Status atual: Atrasado
+Percentual de conclusão: 69.9%
+Data de início: 13/08/2023
+Data de término planejada: 10/06/2024
+Data de término real/prevista: 07/10/2024
+Atraso atual: 396 dias
+Motivo do atraso: Problemas de comunicação
+Índice de Desempenho de Cronograma (SPI): 0.70
+Valor Planejado (PV): R$ 146706.00
+Valor Agregado (EV): R$ 102562.66
+
+Tarefas críticas:
+- Migração de dados legados
+- Configuração do ambiente de produção
+- Desenvolvimento do módulo de autenticação
+- Integração com sistema de pagamentos
+
+Tarefas atrasadas:
+- Integração com sistema de pagamentos
+- Migração de dados legados
+- Configuração do ambiente de produção

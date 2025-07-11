@@ -1,0 +1,22 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: O conforto de atingir seus objetivos mais facilmente (PROJ-0562)
+Data: 11/07/2025
+Gerente: Ravi Lucca da Costa
+
+Status atual: Em andamento
+Percentual de conclusão: 89.4%
+Data de início: 17/11/2024
+Data de término planejada: 08/06/2025
+Data de término real/prevista: 28/05/2025
+Atraso atual: 33 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 0.91
+Valor Planejado (PV): R$ 2293631.00
+Valor Agregado (EV): R$ 2050274.87
+
+Tarefas críticas:
+- Desenvolvimento do módulo de autenticação
+- Testes de segurança
+- Implementação do módulo de análise de dados
+
+Tarefas atrasadas:

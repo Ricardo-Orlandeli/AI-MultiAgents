@@ -1,0 +1,23 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A arte de concretizar seus projetos sem preocupação (PROJ-0755)
+Data: 11/07/2025
+Gerente: Miguel Aparecida
+
+Status atual: Em andamento
+Percentual de conclusão: 99.9%
+Data de início: 20/09/2024
+Data de término planejada: 01/07/2025
+Data de término real/prevista: 21/06/2025
+Atraso atual: 10 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 0.96
+Valor Planejado (PV): R$ 3149211.00
+Valor Agregado (EV): R$ 3146061.79
+
+Tarefas críticas:
+- Implementação do módulo de notificações
+- Integração com sistema de pagamentos
+- Integração com sistema de pagamentos
+- Integração com sistema de pagamentos
+
+Tarefas atrasadas:

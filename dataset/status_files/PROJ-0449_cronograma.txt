@@ -1,0 +1,27 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A vantagem de realizar seus sonhos com força total (PROJ-0449)
+Data: 11/07/2025
+Gerente: Maria Julia Jesus
+
+Status atual: Em andamento
+Percentual de conclusão: 54.4%
+Data de início: 10/04/2025
+Data de término planejada: 09/10/2025
+Data de término real/prevista: 26/09/2025
+Atraso atual: 0 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 1.02
+Valor Planejado (PV): R$ 658251.91
+Valor Agregado (EV): R$ 707864.74
+
+Tarefas críticas:
+- Migração de dados legados
+- Desenvolvimento da interface do usuário
+- Implementação do módulo de exportação de dados
+- Testes de aceitação do usuário
+- Testes de segurança
+- Integração com sistema de pagamentos
+- Configuração do ambiente de produção
+- Configuração da infraestrutura
+
+Tarefas atrasadas:

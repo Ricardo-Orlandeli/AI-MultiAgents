@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O direito de realizar seus sonhos com toda a tranquilidade (PROJ-0360)
+Data: 11/07/2025
+Gerente: Dr. Arthur da Conceição
+
+Orçamento inicial: R$ 729879.00
+Custo real atual: R$ 800083.21
+Desvio orçamentário: 9.62%
+Índice de Desempenho de Custo (CPI): 0.91
+Valor Agregado (EV): R$ 729879.00
+Estimativa para conclusão: R$ 0.00
+Estimativa no término (EAC): R$ 800083.21
+Variação no término (VAC): R$ -70204.21
+
+Detalhamento por categoria:
+- Pessoal: R$ 421102.48 (52.6%)
+- Equipamentos: R$ 130229.25 (16.3%)
+- Software: R$ 68280.99 (8.5%)
+- Serviços: R$ 122394.77 (15.3%)
+- Outros: R$ 58075.71 (7.3%)

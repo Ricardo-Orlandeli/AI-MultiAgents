@@ -1,0 +1,23 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A liberdade de conseguir com confiança (PROJ-0501)
+Data: 11/07/2025
+Gerente: Oliver Gonçalves
+
+Status atual: Em andamento
+Percentual de conclusão: 99.9%
+Data de início: 16/05/2024
+Data de término planejada: 14/12/2024
+Data de término real/prevista: 22/12/2024
+Atraso atual: 209 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 1.04
+Valor Planejado (PV): R$ 2963171.00
+Valor Agregado (EV): R$ 2960207.83
+
+Tarefas críticas:
+- Configuração do ambiente de produção
+- Implementação do módulo de exportação de dados
+- Implementação do módulo de relatórios
+- Configuração da infraestrutura
+
+Tarefas atrasadas:

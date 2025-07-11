@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A simplicidade de conseguir mais rapidamente (PROJ-0177)
+Data: 11/07/2025
+Gerente: Aylla Cardoso
+
+Orçamento inicial: R$ 1223884.00
+Custo real atual: R$ 1337419.06
+Desvio orçamentário: 9.28%
+Índice de Desempenho de Custo (CPI): 0.92
+Valor Agregado (EV): R$ 1223884.00
+Estimativa para conclusão: R$ 0.00
+Estimativa no término (EAC): R$ 1337419.06
+Variação no término (VAC): R$ -113535.06
+
+Detalhamento por categoria:
+- Pessoal: R$ 584584.37 (43.7%)
+- Equipamentos: R$ 273161.55 (20.4%)
+- Software: R$ 204130.93 (15.3%)
+- Serviços: R$ 192977.38 (14.4%)
+- Outros: R$ 82564.84 (6.2%)

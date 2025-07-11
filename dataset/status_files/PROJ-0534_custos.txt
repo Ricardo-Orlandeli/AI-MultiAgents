@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A segurança de atingir seus objetivos mais rapidamente (PROJ-0534)
+Data: 11/07/2025
+Gerente: Benjamim Pastor
+
+Orçamento inicial: R$ 2354940.00
+Custo real atual: R$ 2161947.02
+Desvio orçamentário: -8.20%
+Índice de Desempenho de Custo (CPI): 1.09
+Valor Agregado (EV): R$ 2354940.00
+Estimativa para conclusão: R$ 0.00
+Estimativa no término (EAC): R$ 2161947.02
+Variação no término (VAC): R$ 192992.98
+
+Detalhamento por categoria:
+- Pessoal: R$ 1145350.34 (53.0%)
+- Equipamentos: R$ 307150.31 (14.2%)
+- Software: R$ 235826.32 (10.9%)
+- Serviços: R$ 368980.07 (17.1%)
+- Outros: R$ 104639.98 (4.8%)

@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O conforto de ganhar com toda a tranquilidade (PROJ-0610)
+Data: 11/07/2025
+Gerente: Cecília da Rosa
+
+Orçamento inicial: R$ 284102.00
+Custo real atual: R$ 266269.85
+Desvio orçamentário: -6.28%
+Índice de Desempenho de Custo (CPI): 1.00
+Valor Agregado (EV): R$ 265651.86
+Estimativa para conclusão: R$ 18493.06
+Estimativa no término (EAC): R$ 284762.91
+Variação no término (VAC): R$ -660.91
+
+Detalhamento por categoria:
+- Pessoal: R$ 159853.87 (60.0%)
+- Equipamentos: R$ 32823.55 (12.3%)
+- Software: R$ 18360.10 (6.9%)
+- Serviços: R$ 34379.23 (12.9%)
+- Outros: R$ 20853.09 (7.8%)

@@ -1,0 +1,26 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A simplicidade de realizar seus sonhos sem preocupação (PROJ-0914)
+Data: 11/07/2025
+Gerente: Eloah Peixoto
+
+Status atual: Atrasado
+Percentual de conclusão: 87.6%
+Data de início: 26/08/2023
+Data de término planejada: 24/08/2024
+Data de término real/prevista: 29/10/2024
+Atraso atual: 321 dias
+Motivo do atraso: Falhas em testes de aceitação
+Índice de Desempenho de Cronograma (SPI): 0.88
+Valor Planejado (PV): R$ 3876844.00
+Valor Agregado (EV): R$ 3394659.04
+
+Tarefas críticas:
+- Implementação do módulo de exportação de dados
+- Implementação da API REST
+- Implementação do módulo de análise de dados
+- Integração com sistema de pagamentos
+
+Tarefas atrasadas:
+- Integração com sistema de pagamentos
+- Implementação da API REST
+- Implementação do módulo de análise de dados

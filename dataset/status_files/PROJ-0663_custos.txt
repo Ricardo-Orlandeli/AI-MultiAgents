@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A liberdade de ganhar com confiança (PROJ-0663)
+Data: 11/07/2025
+Gerente: Ana Laura Casa Grande
+
+Orçamento inicial: R$ 4729680.00
+Custo real atual: R$ 4984514.96
+Desvio orçamentário: 5.39%
+Índice de Desempenho de Custo (CPI): 0.95
+Valor Agregado (EV): R$ 4724950.32
+Estimativa para conclusão: R$ 4989.50
+Estimativa no término (EAC): R$ 4989504.46
+Variação no término (VAC): R$ -259824.46
+
+Detalhamento por categoria:
+- Pessoal: R$ 2715202.18 (54.5%)
+- Equipamentos: R$ 619770.20 (12.4%)
+- Software: R$ 447062.42 (9.0%)
+- Serviços: R$ 752284.69 (15.1%)
+- Outros: R$ 450195.47 (9.0%)

@@ -1,0 +1,25 @@
+RELATÓRIO DE STATUS DE ESCOPO
+Projeto: A possibilidade de realizar seus sonhos de maneira eficaz (PROJ-0315)
+Data: 11/07/2025
+Gerente: Srta. Maria Laura Siqueira
+
+Escopo original: Sistema para a possibilidade de realizar seus sonhos de maneira eficaz
+Houve mudança de escopo: Sim
+Descrição das mudanças: Mudança na plataforma de implementação
+Impacto no cronograma: 24 dias
+Impacto no custo: R$ 233718.20
+
+Solicitações de mudança:
+- SCM-01: Alteração nos requisitos de desempenho
+- SCM-02: Alteração nos requisitos de desempenho
+- SCM-03: Alteração na interface do usuário
+
+Requisitos atuais:
+- REQ-01: O sistema deve passar por testes de segurança
+- REQ-02: O sistema deve permitir integração com APIs externas
+- REQ-03: O sistema deve permitir autenticação de usuários
+- REQ-04: O sistema deve ser compatível com dispositivos móveis
+- REQ-05: O sistema deve ter backup automático diário
+- REQ-06: O sistema deve ter backup automático diário
+- REQ-07: O sistema deve ser compatível com navegadores modernos
+- REQ-08: O sistema deve ser compatível com dispositivos móveis

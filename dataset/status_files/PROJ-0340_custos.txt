@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A vantagem de concretizar seus projetos em estado puro (PROJ-0340)
+Data: 11/07/2025
+Gerente: Bernardo Silva
+
+Orçamento inicial: R$ 4182235.00
+Custo real atual: R$ 4337598.12
+Desvio orçamentário: 3.71%
+Índice de Desempenho de Custo (CPI): 0.96
+Valor Agregado (EV): R$ 4178052.77
+Estimativa para conclusão: R$ 4341.94
+Estimativa no término (EAC): R$ 4341940.06
+Variação no término (VAC): R$ -159705.06
+
+Detalhamento por categoria:
+- Pessoal: R$ 2409723.71 (55.6%)
+- Equipamentos: R$ 440759.67 (10.2%)
+- Software: R$ 550933.85 (12.7%)
+- Serviços: R$ 660257.30 (15.2%)
+- Outros: R$ 275923.59 (6.4%)

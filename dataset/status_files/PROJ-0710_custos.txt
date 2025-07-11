@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A arte de concretizar seus projetos com confiança (PROJ-0710)
+Data: 11/07/2025
+Gerente: Raul Lopes
+
+Orçamento inicial: R$ 3928516.00
+Custo real atual: R$ 3186712.83
+Desvio orçamentário: -18.88%
+Índice de Desempenho de Custo (CPI): 1.00
+Valor Agregado (EV): R$ 3175964.56
+Estimativa para conclusão: R$ 755098.26
+Estimativa no término (EAC): R$ 3941811.09
+Variação no término (VAC): R$ -13295.09
+
+Detalhamento por categoria:
+- Pessoal: R$ 1605868.90 (50.4%)
+- Equipamentos: R$ 649192.89 (20.4%)
+- Software: R$ 318771.25 (10.0%)
+- Serviços: R$ 415848.08 (13.0%)
+- Outros: R$ 197031.71 (6.2%)

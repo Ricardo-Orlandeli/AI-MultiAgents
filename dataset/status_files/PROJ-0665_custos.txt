@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O direito de avançar com força total (PROJ-0665)
+Data: 11/07/2025
+Gerente: Maria Fernanda Garcia
+
+Orçamento inicial: R$ 3890469.00
+Custo real atual: R$ 4156060.67
+Desvio orçamentário: 6.83%
+Índice de Desempenho de Custo (CPI): 0.89
+Valor Agregado (EV): R$ 3712420.86
+Estimativa para conclusão: R$ 199325.16
+Estimativa no término (EAC): R$ 4355385.83
+Variação no término (VAC): R$ -464916.83
+
+Detalhamento por categoria:
+- Pessoal: R$ 1933512.51 (46.5%)
+- Equipamentos: R$ 691032.02 (16.6%)
+- Software: R$ 443615.87 (10.7%)
+- Serviços: R$ 690719.35 (16.6%)
+- Outros: R$ 397180.92 (9.6%)

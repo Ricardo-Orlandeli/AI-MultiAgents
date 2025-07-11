@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A certeza de ganhar antes de tudo (PROJ-0761)
+Data: 11/07/2025
+Gerente: José Miguel Alves
+
+Orçamento inicial: R$ 990960.00
+Custo real atual: R$ 264697.26
+Desvio orçamentário: -5.51%
+Índice de Desempenho de Custo (CPI): 0.75
+Valor Agregado (EV): R$ 198263.88
+Estimativa para conclusão: R$ 1058309.22
+Estimativa no término (EAC): R$ 1323006.48
+Variação no término (VAC): R$ -332046.48
+
+Detalhamento por categoria:
+- Pessoal: R$ 142830.68 (54.0%)
+- Equipamentos: R$ 33707.55 (12.7%)
+- Software: R$ 32478.66 (12.3%)
+- Serviços: R$ 40316.26 (15.2%)
+- Outros: R$ 15364.11 (5.8%)

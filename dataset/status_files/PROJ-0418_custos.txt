@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A simplicidade de ganhar com confiança (PROJ-0418)
+Data: 11/07/2025
+Gerente: Maria Isis da Cunha
+
+Orçamento inicial: R$ 3945533.00
+Custo real atual: R$ 3381196.79
+Desvio orçamentário: 5.22%
+Índice de Desempenho de Custo (CPI): 0.93
+Valor Agregado (EV): R$ 3157209.62
+Estimativa para conclusão: R$ 844250.71
+Estimativa no término (EAC): R$ 4225447.50
+Variação no término (VAC): R$ -279914.50
+
+Detalhamento por categoria:
+- Pessoal: R$ 1738752.02 (51.4%)
+- Equipamentos: R$ 361635.58 (10.7%)
+- Software: R$ 396737.26 (11.7%)
+- Serviços: R$ 565918.97 (16.7%)
+- Outros: R$ 318152.97 (9.4%)

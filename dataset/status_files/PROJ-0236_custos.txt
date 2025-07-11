@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A simplicidade de realizar seus sonhos com força total (PROJ-0236)
+Data: 11/07/2025
+Gerente: Heitor da Rosa
+
+Orçamento inicial: R$ 1071574.00
+Custo real atual: R$ 719228.86
+Desvio orçamentário: -32.88%
+Índice de Desempenho de Custo (CPI): 1.20
+Valor Agregado (EV): R$ 863785.20
+Estimativa para conclusão: R$ 173014.89
+Estimativa no término (EAC): R$ 892243.75
+Variação no término (VAC): R$ 179330.25
+
+Detalhamento por categoria:
+- Pessoal: R$ 349160.30 (48.5%)
+- Equipamentos: R$ 117911.08 (16.4%)
+- Software: R$ 101337.35 (14.1%)
+- Serviços: R$ 102425.86 (14.2%)
+- Outros: R$ 48394.26 (6.7%)

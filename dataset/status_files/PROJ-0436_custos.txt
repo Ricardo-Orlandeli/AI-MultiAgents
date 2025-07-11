@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O poder de ganhar simplesmente (PROJ-0436)
+Data: 11/07/2025
+Gerente: Levi Porto
+
+Orçamento inicial: R$ 1363750.00
+Custo real atual: R$ 131490.54
+Desvio orçamentário: 9.57%
+Índice de Desempenho de Custo (CPI): 0.92
+Valor Agregado (EV): R$ 120520.09
+Estimativa para conclusão: R$ 1356396.00
+Estimativa no término (EAC): R$ 1487886.53
+Variação no término (VAC): R$ -124136.53
+
+Detalhamento por categoria:
+- Pessoal: R$ 77885.19 (59.2%)
+- Equipamentos: R$ 19944.22 (15.2%)
+- Software: R$ 8218.90 (6.3%)
+- Serviços: R$ 14415.07 (11.0%)
+- Outros: R$ 11027.16 (8.4%)

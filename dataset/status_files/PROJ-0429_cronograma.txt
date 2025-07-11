@@ -1,0 +1,25 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A arte de avançar com força total (PROJ-0429)
+Data: 11/07/2025
+Gerente: Fernando Sousa
+
+Status atual: Atrasado
+Percentual de conclusão: 9.0%
+Data de início: 21/05/2025
+Data de término planejada: 29/03/2026
+Data de término real/prevista: 12/09/2026
+Atraso atual: 0 dias
+Motivo do atraso: Dependências externas não cumpridas
+Índice de Desempenho de Cronograma (SPI): 0.55
+Valor Planejado (PV): R$ 801671.62
+Valor Agregado (EV): R$ 443108.81
+
+Tarefas críticas:
+- Migração de dados legados
+- Desenvolvimento da interface do usuário
+- Implementação do sistema de backup
+- Implementação do módulo de exportação de dados
+
+Tarefas atrasadas:
+- Implementação do módulo de exportação de dados
+- Migração de dados legados

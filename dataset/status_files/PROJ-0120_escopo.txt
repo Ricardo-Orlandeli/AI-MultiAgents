@@ -1,0 +1,31 @@
+RELATÓRIO DE STATUS DE ESCOPO
+Projeto: A liberdade de inovar em estado puro (PROJ-0120)
+Data: 11/07/2025
+Gerente: Sr. Yago Carvalho
+
+Escopo original: Sistema para a liberdade de inovar em estado puro
+Houve mudança de escopo: Sim
+Descrição das mudanças: Mudança na plataforma de implementação
+Impacto no cronograma: 11 dias
+Impacto no custo: R$ 199865.15
+
+Solicitações de mudança:
+- SCM-01: Implementação de módulo de exportação de dados
+- SCM-02: Implementação de módulo de exportação de dados
+- SCM-03: Adição de funcionalidade de autenticação biométrica
+- SCM-04: Mudança na arquitetura do sistema
+
+Requisitos atuais:
+- REQ-01: O sistema deve implementar criptografia de dados sensíveis
+- REQ-02: O sistema deve permitir integração com APIs externas
+- REQ-03: O sistema deve passar por testes de segurança
+- REQ-04: O sistema deve ter controle de acesso baseado em perfis
+- REQ-05: O sistema deve ter interface responsiva
+- REQ-06: O sistema deve permitir autenticação de usuários
+- REQ-07: O sistema deve registrar logs de auditoria
+- REQ-08: O sistema deve ter interface responsiva
+- REQ-09: O sistema deve ter documentação completa
+- REQ-10: O sistema deve ter backup automático diário
+- REQ-11: O sistema deve ter documentação completa
+- REQ-12: O sistema deve ter alta disponibilidade (99.9%)
+- REQ-13: O sistema deve implementar criptografia de dados sensíveis

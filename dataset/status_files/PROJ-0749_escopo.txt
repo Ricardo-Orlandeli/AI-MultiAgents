@@ -1,0 +1,27 @@
+RELATÓRIO DE STATUS DE ESCOPO
+Projeto: A possibilidade de realizar seus sonhos com toda a tranquilidade (PROJ-0749)
+Data: 11/07/2025
+Gerente: Marina Cavalcanti
+
+Escopo original: Sistema para a possibilidade de realizar seus sonhos com toda a tranquilidade
+Houve mudança de escopo: Sim
+Descrição das mudanças: Alteração nas especificações técnicas
+Impacto no cronograma: 40 dias
+Impacto no custo: R$ 255914.76
+
+Solicitações de mudança:
+- SCM-01: Integração com sistema legado
+- SCM-02: Implementação de módulo de exportação de dados
+- SCM-03: Alteração na interface do usuário
+- SCM-04: Adição de funcionalidade de autenticação biométrica
+
+Requisitos atuais:
+- REQ-01: O sistema deve permitir exportação de dados em formato CSV
+- REQ-02: O sistema deve implementar criptografia de dados sensíveis
+- REQ-03: O sistema deve ter documentação completa
+- REQ-04: O sistema deve passar por testes de segurança
+- REQ-05: O sistema deve ter alta disponibilidade (99.9%)
+- REQ-06: O sistema deve permitir integração com APIs externas
+- REQ-07: O sistema deve ter controle de acesso baseado em perfis
+- REQ-08: O sistema deve implementar criptografia de dados sensíveis
+- REQ-09: O sistema deve ter interface responsiva

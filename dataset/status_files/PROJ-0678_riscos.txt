@@ -1,0 +1,31 @@
+RELATÓRIO DE STATUS DE RISCOS
+Projeto: A liberdade de evoluir simplesmente (PROJ-0678)
+Data: 11/07/2025
+Gerente: Maria Alice Barbosa
+
+Riscos identificados:
+- R01: Problemas de integração com sistemas legados
+  Probabilidade: 4/5, Impacto: 3/5, Nível: Médio
+  Mitigação: Estabelecer canais de comunicação claros
+
+- R02: Problemas de comunicação com stakeholders
+  Probabilidade: 4/5, Impacto: 1/5, Nível: Baixo
+  Mitigação: Melhorar a documentação de requisitos
+
+- R03: Mudanças regulatórias
+  Probabilidade: 3/5, Impacto: 2/5, Nível: Baixo
+  Mitigação: Realizar testes de aceitação com usuários-chave
+
+Riscos ocorridos:
+- R01 (ocorrido em 14/06/2025)
+  Impacto real: Aumento de 10% nos custos
+  Ações tomadas: Ajuste no cronograma
+
+- R03 (ocorrido em 22/06/2025)
+  Impacto real: Redução de funcionalidades
+  Ações tomadas: Comunicação intensificada com stakeholders
+
+- R02 (ocorrido em 05/07/2025)
+  Impacto real: Falhas de segurança
+  Ações tomadas: Implementação do plano de contingência
+

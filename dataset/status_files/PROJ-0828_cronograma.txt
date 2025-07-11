@@ -1,0 +1,23 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: O direito de conseguir direto da fonte (PROJ-0828)
+Data: 11/07/2025
+Gerente: Bento Pinto
+
+Status atual: Em andamento
+Percentual de conclusão: 99.9%
+Data de início: 01/07/2024
+Data de término planejada: 06/05/2025
+Data de término real/prevista: 26/04/2025
+Atraso atual: 66 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 0.88
+Valor Planejado (PV): R$ 1549830.00
+Valor Agregado (EV): R$ 1548280.17
+
+Tarefas críticas:
+- Desenvolvimento do painel administrativo
+- Testes de segurança
+- Implementação do módulo de exportação de dados
+- Testes de segurança
+
+Tarefas atrasadas:

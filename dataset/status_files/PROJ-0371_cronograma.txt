@@ -1,0 +1,26 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A possibilidade de concretizar seus projetos de maneira eficaz (PROJ-0371)
+Data: 11/07/2025
+Gerente: Evelyn Campos
+
+Status atual: Atrasado
+Percentual de conclusão: 69.7%
+Data de início: 24/11/2023
+Data de término planejada: 01/04/2024
+Data de término real/prevista: 11/08/2024
+Atraso atual: 466 dias
+Motivo do atraso: Mudanças de requisitos não planejadas
+Índice de Desempenho de Cronograma (SPI): 0.70
+Valor Planejado (PV): R$ 774683.00
+Valor Agregado (EV): R$ 540001.85
+
+Tarefas críticas:
+- Implementação da API REST
+- Desenvolvimento do módulo de autenticação
+- Configuração da infraestrutura
+- Implementação do sistema de backup
+
+Tarefas atrasadas:
+- Desenvolvimento do módulo de autenticação
+- Implementação do sistema de backup
+- Configuração da infraestrutura

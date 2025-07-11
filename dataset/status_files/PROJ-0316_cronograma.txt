@@ -1,0 +1,25 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A vantagem de evoluir naturalmente (PROJ-0316)
+Data: 11/07/2025
+Gerente: Gustavo Henrique Alves
+
+Status atual: Atrasado
+Percentual de conclusão: 82.6%
+Data de início: 18/07/2023
+Data de término planejada: 08/06/2024
+Data de término real/prevista: 14/10/2024
+Atraso atual: 398 dias
+Motivo do atraso: Problemas de integração com sistemas legados
+Índice de Desempenho de Cronograma (SPI): 0.83
+Valor Planejado (PV): R$ 3320574.00
+Valor Agregado (EV): R$ 2742468.78
+
+Tarefas críticas:
+- Desenvolvimento do módulo de autenticação
+- Implementação do sistema de backup
+- Implementação do módulo de exportação de dados
+
+Tarefas atrasadas:
+- Desenvolvimento do módulo de autenticação
+- Implementação do sistema de backup
+- Implementação do módulo de exportação de dados

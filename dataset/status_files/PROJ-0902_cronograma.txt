@@ -1,0 +1,27 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A segurança de conseguir com força total (PROJ-0902)
+Data: 11/07/2025
+Gerente: Théo Rezende
+
+Status atual: Atrasado
+Percentual de conclusão: 72.6%
+Data de início: 07/06/2024
+Data de término planejada: 07/12/2024
+Data de término real/prevista: 27/12/2024
+Atraso atual: 216 dias
+Motivo do atraso: Recursos insuficientes
+Índice de Desempenho de Cronograma (SPI): 0.73
+Valor Planejado (PV): R$ 1893802.00
+Valor Agregado (EV): R$ 1375328.72
+
+Tarefas críticas:
+- Implementação do módulo de exportação de dados
+- Migração de dados legados
+- Testes de segurança
+- Implementação do módulo de análise de dados
+- Configuração da infraestrutura
+
+Tarefas atrasadas:
+- Implementação do módulo de análise de dados
+- Configuração da infraestrutura
+- Implementação do módulo de exportação de dados

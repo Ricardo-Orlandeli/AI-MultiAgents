@@ -1,0 +1,26 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A arte de mudar antes de tudo (PROJ-0482)
+Data: 11/07/2025
+Gerente: João Gabriel Teixeira
+
+Status atual: Atrasado
+Percentual de conclusão: 55.8%
+Data de início: 09/08/2024
+Data de término planejada: 04/02/2025
+Data de término real/prevista: 02/05/2025
+Atraso atual: 157 dias
+Motivo do atraso: Problemas técnicos inesperados
+Índice de Desempenho de Cronograma (SPI): 0.56
+Valor Planejado (PV): R$ 1149973.00
+Valor Agregado (EV): R$ 641301.67
+
+Tarefas críticas:
+- Testes de aceitação do usuário
+- Configuração do ambiente de produção
+- Desenvolvimento do módulo de autenticação
+- Desenvolvimento do painel administrativo
+- Desenvolvimento do módulo de autenticação
+- Implementação do módulo de análise de dados
+
+Tarefas atrasadas:
+- Configuração do ambiente de produção

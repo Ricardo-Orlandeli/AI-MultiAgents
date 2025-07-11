@@ -1,0 +1,6 @@
+id,nome,data_inicio,data_termino_planejada,data_termino_real,orcamento_inicial,gerente,status,percentual_conclusao,spi,cpi,mudanca_escopo
+PROJ-0001,A certeza de realizar seus sonhos simplesmente,19/10/2024,11/10/2025,04/10/2025,2357113,João Guilherme da Cruz,Em andamento,66.65505224178389,1.0530098462268733,0.9135853456305207,Não
+PROJ-0002,O prazer de inovar naturalmente,21/11/2024,23/09/2025,13/01/2026,1737377,Ian Andrade,Atrasado,59.5299557769982,0.7851795891276487,0.667746333100956,Não
+PROJ-0003,A simplicidade de avançar antes de tudo,03/11/2023,20/02/2024,18/02/2024,1816889,João Montenegro,Em andamento,99.9,1.105873844617569,0.9302335519573345,Não
+PROJ-0004,O direito de concretizar seus projetos simplesmente,26/07/2023,19/11/2023,21/11/2023,2430572,Heloísa Pastor,Concluído,100.0,1.0428891208043565,0.9384899298633147,Sim
+PROJ-0005,O direito de ganhar mais rapidamente,02/04/2025,19/07/2025,09/08/2025,4022518,Enzo Garcia,Em andamento,98.86884609703374,0.9895101950305661,0.8481024660981225,Não

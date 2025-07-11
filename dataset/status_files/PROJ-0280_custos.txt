@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A segurança de realizar seus sonhos mais rapidamente (PROJ-0280)
+Data: 11/07/2025
+Gerente: Lorenzo Sousa
+
+Orçamento inicial: R$ 695462.00
+Custo real atual: R$ 597734.84
+Desvio orçamentário: -14.05%
+Índice de Desempenho de Custo (CPI): 1.16
+Valor Agregado (EV): R$ 695462.00
+Estimativa para conclusão: R$ 0.00
+Estimativa no término (EAC): R$ 597734.84
+Variação no término (VAC): R$ 97727.16
+
+Detalhamento por categoria:
+- Pessoal: R$ 324987.32 (54.4%)
+- Equipamentos: R$ 98636.13 (16.5%)
+- Software: R$ 41697.56 (7.0%)
+- Serviços: R$ 100998.15 (16.9%)
+- Outros: R$ 31415.68 (5.3%)

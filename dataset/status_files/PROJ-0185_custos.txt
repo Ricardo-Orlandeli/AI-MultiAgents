@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O conforto de avançar de maneira eficaz (PROJ-0185)
+Data: 11/07/2025
+Gerente: Ana Carolina da Mota
+
+Orçamento inicial: R$ 2387553.00
+Custo real atual: R$ 1776631.47
+Desvio orçamentário: -25.59%
+Índice de Desempenho de Custo (CPI): 0.75
+Valor Agregado (EV): R$ 1328255.22
+Estimativa para conclusão: R$ 1416882.65
+Estimativa no término (EAC): R$ 3193514.11
+Variação no término (VAC): R$ -805961.11
+
+Detalhamento por categoria:
+- Pessoal: R$ 841555.66 (47.4%)
+- Equipamentos: R$ 319269.51 (18.0%)
+- Software: R$ 247563.17 (13.9%)
+- Serviços: R$ 228033.98 (12.8%)
+- Outros: R$ 140209.15 (7.9%)

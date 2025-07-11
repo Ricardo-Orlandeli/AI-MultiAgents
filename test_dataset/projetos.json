@@ -1,0 +1,1510 @@
+[
+  {
+    "id": "PROJ-0001",
+    "nome": "A certeza de realizar seus sonhos simplesmente",
+    "data_inicio": "19/10/2024",
+    "data_termino_planejada": "11/10/2025",
+    "data_termino_real": "04/10/2025",
+    "duracao_planejada": 357,
+    "orcamento_inicial": 2357113,
+    "gerente": "João Guilherme da Cruz",
+    "status": "Em andamento",
+    "percentual_conclusao": 66.65505224178389,
+    "atraso_atual": 0,
+    "motivo_atraso": "N/A",
+    "valor_planejado": 1749677.7170868348,
+    "valor_agregado": 1571134.9015478797,
+    "custo_real_atual": 1719746.172661673,
+    "spi": 1.0530098462268733,
+    "cpi": 0.9135853456305207,
+    "estimativa_custo_conclusao": 860322.5765510382,
+    "estimativa_final_projeto": 2580068.749212711,
+    "variacao_final_projeto": -222955.74921271112,
+    "desvio_orcamento": -1.710689010487998,
+    "categorias_custos": {
+      "Pessoal": 1054630.5273851682,
+      "Equipamentos": 198175.60553494046,
+      "Software": 168088.957158727,
+      "Serviços": 187757.28809563784,
+      "Outros": 111093.79448719943
+    },
+    "mudanca_escopo": "Não",
+    "descricao_mudancas": "N/A",
+    "impacto_cronograma": 0,
+    "impacto_custo": 0,
+    "solicitacoes_mudanca": [],
+    "requisitos": [
+      "REQ-01: O sistema deve ter controle de acesso baseado em perfis",
+      "REQ-02: O sistema deve permitir exportação de dados em formato CSV",
+      "REQ-03: O sistema deve ser escalável para suportar até 10.000 usuários simultâneos",
+      "REQ-04: O sistema deve ter alta disponibilidade (99.9%)",
+      "REQ-05: O sistema deve ser escalável para suportar até 10.000 usuários simultâneos"
+    ],
+    "tarefas_criticas": [
+      "Implementação do módulo de notificações",
+      "Configuração do ambiente de produção",
+      "Testes de aceitação do usuário",
+      "Desenvolvimento da interface do usuário",
+      "Migração de dados legados"
+    ],
+    "tarefas_atrasadas": [],
+    "riscos": [
+      {
+        "id": "R01",
+        "descricao": "Problemas de compatibilidade",
+        "probabilidade": 2,
+        "impacto": 4,
+        "nivel": "Médio",
+        "plano_mitigacao": "Fortalecer medidas de segurança"
+      },
+      {
+        "id": "R02",
+        "descricao": "Dependências externas não cumpridas",
+        "probabilidade": 1,
+        "impacto": 2,
+        "nivel": "Baixo",
+        "plano_mitigacao": "Otimizar código e infraestrutura"
+      },
+      {
+        "id": "R03",
+        "descricao": "Mudanças regulatórias",
+        "probabilidade": 3,
+        "impacto": 3,
+        "nivel": "Médio",
+        "plano_mitigacao": "Realizar testes de integração antecipados"
+      },
+      {
+        "id": "R04",
+        "descricao": "Rotatividade de pessoal-chave",
+        "probabilidade": 3,
+        "impacto": 1,
+        "nivel": "Baixo",
+        "plano_mitigacao": "Otimizar código e infraestrutura"
+      },
+      {
+        "id": "R05",
+        "descricao": "Requisitos mal definidos",
+        "probabilidade": 1,
+        "impacto": 3,
+        "nivel": "Baixo",
+        "plano_mitigacao": "Buscar fornecedores alternativos"
+      },
+      {
+        "id": "R06",
+        "descricao": "Estimativas imprecisas",
+        "probabilidade": 5,
+        "impacto": 3,
+        "nivel": "Médio",
+        "plano_mitigacao": "Implementar plano de contingência"
+      },
+      {
+        "id": "R07",
+        "descricao": "Rotatividade de pessoal-chave",
+        "probabilidade": 4,
+        "impacto": 5,
+        "nivel": "Alto",
+        "plano_mitigacao": "Estabelecer canais de comunicação claros"
+      },
+      {
+        "id": "R08",
+        "descricao": "Resistência dos usuários à mudança",
+        "probabilidade": 4,
+        "impacto": 1,
+        "nivel": "Baixo",
+        "plano_mitigacao": "Fortalecer medidas de segurança"
+      },
+      {
+        "id": "R09",
+        "descricao": "Problemas de compatibilidade",
+        "probabilidade": 5,
+        "impacto": 3,
+        "nivel": "Médio",
+        "plano_mitigacao": "Realizar testes de integração antecipados"
+      }
+    ],
+    "riscos_ocorridos": [
+      {
+        "id": "R02",
+        "data": "30/04/2025",
+        "impacto_real": "Redução de funcionalidades",
+        "acoes_tomadas": "Comunicação intensificada com stakeholders"
+      },
+      {
+        "id": "R03",
+        "data": "01/12/2024",
+        "impacto_real": "Falhas de segurança",
+        "acoes_tomadas": "Ajuste no cronograma"
+      }
+    ],
+    "stakeholders": [
+      {
+        "nome": "Davi Miguel Sousa",
+        "papel": "Gerente de Área",
+        "interesse": "Alto",
+        "influencia": "Baixo"
+      },
+      {
+        "nome": "Yago Borges",
+        "papel": "Equipe de Desenvolvimento",
+        "interesse": "Médio",
+        "influencia": "Alto"
+      },
+      {
+        "nome": "Mariana Andrade",
+        "papel": "Equipe de Desenvolvimento",
+        "interesse": "Alto",
+        "influencia": "Médio"
+      },
+      {
+        "nome": "Caleb Cunha",
+        "papel": "Fornecedor",
+        "interesse": "Médio",
+        "influencia": "Baixo"
+      },
+      {
+        "nome": "Thiago Pereira",
+        "papel": "Regulador",
+        "interesse": "Alto",
+        "influencia": "Médio"
+      },
+      {
+        "nome": "Gael Henrique Silva",
+        "papel": "Regulador",
+        "interesse": "Alto",
+        "influencia": "Baixo"
+      },
+      {
+        "nome": "Ísis Leão",
+        "papel": "Fornecedor",
+        "interesse": "Baixo",
+        "influencia": "Baixo"
+      },
+      {
+        "nome": "Pietro Pastor",
+        "papel": "Gerente de Área",
+        "interesse": "Baixo",
+        "influencia": "Baixo"
+      }
+    ],
+    "plano_comunicacao": [
+      {
+        "tipo": "Workshop",
+        "frequencia": "Semanal",
+        "audiencia": "Stakeholders Chave",
+        "responsavel": "André Teixeira"
+      },
+      {
+        "tipo": "Apresentação",
+        "frequencia": "Mensal",
+        "audiencia": "Gerência",
+        "responsavel": "Otávio Fernandes"
+      },
+      {
+        "tipo": "Workshop",
+        "frequencia": "Semanal",
+        "audiencia": "Gerência",
+        "responsavel": "Eduardo Cunha"
+      }
+    ],
+    "metricas_qualidade": [
+      {
+        "metrica": "Tempo Médio para Correção de Defeitos",
+        "valor_atual": 82.27,
+        "meta": 76.67
+      },
+      {
+        "metrica": "Cobertura de Testes",
+        "valor_atual": 27.14,
+        "meta": 20.83
+      },
+      {
+        "metrica": "Número de Bugs Críticos",
+        "valor_atual": 87.7,
+        "meta": 30.58
+      }
+    ],
+    "alocacao_recursos": [
+      {
+        "recurso": "Sr. Caleb Garcia",
+        "tipo": "Software",
+        "alocacao_percentual": 78,
+        "custo_hora": 45.72
+      },
+      {
+        "recurso": "Boxeador",
+        "tipo": "Software",
+        "alocacao_percentual": 91,
+        "custo_hora": 117.02
+      },
+      {
+        "recurso": "Dr. João Aparecida",
+        "tipo": "Equipamento",
+        "alocacao_percentual": 94,
+        "custo_hora": 91.89
+      },
+      {
+        "recurso": "Zelador",
+        "tipo": "Pessoa",
+        "alocacao_percentual": 85,
+        "custo_hora": 108.83
+      },
+      {
+        "recurso": "Zoe Campos",
+        "tipo": "Pessoa",
+        "alocacao_percentual": 39,
+        "custo_hora": 132.94
+      },
+      {
+        "recurso": "Anna Liz Novaes",
+        "tipo": "Equipamento",
+        "alocacao_percentual": 96,
+        "custo_hora": 31.43
+      },
+      {
+        "recurso": "Luiz Miguel Oliveira",
+        "tipo": "Equipamento",
+        "alocacao_percentual": 87,
+        "custo_hora": 65.25
+      },
+      {
+        "recurso": "Bernardo Aparecida",
+        "tipo": "Pessoa",
+        "alocacao_percentual": 34,
+        "custo_hora": 142.71
+      },
+      {
+        "recurso": "Heloísa Vargas",
+        "tipo": "Equipamento",
+        "alocacao_percentual": 63,
+        "custo_hora": 40.08
+      },
+      {
+        "recurso": "Bruno da Conceição",
+        "tipo": "Equipamento",
+        "alocacao_percentual": 20,
+        "custo_hora": 191.69
+      },
+      {
+        "recurso": "Mateus da Mota",
+        "tipo": "Equipamento",
+        "alocacao_percentual": 84,
+        "custo_hora": 157.15
+      },
+      {
+        "recurso": "Maria Clara Castro",
+        "tipo": "Pessoa",
+        "alocacao_percentual": 100,
+        "custo_hora": 73.72
+      },
+      {
+        "recurso": "Dr. Gustavo Henrique Rios",
+        "tipo": "Software",
+        "alocacao_percentual": 45,
+        "custo_hora": 47.51
+      },
+      {
+        "recurso": "Brayan Pereira",
+        "tipo": "Software",
+        "alocacao_percentual": 87,
+        "custo_hora": 185.33
+      },
+      {
+        "recurso": "Eloá Nascimento",
+        "tipo": "Equipamento",
+        "alocacao_percentual": 22,
+        "custo_hora": 40.14
+      }
+    ],
+    "dependencias": [],
+    "licoes_aprendidas": [
+      {
+        "licao": "A alocação adequada de recursos impacta o cronograma.",
+        "categoria": "Processo"
+      },
+      {
+        "licao": "A alocação adequada de recursos impacta o cronograma.",
+        "categoria": "Processo"
+      }
+    ]
+  },
+  {
+    "id": "PROJ-0002",
+    "nome": "O prazer de inovar naturalmente",
+    "data_inicio": "21/11/2024",
+    "data_termino_planejada": "23/09/2025",
+    "data_termino_real": "13/01/2026",
+    "duracao_planejada": 306,
+    "orcamento_inicial": 1737377,
+    "gerente": "Ian Andrade",
+    "status": "Atrasado",
+    "percentual_conclusao": 59.5299557769982,
+    "atraso_atual": 0,
+    "motivo_atraso": "Recursos insuficientes",
+    "valor_planejado": 1317227.0065359476,
+    "valor_agregado": 1034259.759779738,
+    "custo_real_atual": 1548881.227062267,
+    "spi": 0.7851795891276487,
+    "cpi": 0.667746333100956,
+    "estimativa_custo_conclusao": 1052970.5748514507,
+    "estimativa_final_projeto": 2601851.8019137178,
+    "variacao_final_projeto": -864474.8019137178,
+    "desvio_orcamento": 17.586507061947152,
+    "categorias_custos": {
+      "Pessoal": 865094.1967262032,
+      "Equipamentos": 234745.1486152833,
+      "Software": 166101.78575403144,
+      "Serviços": 182984.68896626297,
+      "Outros": 99955.407000486
+    },
+    "mudanca_escopo": "Não",
+    "descricao_mudancas": "N/A",
+    "impacto_cronograma": 0,
+    "impacto_custo": 0,
+    "solicitacoes_mudanca": [],
+    "requisitos": [
+      "REQ-01: O sistema deve ter controle de acesso baseado em perfis",
+      "REQ-02: O sistema deve permitir exportação de dados em formato CSV",
+      "REQ-03: O sistema deve registrar logs de auditoria",
+      "REQ-04: O sistema deve permitir exportação de dados em formato CSV",
+      "REQ-05: O sistema deve permitir autenticação de usuários",
+      "REQ-06: O sistema deve processar transações em menos de 2 seconds",
+      "REQ-07: O sistema deve ser escalável para suportar até 10.000 usuários simultâneos",
+      "REQ-08: O sistema deve ter alta disponibilidade (99.9%)",
+      "REQ-09: O sistema deve permitir autenticação de usuários",
+      "REQ-10: O sistema deve permitir exportação de dados em formato CSV",
+      "REQ-11: O sistema deve processar transações em menos de 2 seconds",
+      "REQ-12: O sistema deve ser compatível com dispositivos móveis",
+      "REQ-13: O sistema deve permitir autenticação de usuários",
+      "REQ-14: O sistema deve passar por testes de segurança"
+    ],
+    "tarefas_criticas": [
+      "Testes de segurança",
+      "Implementação do módulo de exportação de dados",
+      "Implementação do módulo de análise de dados",
+      "Integração com sistema de pagamentos",
+      "Implementação do módulo de exportação de dados",
+      "Implementação do módulo de relatórios",
+      "Testes de segurança"
+    ],
+    "tarefas_atrasadas": [
+      "Testes de segurança"
+    ],
+    "riscos": [
+      {
+        "id": "R01",
+        "descricao": "Problemas de integração com sistemas legados",
+        "probabilidade": 1,
+        "impacto": 5,
+        "nivel": "Baixo",
+        "plano_mitigacao": "Fortalecer medidas de segurança"
+      },
+      {
+        "id": "R02",
+        "descricao": "Resistência dos usuários à mudança",
+        "probabilidade": 4,
+        "impacto": 2,
+        "nivel": "Médio",
+        "plano_mitigacao": "Monitorar mudanças regulatórias"
+      },
+      {
+        "id": "R03",
+        "descricao": "Falhas em testes de aceitação",
+        "probabilidade": 5,
+        "impacto": 5,
+        "nivel": "Alto",
+        "plano_mitigacao": "Realizar testes de integração antecipados"
+      },
+      {
+        "id": "R04",
+        "descricao": "Problemas de integração com sistemas legados",
+        "probabilidade": 4,
+        "impacto": 4,
+        "nivel": "Alto",
+        "plano_mitigacao": "Contratar pessoal adicional"
+      },
+      {
+        "id": "R05",
+        "descricao": "Indisponibilidade de recursos especializados",
+        "probabilidade": 1,
+        "impacto": 4,
+        "nivel": "Baixo",
+        "plano_mitigacao": "Otimizar código e infraestrutura"
+      },
+      {
+        "id": "R06",
+        "descricao": "Requisitos mal definidos",
+        "probabilidade": 4,
+        "impacto": 4,
+        "nivel": "Alto",
+        "plano_mitigacao": "Gerenciar dependências ativamente"
+      },
+      {
+        "id": "R07",
+        "descricao": "Atraso na entrega de componentes críticos",
+        "probabilidade": 1,
+        "impacto": 1,
+        "nivel": "Baixo",
+        "plano_mitigacao": "Otimizar código e infraestrutura"
+      },
+      {
+        "id": "R08",
+        "descricao": "Problemas de integração com sistemas legados",
+        "probabilidade": 3,
+        "impacto": 1,
+        "nivel": "Baixo",
+        "plano_mitigacao": "Realizar testes de integração antecipados"
+      }
+    ],
+    "riscos_ocorridos": [],
+    "stakeholders": [
+      {
+        "nome": "Dr. João Felipe Azevedo",
+        "papel": "Analista de Negócios",
+        "interesse": "Alto",
+        "influencia": "Médio"
+      },
+      {
+        "nome": "Levi Cunha",
+        "papel": "Usuário Final",
+        "interesse": "Médio",
+        "influencia": "Médio"
+      },
+      {
+        "nome": "Sara Gonçalves",
+        "papel": "Equipe de Desenvolvimento",
+        "interesse": "Alto",
+        "influencia": "Médio"
+      },
+      {
+        "nome": "Natália Casa Grande",
+        "papel": "Gerente de Área",
+        "interesse": "Alto",
+        "influencia": "Baixo"
+      }
+    ],
+    "plano_comunicacao": [
+      {
+        "tipo": "Reunião de Status",
+        "frequencia": "Semanal",
+        "audiencia": "Stakeholders Chave",
+        "responsavel": "Davi Miguel da Cruz"
+      },
+      {
+        "tipo": "Apresentação",
+        "frequencia": "Mensal",
+        "audiencia": "Todos os Envolvidos",
+        "responsavel": "Dra. Zoe da Luz"
+      }
+    ],
+    "metricas_qualidade": [
+      {
+        "metrica": "Disponibilidade do Sistema",
+        "valor_atual": 40.4,
+        "meta": 6.51
+      },
+      {
+        "metrica": "Cobertura de Testes",
+        "valor_atual": 0.71,
+        "meta": 37.7
+      },
+      {
+        "metrica": "Disponibilidade do Sistema",
+        "valor_atual": 78.62,
+        "meta": 27.81
+      },
+      {
+        "metrica": "Tempo de Resposta do Sistema",
+        "valor_atual": 95.75,
+        "meta": 94.57
+      }
+    ],
+    "alocacao_recursos": [
+      {
+        "recurso": "Dra. Mariane Pacheco",
+        "tipo": "Equipamento",
+        "alocacao_percentual": 39,
+        "custo_hora": 54.18
+      },
+      {
+        "recurso": "Laboratorista",
+        "tipo": "Pessoa",
+        "alocacao_percentual": 94,
+        "custo_hora": 152.43
+      },
+      {
+        "recurso": "Hostess",
+        "tipo": "Equipamento",
+        "alocacao_percentual": 27,
+        "custo_hora": 29.03
+      },
+      {
+        "recurso": "Davi Miguel Moraes",
+        "tipo": "Software",
+        "alocacao_percentual": 40,
+        "custo_hora": 30.24
+      },
+      {
+        "recurso": "Ayla Sá",
+        "tipo": "Pessoa",
+        "alocacao_percentual": 28,
+        "custo_hora": 127.11
+      },
+      {
+        "recurso": "Daniel Cassiano",
+        "tipo": "Pessoa",
+        "alocacao_percentual": 71,
+        "custo_hora": 41.58
+      },
+      {
+        "recurso": "Eduarda Vieira",
+        "tipo": "Pessoa",
+        "alocacao_percentual": 94,
+        "custo_hora": 127.01
+      },
+      {
+        "recurso": "Mariana Peixoto",
+        "tipo": "Equipamento",
+        "alocacao_percentual": 94,
+        "custo_hora": 121.74
+      },
+      {
+        "recurso": "Matheus Garcia",
+        "tipo": "Equipamento",
+        "alocacao_percentual": 46,
+        "custo_hora": 140.55
+      },
+      {
+        "recurso": "Nina Moura",
+        "tipo": "Equipamento",
+        "alocacao_percentual": 70,
+        "custo_hora": 43.56
+      },
+      {
+        "recurso": "Yuri Albuquerque",
+        "tipo": "Equipamento",
+        "alocacao_percentual": 60,
+        "custo_hora": 187.22
+      },
+      {
+        "recurso": "Bruna Rodrigues",
+        "tipo": "Pessoa",
+        "alocacao_percentual": 78,
+        "custo_hora": 131.81
+      },
+      {
+        "recurso": "Juliana Vargas",
+        "tipo": "Pessoa",
+        "alocacao_percentual": 29,
+        "custo_hora": 116.77
+      }
+    ],
+    "dependencias": [
+      {
+        "projeto_dependente_id": "PROJ-0002",
+        "projeto_dependencia_id": "PROJ-0001",
+        "tipo": "Término para Início",
+        "descricao": "Requer o início do projeto PROJ-0001"
+      },
+      {
+        "projeto_dependente_id": "PROJ-0002",
+        "projeto_dependencia_id": "PROJ-0001",
+        "tipo": "Término para Início",
+        "descricao": "Requer o início do projeto PROJ-0001"
+      },
+      {
+        "projeto_dependente_id": "PROJ-0002",
+        "projeto_dependencia_id": "PROJ-0001",
+        "tipo": "Término para Início",
+        "descricao": "Requer o início do projeto PROJ-0001"
+      },
+      {
+        "projeto_dependente_id": "PROJ-0002",
+        "projeto_dependencia_id": "PROJ-0001",
+        "tipo": "Término para Término",
+        "descricao": "Requer a conclusão simultânea com o projeto PROJ-0001"
+      }
+    ],
+    "licoes_aprendidas": []
+  },
+  {
+    "id": "PROJ-0003",
+    "nome": "A simplicidade de avançar antes de tudo",
+    "data_inicio": "03/11/2023",
+    "data_termino_planejada": "20/02/2024",
+    "data_termino_real": "18/02/2024",
+    "duracao_planejada": 109,
+    "orcamento_inicial": 1816889,
+    "gerente": "João Montenegro",
+    "status": "Em andamento",
+    "percentual_conclusao": 99.9,
+    "atraso_atual": 507,
+    "motivo_atraso": "N/A",
+    "valor_planejado": 1816889.0,
+    "valor_agregado": 1815072.1110000003,
+    "custo_real_atual": 1951200.4347519483,
+    "spi": 1.105873844617569,
+    "cpi": 0.9302335519573345,
+    "estimativa_custo_conclusao": 1953.1535883400022,
+    "estimativa_final_projeto": 1953153.5883402883,
+    "variacao_final_projeto": -136264.58834028826,
+    "desvio_orcamento": 7.39238526690118,
+    "categorias_custos": {
+      "Pessoal": 1025064.999383348,
+      "Equipamentos": 255942.3582620738,
+      "Software": 288067.64052723453,
+      "Serviços": 214962.33595122528,
+      "Outros": 167163.10062806672
+    },
+    "mudanca_escopo": "Não",
+    "descricao_mudancas": "N/A",
+    "impacto_cronograma": 0,
+    "impacto_custo": 0,
+    "solicitacoes_mudanca": [],
+    "requisitos": [
+      "REQ-01: O sistema deve permitir autenticação de usuários",
+      "REQ-02: O sistema deve ter interface responsiva",
+      "REQ-03: O sistema deve ter documentação completa",
+      "REQ-04: O sistema deve ser compatível com navegadores modernos",
+      "REQ-05: O sistema deve ter alta disponibilidade (99.9%)"
+    ],
+    "tarefas_criticas": [
+      "Implementação do módulo de análise de dados",
+      "Migração de dados legados",
+      "Implementação do módulo de notificações",
+      "Configuração da infraestrutura",
+      "Implementação do sistema de backup",
+      "Implementação do módulo de exportação de dados"
+    ],
+    "tarefas_atrasadas": [],
+    "riscos": [
+      {
+        "id": "R01",
+        "descricao": "Resistência dos usuários à mudança",
+        "probabilidade": 2,
+        "impacto": 4,
+        "nivel": "Médio",
+        "plano_mitigacao": "Gerenciar dependências ativamente"
+      },
+      {
+        "id": "R02",
+        "descricao": "Atraso na entrega de componentes críticos",
+        "probabilidade": 4,
+        "impacto": 5,
+        "nivel": "Alto",
+        "plano_mitigacao": "Contratar pessoal adicional"
+      },
+      {
+        "id": "R03",
+        "descricao": "Resistência dos usuários à mudança",
+        "probabilidade": 1,
+        "impacto": 2,
+        "nivel": "Baixo",
+        "plano_mitigacao": "Implementar plano de contingência"
+      },
+      {
+        "id": "R04",
+        "descricao": "Resistência dos usuários à mudança",
+        "probabilidade": 3,
+        "impacto": 5,
+        "nivel": "Médio",
+        "plano_mitigacao": "Monitorar mudanças regulatórias"
+      },
+      {
+        "id": "R05",
+        "descricao": "Atraso na entrega de componentes críticos",
+        "probabilidade": 4,
+        "impacto": 2,
+        "nivel": "Médio",
+        "plano_mitigacao": "Fortalecer medidas de segurança"
+      },
+      {
+        "id": "R06",
+        "descricao": "Problemas de comunicação com stakeholders",
+        "probabilidade": 3,
+        "impacto": 1,
+        "nivel": "Baixo",
+        "plano_mitigacao": "Buscar fornecedores alternativos"
+      },
+      {
+        "id": "R07",
+        "descricao": "Falhas de infraestrutura",
+        "probabilidade": 2,
+        "impacto": 2,
+        "nivel": "Baixo",
+        "plano_mitigacao": "Contratar pessoal adicional"
+      }
+    ],
+    "riscos_ocorridos": [],
+    "stakeholders": [
+      {
+        "nome": "Thiago Caldeira",
+        "papel": "Consultor",
+        "interesse": "Baixo",
+        "influencia": "Baixo"
+      },
+      {
+        "nome": "Letícia Porto",
+        "papel": "Usuário Final",
+        "interesse": "Alto",
+        "influencia": "Alto"
+      },
+      {
+        "nome": "Fernanda Cassiano",
+        "papel": "Usuário Final",
+        "interesse": "Médio",
+        "influencia": "Alto"
+      },
+      {
+        "nome": "Sr. Vitor Hugo Vasconcelos",
+        "papel": "Usuário Final",
+        "interesse": "Baixo",
+        "influencia": "Médio"
+      },
+      {
+        "nome": "Agatha Peixoto",
+        "papel": "Consultor",
+        "interesse": "Baixo",
+        "influencia": "Baixo"
+      }
+    ],
+    "plano_comunicacao": [
+      {
+        "tipo": "Email",
+        "frequencia": "Semanal",
+        "audiencia": "Equipe do Projeto",
+        "responsavel": "Dr. Antony Camargo"
+      },
+      {
+        "tipo": "Apresentação",
+        "frequencia": "Diária",
+        "audiencia": "Todos os Envolvidos",
+        "responsavel": "Dr. Isaque Araújo"
+      },
+      {
+        "tipo": "Relatório Semanal",
+        "frequencia": "Semanal",
+        "audiencia": "Todos os Envolvidos",
+        "responsavel": "Bruno Barros"
+      }
+    ],
+    "metricas_qualidade": [
+      {
+        "metrica": "Satisfação do Cliente",
+        "valor_atual": 82.14,
+        "meta": 82.9
+      },
+      {
+        "metrica": "Tempo Médio para Correção de Defeitos",
+        "valor_atual": 2.85,
+        "meta": 19.15
+      },
+      {
+        "metrica": "Satisfação do Cliente",
+        "valor_atual": 28.22,
+        "meta": 7.53
+      },
+      {
+        "metrica": "Disponibilidade do Sistema",
+        "valor_atual": 28.27,
+        "meta": 61.3
+      },
+      {
+        "metrica": "Cobertura de Testes",
+        "valor_atual": 68.11,
+        "meta": 80.3
+      }
+    ],
+    "alocacao_recursos": [
+      {
+        "recurso": "Sra. Ana Lívia Teixeira",
+        "tipo": "Pessoa",
+        "alocacao_percentual": 53,
+        "custo_hora": 52.14
+      },
+      {
+        "recurso": "Carolina Cardoso",
+        "tipo": "Equipamento",
+        "alocacao_percentual": 24,
+        "custo_hora": 39.51
+      },
+      {
+        "recurso": "Olívia Novaes",
+        "tipo": "Software",
+        "alocacao_percentual": 60,
+        "custo_hora": 98.55
+      },
+      {
+        "recurso": "João Moura",
+        "tipo": "Pessoa",
+        "alocacao_percentual": 69,
+        "custo_hora": 181.91
+      },
+      {
+        "recurso": "Recreador",
+        "tipo": "Pessoa",
+        "alocacao_percentual": 75,
+        "custo_hora": 20.3
+      },
+      {
+        "recurso": "Hadassa Nogueira",
+        "tipo": "Software",
+        "alocacao_percentual": 45,
+        "custo_hora": 85.56
+      },
+      {
+        "recurso": "Zelador",
+        "tipo": "Software",
+        "alocacao_percentual": 62,
+        "custo_hora": 132.17
+      },
+      {
+        "recurso": "Srta. Luana Guerra",
+        "tipo": "Pessoa",
+        "alocacao_percentual": 58,
+        "custo_hora": 111.28
+      },
+      {
+        "recurso": "Maria Fernanda Macedo",
+        "tipo": "Equipamento",
+        "alocacao_percentual": 71,
+        "custo_hora": 145.5
+      },
+      {
+        "recurso": "Milena Campos",
+        "tipo": "Pessoa",
+        "alocacao_percentual": 73,
+        "custo_hora": 139.69
+      }
+    ],
+    "dependencias": [
+      {
+        "projeto_dependente_id": "PROJ-0003",
+        "projeto_dependencia_id": "PROJ-0001",
+        "tipo": "Término para Término",
+        "descricao": "Requer a conclusão simultânea com o projeto PROJ-0001"
+      },
+      {
+        "projeto_dependente_id": "PROJ-0003",
+        "projeto_dependencia_id": "PROJ-0002",
+        "tipo": "Início para Início",
+        "descricao": "Requer a conclusão simultânea com o projeto PROJ-0002"
+      },
+      {
+        "projeto_dependente_id": "PROJ-0003",
+        "projeto_dependencia_id": "PROJ-0001",
+        "tipo": "Início para Início",
+        "descricao": "Requer o início do projeto PROJ-0001"
+      }
+    ],
+    "licoes_aprendidas": [
+      {
+        "licao": "A documentação detalhada facilita a manutenção.",
+        "categoria": "Técnico"
+      }
+    ]
+  },
+  {
+    "id": "PROJ-0004",
+    "nome": "O direito de concretizar seus projetos simplesmente",
+    "data_inicio": "26/07/2023",
+    "data_termino_planejada": "19/11/2023",
+    "data_termino_real": "21/11/2023",
+    "duracao_planejada": 116,
+    "orcamento_inicial": 2430572,
+    "gerente": "Heloísa Pastor",
+    "status": "Concluído",
+    "percentual_conclusao": 100.0,
+    "atraso_atual": 600,
+    "motivo_atraso": "N/A",
+    "valor_planejado": 2430572.0,
+    "valor_agregado": 2430572.0,
+    "custo_real_atual": 2589875.418646205,
+    "spi": 1.0428891208043565,
+    "cpi": 0.9384899298633147,
+    "estimativa_custo_conclusao": 0,
+    "estimativa_final_projeto": 2589875.418646205,
+    "variacao_final_projeto": -159303.41864620522,
+    "desvio_orcamento": 6.55415345219994,
+    "categorias_custos": {
+      "Pessoal": 1193222.6415349452,
+      "Equipamentos": 556316.144816112,
+      "Software": 209436.13543720957,
+      "Serviços": 373467.0238378133,
+      "Outros": 257433.47302012492
+    },
+    "mudanca_escopo": "Sim",
+    "descricao_mudancas": "Adição de novos requisitos de segurança",
+    "impacto_cronograma": 20,
+    "impacto_custo": 480257.7,
+    "solicitacoes_mudanca": [
+      "SCM-01: Alteração na interface do usuário",
+      "SCM-02: Mudança na arquitetura do sistema",
+      "SCM-03: Alteração nos requisitos de desempenho",
+      "SCM-04: Mudança no banco de dados",
+      "SCM-05: Alteração nos requisitos de desempenho"
+    ],
+    "requisitos": [
+      "REQ-01: O sistema deve permitir integração com APIs externas",
+      "REQ-02: O sistema deve permitir exportação de dados em formato CSV",
+      "REQ-03: O sistema deve ser compatível com navegadores modernos",
+      "REQ-04: O sistema deve ter alta disponibilidade (99.9%)",
+      "REQ-05: O sistema deve ser escalável para suportar até 10.000 usuários simultâneos",
+      "REQ-06: O sistema deve permitir autenticação de usuários",
+      "REQ-07: O sistema deve ser compatível com dispositivos móveis",
+      "REQ-08: O sistema deve ter documentação completa",
+      "REQ-09: O sistema deve passar por testes de segurança",
+      "REQ-10: O sistema deve ter documentação completa",
+      "REQ-11: O sistema deve ser compatível com dispositivos móveis",
+      "REQ-12: O sistema deve processar transações em menos de 2 seconds"
+    ],
+    "tarefas_criticas": [
+      "Migração de dados legados",
+      "Configuração do ambiente de produção",
+      "Desenvolvimento do módulo de autenticação",
+      "Testes de aceitação do usuário"
+    ],
+    "tarefas_atrasadas": [],
+    "riscos": [
+      {
+        "id": "R01",
+        "descricao": "Estimativas imprecisas",
+        "probabilidade": 2,
+        "impacto": 2,
+        "nivel": "Baixo",
+        "plano_mitigacao": "Gerenciar dependências ativamente"
+      },
+      {
+        "id": "R02",
+        "descricao": "Atraso na entrega de componentes críticos",
+        "probabilidade": 5,
+        "impacto": 4,
+        "nivel": "Alto",
+        "plano_mitigacao": "Comunicar benefícios da mudança"
+      },
+      {
+        "id": "R03",
+        "descricao": "Falhas em testes de aceitação",
+        "probabilidade": 2,
+        "impacto": 1,
+        "nivel": "Baixo",
+        "plano_mitigacao": "Monitorar mudanças regulatórias"
+      },
+      {
+        "id": "R04",
+        "descricao": "Resistência dos usuários à mudança",
+        "probabilidade": 4,
+        "impacto": 5,
+        "nivel": "Alto",
+        "plano_mitigacao": "Testar compatibilidade em diferentes ambientes"
+      },
+      {
+        "id": "R05",
+        "descricao": "Problemas de compatibilidade",
+        "probabilidade": 3,
+        "impacto": 4,
+        "nivel": "Médio",
+        "plano_mitigacao": "Melhorar a documentação de requisitos"
+      },
+      {
+        "id": "R06",
+        "descricao": "Requisitos mal definidos",
+        "probabilidade": 5,
+        "impacto": 4,
+        "nivel": "Alto",
+        "plano_mitigacao": "Estabelecer canais de comunicação claros"
+      },
+      {
+        "id": "R07",
+        "descricao": "Problemas de comunicação com stakeholders",
+        "probabilidade": 5,
+        "impacto": 4,
+        "nivel": "Alto",
+        "plano_mitigacao": "Monitorar mudanças regulatórias"
+      },
+      {
+        "id": "R08",
+        "descricao": "Falhas de segurança",
+        "probabilidade": 4,
+        "impacto": 4,
+        "nivel": "Alto",
+        "plano_mitigacao": "Refinar estimativas com base em dados históricos"
+      },
+      {
+        "id": "R09",
+        "descricao": "Estimativas imprecisas",
+        "probabilidade": 2,
+        "impacto": 3,
+        "nivel": "Baixo",
+        "plano_mitigacao": "Refinar estimativas com base em dados históricos"
+      }
+    ],
+    "riscos_ocorridos": [],
+    "stakeholders": [
+      {
+        "nome": "André Barbosa",
+        "papel": "Analista de Negócios",
+        "interesse": "Baixo",
+        "influencia": "Alto"
+      },
+      {
+        "nome": "Dra. Ana Liz da Conceição",
+        "papel": "Fornecedor",
+        "interesse": "Médio",
+        "influencia": "Alto"
+      },
+      {
+        "nome": "Arthur Gabriel Farias",
+        "papel": "Fornecedor",
+        "interesse": "Alto",
+        "influencia": "Médio"
+      },
+      {
+        "nome": "Théo da Costa",
+        "papel": "Regulador",
+        "interesse": "Médio",
+        "influencia": "Baixo"
+      },
+      {
+        "nome": "Ryan Cunha",
+        "papel": "Gerente de Área",
+        "interesse": "Alto",
+        "influencia": "Alto"
+      },
+      {
+        "nome": "Caroline Silveira",
+        "papel": "Equipe de Desenvolvimento",
+        "interesse": "Médio",
+        "influencia": "Baixo"
+      },
+      {
+        "nome": "Olívia da Cruz",
+        "papel": "Usuário Final",
+        "interesse": "Baixo",
+        "influencia": "Alto"
+      }
+    ],
+    "plano_comunicacao": [
+      {
+        "tipo": "Apresentação",
+        "frequencia": "Mensal",
+        "audiencia": "Gerência",
+        "responsavel": "Maria Luísa Correia"
+      },
+      {
+        "tipo": "Workshop",
+        "frequencia": "Mensal",
+        "audiencia": "Todos os Envolvidos",
+        "responsavel": "Calebe Ribeiro"
+      }
+    ],
+    "metricas_qualidade": [
+      {
+        "metrica": "Tempo Médio para Correção de Defeitos",
+        "valor_atual": 83.37,
+        "meta": 37.61
+      },
+      {
+        "metrica": "Disponibilidade do Sistema",
+        "valor_atual": 58.62,
+        "meta": 66.38
+      },
+      {
+        "metrica": "Disponibilidade do Sistema",
+        "valor_atual": 88.13,
+        "meta": 55.11
+      }
+    ],
+    "alocacao_recursos": [
+      {
+        "recurso": "Maquinista",
+        "tipo": "Equipamento",
+        "alocacao_percentual": 58,
+        "custo_hora": 155.63
+      },
+      {
+        "recurso": "Dr. Noah Martins",
+        "tipo": "Equipamento",
+        "alocacao_percentual": 88,
+        "custo_hora": 154.55
+      },
+      {
+        "recurso": "Srta. Beatriz Araújo",
+        "tipo": "Software",
+        "alocacao_percentual": 48,
+        "custo_hora": 107.88
+      },
+      {
+        "recurso": "Lanterneiro",
+        "tipo": "Equipamento",
+        "alocacao_percentual": 23,
+        "custo_hora": 89.99
+      },
+      {
+        "recurso": "Sra. Bianca da Cruz",
+        "tipo": "Equipamento",
+        "alocacao_percentual": 41,
+        "custo_hora": 171.29
+      },
+      {
+        "recurso": "Gabriel Nascimento",
+        "tipo": "Software",
+        "alocacao_percentual": 88,
+        "custo_hora": 24.85
+      },
+      {
+        "recurso": "Cecilia Lima",
+        "tipo": "Software",
+        "alocacao_percentual": 23,
+        "custo_hora": 35.11
+      },
+      {
+        "recurso": "João Lucas Martins",
+        "tipo": "Equipamento",
+        "alocacao_percentual": 43,
+        "custo_hora": 29.05
+      },
+      {
+        "recurso": "Breno Macedo",
+        "tipo": "Pessoa",
+        "alocacao_percentual": 78,
+        "custo_hora": 78.83
+      },
+      {
+        "recurso": "Beatriz Aragão",
+        "tipo": "Equipamento",
+        "alocacao_percentual": 55,
+        "custo_hora": 155.36
+      },
+      {
+        "recurso": "Ágatha Albuquerque",
+        "tipo": "Equipamento",
+        "alocacao_percentual": 30,
+        "custo_hora": 104.66
+      },
+      {
+        "recurso": "Isaac Cavalcante",
+        "tipo": "Pessoa",
+        "alocacao_percentual": 64,
+        "custo_hora": 60.36
+      }
+    ],
+    "dependencias": [],
+    "licoes_aprendidas": []
+  },
+  {
+    "id": "PROJ-0005",
+    "nome": "O direito de ganhar mais rapidamente",
+    "data_inicio": "02/04/2025",
+    "data_termino_planejada": "19/07/2025",
+    "data_termino_real": "09/08/2025",
+    "duracao_planejada": 108,
+    "orcamento_inicial": 4022518,
+    "gerente": "Enzo Garcia",
+    "status": "Em andamento",
+    "percentual_conclusao": 98.86884609703374,
+    "atraso_atual": 0,
+    "motivo_atraso": "N/A",
+    "valor_planejado": 3724553.703703704,
+    "valor_agregado": 3977017.1306454795,
+    "custo_real_atual": 4689312.069734452,
+    "spi": 0.9895101950305661,
+    "cpi": 0.8481024660981225,
+    "estimativa_custo_conclusao": 53650.20286270005,
+    "estimativa_final_projeto": 4742962.272597153,
+    "variacao_final_projeto": -720444.2725971527,
+    "desvio_orcamento": 25.90265687594706,
+    "categorias_custos": {
+      "Pessoal": 2156988.2517242674,
+      "Equipamentos": 654337.741387513,
+      "Software": 528621.4315312909,
+      "Serviços": 938673.5969574205,
+      "Outros": 410691.0481339603
+    },
+    "mudanca_escopo": "Não",
+    "descricao_mudancas": "N/A",
+    "impacto_cronograma": 0,
+    "impacto_custo": 0,
+    "solicitacoes_mudanca": [],
+    "requisitos": [
+      "REQ-01: O sistema deve implementar criptografia de dados sensíveis",
+      "REQ-02: O sistema deve processar transações em menos de 2 seconds",
+      "REQ-03: O sistema deve registrar logs de auditoria",
+      "REQ-04: O sistema deve permitir autenticação de usuários",
+      "REQ-05: O sistema deve ser compatível com dispositivos móveis",
+      "REQ-06: O sistema deve implementar criptografia de dados sensíveis",
+      "REQ-07: O sistema deve registrar logs de auditoria"
+    ],
+    "tarefas_criticas": [
+      "Testes de aceitação do usuário",
+      "Implementação do sistema de backup",
+      "Testes de aceitação do usuário",
+      "Migração de dados legados",
+      "Implementação do sistema de backup",
+      "Implementação do módulo de notificações",
+      "Desenvolvimento da interface do usuário"
+    ],
+    "tarefas_atrasadas": [],
+    "riscos": [
+      {
+        "id": "R01",
+        "descricao": "Rotatividade de pessoal-chave",
+        "probabilidade": 4,
+        "impacto": 2,
+        "nivel": "Médio",
+        "plano_mitigacao": "Testar compatibilidade em diferentes ambientes"
+      },
+      {
+        "id": "R02",
+        "descricao": "Dependências externas não cumpridas",
+        "probabilidade": 2,
+        "impacto": 1,
+        "nivel": "Baixo",
+        "plano_mitigacao": "Refinar estimativas com base em dados históricos"
+      },
+      {
+        "id": "R03",
+        "descricao": "Estimativas imprecisas",
+        "probabilidade": 3,
+        "impacto": 5,
+        "nivel": "Médio",
+        "plano_mitigacao": "Contratar pessoal adicional"
+      },
+      {
+        "id": "R04",
+        "descricao": "Indisponibilidade de recursos especializados",
+        "probabilidade": 5,
+        "impacto": 1,
+        "nivel": "Baixo",
+        "plano_mitigacao": "Comunicar benefícios da mudança"
+      },
+      {
+        "id": "R05",
+        "descricao": "Rotatividade de pessoal-chave",
+        "probabilidade": 4,
+        "impacto": 3,
+        "nivel": "Médio",
+        "plano_mitigacao": "Comunicar benefícios da mudança"
+      },
+      {
+        "id": "R06",
+        "descricao": "Requisitos mal definidos",
+        "probabilidade": 3,
+        "impacto": 1,
+        "nivel": "Baixo",
+        "plano_mitigacao": "Otimizar código e infraestrutura"
+      },
+      {
+        "id": "R07",
+        "descricao": "Problemas de desempenho",
+        "probabilidade": 4,
+        "impacto": 1,
+        "nivel": "Baixo",
+        "plano_mitigacao": "Buscar fornecedores alternativos"
+      },
+      {
+        "id": "R08",
+        "descricao": "Problemas de desempenho",
+        "probabilidade": 4,
+        "impacto": 2,
+        "nivel": "Médio",
+        "plano_mitigacao": "Monitorar mudanças regulatórias"
+      },
+      {
+        "id": "R09",
+        "descricao": "Problemas de compatibilidade",
+        "probabilidade": 5,
+        "impacto": 3,
+        "nivel": "Médio",
+        "plano_mitigacao": "Refinar estimativas com base em dados históricos"
+      }
+    ],
+    "riscos_ocorridos": [
+      {
+        "id": "R02",
+        "data": "11/05/2025",
+        "impacto_real": "Falhas de segurança",
+        "acoes_tomadas": "Revisão de processos"
+      }
+    ],
+    "stakeholders": [
+      {
+        "nome": "Mathias da Luz",
+        "papel": "Analista de Negócios",
+        "interesse": "Médio",
+        "influencia": "Médio"
+      },
+      {
+        "nome": "Laura Lima",
+        "papel": "Fornecedor",
+        "interesse": "Médio",
+        "influencia": "Alto"
+      },
+      {
+        "nome": "Dra. Raquel Cassiano",
+        "papel": "Gerente de Área",
+        "interesse": "Médio",
+        "influencia": "Médio"
+      },
+      {
+        "nome": "Juan Cunha",
+        "papel": "Equipe de Desenvolvimento",
+        "interesse": "Médio",
+        "influencia": "Baixo"
+      },
+      {
+        "nome": "Vitor Hugo Araújo",
+        "papel": "Consultor",
+        "interesse": "Médio",
+        "influencia": "Alto"
+      },
+      {
+        "nome": "Sra. Ana Laura Aragão",
+        "papel": "Analista de Negócios",
+        "interesse": "Médio",
+        "influencia": "Alto"
+      },
+      {
+        "nome": "Pietra Montenegro",
+        "papel": "Analista de Negócios",
+        "interesse": "Alto",
+        "influencia": "Médio"
+      }
+    ],
+    "plano_comunicacao": [
+      {
+        "tipo": "Email",
+        "frequencia": "Quinzenal",
+        "audiencia": "Gerência",
+        "responsavel": "Eduarda Araújo"
+      },
+      {
+        "tipo": "Workshop",
+        "frequencia": "Diária",
+        "audiencia": "Stakeholders Chave",
+        "responsavel": "Anna Liz Cirino"
+      },
+      {
+        "tipo": "Reunião de Status",
+        "frequencia": "Semanal",
+        "audiencia": "Todos os Envolvidos",
+        "responsavel": "Bernardo Rocha"
+      },
+      {
+        "tipo": "Apresentação",
+        "frequencia": "Semanal",
+        "audiencia": "Todos os Envolvidos",
+        "responsavel": "Nathan Campos"
+      }
+    ],
+    "metricas_qualidade": [
+      {
+        "metrica": "Cobertura de Testes",
+        "valor_atual": 79.4,
+        "meta": 9.75
+      },
+      {
+        "metrica": "Tempo Médio para Correção de Defeitos",
+        "valor_atual": 40.74,
+        "meta": 23.87
+      },
+      {
+        "metrica": "Tempo de Resposta do Sistema",
+        "valor_atual": 58.36,
+        "meta": 45.49
+      },
+      {
+        "metrica": "Número de Bugs Críticos",
+        "valor_atual": 34.7,
+        "meta": 94.68
+      },
+      {
+        "metrica": "Número de Bugs Críticos",
+        "valor_atual": 33.41,
+        "meta": 67.07
+      },
+      {
+        "metrica": "Satisfação do Cliente",
+        "valor_atual": 31.01,
+        "meta": 22.67
+      }
+    ],
+    "alocacao_recursos": [
+      {
+        "recurso": "Isadora Pacheco",
+        "tipo": "Software",
+        "alocacao_percentual": 88,
+        "custo_hora": 191.16
+      },
+      {
+        "recurso": "Ana Cecília Pinto",
+        "tipo": "Pessoa",
+        "alocacao_percentual": 47,
+        "custo_hora": 152.95
+      },
+      {
+        "recurso": "Barbeiro",
+        "tipo": "Software",
+        "alocacao_percentual": 87,
+        "custo_hora": 127.42
+      },
+      {
+        "recurso": "Stephany Dias",
+        "tipo": "Pessoa",
+        "alocacao_percentual": 57,
+        "custo_hora": 60.95
+      },
+      {
+        "recurso": "Engenheiro de segurança do trabalho",
+        "tipo": "Pessoa",
+        "alocacao_percentual": 88,
+        "custo_hora": 42.78
+      },
+      {
+        "recurso": "Designer gráfico",
+        "tipo": "Pessoa",
+        "alocacao_percentual": 90,
+        "custo_hora": 72.58
+      },
+      {
+        "recurso": "Luara da Costa",
+        "tipo": "Software",
+        "alocacao_percentual": 82,
+        "custo_hora": 38.47
+      },
+      {
+        "recurso": "Engenheiro de transportes",
+        "tipo": "Equipamento",
+        "alocacao_percentual": 80,
+        "custo_hora": 106.17
+      }
+    ],
+    "dependencias": [
+      {
+        "projeto_dependente_id": "PROJ-0005",
+        "projeto_dependencia_id": "PROJ-0002",
+        "tipo": "Término para Início",
+        "descricao": "Requer o início do projeto PROJ-0002"
+      },
+      {
+        "projeto_dependente_id": "PROJ-0005",
+        "projeto_dependencia_id": "PROJ-0004",
+        "tipo": "Término para Início",
+        "descricao": "Requer a conclusão do projeto PROJ-0004"
+      }
+    ],
+    "licoes_aprendidas": [
+      {
+        "licao": "A adaptação a mudanças é necessária.",
+        "categoria": "Processo"
+      },
+      {
+        "licao": "A comunicação proativa com stakeholders é crucial.",
+        "categoria": "Pessoas"
+      },
+      {
+        "licao": "A definição clara do escopo evita retrabalho.",
+        "categoria": "Técnico"
+      }
+    ]
+  }
+]

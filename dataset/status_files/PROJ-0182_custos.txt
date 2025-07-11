@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A certeza de inovar sem preocupação (PROJ-0182)
+Data: 11/07/2025
+Gerente: Otávio Rocha
+
+Orçamento inicial: R$ 4963826.00
+Custo real atual: R$ 4113249.24
+Desvio orçamentário: 45.40%
+Índice de Desempenho de Custo (CPI): 1.21
+Valor Agregado (EV): R$ 4963826.00
+Estimativa para conclusão: R$ 0.00
+Estimativa no término (EAC): R$ 4113249.24
+Variação no término (VAC): R$ 850576.76
+
+Detalhamento por categoria:
+- Pessoal: R$ 2282665.10 (55.5%)
+- Equipamentos: R$ 614173.39 (14.9%)
+- Software: R$ 317644.92 (7.7%)
+- Serviços: R$ 612477.64 (14.9%)
+- Outros: R$ 286288.19 (7.0%)

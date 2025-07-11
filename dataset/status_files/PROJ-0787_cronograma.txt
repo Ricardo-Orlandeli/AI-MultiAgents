@@ -1,0 +1,26 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: O conforto de ganhar simplesmente (PROJ-0787)
+Data: 11/07/2025
+Gerente: Arthur Gabriel da Luz
+
+Status atual: Em andamento
+Percentual de conclusão: 99.9%
+Data de início: 26/09/2024
+Data de término planejada: 05/11/2024
+Data de término real/prevista: 29/11/2024
+Atraso atual: 248 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 0.98
+Valor Planejado (PV): R$ 3482614.00
+Valor Agregado (EV): R$ 3479131.39
+
+Tarefas críticas:
+- Implementação do sistema de backup
+- Implementação do módulo de exportação de dados
+- Configuração do ambiente de produção
+- Implementação do módulo de exportação de dados
+- Desenvolvimento do painel administrativo
+- Testes de segurança
+- Configuração do ambiente de produção
+
+Tarefas atrasadas:

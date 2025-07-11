@@ -1,0 +1,25 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A certeza de realizar seus sonhos com confiança (PROJ-0259)
+Data: 11/07/2025
+Gerente: Srta. Luna Sampaio
+
+Status atual: Atrasado
+Percentual de conclusão: 83.5%
+Data de início: 05/09/2023
+Data de término planejada: 13/03/2024
+Data de término real/prevista: 10/05/2024
+Atraso atual: 485 dias
+Motivo do atraso: Falhas em testes de aceitação
+Índice de Desempenho de Cronograma (SPI): 0.83
+Valor Planejado (PV): R$ 1117088.00
+Valor Agregado (EV): R$ 932404.04
+
+Tarefas críticas:
+- Implementação do módulo de relatórios
+- Configuração da infraestrutura
+- Implementação da API REST
+
+Tarefas atrasadas:
+- Implementação do módulo de relatórios
+- Configuração da infraestrutura
+- Implementação da API REST

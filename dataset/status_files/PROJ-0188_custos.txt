@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O prazer de realizar seus sonhos com confiança (PROJ-0188)
+Data: 11/07/2025
+Gerente: Maria Laura Cassiano
+
+Orçamento inicial: R$ 1860549.00
+Custo real atual: R$ 1773475.85
+Desvio orçamentário: -4.68%
+Índice de Desempenho de Custo (CPI): 0.71
+Valor Agregado (EV): R$ 1253397.23
+Estimativa para conclusão: R$ 859080.41
+Estimativa no término (EAC): R$ 2632556.26
+Variação no término (VAC): R$ -772007.26
+
+Detalhamento por categoria:
+- Pessoal: R$ 970819.13 (54.7%)
+- Equipamentos: R$ 239146.51 (13.5%)
+- Software: R$ 102052.78 (5.8%)
+- Serviços: R$ 320638.16 (18.1%)
+- Outros: R$ 140819.27 (7.9%)

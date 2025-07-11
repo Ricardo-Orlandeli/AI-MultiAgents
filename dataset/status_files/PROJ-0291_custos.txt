@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O poder de mudar mais facilmente (PROJ-0291)
+Data: 11/07/2025
+Gerente: Nina Ramos
+
+Orçamento inicial: R$ 381877.00
+Custo real atual: R$ 330235.36
+Desvio orçamentário: -13.52%
+Índice de Desempenho de Custo (CPI): 1.15
+Valor Agregado (EV): R$ 379184.89
+Estimativa para conclusão: R$ 2344.58
+Estimativa no término (EAC): R$ 332579.94
+Variação no término (VAC): R$ 49297.06
+
+Detalhamento por categoria:
+- Pessoal: R$ 154012.65 (46.6%)
+- Equipamentos: R$ 43328.18 (13.1%)
+- Software: R$ 44673.39 (13.5%)
+- Serviços: R$ 63801.99 (19.3%)
+- Outros: R$ 24419.13 (7.4%)

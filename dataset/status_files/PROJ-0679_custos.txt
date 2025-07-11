@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A arte de inovar direto da fonte (PROJ-0679)
+Data: 11/07/2025
+Gerente: Brenda Carvalho
+
+Orçamento inicial: R$ 564235.00
+Custo real atual: R$ 378122.74
+Desvio orçamentário: -32.98%
+Índice de Desempenho de Custo (CPI): 0.87
+Valor Agregado (EV): R$ 327238.76
+Estimativa para conclusão: R$ 273847.96
+Estimativa no término (EAC): R$ 651970.70
+Variação no término (VAC): R$ -87735.70
+
+Detalhamento por categoria:
+- Pessoal: R$ 198447.99 (52.5%)
+- Equipamentos: R$ 39180.04 (10.4%)
+- Software: R$ 46216.07 (12.2%)
+- Serviços: R$ 71762.41 (19.0%)
+- Outros: R$ 22516.23 (6.0%)

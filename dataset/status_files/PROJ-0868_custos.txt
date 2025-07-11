@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A possibilidade de avançar direto da fonte (PROJ-0868)
+Data: 11/07/2025
+Gerente: Liam Souza
+
+Orçamento inicial: R$ 3132970.00
+Custo real atual: R$ 1829300.09
+Desvio orçamentário: -41.61%
+Índice de Desempenho de Custo (CPI): 0.92
+Valor Agregado (EV): R$ 1690259.99
+Estimativa para conclusão: R$ 1561386.75
+Estimativa no término (EAC): R$ 3390686.84
+Variação no término (VAC): R$ -257716.84
+
+Detalhamento por categoria:
+- Pessoal: R$ 980615.03 (53.6%)
+- Equipamentos: R$ 285509.83 (15.6%)
+- Software: R$ 111653.99 (6.1%)
+- Serviços: R$ 336349.39 (18.4%)
+- Outros: R$ 115171.84 (6.3%)

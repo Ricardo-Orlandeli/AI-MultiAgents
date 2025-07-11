@@ -1,0 +1,26 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: O prazer de avançar com toda a tranquilidade (PROJ-0066)
+Data: 11/07/2025
+Gerente: Srta. Sarah Oliveira
+
+Status atual: Em andamento
+Percentual de conclusão: 75.8%
+Data de início: 30/04/2025
+Data de término planejada: 03/08/2025
+Data de término real/prevista: 12/08/2025
+Atraso atual: 0 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 1.14
+Valor Planejado (PV): R$ 2580179.12
+Valor Agregado (EV): R$ 2582097.31
+
+Tarefas críticas:
+- Implementação da API REST
+- Implementação do módulo de exportação de dados
+- Implementação da API REST
+- Configuração da infraestrutura
+- Implementação do módulo de análise de dados
+- Desenvolvimento do painel administrativo
+- Integração com sistema de pagamentos
+
+Tarefas atrasadas:

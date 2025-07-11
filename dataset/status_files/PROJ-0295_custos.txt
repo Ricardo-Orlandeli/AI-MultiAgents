@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A segurança de conseguir sem preocupação (PROJ-0295)
+Data: 11/07/2025
+Gerente: Ana Luiza Vasconcelos
+
+Orçamento inicial: R$ 1577858.00
+Custo real atual: R$ 1624023.55
+Desvio orçamentário: 2.93%
+Índice de Desempenho de Custo (CPI): 0.97
+Valor Agregado (EV): R$ 1570639.90
+Estimativa para conclusão: R$ 7463.43
+Estimativa no término (EAC): R$ 1631486.98
+Variação no término (VAC): R$ -53628.98
+
+Detalhamento por categoria:
+- Pessoal: R$ 750434.41 (46.2%)
+- Equipamentos: R$ 290658.58 (17.9%)
+- Software: R$ 101217.93 (6.2%)
+- Serviços: R$ 331047.20 (20.4%)
+- Outros: R$ 150665.43 (9.3%)

@@ -1,0 +1,24 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: O conforto de avançar mais rapidamente (PROJ-0632)
+Data: 11/07/2025
+Gerente: Alana Nascimento
+
+Status atual: Em andamento
+Percentual de conclusão: 99.9%
+Data de início: 04/07/2024
+Data de término planejada: 30/11/2024
+Data de término real/prevista: 13/12/2024
+Atraso atual: 223 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 1.12
+Valor Planejado (PV): R$ 718305.00
+Valor Agregado (EV): R$ 717586.70
+
+Tarefas críticas:
+- Configuração da infraestrutura
+- Implementação do módulo de exportação de dados
+- Implementação do módulo de notificações
+- Desenvolvimento da interface do usuário
+- Implementação do módulo de relatórios
+
+Tarefas atrasadas:

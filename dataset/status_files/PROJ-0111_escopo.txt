@@ -1,0 +1,26 @@
+RELATÓRIO DE STATUS DE ESCOPO
+Projeto: A liberdade de atingir seus objetivos antes de tudo (PROJ-0111)
+Data: 11/07/2025
+Gerente: Nina Melo
+
+Escopo original: Sistema para a liberdade de atingir seus objetivos antes de tudo
+Houve mudança de escopo: Sim
+Descrição das mudanças: Redução do escopo devido a restrições orçamentárias
+Impacto no cronograma: 15 dias
+Impacto no custo: R$ 387684.49
+
+Solicitações de mudança:
+- SCM-01: Alteração na interface do usuário
+- SCM-02: Adição de funcionalidade de autenticação biométrica
+- SCM-03: Mudança na arquitetura do sistema
+- SCM-04: Mudança no banco de dados
+- SCM-05: Integração com sistema legado
+
+Requisitos atuais:
+- REQ-01: O sistema deve ser escalável para suportar até 10.000 usuários simultâneos
+- REQ-02: O sistema deve passar por testes de segurança
+- REQ-03: O sistema deve passar por testes de segurança
+- REQ-04: O sistema deve ter alta disponibilidade (99.9%)
+- REQ-05: O sistema deve ter controle de acesso baseado em perfis
+- REQ-06: O sistema deve permitir exportação de dados em formato CSV
+- REQ-07: O sistema deve permitir integração com APIs externas

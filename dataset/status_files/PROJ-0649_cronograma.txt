@@ -1,0 +1,25 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: O direito de avançar de maneira eficaz (PROJ-0649)
+Data: 11/07/2025
+Gerente: Maria Fernanda da Mata
+
+Status atual: Atrasado
+Percentual de conclusão: 57.6%
+Data de início: 20/04/2025
+Data de término planejada: 17/07/2025
+Data de término real/prevista: 13/01/2026
+Atraso atual: 0 dias
+Motivo do atraso: Estimativas imprecisas
+Índice de Desempenho de Cronograma (SPI): 0.62
+Valor Planejado (PV): R$ 3242623.84
+Valor Agregado (EV): R$ 2003193.81
+
+Tarefas críticas:
+- Testes de aceitação do usuário
+- Implementação do módulo de exportação de dados
+- Implementação da API REST
+- Integração com sistema de pagamentos
+
+Tarefas atrasadas:
+- Implementação do módulo de exportação de dados
+- Implementação da API REST

@@ -1,0 +1,24 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A liberdade de concretizar seus projetos mais facilmente (PROJ-0183)
+Data: 11/07/2025
+Gerente: Alexandre Sousa
+
+Status atual: Em andamento
+Percentual de conclusão: 84.4%
+Data de início: 10/02/2024
+Data de término planejada: 20/05/2024
+Data de término real/prevista: 01/06/2024
+Atraso atual: 417 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 1.05
+Valor Planejado (PV): R$ 4877879.00
+Valor Agregado (EV): R$ 4117411.89
+
+Tarefas críticas:
+- Migração de dados legados
+- Integração com sistema de pagamentos
+- Implementação da API REST
+- Desenvolvimento da interface do usuário
+- Desenvolvimento da interface do usuário
+
+Tarefas atrasadas:

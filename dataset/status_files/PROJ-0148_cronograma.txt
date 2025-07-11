@@ -1,0 +1,23 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: O direito de concretizar seus projetos mais rapidamente (PROJ-0148)
+Data: 11/07/2025
+Gerente: Enrico da Paz
+
+Status atual: Atrasado
+Percentual de conclusão: 41.8%
+Data de início: 01/12/2024
+Data de término planejada: 10/11/2025
+Data de término real/prevista: 02/01/2026
+Atraso atual: 0 dias
+Motivo do atraso: Problemas de comunicação
+Índice de Desempenho de Cronograma (SPI): 0.65
+Valor Planejado (PV): R$ 3187511.49
+Valor Agregado (EV): R$ 2066415.45
+
+Tarefas críticas:
+- Integração com sistema de pagamentos
+- Desenvolvimento da interface do usuário
+- Testes de segurança
+
+Tarefas atrasadas:
+- Desenvolvimento da interface do usuário

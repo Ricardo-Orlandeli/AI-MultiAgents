@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A simplicidade de evoluir mais rapidamente (PROJ-0130)
+Data: 11/07/2025
+Gerente: Evelyn Vargas
+
+Orçamento inicial: R$ 1367987.00
+Custo real atual: R$ 276829.84
+Desvio orçamentário: -3.03%
+Índice de Desempenho de Custo (CPI): 0.90
+Valor Agregado (EV): R$ 250514.51
+Estimativa para conclusão: R$ 1234857.53
+Estimativa no término (EAC): R$ 1511687.37
+Variação no término (VAC): R$ -143700.37
+
+Detalhamento por categoria:
+- Pessoal: R$ 118779.28 (42.9%)
+- Equipamentos: R$ 51038.68 (18.4%)
+- Software: R$ 38933.85 (14.1%)
+- Serviços: R$ 46794.60 (16.9%)
+- Outros: R$ 21283.44 (7.7%)

@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A liberdade de conseguir sem preocupação (PROJ-0590)
+Data: 11/07/2025
+Gerente: Rael Guerra
+
+Orçamento inicial: R$ 1323125.00
+Custo real atual: R$ 1217363.35
+Desvio orçamentário: -7.99%
+Índice de Desempenho de Custo (CPI): 1.09
+Valor Agregado (EV): R$ 1323125.00
+Estimativa para conclusão: R$ 0.00
+Estimativa no término (EAC): R$ 1217363.35
+Variação no término (VAC): R$ 105761.65
+
+Detalhamento por categoria:
+- Pessoal: R$ 628085.28 (51.6%)
+- Equipamentos: R$ 167784.23 (13.8%)
+- Software: R$ 100722.85 (8.3%)
+- Serviços: R$ 215061.48 (17.7%)
+- Outros: R$ 105709.51 (8.7%)

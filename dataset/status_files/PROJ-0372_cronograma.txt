@@ -1,0 +1,24 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A liberdade de evoluir mais facilmente (PROJ-0372)
+Data: 11/07/2025
+Gerente: Sara Viana
+
+Status atual: Em andamento
+Percentual de conclusão: 99.9%
+Data de início: 18/07/2024
+Data de término planejada: 06/07/2025
+Data de término real/prevista: 24/07/2025
+Atraso atual: 5 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 1.13
+Valor Planejado (PV): R$ 1006353.00
+Valor Agregado (EV): R$ 1005346.65
+
+Tarefas críticas:
+- Migração de dados legados
+- Desenvolvimento da interface do usuário
+- Configuração do ambiente de produção
+- Testes de segurança
+- Testes de aceitação do usuário
+
+Tarefas atrasadas:

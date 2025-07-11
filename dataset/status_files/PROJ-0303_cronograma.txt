@@ -1,0 +1,27 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A vantagem de mudar com confiança (PROJ-0303)
+Data: 11/07/2025
+Gerente: Alana Caldeira
+
+Status atual: Em andamento
+Percentual de conclusão: 86.1%
+Data de início: 30/08/2023
+Data de término planejada: 07/11/2023
+Data de término real/prevista: 28/11/2023
+Atraso atual: 612 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 1.09
+Valor Planejado (PV): R$ 3517432.00
+Valor Agregado (EV): R$ 3027346.02
+
+Tarefas críticas:
+- Testes de segurança
+- Integração com sistema de pagamentos
+- Implementação do módulo de notificações
+- Desenvolvimento do módulo de autenticação
+- Implementação da API REST
+- Desenvolvimento do painel administrativo
+- Integração com sistema de pagamentos
+- Configuração do ambiente de produção
+
+Tarefas atrasadas:

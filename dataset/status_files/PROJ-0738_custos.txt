@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O conforto de conseguir direto da fonte (PROJ-0738)
+Data: 11/07/2025
+Gerente: Caleb Sampaio
+
+Orçamento inicial: R$ 3321659.00
+Custo real atual: R$ 1689407.18
+Desvio orçamentário: -49.14%
+Índice de Desempenho de Custo (CPI): 1.00
+Valor Agregado (EV): R$ 1686914.02
+Estimativa para conclusão: R$ 1637161.04
+Estimativa no término (EAC): R$ 3326568.21
+Variação no término (VAC): R$ -4909.21
+
+Detalhamento por categoria:
+- Pessoal: R$ 878024.18 (52.0%)
+- Equipamentos: R$ 220285.78 (13.0%)
+- Software: R$ 198250.99 (11.7%)
+- Serviços: R$ 249959.18 (14.8%)
+- Outros: R$ 142887.05 (8.5%)

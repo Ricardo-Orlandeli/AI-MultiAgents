@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A possibilidade de inovar com força total (PROJ-0439)
+Data: 11/07/2025
+Gerente: Brenda Cavalcante
+
+Orçamento inicial: R$ 3472509.00
+Custo real atual: R$ 2844225.50
+Desvio orçamentário: -18.09%
+Índice de Desempenho de Custo (CPI): 1.22
+Valor Agregado (EV): R$ 3472509.00
+Estimativa para conclusão: R$ 0.00
+Estimativa no término (EAC): R$ 2844225.50
+Variação no término (VAC): R$ 628283.50
+
+Detalhamento por categoria:
+- Pessoal: R$ 1384425.87 (48.7%)
+- Equipamentos: R$ 450599.14 (15.8%)
+- Software: R$ 394383.07 (13.9%)
+- Serviços: R$ 354397.20 (12.5%)
+- Outros: R$ 260420.22 (9.2%)

@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O prazer de conseguir naturalmente (PROJ-0951)
+Data: 11/07/2025
+Gerente: Marcelo Fernandes
+
+Orçamento inicial: R$ 3937079.00
+Custo real atual: R$ 3357511.66
+Desvio orçamentário: -14.72%
+Índice de Desempenho de Custo (CPI): 1.17
+Valor Agregado (EV): R$ 3937079.00
+Estimativa para conclusão: R$ 0.00
+Estimativa no término (EAC): R$ 3357511.66
+Variação no término (VAC): R$ 579567.34
+
+Detalhamento por categoria:
+- Pessoal: R$ 1695618.74 (50.5%)
+- Equipamentos: R$ 489094.89 (14.6%)
+- Software: R$ 351390.48 (10.5%)
+- Serviços: R$ 542331.93 (16.2%)
+- Outros: R$ 279075.62 (8.3%)

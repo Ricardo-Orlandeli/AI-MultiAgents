@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O conforto de realizar seus sonhos mais rapidamente (PROJ-0329)
+Data: 11/07/2025
+Gerente: Bárbara Barros
+
+Orçamento inicial: R$ 549198.00
+Custo real atual: R$ 355627.68
+Desvio orçamentário: -35.25%
+Índice de Desempenho de Custo (CPI): 0.70
+Valor Agregado (EV): R$ 250584.02
+Estimativa para conclusão: R$ 423791.58
+Estimativa no término (EAC): R$ 779419.26
+Variação no término (VAC): R$ -230221.26
+
+Detalhamento por categoria:
+- Pessoal: R$ 192047.41 (54.0%)
+- Equipamentos: R$ 40391.72 (11.4%)
+- Software: R$ 44225.76 (12.4%)
+- Serviços: R$ 58054.08 (16.3%)
+- Outros: R$ 20908.70 (5.9%)

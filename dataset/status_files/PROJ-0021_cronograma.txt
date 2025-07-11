@@ -1,0 +1,26 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A possibilidade de atingir seus objetivos mais rapidamente (PROJ-0021)
+Data: 11/07/2025
+Gerente: Davi Lucca Nogueira
+
+Status atual: Em andamento
+Percentual de conclusão: 29.5%
+Data de início: 28/03/2025
+Data de término planejada: 04/02/2026
+Data de término real/prevista: 25/02/2026
+Atraso atual: 0 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 1.07
+Valor Planejado (PV): R$ 1054937.68
+Valor Agregado (EV): R$ 928628.37
+
+Tarefas críticas:
+- Configuração da infraestrutura
+- Desenvolvimento do módulo de autenticação
+- Integração com sistema de pagamentos
+- Testes de segurança
+- Desenvolvimento da interface do usuário
+- Implementação do módulo de relatórios
+- Desenvolvimento da interface do usuário
+
+Tarefas atrasadas:

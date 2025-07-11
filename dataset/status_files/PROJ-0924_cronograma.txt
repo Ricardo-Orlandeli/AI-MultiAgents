@@ -1,0 +1,27 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A vantagem de avançar direto da fonte (PROJ-0924)
+Data: 11/07/2025
+Gerente: Alexia Vieira
+
+Status atual: Cancelado
+Percentual de conclusão: 71.7%
+Data de início: 08/07/2025
+Data de término planejada: 29/08/2025
+Data de término real/prevista: 14/08/2025
+Atraso atual: 0 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 12.42
+Valor Planejado (PV): R$ 121819.04
+Valor Agregado (EV): R$ 1513127.38
+
+Tarefas críticas:
+- Configuração do ambiente de produção
+- Desenvolvimento do painel administrativo
+- Integração com sistema de pagamentos
+- Testes de segurança
+- Implementação do módulo de notificações
+- Configuração da infraestrutura
+- Implementação do módulo de análise de dados
+- Implementação da API REST
+
+Tarefas atrasadas:

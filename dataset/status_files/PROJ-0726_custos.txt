@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O poder de mudar antes de tudo (PROJ-0726)
+Data: 11/07/2025
+Gerente: Sr. Pietro Silveira
+
+Orçamento inicial: R$ 1695905.00
+Custo real atual: R$ 232133.83
+Desvio orçamentário: 8.84%
+Índice de Desempenho de Custo (CPI): 1.03
+Valor Agregado (EV): R$ 238447.49
+Estimativa para conclusão: R$ 1418866.61
+Estimativa no término (EAC): R$ 1651000.44
+Variação no término (VAC): R$ 44904.56
+
+Detalhamento por categoria:
+- Pessoal: R$ 119457.22 (51.5%)
+- Equipamentos: R$ 35383.45 (15.2%)
+- Software: R$ 21852.53 (9.4%)
+- Serviços: R$ 33549.14 (14.5%)
+- Outros: R$ 21891.49 (9.4%)

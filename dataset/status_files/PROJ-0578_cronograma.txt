@@ -1,0 +1,25 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: O conforto de avançar simplesmente (PROJ-0578)
+Data: 11/07/2025
+Gerente: Vitor Sales
+
+Status atual: Concluído
+Percentual de conclusão: 100.0%
+Data de início: 16/02/2024
+Data de término planejada: 13/06/2024
+Data de término real/prevista: 27/06/2024
+Atraso atual: 393 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 1.04
+Valor Planejado (PV): R$ 730357.00
+Valor Agregado (EV): R$ 730357.00
+
+Tarefas críticas:
+- Desenvolvimento da interface do usuário
+- Implementação do módulo de análise de dados
+- Implementação do módulo de análise de dados
+- Migração de dados legados
+- Implementação do módulo de relatórios
+- Desenvolvimento da interface do usuário
+
+Tarefas atrasadas:

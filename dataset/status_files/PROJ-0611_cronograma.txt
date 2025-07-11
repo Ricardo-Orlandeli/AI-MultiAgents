@@ -1,0 +1,24 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A vantagem de avançar direto da fonte (PROJ-0611)
+Data: 11/07/2025
+Gerente: Yuri Peixoto
+
+Status atual: Em andamento
+Percentual de conclusão: 81.3%
+Data de início: 02/05/2024
+Data de término planejada: 02/08/2024
+Data de término real/prevista: 14/08/2024
+Atraso atual: 343 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 1.02
+Valor Planejado (PV): R$ 3177390.00
+Valor Agregado (EV): R$ 2582327.65
+
+Tarefas críticas:
+- Implementação do módulo de exportação de dados
+- Configuração da infraestrutura
+- Implementação do módulo de relatórios
+- Migração de dados legados
+- Desenvolvimento do módulo de autenticação
+
+Tarefas atrasadas:

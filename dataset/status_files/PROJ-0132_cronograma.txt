@@ -1,0 +1,23 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A arte de mudar com força total (PROJ-0132)
+Data: 11/07/2025
+Gerente: Heloísa Jesus
+
+Status atual: Concluído
+Percentual de conclusão: 100.0%
+Data de início: 15/05/2024
+Data de término planejada: 11/01/2025
+Data de término real/prevista: 25/12/2024
+Atraso atual: 181 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 1.01
+Valor Planejado (PV): R$ 4857379.00
+Valor Agregado (EV): R$ 4857379.00
+
+Tarefas críticas:
+- Configuração da infraestrutura
+- Implementação do módulo de exportação de dados
+- Implementação da API REST
+- Implementação do sistema de backup
+
+Tarefas atrasadas:

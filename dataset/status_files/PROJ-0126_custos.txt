@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A liberdade de ganhar antes de tudo (PROJ-0126)
+Data: 11/07/2025
+Gerente: Lívia Jesus
+
+Orçamento inicial: R$ 4020120.00
+Custo real atual: R$ 2437398.28
+Desvio orçamentário: 21.26%
+Índice de Desempenho de Custo (CPI): 0.88
+Valor Agregado (EV): R$ 2143997.56
+Estimativa para conclusão: R$ 2132865.12
+Estimativa no término (EAC): R$ 4570263.39
+Variação no término (VAC): R$ -550143.39
+
+Detalhamento por categoria:
+- Pessoal: R$ 1189199.63 (48.8%)
+- Equipamentos: R$ 455027.82 (18.7%)
+- Software: R$ 168674.53 (6.9%)
+- Serviços: R$ 469933.71 (19.3%)
+- Outros: R$ 154562.58 (6.3%)

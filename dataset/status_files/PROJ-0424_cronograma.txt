@@ -1,0 +1,25 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: O poder de mudar antes de tudo (PROJ-0424)
+Data: 11/07/2025
+Gerente: Thales Barbosa
+
+Status atual: Concluído
+Percentual de conclusão: 100.0%
+Data de início: 17/11/2024
+Data de término planejada: 14/02/2025
+Data de término real/prevista: 15/02/2025
+Atraso atual: 147 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 1.10
+Valor Planejado (PV): R$ 154549.00
+Valor Agregado (EV): R$ 154549.00
+
+Tarefas críticas:
+- Testes de segurança
+- Implementação da API REST
+- Implementação do módulo de análise de dados
+- Configuração da infraestrutura
+- Testes de segurança
+- Implementação da API REST
+
+Tarefas atrasadas:

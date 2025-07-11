@@ -1,0 +1,24 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A liberdade de ganhar direto da fonte (PROJ-0069)
+Data: 11/07/2025
+Gerente: José Pereira
+
+Status atual: Em andamento
+Percentual de conclusão: 64.9%
+Data de início: 14/02/2025
+Data de término planejada: 10/09/2025
+Data de término real/prevista: 04/09/2025
+Atraso atual: 0 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 1.02
+Valor Planejado (PV): R$ 861466.64
+Valor Agregado (EV): R$ 790722.07
+
+Tarefas críticas:
+- Integração com sistema de pagamentos
+- Integração com sistema de pagamentos
+- Implementação do módulo de relatórios
+- Desenvolvimento do painel administrativo
+- Implementação do sistema de backup
+
+Tarefas atrasadas:

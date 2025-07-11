@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O conforto de mudar com força total (PROJ-0080)
+Data: 11/07/2025
+Gerente: Dra. Ana Luiza Sá
+
+Orçamento inicial: R$ 4052255.00
+Custo real atual: R$ 4410448.02
+Desvio orçamentário: 8.84%
+Índice de Desempenho de Custo (CPI): 0.92
+Valor Agregado (EV): R$ 4048202.75
+Estimativa para conclusão: R$ 4414.86
+Estimativa no término (EAC): R$ 4414862.88
+Variação no término (VAC): R$ -362607.88
+
+Detalhamento por categoria:
+- Pessoal: R$ 2589576.61 (58.7%)
+- Equipamentos: R$ 692995.14 (15.7%)
+- Software: R$ 299468.86 (6.8%)
+- Serviços: R$ 462701.25 (10.5%)
+- Outros: R$ 365706.15 (8.3%)

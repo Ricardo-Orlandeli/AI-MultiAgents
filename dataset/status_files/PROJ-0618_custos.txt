@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O prazer de conseguir de maneira eficaz (PROJ-0618)
+Data: 11/07/2025
+Gerente: Nicole Andrade
+
+Orçamento inicial: R$ 51409.00
+Custo real atual: R$ 11314.07
+Desvio orçamentário: -36.99%
+Índice de Desempenho de Custo (CPI): 0.89
+Valor Agregado (EV): R$ 10083.76
+Estimativa para conclusão: R$ 46367.27
+Estimativa no término (EAC): R$ 57681.33
+Variação no término (VAC): R$ -6272.33
+
+Detalhamento por categoria:
+- Pessoal: R$ 6178.49 (54.6%)
+- Equipamentos: R$ 1630.07 (14.4%)
+- Software: R$ 678.76 (6.0%)
+- Serviços: R$ 1737.56 (15.4%)
+- Outros: R$ 1089.18 (9.6%)

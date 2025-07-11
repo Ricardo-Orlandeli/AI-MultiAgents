@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A arte de mudar com confiança (PROJ-0576)
+Data: 11/07/2025
+Gerente: Arthur Miguel Macedo
+
+Orçamento inicial: R$ 3155449.00
+Custo real atual: R$ 3582596.72
+Desvio orçamentário: 13.54%
+Índice de Desempenho de Custo (CPI): 0.88
+Valor Agregado (EV): R$ 3155449.00
+Estimativa para conclusão: R$ 0.00
+Estimativa no término (EAC): R$ 3582596.72
+Variação no término (VAC): R$ -427147.72
+
+Detalhamento por categoria:
+- Pessoal: R$ 1841386.07 (51.4%)
+- Equipamentos: R$ 610867.34 (17.1%)
+- Software: R$ 298578.92 (8.3%)
+- Serviços: R$ 536298.23 (15.0%)
+- Outros: R$ 295466.16 (8.2%)

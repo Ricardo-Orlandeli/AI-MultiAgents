@@ -1,0 +1,27 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: O conforto de evoluir em estado puro (PROJ-0641)
+Data: 11/07/2025
+Gerente: Jade Cunha
+
+Status atual: Atrasado
+Percentual de conclusão: 57.7%
+Data de início: 14/09/2024
+Data de término planejada: 08/08/2025
+Data de término real/prevista: 03/11/2025
+Atraso atual: 0 dias
+Motivo do atraso: Dependências externas não cumpridas
+Índice de Desempenho de Cronograma (SPI): 0.63
+Valor Planejado (PV): R$ 1698923.78
+Valor Agregado (EV): R$ 1071793.38
+
+Tarefas críticas:
+- Implementação da API REST
+- Desenvolvimento do módulo de autenticação
+- Migração de dados legados
+- Configuração da infraestrutura
+- Implementação do módulo de exportação de dados
+- Implementação da API REST
+- Implementação do módulo de relatórios
+
+Tarefas atrasadas:
+- Desenvolvimento do módulo de autenticação

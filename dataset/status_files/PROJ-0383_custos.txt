@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A liberdade de inovar com força total (PROJ-0383)
+Data: 11/07/2025
+Gerente: Dra. Maria Vitória Souza
+
+Orçamento inicial: R$ 1074872.00
+Custo real atual: R$ 1000190.96
+Desvio orçamentário: -6.95%
+Índice de Desempenho de Custo (CPI): 1.07
+Valor Agregado (EV): R$ 1074872.00
+Estimativa para conclusão: R$ 0.00
+Estimativa no término (EAC): R$ 1000190.96
+Variação no término (VAC): R$ 74681.04
+
+Detalhamento por categoria:
+- Pessoal: R$ 569027.00 (56.9%)
+- Equipamentos: R$ 151706.80 (15.2%)
+- Software: R$ 101501.66 (10.1%)
+- Serviços: R$ 107166.54 (10.7%)
+- Outros: R$ 70788.96 (7.1%)

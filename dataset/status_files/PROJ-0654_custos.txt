@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A certeza de conseguir naturalmente (PROJ-0654)
+Data: 11/07/2025
+Gerente: Dr. Pietro Vargas
+
+Orçamento inicial: R$ 3065526.00
+Custo real atual: R$ 2590743.83
+Desvio orçamentário: -15.49%
+Índice de Desempenho de Custo (CPI): 0.71
+Valor Agregado (EV): R$ 1837462.78
+Estimativa para conclusão: R$ 1731516.56
+Estimativa no término (EAC): R$ 4322260.39
+Variação no término (VAC): R$ -1256734.39
+
+Detalhamento por categoria:
+- Pessoal: R$ 1444710.92 (55.8%)
+- Equipamentos: R$ 284585.33 (11.0%)
+- Software: R$ 332801.18 (12.8%)
+- Serviços: R$ 309809.11 (12.0%)
+- Outros: R$ 218837.28 (8.4%)

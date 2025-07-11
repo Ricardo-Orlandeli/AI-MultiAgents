@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A certeza de atingir seus objetivos simplesmente (PROJ-0286)
+Data: 11/07/2025
+Gerente: Maitê Cirino
+
+Orçamento inicial: R$ 2435573.00
+Custo real atual: R$ 2262666.52
+Desvio orçamentário: -7.10%
+Índice de Desempenho de Custo (CPI): 1.08
+Valor Agregado (EV): R$ 2435573.00
+Estimativa para conclusão: R$ 0.00
+Estimativa no término (EAC): R$ 2262666.52
+Variação no término (VAC): R$ 172906.48
+
+Detalhamento por categoria:
+- Pessoal: R$ 1199824.57 (53.0%)
+- Equipamentos: R$ 297955.26 (13.2%)
+- Software: R$ 332552.68 (14.7%)
+- Serviços: R$ 301034.73 (13.3%)
+- Outros: R$ 131299.28 (5.8%)

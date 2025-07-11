@@ -1,0 +1,26 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A simplicidade de ganhar com confiança (PROJ-0418)
+Data: 11/07/2025
+Gerente: Maria Isis da Cunha
+
+Status atual: Em andamento
+Percentual de conclusão: 80.0%
+Data de início: 16/11/2024
+Data de término planejada: 03/09/2025
+Data de término real/prevista: 10/09/2025
+Atraso atual: 0 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 0.93
+Valor Planejado (PV): R$ 3213372.24
+Valor Agregado (EV): R$ 3157209.62
+
+Tarefas críticas:
+- Implementação do módulo de análise de dados
+- Implementação da API REST
+- Configuração do ambiente de produção
+- Configuração do ambiente de produção
+- Configuração do ambiente de produção
+- Implementação do sistema de backup
+- Implementação do módulo de notificações
+
+Tarefas atrasadas:

@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A liberdade de realizar seus sonhos com confiança (PROJ-0124)
+Data: 11/07/2025
+Gerente: Nicolas Cunha
+
+Orçamento inicial: R$ 4726887.00
+Custo real atual: R$ 4087613.91
+Desvio orçamentário: -13.52%
+Índice de Desempenho de Custo (CPI): 1.15
+Valor Agregado (EV): R$ 4717163.02
+Estimativa para conclusão: R$ 8426.23
+Estimativa no término (EAC): R$ 4096040.13
+Variação no término (VAC): R$ 630846.87
+
+Detalhamento por categoria:
+- Pessoal: R$ 2121459.06 (51.9%)
+- Equipamentos: R$ 747446.02 (18.3%)
+- Software: R$ 254152.24 (6.2%)
+- Serviços: R$ 619214.21 (15.1%)
+- Outros: R$ 345342.37 (8.4%)

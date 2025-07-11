@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A certeza de concretizar seus projetos com força total (PROJ-0537)
+Data: 11/07/2025
+Gerente: Julia Machado
+
+Orçamento inicial: R$ 997438.00
+Custo real atual: R$ 999746.22
+Desvio orçamentário: 25.95%
+Índice de Desempenho de Custo (CPI): 0.95
+Valor Agregado (EV): R$ 948112.42
+Estimativa para conclusão: R$ 52011.83
+Estimativa no término (EAC): R$ 1051758.05
+Variação no término (VAC): R$ -54320.05
+
+Detalhamento por categoria:
+- Pessoal: R$ 538811.67 (53.9%)
+- Equipamentos: R$ 149334.66 (14.9%)
+- Software: R$ 70294.27 (7.0%)
+- Serviços: R$ 183289.37 (18.3%)
+- Outros: R$ 58016.26 (5.8%)

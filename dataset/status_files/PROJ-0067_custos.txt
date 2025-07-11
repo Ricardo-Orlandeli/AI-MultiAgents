@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A certeza de realizar seus sonhos naturalmente (PROJ-0067)
+Data: 11/07/2025
+Gerente: Dr. João Gomes
+
+Orçamento inicial: R$ 3564861.00
+Custo real atual: R$ 1556175.72
+Desvio orçamentário: 12.70%
+Índice de Desempenho de Custo (CPI): 0.90
+Valor Agregado (EV): R$ 1393980.42
+Estimativa para conclusão: R$ 2423471.37
+Estimativa no término (EAC): R$ 3979647.08
+Variação no término (VAC): R$ -414786.08
+
+Detalhamento por categoria:
+- Pessoal: R$ 722856.40 (46.5%)
+- Equipamentos: R$ 312690.76 (20.1%)
+- Software: R$ 125499.31 (8.1%)
+- Serviços: R$ 310833.83 (20.0%)
+- Outros: R$ 84295.42 (5.4%)

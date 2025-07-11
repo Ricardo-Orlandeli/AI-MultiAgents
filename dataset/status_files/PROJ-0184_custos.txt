@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A simplicidade de evoluir simplesmente (PROJ-0184)
+Data: 11/07/2025
+Gerente: Sra. Alana Fogaça
+
+Orçamento inicial: R$ 1841612.00
+Custo real atual: R$ 1856284.67
+Desvio orçamentário: 0.80%
+Índice de Desempenho de Custo (CPI): 0.99
+Valor Agregado (EV): R$ 1839770.39
+Estimativa para conclusão: R$ 1858.14
+Estimativa no término (EAC): R$ 1858142.81
+Variação no término (VAC): R$ -16530.81
+
+Detalhamento por categoria:
+- Pessoal: R$ 907360.62 (48.9%)
+- Equipamentos: R$ 328271.33 (17.7%)
+- Software: R$ 194943.39 (10.5%)
+- Serviços: R$ 290842.02 (15.7%)
+- Outros: R$ 134867.32 (7.3%)

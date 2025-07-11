@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A certeza de inovar direto da fonte (PROJ-0818)
+Data: 11/07/2025
+Gerente: Marina Rodrigues
+
+Orçamento inicial: R$ 2074261.00
+Custo real atual: R$ 1619582.29
+Desvio orçamentário: -21.92%
+Índice de Desempenho de Custo (CPI): 0.91
+Valor Agregado (EV): R$ 1471063.03
+Estimativa para conclusão: R$ 664097.14
+Estimativa no término (EAC): R$ 2283679.43
+Variação no término (VAC): R$ -209418.43
+
+Detalhamento por categoria:
+- Pessoal: R$ 889711.77 (54.9%)
+- Equipamentos: R$ 199136.32 (12.3%)
+- Software: R$ 147467.15 (9.1%)
+- Serviços: R$ 244970.91 (15.1%)
+- Outros: R$ 138296.13 (8.5%)

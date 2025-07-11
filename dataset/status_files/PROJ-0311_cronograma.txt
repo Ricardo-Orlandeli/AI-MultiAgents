@@ -1,0 +1,27 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: O direito de conseguir de maneira eficaz (PROJ-0311)
+Data: 11/07/2025
+Gerente: Pedro Lucas Viana
+
+Status atual: Atrasado
+Percentual de conclusão: 8.2%
+Data de início: 05/06/2025
+Data de término planejada: 05/02/2026
+Data de término real/prevista: 25/06/2026
+Atraso atual: 0 dias
+Motivo do atraso: Problemas técnicos inesperados
+Índice de Desempenho de Cronograma (SPI): 0.56
+Valor Planejado (PV): R$ 190659.97
+Valor Agregado (EV): R$ 106737.13
+
+Tarefas críticas:
+- Testes de segurança
+- Configuração do ambiente de produção
+- Integração com sistema de pagamentos
+- Desenvolvimento da interface do usuário
+- Implementação do módulo de exportação de dados
+
+Tarefas atrasadas:
+- Desenvolvimento da interface do usuário
+- Implementação do módulo de exportação de dados
+- Testes de segurança

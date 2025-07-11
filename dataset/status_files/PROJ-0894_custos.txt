@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O poder de realizar seus sonhos com força total (PROJ-0894)
+Data: 11/07/2025
+Gerente: Alexandre Nunes
+
+Orçamento inicial: R$ 3545554.00
+Custo real atual: R$ 1158503.16
+Desvio orçamentário: -67.33%
+Índice de Desempenho de Custo (CPI): 0.79
+Valor Agregado (EV): R$ 916851.25
+Estimativa para conclusão: R$ 3321542.54
+Estimativa no término (EAC): R$ 4480045.70
+Variação no término (VAC): R$ -934491.70
+
+Detalhamento por categoria:
+- Pessoal: R$ 598240.44 (51.6%)
+- Equipamentos: R$ 146443.84 (12.6%)
+- Software: R$ 115718.84 (10.0%)
+- Serviços: R$ 205295.89 (17.7%)
+- Outros: R$ 92804.14 (8.0%)

@@ -1,0 +1,27 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A vantagem de avançar antes de tudo (PROJ-0978)
+Data: 11/07/2025
+Gerente: Dr. Ravi Lucca Abreu
+
+Status atual: Concluído
+Percentual de conclusão: 100.0%
+Data de início: 07/12/2023
+Data de término planejada: 17/04/2024
+Data de término real/prevista: 03/04/2024
+Atraso atual: 450 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 1.06
+Valor Planejado (PV): R$ 1336296.00
+Valor Agregado (EV): R$ 1336296.00
+
+Tarefas críticas:
+- Testes de segurança
+- Implementação da API REST
+- Implementação da API REST
+- Integração com sistema de pagamentos
+- Configuração do ambiente de produção
+- Configuração do ambiente de produção
+- Configuração da infraestrutura
+- Implementação do módulo de relatórios
+
+Tarefas atrasadas:

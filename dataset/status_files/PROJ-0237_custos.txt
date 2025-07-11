@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O conforto de avançar naturalmente (PROJ-0237)
+Data: 11/07/2025
+Gerente: Maya Aragão
+
+Orçamento inicial: R$ 4419246.00
+Custo real atual: R$ 2788092.27
+Desvio orçamentário: -0.00%
+Índice de Desempenho de Custo (CPI): 1.06
+Valor Agregado (EV): R$ 2964183.56
+Estimativa para conclusão: R$ 1368622.51
+Estimativa no término (EAC): R$ 4156714.78
+Variação no término (VAC): R$ 262531.22
+
+Detalhamento por categoria:
+- Pessoal: R$ 1327744.29 (47.6%)
+- Equipamentos: R$ 328312.73 (11.8%)
+- Software: R$ 403045.39 (14.5%)
+- Serviços: R$ 513557.25 (18.4%)
+- Outros: R$ 215432.61 (7.7%)

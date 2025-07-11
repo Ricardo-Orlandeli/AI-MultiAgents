@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A vantagem de evoluir simplesmente (PROJ-0248)
+Data: 11/07/2025
+Gerente: Ana Liz Moraes
+
+Orçamento inicial: R$ 474768.00
+Custo real atual: R$ 463236.65
+Desvio orçamentário: -2.43%
+Índice de Desempenho de Custo (CPI): 0.68
+Valor Agregado (EV): R$ 316598.20
+Estimativa para conclusão: R$ 231429.13
+Estimativa no término (EAC): R$ 694665.78
+Variação no término (VAC): R$ -219897.78
+
+Detalhamento por categoria:
+- Pessoal: R$ 232752.83 (50.2%)
+- Equipamentos: R$ 91483.28 (19.7%)
+- Software: R$ 25412.21 (5.5%)
+- Serviços: R$ 72719.54 (15.7%)
+- Outros: R$ 40868.79 (8.8%)

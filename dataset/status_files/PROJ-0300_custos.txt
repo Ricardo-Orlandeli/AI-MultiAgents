@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A possibilidade de concretizar seus projetos naturalmente (PROJ-0300)
+Data: 11/07/2025
+Gerente: Isaque Azevedo
+
+Orçamento inicial: R$ 675957.00
+Custo real atual: R$ 178791.84
+Desvio orçamentário: -21.38%
+Índice de Desempenho de Custo (CPI): 1.22
+Valor Agregado (EV): R$ 218402.87
+Estimativa para conclusão: R$ 374569.01
+Estimativa no término (EAC): R$ 553360.85
+Variação no término (VAC): R$ 122596.15
+
+Detalhamento por categoria:
+- Pessoal: R$ 92934.15 (52.0%)
+- Equipamentos: R$ 22871.88 (12.8%)
+- Software: R$ 18636.49 (10.4%)
+- Serviços: R$ 31728.45 (17.7%)
+- Outros: R$ 12620.88 (7.1%)

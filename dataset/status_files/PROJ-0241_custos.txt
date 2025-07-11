@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O direito de mudar com toda a tranquilidade (PROJ-0241)
+Data: 11/07/2025
+Gerente: Srta. Luna Cardoso
+
+Orçamento inicial: R$ 2838676.00
+Custo real atual: R$ 2389386.23
+Desvio orçamentário: -15.83%
+Índice de Desempenho de Custo (CPI): 0.96
+Valor Agregado (EV): R$ 2301328.47
+Estimativa para conclusão: R$ 557908.54
+Estimativa no término (EAC): R$ 2947294.77
+Variação no término (VAC): R$ -108618.77
+
+Detalhamento por categoria:
+- Pessoal: R$ 1199882.71 (50.2%)
+- Equipamentos: R$ 345099.50 (14.4%)
+- Software: R$ 280143.17 (11.7%)
+- Serviços: R$ 416824.95 (17.4%)
+- Outros: R$ 147435.90 (6.2%)

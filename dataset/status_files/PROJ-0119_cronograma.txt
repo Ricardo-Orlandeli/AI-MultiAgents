@@ -1,0 +1,26 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: O poder de ganhar com confiança (PROJ-0119)
+Data: 11/07/2025
+Gerente: Dr. Bryan Pires
+
+Status atual: Atrasado
+Percentual de conclusão: 66.2%
+Data de início: 13/10/2024
+Data de término planejada: 29/06/2025
+Data de término real/prevista: 16/08/2025
+Atraso atual: 12 dias
+Motivo do atraso: Problemas de integração com sistemas legados
+Índice de Desempenho de Cronograma (SPI): 0.66
+Valor Planejado (PV): R$ 2272214.00
+Valor Agregado (EV): R$ 1504146.31
+
+Tarefas críticas:
+- Implementação do módulo de relatórios
+- Implementação do módulo de notificações
+- Implementação do sistema de backup
+- Implementação da API REST
+- Desenvolvimento do painel administrativo
+
+Tarefas atrasadas:
+- Implementação do módulo de notificações
+- Implementação do sistema de backup

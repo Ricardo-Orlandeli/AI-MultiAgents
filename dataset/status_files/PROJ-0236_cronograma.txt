@@ -1,0 +1,24 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A simplicidade de realizar seus sonhos com força total (PROJ-0236)
+Data: 11/07/2025
+Gerente: Heitor da Rosa
+
+Status atual: Em andamento
+Percentual de conclusão: 80.6%
+Data de início: 09/07/2024
+Data de término planejada: 20/12/2024
+Data de término real/prevista: 29/12/2024
+Atraso atual: 203 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 1.13
+Valor Planejado (PV): R$ 1071574.00
+Valor Agregado (EV): R$ 863785.20
+
+Tarefas críticas:
+- Implementação do módulo de notificações
+- Implementação do sistema de backup
+- Desenvolvimento do painel administrativo
+- Testes de segurança
+- Testes de aceitação do usuário
+
+Tarefas atrasadas:

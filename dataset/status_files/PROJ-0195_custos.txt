@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A possibilidade de concretizar seus projetos com toda a tranquilidade (PROJ-0195)
+Data: 11/07/2025
+Gerente: Manuela Machado
+
+Orçamento inicial: R$ 727745.00
+Custo real atual: R$ 519853.24
+Desvio orçamentário: -28.57%
+Índice de Desempenho de Custo (CPI): 0.71
+Valor Agregado (EV): R$ 371533.29
+Estimativa para conclusão: R$ 498415.13
+Estimativa no término (EAC): R$ 1018268.37
+Variação no término (VAC): R$ -290523.37
+
+Detalhamento por categoria:
+- Pessoal: R$ 230771.61 (44.4%)
+- Equipamentos: R$ 99598.63 (19.2%)
+- Software: R$ 62055.22 (11.9%)
+- Serviços: R$ 99288.90 (19.1%)
+- Outros: R$ 28138.89 (5.4%)

@@ -1,0 +1,26 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: O conforto de conseguir sem preocupação (PROJ-0426)
+Data: 11/07/2025
+Gerente: Arthur Gabriel da Mota
+
+Status atual: Em andamento
+Percentual de conclusão: 33.8%
+Data de início: 14/04/2025
+Data de término planejada: 04/12/2025
+Data de término real/prevista: 15/12/2025
+Atraso atual: 0 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 0.87
+Valor Planejado (PV): R$ 880750.63
+Valor Agregado (EV): R$ 790803.97
+
+Tarefas críticas:
+- Implementação do módulo de notificações
+- Implementação da API REST
+- Configuração da infraestrutura
+- Configuração da infraestrutura
+- Implementação do módulo de exportação de dados
+- Testes de segurança
+- Implementação do módulo de relatórios
+
+Tarefas atrasadas:

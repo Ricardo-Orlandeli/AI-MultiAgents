@@ -1,0 +1,25 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A liberdade de mudar mais rapidamente (PROJ-0044)
+Data: 11/07/2025
+Gerente: Luiz Miguel Moraes
+
+Status atual: Em andamento
+Percentual de conclusão: 94.9%
+Data de início: 29/03/2024
+Data de término planejada: 06/03/2025
+Data de término real/prevista: 20/03/2025
+Atraso atual: 127 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 1.04
+Valor Planejado (PV): R$ 3299162.00
+Valor Agregado (EV): R$ 3132204.72
+
+Tarefas críticas:
+- Implementação do módulo de relatórios
+- Configuração do ambiente de produção
+- Migração de dados legados
+- Implementação do módulo de notificações
+- Implementação do módulo de análise de dados
+- Desenvolvimento do módulo de autenticação
+
+Tarefas atrasadas:

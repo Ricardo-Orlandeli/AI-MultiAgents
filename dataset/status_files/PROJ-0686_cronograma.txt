@@ -1,0 +1,28 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: O conforto de atingir seus objetivos sem preocupação (PROJ-0686)
+Data: 11/07/2025
+Gerente: Sr. Renan Araújo
+
+Status atual: Atrasado
+Percentual de conclusão: 64.4%
+Data de início: 09/11/2023
+Data de término planejada: 11/06/2024
+Data de término real/prevista: 03/12/2024
+Atraso atual: 395 dias
+Motivo do atraso: Mudanças de requisitos não planejadas
+Índice de Desempenho de Cronograma (SPI): 0.64
+Valor Planejado (PV): R$ 1629663.00
+Valor Agregado (EV): R$ 1049925.24
+
+Tarefas críticas:
+- Desenvolvimento da interface do usuário
+- Implementação do sistema de backup
+- Implementação da API REST
+- Configuração da infraestrutura
+- Implementação do módulo de relatórios
+- Migração de dados legados
+- Desenvolvimento da interface do usuário
+
+Tarefas atrasadas:
+- Desenvolvimento da interface do usuário
+- Desenvolvimento da interface do usuário

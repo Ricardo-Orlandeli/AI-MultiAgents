@@ -1,0 +1,26 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A arte de inovar direto da fonte (PROJ-0679)
+Data: 11/07/2025
+Gerente: Brenda Carvalho
+
+Status atual: Atrasado
+Percentual de conclusão: 58.0%
+Data de início: 15/10/2024
+Data de término planejada: 08/07/2025
+Data de término real/prevista: 26/09/2025
+Atraso atual: 3 dias
+Motivo do atraso: Problemas de comunicação
+Índice de Desempenho de Cronograma (SPI): 0.58
+Valor Planejado (PV): R$ 564235.00
+Valor Agregado (EV): R$ 327238.76
+
+Tarefas críticas:
+- Implementação do módulo de relatórios
+- Configuração da infraestrutura
+- Desenvolvimento do painel administrativo
+- Desenvolvimento do painel administrativo
+- Migração de dados legados
+- Configuração da infraestrutura
+
+Tarefas atrasadas:
+- Implementação do módulo de relatórios

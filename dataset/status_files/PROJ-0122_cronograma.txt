@@ -1,0 +1,26 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A liberdade de evoluir com força total (PROJ-0122)
+Data: 11/07/2025
+Gerente: Marcos Vinicius Câmara
+
+Status atual: Em andamento
+Percentual de conclusão: 85.8%
+Data de início: 30/12/2024
+Data de término planejada: 03/07/2025
+Data de término real/prevista: 28/06/2025
+Atraso atual: 8 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 0.96
+Valor Planejado (PV): R$ 4669261.00
+Valor Agregado (EV): R$ 4004120.95
+
+Tarefas críticas:
+- Desenvolvimento da interface do usuário
+- Configuração da infraestrutura
+- Integração com sistema de pagamentos
+- Migração de dados legados
+- Implementação do módulo de análise de dados
+- Testes de aceitação do usuário
+- Configuração da infraestrutura
+
+Tarefas atrasadas:

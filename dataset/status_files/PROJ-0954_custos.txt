@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O conforto de evoluir simplesmente (PROJ-0954)
+Data: 11/07/2025
+Gerente: Hadassa da Mata
+
+Orçamento inicial: R$ 2958577.00
+Custo real atual: R$ 641813.08
+Desvio orçamentário: -9.23%
+Índice de Desempenho de Custo (CPI): 1.14
+Valor Agregado (EV): R$ 731827.34
+Estimativa para conclusão: R$ 1952860.99
+Estimativa no término (EAC): R$ 2594674.06
+Variação no término (VAC): R$ 363902.94
+
+Detalhamento por categoria:
+- Pessoal: R$ 375143.26 (58.5%)
+- Equipamentos: R$ 81870.45 (12.8%)
+- Software: R$ 42617.52 (6.6%)
+- Serviços: R$ 87944.98 (13.7%)
+- Outros: R$ 54236.87 (8.5%)

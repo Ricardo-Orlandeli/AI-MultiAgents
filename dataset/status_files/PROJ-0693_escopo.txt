@@ -1,0 +1,24 @@
+RELATÓRIO DE STATUS DE ESCOPO
+Projeto: A segurança de conseguir sem preocupação (PROJ-0693)
+Data: 11/07/2025
+Gerente: Pietra Barros
+
+Escopo original: Sistema para a segurança de conseguir sem preocupação
+Houve mudança de escopo: Sim
+Descrição das mudanças: Expansão do escopo para incluir funcionalidades adicionais
+Impacto no cronograma: 24 dias
+Impacto no custo: R$ 785674.08
+
+Solicitações de mudança:
+- SCM-01: Mudança no banco de dados
+- SCM-02: Implementação de módulo de exportação de dados
+- SCM-03: Adição de relatórios gerenciais
+- SCM-04: Alteração nos requisitos de desempenho
+- SCM-05: Alteração na interface do usuário
+
+Requisitos atuais:
+- REQ-01: O sistema deve ter alta disponibilidade (99.9%)
+- REQ-02: O sistema deve permitir integração com APIs externas
+- REQ-03: O sistema deve permitir autenticação de usuários
+- REQ-04: O sistema deve ser compatível com dispositivos móveis
+- REQ-05: O sistema deve ter documentação completa

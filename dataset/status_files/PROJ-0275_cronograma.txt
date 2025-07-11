@@ -1,0 +1,25 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A possibilidade de conseguir em estado puro (PROJ-0275)
+Data: 11/07/2025
+Gerente: Eduarda Peixoto
+
+Status atual: Atrasado
+Percentual de conclusão: 61.8%
+Data de início: 01/06/2024
+Data de término planejada: 02/10/2024
+Data de término real/prevista: 12/03/2025
+Atraso atual: 282 dias
+Motivo do atraso: Recursos insuficientes
+Índice de Desempenho de Cronograma (SPI): 0.62
+Valor Planejado (PV): R$ 101399.00
+Valor Agregado (EV): R$ 62713.02
+
+Tarefas críticas:
+- Testes de segurança
+- Implementação do módulo de notificações
+- Desenvolvimento da interface do usuário
+
+Tarefas atrasadas:
+- Testes de segurança
+- Desenvolvimento da interface do usuário
+- Implementação do módulo de notificações

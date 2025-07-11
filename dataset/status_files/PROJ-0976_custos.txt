@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A certeza de atingir seus objetivos simplesmente (PROJ-0976)
+Data: 11/07/2025
+Gerente: Ravy Pires
+
+Orçamento inicial: R$ 3564182.00
+Custo real atual: R$ 3446261.02
+Desvio orçamentário: -3.31%
+Índice de Desempenho de Custo (CPI): 0.93
+Valor Agregado (EV): R$ 3192030.54
+Estimativa para conclusão: R$ 401791.61
+Estimativa no término (EAC): R$ 3848052.63
+Variação no término (VAC): R$ -283870.63
+
+Detalhamento por categoria:
+- Pessoal: R$ 1927516.06 (55.9%)
+- Equipamentos: R$ 605332.89 (17.6%)
+- Software: R$ 174813.60 (5.1%)
+- Serviços: R$ 533996.31 (15.5%)
+- Outros: R$ 204602.16 (5.9%)

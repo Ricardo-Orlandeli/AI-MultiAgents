@@ -1,0 +1,31 @@
+RELATÓRIO DE STATUS DE RISCOS
+Projeto: A certeza de inovar simplesmente (PROJ-0543)
+Data: 11/07/2025
+Gerente: Dr. João Gabriel Macedo
+
+Riscos identificados:
+- R01: Falhas de segurança
+  Probabilidade: 4/5, Impacto: 2/5, Nível: Médio
+  Mitigação: Contratar pessoal adicional
+
+- R02: Falhas em testes de aceitação
+  Probabilidade: 3/5, Impacto: 2/5, Nível: Baixo
+  Mitigação: Fortalecer medidas de segurança
+
+- R03: Mudanças regulatórias
+  Probabilidade: 2/5, Impacto: 1/5, Nível: Baixo
+  Mitigação: Comunicar benefícios da mudança
+
+Riscos ocorridos:
+- R01 (ocorrido em 02/07/2025)
+  Impacto real: Indisponibilidade temporária
+  Ações tomadas: Revisão do orçamento
+
+- R02 (ocorrido em 14/05/2025)
+  Impacto real: Indisponibilidade temporária
+  Ações tomadas: Implementação do plano de contingência
+
+- R03 (ocorrido em 14/04/2025)
+  Impacto real: Redução de funcionalidades
+  Ações tomadas: Realocação de recursos
+

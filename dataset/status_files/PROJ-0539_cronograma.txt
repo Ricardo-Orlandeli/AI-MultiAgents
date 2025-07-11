@@ -1,0 +1,24 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A arte de ganhar direto da fonte (PROJ-0539)
+Data: 11/07/2025
+Gerente: Dr. Dom Pastor
+
+Status atual: Em andamento
+Percentual de conclusão: 76.1%
+Data de início: 23/01/2025
+Data de término planejada: 06/08/2025
+Data de término real/prevista: 19/08/2025
+Atraso atual: 0 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 1.08
+Valor Planejado (PV): R$ 2665273.87
+Valor Agregado (EV): R$ 2341094.30
+
+Tarefas críticas:
+- Implementação do módulo de exportação de dados
+- Implementação do sistema de backup
+- Implementação do módulo de relatórios
+- Desenvolvimento do painel administrativo
+- Testes de segurança
+
+Tarefas atrasadas:

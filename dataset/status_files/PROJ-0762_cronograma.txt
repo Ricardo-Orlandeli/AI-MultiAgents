@@ -1,0 +1,27 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A segurança de atingir seus objetivos direto da fonte (PROJ-0762)
+Data: 11/07/2025
+Gerente: Nicolas Camargo
+
+Status atual: Concluído
+Percentual de conclusão: 100.0%
+Data de início: 09/03/2025
+Data de término planejada: 01/12/2025
+Data de término real/prevista: 08/12/2025
+Atraso atual: 0 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 1.10
+Valor Planejado (PV): R$ 713522.94
+Valor Agregado (EV): R$ 1536376.00
+
+Tarefas críticas:
+- Implementação do módulo de exportação de dados
+- Implementação da API REST
+- Desenvolvimento da interface do usuário
+- Desenvolvimento do módulo de autenticação
+- Implementação do módulo de notificações
+- Implementação do módulo de notificações
+- Testes de segurança
+- Configuração da infraestrutura
+
+Tarefas atrasadas:

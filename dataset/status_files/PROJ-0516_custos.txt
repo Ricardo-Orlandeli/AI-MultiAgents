@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A segurança de inovar naturalmente (PROJ-0516)
+Data: 11/07/2025
+Gerente: Kevin da Rosa
+
+Orçamento inicial: R$ 3741984.00
+Custo real atual: R$ 3012115.51
+Desvio orçamentário: -19.50%
+Índice de Desempenho de Custo (CPI): 1.09
+Valor Agregado (EV): R$ 3277414.14
+Estimativa para conclusão: R$ 426964.07
+Estimativa no término (EAC): R$ 3439079.58
+Variação no término (VAC): R$ 302904.42
+
+Detalhamento por categoria:
+- Pessoal: R$ 1447407.99 (48.1%)
+- Equipamentos: R$ 511102.75 (17.0%)
+- Software: R$ 334686.91 (11.1%)
+- Serviços: R$ 504808.08 (16.8%)
+- Outros: R$ 214109.77 (7.1%)

@@ -1,0 +1,24 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A vantagem de inovar antes de tudo (PROJ-0344)
+Data: 11/07/2025
+Gerente: Ísis Pires
+
+Status atual: Atrasado
+Percentual de conclusão: 79.1%
+Data de início: 15/01/2024
+Data de término planejada: 03/11/2024
+Data de término real/prevista: 10/12/2024
+Atraso atual: 250 dias
+Motivo do atraso: Problemas de comunicação
+Índice de Desempenho de Cronograma (SPI): 0.79
+Valor Planejado (PV): R$ 2603661.00
+Valor Agregado (EV): R$ 2060178.89
+
+Tarefas críticas:
+- Configuração da infraestrutura
+- Testes de segurança
+- Implementação do módulo de exportação de dados
+- Integração com sistema de pagamentos
+
+Tarefas atrasadas:
+- Implementação do módulo de exportação de dados

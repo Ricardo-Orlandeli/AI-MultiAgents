@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A vantagem de realizar seus sonhos mais rapidamente (PROJ-0681)
+Data: 11/07/2025
+Gerente: Augusto Almeida
+
+Orçamento inicial: R$ 3544120.00
+Custo real atual: R$ 2712951.13
+Desvio orçamentário: -23.45%
+Índice de Desempenho de Custo (CPI): 1.13
+Valor Agregado (EV): R$ 3059593.59
+Estimativa para conclusão: R$ 429631.07
+Estimativa no término (EAC): R$ 3142582.20
+Variação no término (VAC): R$ 401537.80
+
+Detalhamento por categoria:
+- Pessoal: R$ 1497579.47 (55.2%)
+- Equipamentos: R$ 380404.49 (14.0%)
+- Software: R$ 240758.21 (8.9%)
+- Serviços: R$ 375822.23 (13.9%)
+- Outros: R$ 218386.74 (8.0%)

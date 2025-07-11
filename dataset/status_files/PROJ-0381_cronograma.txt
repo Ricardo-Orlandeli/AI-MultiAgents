@@ -1,0 +1,25 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A arte de inovar naturalmente (PROJ-0381)
+Data: 11/07/2025
+Gerente: Ian Almeida
+
+Status atual: Em andamento
+Percentual de conclusão: 99.9%
+Data de início: 07/12/2023
+Data de término planejada: 15/03/2024
+Data de término real/prevista: 19/03/2024
+Atraso atual: 483 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 0.95
+Valor Planejado (PV): R$ 2777418.00
+Valor Agregado (EV): R$ 2774640.58
+
+Tarefas críticas:
+- Migração de dados legados
+- Desenvolvimento do módulo de autenticação
+- Configuração do ambiente de produção
+- Configuração do ambiente de produção
+- Implementação do módulo de análise de dados
+- Implementação do módulo de relatórios
+
+Tarefas atrasadas:

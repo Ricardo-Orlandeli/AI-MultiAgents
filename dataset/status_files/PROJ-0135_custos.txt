@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A certeza de avançar com força total (PROJ-0135)
+Data: 11/07/2025
+Gerente: Josué da Costa
+
+Orçamento inicial: R$ 2388279.00
+Custo real atual: R$ 2523283.88
+Desvio orçamentário: 5.65%
+Índice de Desempenho de Custo (CPI): 0.94
+Valor Agregado (EV): R$ 2376122.37
+Estimativa para conclusão: R$ 12909.54
+Estimativa no término (EAC): R$ 2536193.41
+Variação no término (VAC): R$ -147914.41
+
+Detalhamento por categoria:
+- Pessoal: R$ 1340487.74 (53.1%)
+- Equipamentos: R$ 426329.52 (16.9%)
+- Software: R$ 285962.15 (11.3%)
+- Serviços: R$ 244312.78 (9.7%)
+- Outros: R$ 226191.68 (9.0%)

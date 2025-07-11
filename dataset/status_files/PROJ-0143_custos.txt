@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O prazer de conseguir simplesmente (PROJ-0143)
+Data: 11/07/2025
+Gerente: Fernando Cavalcante
+
+Orçamento inicial: R$ 3400137.00
+Custo real atual: R$ 2737308.53
+Desvio orçamentário: -19.49%
+Índice de Desempenho de Custo (CPI): 1.17
+Valor Agregado (EV): R$ 3195162.71
+Estimativa para conclusão: R$ 175602.29
+Estimativa no término (EAC): R$ 2912910.81
+Variação no término (VAC): R$ 487226.19
+
+Detalhamento por categoria:
+- Pessoal: R$ 1290324.04 (47.1%)
+- Equipamentos: R$ 435527.63 (15.9%)
+- Software: R$ 389789.36 (14.2%)
+- Serviços: R$ 368326.19 (13.5%)
+- Outros: R$ 253341.31 (9.3%)

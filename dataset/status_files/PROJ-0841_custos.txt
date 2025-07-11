@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O prazer de realizar seus sonhos mais rapidamente (PROJ-0841)
+Data: 11/07/2025
+Gerente: Dr. Benicio Vargas
+
+Orçamento inicial: R$ 4224981.00
+Custo real atual: R$ 2477102.82
+Desvio orçamentário: -41.37%
+Índice de Desempenho de Custo (CPI): 0.90
+Valor Agregado (EV): R$ 2232848.54
+Estimativa para conclusão: R$ 2210054.49
+Estimativa no término (EAC): R$ 4687157.31
+Variação no término (VAC): R$ -462176.31
+
+Detalhamento por categoria:
+- Pessoal: R$ 1352789.74 (54.6%)
+- Equipamentos: R$ 401441.74 (16.2%)
+- Software: R$ 332148.72 (13.4%)
+- Serviços: R$ 256004.47 (10.3%)
+- Outros: R$ 134718.15 (5.4%)

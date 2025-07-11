@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A arte de avançar antes de tudo (PROJ-0268)
+Data: 11/07/2025
+Gerente: Benjamim Farias
+
+Orçamento inicial: R$ 1184929.00
+Custo real atual: R$ 747988.32
+Desvio orçamentário: -36.87%
+Índice de Desempenho de Custo (CPI): 0.91
+Valor Agregado (EV): R$ 683533.73
+Estimativa para conclusão: R$ 548674.90
+Estimativa no término (EAC): R$ 1296663.22
+Variação no término (VAC): R$ -111734.22
+
+Detalhamento por categoria:
+- Pessoal: R$ 435518.55 (58.2%)
+- Equipamentos: R$ 79990.89 (10.7%)
+- Software: R$ 63950.39 (8.5%)
+- Serviços: R$ 128991.74 (17.2%)
+- Outros: R$ 39536.75 (5.3%)

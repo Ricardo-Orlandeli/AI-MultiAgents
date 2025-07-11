@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A simplicidade de concretizar seus projetos simplesmente (PROJ-0162)
+Data: 11/07/2025
+Gerente: Dr. Liam da Mata
+
+Orçamento inicial: R$ 4803407.00
+Custo real atual: R$ 4873551.70
+Desvio orçamentário: 1.46%
+Índice de Desempenho de Custo (CPI): 0.99
+Valor Agregado (EV): R$ 4803407.00
+Estimativa para conclusão: R$ 0.00
+Estimativa no término (EAC): R$ 4873551.70
+Variação no término (VAC): R$ -70144.70
+
+Detalhamento por categoria:
+- Pessoal: R$ 2187378.83 (44.9%)
+- Equipamentos: R$ 595296.97 (12.2%)
+- Software: R$ 620322.60 (12.7%)
+- Serviços: R$ 1014127.29 (20.8%)
+- Outros: R$ 456426.01 (9.4%)

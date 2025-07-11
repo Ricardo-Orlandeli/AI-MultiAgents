@@ -1,0 +1,25 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A simplicidade de avançar mais facilmente (PROJ-0471)
+Data: 11/07/2025
+Gerente: Lucas Gabriel Fernandes
+
+Status atual: Atrasado
+Percentual de conclusão: 53.2%
+Data de início: 03/03/2024
+Data de término planejada: 29/11/2024
+Data de término real/prevista: 01/05/2025
+Atraso atual: 224 dias
+Motivo do atraso: Mudanças de requisitos não planejadas
+Índice de Desempenho de Cronograma (SPI): 0.53
+Valor Planejado (PV): R$ 4634259.00
+Valor Agregado (EV): R$ 2467055.99
+
+Tarefas críticas:
+- Desenvolvimento do painel administrativo
+- Desenvolvimento do painel administrativo
+- Configuração do ambiente de produção
+- Configuração da infraestrutura
+
+Tarefas atrasadas:
+- Configuração do ambiente de produção
+- Desenvolvimento do painel administrativo

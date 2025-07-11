@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O prazer de conseguir com força total (PROJ-0636)
+Data: 11/07/2025
+Gerente: Caroline Costela
+
+Orçamento inicial: R$ 1882819.00
+Custo real atual: R$ 954173.09
+Desvio orçamentário: -30.24%
+Índice de Desempenho de Custo (CPI): 0.75
+Valor Agregado (EV): R$ 713236.07
+Estimativa para conclusão: R$ 1564677.67
+Estimativa no término (EAC): R$ 2518850.76
+Variação no término (VAC): R$ -636031.76
+
+Detalhamento por categoria:
+- Pessoal: R$ 573845.82 (60.1%)
+- Equipamentos: R$ 106893.05 (11.2%)
+- Software: R$ 72433.19 (7.6%)
+- Serviços: R$ 125252.12 (13.1%)
+- Outros: R$ 75748.90 (7.9%)

@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A segurança de concretizar seus projetos sem preocupação (PROJ-0357)
+Data: 11/07/2025
+Gerente: Luan Sampaio
+
+Orçamento inicial: R$ 3952498.00
+Custo real atual: R$ 3639311.81
+Desvio orçamentário: -5.27%
+Índice de Desempenho de Custo (CPI): 1.08
+Valor Agregado (EV): R$ 3914195.52
+Estimativa para conclusão: R$ 35612.59
+Estimativa no término (EAC): R$ 3674924.41
+Variação no término (VAC): R$ 277573.59
+
+Detalhamento por categoria:
+- Pessoal: R$ 1918603.13 (52.7%)
+- Equipamentos: R$ 452487.01 (12.4%)
+- Software: R$ 603343.72 (16.6%)
+- Serviços: R$ 453039.37 (12.4%)
+- Outros: R$ 211838.59 (5.8%)

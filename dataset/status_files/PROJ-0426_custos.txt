@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O conforto de conseguir sem preocupação (PROJ-0426)
+Data: 11/07/2025
+Gerente: Arthur Gabriel da Mota
+
+Orçamento inicial: R$ 2341996.00
+Custo real atual: R$ 840945.46
+Desvio orçamentário: -4.52%
+Índice de Desempenho de Custo (CPI): 0.94
+Valor Agregado (EV): R$ 790803.97
+Estimativa para conclusão: R$ 1649546.46
+Estimativa no término (EAC): R$ 2490491.93
+Variação no término (VAC): R$ -148495.93
+
+Detalhamento por categoria:
+- Pessoal: R$ 408240.17 (48.5%)
+- Equipamentos: R$ 88298.93 (10.5%)
+- Software: R$ 126461.66 (15.0%)
+- Serviços: R$ 135136.55 (16.1%)
+- Outros: R$ 82808.16 (9.8%)

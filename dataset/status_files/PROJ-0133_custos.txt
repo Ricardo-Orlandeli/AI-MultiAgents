@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O direito de mudar com toda a tranquilidade (PROJ-0133)
+Data: 11/07/2025
+Gerente: Camila da Conceição
+
+Orçamento inicial: R$ 549298.00
+Custo real atual: R$ 175789.65
+Desvio orçamentário: -11.23%
+Índice de Desempenho de Custo (CPI): 0.91
+Valor Agregado (EV): R$ 159255.92
+Estimativa para conclusão: R$ 430535.71
+Estimativa no término (EAC): R$ 606325.36
+Variação no término (VAC): R$ -57027.36
+
+Detalhamento por categoria:
+- Pessoal: R$ 79350.51 (45.1%)
+- Equipamentos: R$ 25527.82 (14.5%)
+- Software: R$ 16198.04 (9.2%)
+- Serviços: R$ 36039.08 (20.5%)
+- Outros: R$ 18674.20 (10.6%)

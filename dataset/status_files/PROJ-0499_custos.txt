@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A liberdade de evoluir com toda a tranquilidade (PROJ-0499)
+Data: 11/07/2025
+Gerente: Augusto Azevedo
+
+Orçamento inicial: R$ 1315576.00
+Custo real atual: R$ 1254314.80
+Desvio orçamentário: -4.66%
+Índice de Desempenho de Custo (CPI): 0.87
+Valor Agregado (EV): R$ 1088012.30
+Estimativa para conclusão: R$ 262346.78
+Estimativa no término (EAC): R$ 1516661.57
+Variação no término (VAC): R$ -201085.57
+
+Detalhamento por categoria:
+- Pessoal: R$ 777066.95 (62.0%)
+- Equipamentos: R$ 143074.26 (11.4%)
+- Software: R$ 86678.25 (6.9%)
+- Serviços: R$ 174100.32 (13.9%)
+- Outros: R$ 73395.02 (5.9%)

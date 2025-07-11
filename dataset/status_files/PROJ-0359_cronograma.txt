@@ -1,0 +1,27 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: O conforto de concretizar seus projetos com força total (PROJ-0359)
+Data: 11/07/2025
+Gerente: Emanuelly Cavalcante
+
+Status atual: Atrasado
+Percentual de conclusão: 62.7%
+Data de início: 20/04/2024
+Data de término planejada: 16/10/2024
+Data de término real/prevista: 05/03/2025
+Atraso atual: 268 dias
+Motivo do atraso: Atraso na entrega de componentes por fornecedores
+Índice de Desempenho de Cronograma (SPI): 0.63
+Valor Planejado (PV): R$ 1392605.00
+Valor Agregado (EV): R$ 872925.95
+
+Tarefas críticas:
+- Implementação do módulo de análise de dados
+- Migração de dados legados
+- Implementação do módulo de relatórios
+- Testes de segurança
+- Implementação do módulo de relatórios
+- Testes de segurança
+- Implementação do sistema de backup
+
+Tarefas atrasadas:
+- Implementação do sistema de backup

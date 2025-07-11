@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A liberdade de conseguir mais rapidamente (PROJ-0218)
+Data: 11/07/2025
+Gerente: Leandro Andrade
+
+Orçamento inicial: R$ 931915.00
+Custo real atual: R$ 1003946.72
+Desvio orçamentário: 7.73%
+Índice de Desempenho de Custo (CPI): 0.93
+Valor Agregado (EV): R$ 930983.09
+Estimativa para conclusão: R$ 1004.95
+Estimativa no término (EAC): R$ 1004951.67
+Variação no término (VAC): R$ -73036.67
+
+Detalhamento por categoria:
+- Pessoal: R$ 548304.02 (54.6%)
+- Equipamentos: R$ 174740.64 (17.4%)
+- Software: R$ 67807.09 (6.8%)
+- Serviços: R$ 143165.33 (14.3%)
+- Outros: R$ 69929.65 (7.0%)

@@ -1,0 +1,22 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A simplicidade de inovar de maneira eficaz (PROJ-0916)
+Data: 11/07/2025
+Gerente: Julia Pires
+
+Status atual: Em andamento
+Percentual de conclusão: 81.8%
+Data de início: 20/11/2024
+Data de término planejada: 17/10/2025
+Data de término real/prevista: 15/10/2025
+Atraso atual: 0 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 1.10
+Valor Planejado (PV): R$ 1251525.36
+Valor Agregado (EV): R$ 1454712.68
+
+Tarefas críticas:
+- Desenvolvimento da interface do usuário
+- Implementação da API REST
+- Migração de dados legados
+
+Tarefas atrasadas:

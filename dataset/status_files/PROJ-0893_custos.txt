@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O direito de avançar com confiança (PROJ-0893)
+Data: 11/07/2025
+Gerente: Pedro Henrique da Rocha
+
+Orçamento inicial: R$ 3383230.00
+Custo real atual: R$ 3673941.99
+Desvio orçamentário: 8.59%
+Índice de Desempenho de Custo (CPI): 0.77
+Valor Agregado (EV): R$ 2846088.82
+Estimativa para conclusão: R$ 693381.57
+Estimativa no término (EAC): R$ 4367323.56
+Variação no término (VAC): R$ -984093.56
+
+Detalhamento por categoria:
+- Pessoal: R$ 1851359.76 (50.4%)
+- Equipamentos: R$ 419560.87 (11.4%)
+- Software: R$ 512577.38 (14.0%)
+- Serviços: R$ 595127.51 (16.2%)
+- Outros: R$ 295316.47 (8.0%)

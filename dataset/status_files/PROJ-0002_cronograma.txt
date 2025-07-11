@@ -1,0 +1,27 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: O prazer de inovar naturalmente (PROJ-0002)
+Data: 11/07/2025
+Gerente: Ian Andrade
+
+Status atual: Atrasado
+Percentual de conclusão: 59.5%
+Data de início: 21/11/2024
+Data de término planejada: 23/09/2025
+Data de término real/prevista: 13/01/2026
+Atraso atual: 0 dias
+Motivo do atraso: Recursos insuficientes
+Índice de Desempenho de Cronograma (SPI): 0.79
+Valor Planejado (PV): R$ 1317227.01
+Valor Agregado (EV): R$ 1034259.76
+
+Tarefas críticas:
+- Testes de segurança
+- Implementação do módulo de exportação de dados
+- Implementação do módulo de análise de dados
+- Integração com sistema de pagamentos
+- Implementação do módulo de exportação de dados
+- Implementação do módulo de relatórios
+- Testes de segurança
+
+Tarefas atrasadas:
+- Testes de segurança

@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O prazer de ganhar naturalmente (PROJ-0045)
+Data: 11/07/2025
+Gerente: Henrique Montenegro
+
+Orçamento inicial: R$ 4591885.00
+Custo real atual: R$ 4306000.75
+Desvio orçamentário: -6.23%
+Índice de Desempenho de Custo (CPI): 1.07
+Valor Agregado (EV): R$ 4587293.12
+Estimativa para conclusão: R$ 4310.31
+Estimativa no término (EAC): R$ 4310311.07
+Variação no término (VAC): R$ 281573.93
+
+Detalhamento por categoria:
+- Pessoal: R$ 2364671.52 (54.9%)
+- Equipamentos: R$ 577387.03 (13.4%)
+- Software: R$ 251672.87 (5.8%)
+- Serviços: R$ 836806.31 (19.4%)
+- Outros: R$ 275463.02 (6.4%)

@@ -1,0 +1,24 @@
+RELATÓRIO DE STATUS DE ESCOPO
+Projeto: A simplicidade de mudar direto da fonte (PROJ-0962)
+Data: 11/07/2025
+Gerente: Arthur da Conceição
+
+Escopo original: Sistema para a simplicidade de mudar direto da fonte
+Houve mudança de escopo: Sim
+Descrição das mudanças: Mudança na plataforma de implementação
+Impacto no cronograma: 34 dias
+Impacto no custo: R$ 183798.80
+
+Solicitações de mudança:
+- SCM-01: Alteração nos requisitos de desempenho
+
+Requisitos atuais:
+- REQ-01: O sistema deve ter interface responsiva
+- REQ-02: O sistema deve ter backup automático diário
+- REQ-03: O sistema deve permitir autenticação de usuários
+- REQ-04: O sistema deve ser compatível com dispositivos móveis
+- REQ-05: O sistema deve processar transações em menos de 2 seconds
+- REQ-06: O sistema deve ter interface responsiva
+- REQ-07: O sistema deve ter controle de acesso baseado em perfis
+- REQ-08: O sistema deve ter controle de acesso baseado em perfis
+- REQ-09: O sistema deve registrar logs de auditoria

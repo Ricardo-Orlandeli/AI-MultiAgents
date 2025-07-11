@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A liberdade de avançar em estado puro (PROJ-0138)
+Data: 11/07/2025
+Gerente: Isaac Peixoto
+
+Orçamento inicial: R$ 1594614.00
+Custo real atual: R$ 1336843.89
+Desvio orçamentário: -16.17%
+Índice de Desempenho de Custo (CPI): 1.04
+Valor Agregado (EV): R$ 1389634.80
+Estimativa para conclusão: R$ 197192.24
+Estimativa no término (EAC): R$ 1534036.13
+Variação no término (VAC): R$ 60577.87
+
+Detalhamento por categoria:
+- Pessoal: R$ 698894.70 (52.3%)
+- Equipamentos: R$ 200415.31 (15.0%)
+- Software: R$ 184946.97 (13.8%)
+- Serviços: R$ 150015.95 (11.2%)
+- Outros: R$ 102570.95 (7.7%)

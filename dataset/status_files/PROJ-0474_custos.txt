@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A simplicidade de inovar mais facilmente (PROJ-0474)
+Data: 11/07/2025
+Gerente: Caroline Cirino
+
+Orçamento inicial: R$ 3534592.00
+Custo real atual: R$ 3139158.15
+Desvio orçamentário: -11.19%
+Índice de Desempenho de Custo (CPI): 1.12
+Valor Agregado (EV): R$ 3531057.41
+Estimativa para conclusão: R$ 3142.30
+Estimativa no término (EAC): R$ 3142300.45
+Variação no término (VAC): R$ 392291.55
+
+Detalhamento por categoria:
+- Pessoal: R$ 1639195.89 (52.2%)
+- Equipamentos: R$ 679969.82 (21.7%)
+- Software: R$ 235666.60 (7.5%)
+- Serviços: R$ 387107.97 (12.3%)
+- Outros: R$ 197217.88 (6.3%)

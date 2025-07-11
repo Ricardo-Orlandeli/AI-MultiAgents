@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O conforto de evoluir simplesmente (PROJ-0417)
+Data: 11/07/2025
+Gerente: Beatriz Pastor
+
+Orçamento inicial: R$ 4988788.00
+Custo real atual: R$ 3198962.22
+Desvio orçamentário: -35.88%
+Índice de Desempenho de Custo (CPI): 0.80
+Valor Agregado (EV): R$ 2570700.26
+Estimativa para conclusão: R$ 3009052.21
+Estimativa no término (EAC): R$ 6208014.42
+Variação no término (VAC): R$ -1219226.42
+
+Detalhamento por categoria:
+- Pessoal: R$ 1606727.81 (50.2%)
+- Equipamentos: R$ 324104.14 (10.1%)
+- Software: R$ 405961.33 (12.7%)
+- Serviços: R$ 563041.84 (17.6%)
+- Outros: R$ 299127.09 (9.4%)

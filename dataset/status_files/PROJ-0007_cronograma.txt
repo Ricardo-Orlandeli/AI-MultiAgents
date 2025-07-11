@@ -1,0 +1,24 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A certeza de evoluir com força total (PROJ-0007)
+Data: 11/07/2025
+Gerente: Leandro Fonseca
+
+Status atual: Atrasado
+Percentual de conclusão: 65.4%
+Data de início: 19/05/2024
+Data de término planejada: 27/11/2024
+Data de término real/prevista: 25/05/2025
+Atraso atual: 226 dias
+Motivo do atraso: Falhas em testes de aceitação
+Índice de Desempenho de Cronograma (SPI): 0.65
+Valor Planejado (PV): R$ 3247998.00
+Valor Agregado (EV): R$ 2125592.21
+
+Tarefas críticas:
+- Implementação do sistema de backup
+- Desenvolvimento da interface do usuário
+- Desenvolvimento do módulo de autenticação
+
+Tarefas atrasadas:
+- Desenvolvimento do módulo de autenticação
+- Implementação do sistema de backup

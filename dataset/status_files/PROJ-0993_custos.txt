@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A arte de atingir seus objetivos naturalmente (PROJ-0993)
+Data: 11/07/2025
+Gerente: Ryan Alves
+
+Orçamento inicial: R$ 3122056.00
+Custo real atual: R$ 4031370.29
+Desvio orçamentário: 215.31%
+Índice de Desempenho de Custo (CPI): 0.69
+Valor Agregado (EV): R$ 2796091.87
+Estimativa para conclusão: R$ 469971.01
+Estimativa no término (EAC): R$ 4501341.30
+Variação no término (VAC): R$ -1379285.30
+
+Detalhamento por categoria:
+- Pessoal: R$ 1694837.52 (42.0%)
+- Equipamentos: R$ 799020.99 (19.8%)
+- Software: R$ 471558.90 (11.7%)
+- Serviços: R$ 810766.66 (20.1%)
+- Outros: R$ 255186.21 (6.3%)

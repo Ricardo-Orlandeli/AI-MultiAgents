@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A possibilidade de realizar seus sonhos em estado puro (PROJ-0035)
+Data: 11/07/2025
+Gerente: Catarina da Luz
+
+Orçamento inicial: R$ 1901556.00
+Custo real atual: R$ 1120239.04
+Desvio orçamentário: -16.06%
+Índice de Desempenho de Custo (CPI): 1.24
+Valor Agregado (EV): R$ 1391196.13
+Estimativa para conclusão: R$ 410959.35
+Estimativa no término (EAC): R$ 1531198.39
+Variação no término (VAC): R$ 370357.61
+
+Detalhamento por categoria:
+- Pessoal: R$ 547921.13 (48.9%)
+- Equipamentos: R$ 198929.38 (17.8%)
+- Software: R$ 137413.86 (12.3%)
+- Serviços: R$ 151441.37 (13.5%)
+- Outros: R$ 84533.31 (7.5%)

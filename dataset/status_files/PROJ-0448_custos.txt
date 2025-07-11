@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A vantagem de inovar naturalmente (PROJ-0448)
+Data: 11/07/2025
+Gerente: Lucas Gabriel Nascimento
+
+Orçamento inicial: R$ 4778822.00
+Custo real atual: R$ 3116327.89
+Desvio orçamentário: -34.79%
+Índice de Desempenho de Custo (CPI): 0.95
+Valor Agregado (EV): R$ 2947538.79
+Estimativa para conclusão: R$ 1936150.58
+Estimativa no término (EAC): R$ 5052478.47
+Variação no término (VAC): R$ -273656.47
+
+Detalhamento por categoria:
+- Pessoal: R$ 1701526.50 (54.6%)
+- Equipamentos: R$ 534987.69 (17.2%)
+- Software: R$ 199155.57 (6.4%)
+- Serviços: R$ 461348.36 (14.8%)
+- Outros: R$ 219309.77 (7.0%)

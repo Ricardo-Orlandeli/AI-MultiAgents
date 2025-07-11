@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A vantagem de avançar antes de tudo (PROJ-0559)
+Data: 11/07/2025
+Gerente: Maria Fernanda Montenegro
+
+Orçamento inicial: R$ 1510456.00
+Custo real atual: R$ 1476718.97
+Desvio orçamentário: -2.23%
+Índice de Desempenho de Custo (CPI): 0.89
+Valor Agregado (EV): R$ 1317936.81
+Estimativa para conclusão: R$ 215713.48
+Estimativa no término (EAC): R$ 1692432.44
+Variação no término (VAC): R$ -181976.44
+
+Detalhamento por categoria:
+- Pessoal: R$ 713314.75 (48.3%)
+- Equipamentos: R$ 266262.17 (18.0%)
+- Software: R$ 100378.06 (6.8%)
+- Serviços: R$ 264532.26 (17.9%)
+- Outros: R$ 132231.72 (9.0%)

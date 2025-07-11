@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A possibilidade de atingir seus objetivos com confiança (PROJ-0630)
+Data: 11/07/2025
+Gerente: Miguel Castro
+
+Orçamento inicial: R$ 3829208.00
+Custo real atual: R$ 4047048.89
+Desvio orçamentário: 5.69%
+Índice de Desempenho de Custo (CPI): 0.95
+Valor Agregado (EV): R$ 3825378.79
+Estimativa para conclusão: R$ 4051.10
+Estimativa no término (EAC): R$ 4051099.99
+Variação no término (VAC): R$ -221891.99
+
+Detalhamento por categoria:
+- Pessoal: R$ 2042295.74 (50.5%)
+- Equipamentos: R$ 735032.27 (18.2%)
+- Software: R$ 317410.98 (7.8%)
+- Serviços: R$ 618237.30 (15.3%)
+- Outros: R$ 334072.59 (8.3%)

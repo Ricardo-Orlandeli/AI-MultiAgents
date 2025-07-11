@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O direito de atingir seus objetivos naturalmente (PROJ-0170)
+Data: 11/07/2025
+Gerente: Luana Cavalcante
+
+Orçamento inicial: R$ 2723079.00
+Custo real atual: R$ 2727502.21
+Desvio orçamentário: 0.16%
+Índice de Desempenho de Custo (CPI): 1.00
+Valor Agregado (EV): R$ 2720355.92
+Estimativa para conclusão: R$ 2730.23
+Estimativa no término (EAC): R$ 2730232.44
+Variação no término (VAC): R$ -7153.44
+
+Detalhamento por categoria:
+- Pessoal: R$ 1350761.52 (49.5%)
+- Equipamentos: R$ 482656.93 (17.7%)
+- Software: R$ 296384.85 (10.9%)
+- Serviços: R$ 405306.94 (14.9%)
+- Outros: R$ 192391.97 (7.1%)

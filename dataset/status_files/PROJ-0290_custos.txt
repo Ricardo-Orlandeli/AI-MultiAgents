@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A possibilidade de realizar seus sonhos com confiança (PROJ-0290)
+Data: 11/07/2025
+Gerente: Eloah da Costa
+
+Orçamento inicial: R$ 3595798.00
+Custo real atual: R$ 3594208.04
+Desvio orçamentário: -0.04%
+Índice de Desempenho de Custo (CPI): 1.00
+Valor Agregado (EV): R$ 3592202.20
+Estimativa para conclusão: R$ 3597.81
+Estimativa no término (EAC): R$ 3597805.84
+Variação no término (VAC): R$ -2007.84
+
+Detalhamento por categoria:
+- Pessoal: R$ 1746125.27 (48.6%)
+- Equipamentos: R$ 462214.23 (12.9%)
+- Software: R$ 267899.39 (7.5%)
+- Serviços: R$ 736164.03 (20.5%)
+- Outros: R$ 381805.11 (10.6%)

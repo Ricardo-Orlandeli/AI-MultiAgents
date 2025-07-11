@@ -1,0 +1,25 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A arte de ganhar sem preocupação (PROJ-0834)
+Data: 11/07/2025
+Gerente: Ana Clara da Mata
+
+Status atual: Em andamento
+Percentual de conclusão: 3.6%
+Data de início: 29/06/2025
+Data de término planejada: 03/04/2026
+Data de término real/prevista: 11/04/2026
+Atraso atual: 0 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 1.14
+Valor Planejado (PV): R$ 175325.57
+Valor Agregado (EV): R$ 144397.34
+
+Tarefas críticas:
+- Implementação do módulo de análise de dados
+- Desenvolvimento do painel administrativo
+- Implementação do módulo de notificações
+- Implementação do sistema de backup
+- Configuração do ambiente de produção
+- Implementação do módulo de relatórios
+
+Tarefas atrasadas:

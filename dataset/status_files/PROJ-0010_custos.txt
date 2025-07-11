@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A vantagem de conseguir mais rapidamente (PROJ-0010)
+Data: 11/07/2025
+Gerente: Luiza Sá
+
+Orçamento inicial: R$ 3553870.00
+Custo real atual: R$ 2630876.98
+Desvio orçamentário: -25.97%
+Índice de Desempenho de Custo (CPI): 1.24
+Valor Agregado (EV): R$ 3254655.76
+Estimativa para conclusão: R$ 241867.62
+Estimativa no término (EAC): R$ 2872744.60
+Variação no término (VAC): R$ 681125.40
+
+Detalhamento por categoria:
+- Pessoal: R$ 1337965.21 (50.9%)
+- Equipamentos: R$ 386423.84 (14.7%)
+- Software: R$ 318100.57 (12.1%)
+- Serviços: R$ 458459.43 (17.4%)
+- Outros: R$ 129927.93 (4.9%)

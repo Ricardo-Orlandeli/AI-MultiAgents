@@ -1,0 +1,27 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A liberdade de avançar em estado puro (PROJ-0138)
+Data: 11/07/2025
+Gerente: Isaac Peixoto
+
+Status atual: Em andamento
+Percentual de conclusão: 87.1%
+Data de início: 07/07/2024
+Data de término planejada: 22/05/2025
+Data de término real/prevista: 29/05/2025
+Atraso atual: 50 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 0.96
+Valor Planejado (PV): R$ 1594614.00
+Valor Agregado (EV): R$ 1389634.80
+
+Tarefas críticas:
+- Implementação do sistema de backup
+- Desenvolvimento do módulo de autenticação
+- Configuração da infraestrutura
+- Implementação da API REST
+- Desenvolvimento do painel administrativo
+- Testes de aceitação do usuário
+- Implementação do módulo de notificações
+- Implementação do módulo de notificações
+
+Tarefas atrasadas:

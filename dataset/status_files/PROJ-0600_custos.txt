@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A simplicidade de inovar com confiança (PROJ-0600)
+Data: 11/07/2025
+Gerente: Ana Beatriz Moraes
+
+Orçamento inicial: R$ 2721602.00
+Custo real atual: R$ 2707702.33
+Desvio orçamentário: -0.51%
+Índice de Desempenho de Custo (CPI): 0.85
+Valor Agregado (EV): R$ 2293748.63
+Estimativa para conclusão: R$ 505068.23
+Estimativa no término (EAC): R$ 3212770.57
+Variação no término (VAC): R$ -491168.57
+
+Detalhamento por categoria:
+- Pessoal: R$ 1422813.78 (52.5%)
+- Equipamentos: R$ 292358.42 (10.8%)
+- Software: R$ 379413.23 (14.0%)
+- Serviços: R$ 460896.97 (17.0%)
+- Outros: R$ 152219.93 (5.6%)

@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A arte de mudar mais rapidamente (PROJ-0953)
+Data: 11/07/2025
+Gerente: Sr. Henrique Gonçalves
+
+Orçamento inicial: R$ 3713162.00
+Custo real atual: R$ 2987812.38
+Desvio orçamentário: -19.53%
+Índice de Desempenho de Custo (CPI): 1.10
+Valor Agregado (EV): R$ 3285901.71
+Estimativa para conclusão: R$ 388500.23
+Estimativa no término (EAC): R$ 3376312.62
+Variação no término (VAC): R$ 336849.38
+
+Detalhamento por categoria:
+- Pessoal: R$ 1444041.58 (48.3%)
+- Equipamentos: R$ 442972.71 (14.8%)
+- Software: R$ 402364.39 (13.5%)
+- Serviços: R$ 460084.13 (15.4%)
+- Outros: R$ 238349.57 (8.0%)

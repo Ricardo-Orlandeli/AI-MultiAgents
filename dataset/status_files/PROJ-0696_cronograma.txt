@@ -1,0 +1,26 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A simplicidade de evoluir com confiança (PROJ-0696)
+Data: 11/07/2025
+Gerente: Heitor Camargo
+
+Status atual: Atrasado
+Percentual de conclusão: 6.9%
+Data de início: 15/06/2025
+Data de término planejada: 29/01/2026
+Data de término real/prevista: 10/02/2026
+Atraso atual: 0 dias
+Motivo do atraso: Rotatividade de pessoal-chave
+Índice de Desempenho de Cronograma (SPI): 0.60
+Valor Planejado (PV): R$ 273537.33
+Valor Agregado (EV): R$ 164428.42
+
+Tarefas críticas:
+- Implementação do módulo de exportação de dados
+- Implementação do módulo de notificações
+- Desenvolvimento da interface do usuário
+- Desenvolvimento do painel administrativo
+- Desenvolvimento do painel administrativo
+
+Tarefas atrasadas:
+- Implementação do módulo de exportação de dados
+- Implementação do módulo de notificações

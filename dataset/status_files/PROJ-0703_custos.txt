@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O conforto de conseguir mais rapidamente (PROJ-0703)
+Data: 11/07/2025
+Gerente: Lorena Porto
+
+Orçamento inicial: R$ 96766.00
+Custo real atual: R$ 31539.64
+Desvio orçamentário: -6.65%
+Índice de Desempenho de Custo (CPI): 1.18
+Valor Agregado (EV): R$ 37367.66
+Estimativa para conclusão: R$ 50134.34
+Estimativa no término (EAC): R$ 81673.98
+Variação no término (VAC): R$ 15092.02
+
+Detalhamento por categoria:
+- Pessoal: R$ 14183.29 (45.0%)
+- Equipamentos: R$ 6276.04 (19.9%)
+- Software: R$ 4018.72 (12.7%)
+- Serviços: R$ 4639.89 (14.7%)
+- Outros: R$ 2421.70 (7.7%)

@@ -1,0 +1,25 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A arte de mudar simplesmente (PROJ-0668)
+Data: 11/07/2025
+Gerente: Bruno Pimenta
+
+Status atual: Em andamento
+Percentual de conclusão: 84.3%
+Data de início: 24/10/2023
+Data de término planejada: 13/02/2024
+Data de término real/prevista: 03/03/2024
+Atraso atual: 514 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 1.02
+Valor Planejado (PV): R$ 4390496.00
+Valor Agregado (EV): R$ 3702267.89
+
+Tarefas críticas:
+- Configuração da infraestrutura
+- Migração de dados legados
+- Migração de dados legados
+- Desenvolvimento da interface do usuário
+- Implementação do sistema de backup
+- Desenvolvimento da interface do usuário
+
+Tarefas atrasadas:

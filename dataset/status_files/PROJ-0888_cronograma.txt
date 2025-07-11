@@ -1,0 +1,22 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A arte de atingir seus objetivos mais facilmente (PROJ-0888)
+Data: 11/07/2025
+Gerente: Manuella Siqueira
+
+Status atual: Concluído
+Percentual de conclusão: 100.0%
+Data de início: 08/07/2024
+Data de término planejada: 20/08/2024
+Data de término real/prevista: 19/08/2024
+Atraso atual: 325 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 1.03
+Valor Planejado (PV): R$ 3636806.00
+Valor Agregado (EV): R$ 3636806.00
+
+Tarefas críticas:
+- Configuração do ambiente de produção
+- Integração com sistema de pagamentos
+- Configuração do ambiente de produção
+
+Tarefas atrasadas:

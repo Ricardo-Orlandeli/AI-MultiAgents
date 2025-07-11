@@ -1,0 +1,27 @@
+RELATÓRIO DE STATUS DE ESCOPO
+Projeto: A liberdade de atingir seus objetivos com toda a tranquilidade (PROJ-0624)
+Data: 11/07/2025
+Gerente: Henry Monteiro
+
+Escopo original: Sistema para a liberdade de atingir seus objetivos com toda a tranquilidade
+Houve mudança de escopo: Sim
+Descrição das mudanças: Redução do escopo devido a restrições orçamentárias
+Impacto no cronograma: 47 dias
+Impacto no custo: R$ 342976.60
+
+Solicitações de mudança:
+- SCM-01: Mudança na arquitetura do sistema
+- SCM-02: Mudança na arquitetura do sistema
+- SCM-03: Alteração nos requisitos de desempenho
+- SCM-04: Mudança no banco de dados
+- SCM-05: Integração com sistema legado
+
+Requisitos atuais:
+- REQ-01: O sistema deve ter controle de acesso baseado em perfis
+- REQ-02: O sistema deve passar por testes de segurança
+- REQ-03: O sistema deve permitir integração com APIs externas
+- REQ-04: O sistema deve permitir integração com APIs externas
+- REQ-05: O sistema deve passar por testes de segurança
+- REQ-06: O sistema deve implementar criptografia de dados sensíveis
+- REQ-07: O sistema deve ser compatível com navegadores modernos
+- REQ-08: O sistema deve registrar logs de auditoria

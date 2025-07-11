@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A liberdade de avançar mais facilmente (PROJ-0532)
+Data: 11/07/2025
+Gerente: Alexandre Correia
+
+Orçamento inicial: R$ 4739311.00
+Custo real atual: R$ 4346734.89
+Desvio orçamentário: 31.15%
+Índice de Desempenho de Custo (CPI): 1.09
+Valor Agregado (EV): R$ 4739311.00
+Estimativa para conclusão: R$ 0.00
+Estimativa no término (EAC): R$ 4346734.89
+Variação no término (VAC): R$ 392576.11
+
+Detalhamento por categoria:
+- Pessoal: R$ 2080054.78 (47.9%)
+- Equipamentos: R$ 810929.50 (18.7%)
+- Software: R$ 427506.61 (9.8%)
+- Serviços: R$ 609129.58 (14.0%)
+- Outros: R$ 419114.42 (9.6%)

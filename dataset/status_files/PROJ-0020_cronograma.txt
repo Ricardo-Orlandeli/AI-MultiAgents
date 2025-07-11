@@ -1,0 +1,24 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A vantagem de conseguir com toda a tranquilidade (PROJ-0020)
+Data: 11/07/2025
+Gerente: Thales Camargo
+
+Status atual: Atrasado
+Percentual de conclusão: 50.2%
+Data de início: 31/05/2025
+Data de término planejada: 27/07/2025
+Data de término real/prevista: 03/09/2025
+Atraso atual: 0 dias
+Motivo do atraso: Problemas técnicos inesperados
+Índice de Desempenho de Cronograma (SPI): 0.70
+Valor Planejado (PV): R$ 1480127.33
+Valor Agregado (EV): R$ 1033062.40
+
+Tarefas críticas:
+- Implementação do módulo de exportação de dados
+- Configuração da infraestrutura
+- Configuração do ambiente de produção
+
+Tarefas atrasadas:
+- Configuração da infraestrutura
+- Configuração do ambiente de produção

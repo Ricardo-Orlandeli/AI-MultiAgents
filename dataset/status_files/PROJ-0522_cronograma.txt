@@ -1,0 +1,24 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: O conforto de evoluir de maneira eficaz (PROJ-0522)
+Data: 11/07/2025
+Gerente: Srta. Bárbara Rios
+
+Status atual: Atrasado
+Percentual de conclusão: 82.9%
+Data de início: 06/05/2024
+Data de término planejada: 25/08/2024
+Data de término real/prevista: 23/09/2024
+Atraso atual: 320 dias
+Motivo do atraso: Atraso na entrega de componentes por fornecedores
+Índice de Desempenho de Cronograma (SPI): 0.83
+Valor Planejado (PV): R$ 2674492.00
+Valor Agregado (EV): R$ 2217894.03
+
+Tarefas críticas:
+- Implementação do módulo de notificações
+- Migração de dados legados
+- Implementação da API REST
+- Configuração do ambiente de produção
+
+Tarefas atrasadas:
+- Configuração do ambiente de produção

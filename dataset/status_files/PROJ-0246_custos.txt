@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O prazer de avançar simplesmente (PROJ-0246)
+Data: 11/07/2025
+Gerente: Sr. Gael Vargas
+
+Orçamento inicial: R$ 2941769.00
+Custo real atual: R$ 3346566.76
+Desvio orçamentário: 13.76%
+Índice de Desempenho de Custo (CPI): 0.88
+Valor Agregado (EV): R$ 2941769.00
+Estimativa para conclusão: R$ 0.00
+Estimativa no término (EAC): R$ 3346566.76
+Variação no término (VAC): R$ -404797.76
+
+Detalhamento por categoria:
+- Pessoal: R$ 1650572.62 (49.3%)
+- Equipamentos: R$ 448434.54 (13.4%)
+- Software: R$ 405932.18 (12.1%)
+- Serviços: R$ 567858.50 (17.0%)
+- Outros: R$ 273768.92 (8.2%)

@@ -1,0 +1,27 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A liberdade de inovar naturalmente (PROJ-0136)
+Data: 11/07/2025
+Gerente: Mariane Costela
+
+Status atual: Em andamento
+Percentual de conclusão: 67.3%
+Data de início: 14/02/2025
+Data de término planejada: 10/10/2025
+Data de término real/prevista: 09/11/2025
+Atraso atual: 0 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 1.03
+Valor Planejado (PV): R$ 1274898.88
+Valor Agregado (EV): R$ 1389310.80
+
+Tarefas críticas:
+- Testes de segurança
+- Desenvolvimento do painel administrativo
+- Implementação do módulo de exportação de dados
+- Implementação do módulo de relatórios
+- Desenvolvimento da interface do usuário
+- Implementação do módulo de exportação de dados
+- Implementação do módulo de exportação de dados
+- Implementação do módulo de notificações
+
+Tarefas atrasadas:

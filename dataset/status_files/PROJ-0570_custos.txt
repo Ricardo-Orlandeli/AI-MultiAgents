@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A vantagem de atingir seus objetivos antes de tudo (PROJ-0570)
+Data: 11/07/2025
+Gerente: Giovanna Nunes
+
+Orçamento inicial: R$ 3089690.00
+Custo real atual: R$ 2076841.12
+Desvio orçamentário: -32.78%
+Índice de Desempenho de Custo (CPI): 0.84
+Valor Agregado (EV): R$ 1752488.17
+Estimativa para conclusão: R$ 1584693.00
+Estimativa no término (EAC): R$ 3661534.12
+Variação no término (VAC): R$ -571844.12
+
+Detalhamento por categoria:
+- Pessoal: R$ 1111208.35 (53.5%)
+- Equipamentos: R$ 324389.70 (15.6%)
+- Software: R$ 239392.17 (11.5%)
+- Serviços: R$ 290949.19 (14.0%)
+- Outros: R$ 110901.70 (5.3%)

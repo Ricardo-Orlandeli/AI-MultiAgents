@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A vantagem de conseguir com toda a tranquilidade (PROJ-0020)
+Data: 11/07/2025
+Gerente: Thales Camargo
+
+Orçamento inicial: R$ 2057738.00
+Custo real atual: R$ 1157588.65
+Desvio orçamentário: -21.79%
+Índice de Desempenho de Custo (CPI): 0.89
+Valor Agregado (EV): R$ 1033062.40
+Estimativa para conclusão: R$ 1148190.89
+Estimativa no término (EAC): R$ 2305779.54
+Variação no término (VAC): R$ -248041.54
+
+Detalhamento por categoria:
+- Pessoal: R$ 647782.48 (56.0%)
+- Equipamentos: R$ 131493.78 (11.4%)
+- Software: R$ 170501.01 (14.7%)
+- Serviços: R$ 124256.79 (10.7%)
+- Outros: R$ 83554.59 (7.2%)

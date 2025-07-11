@@ -1,0 +1,24 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: O conforto de concretizar seus projetos com força total (PROJ-0981)
+Data: 11/07/2025
+Gerente: Theo Aparecida
+
+Status atual: Atrasado
+Percentual de conclusão: 72.8%
+Data de início: 16/10/2023
+Data de término planejada: 25/11/2023
+Data de término real/prevista: 16/12/2023
+Atraso atual: 594 dias
+Motivo do atraso: Problemas de integração com sistemas legados
+Índice de Desempenho de Cronograma (SPI): 0.73
+Valor Planejado (PV): R$ 4901368.00
+Valor Agregado (EV): R$ 3570212.20
+
+Tarefas críticas:
+- Testes de segurança
+- Migração de dados legados
+- Configuração do ambiente de produção
+- Desenvolvimento da interface do usuário
+
+Tarefas atrasadas:
+- Migração de dados legados

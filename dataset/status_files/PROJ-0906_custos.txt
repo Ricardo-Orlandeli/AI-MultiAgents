@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O direito de atingir seus objetivos com confiança (PROJ-0906)
+Data: 11/07/2025
+Gerente: Lívia Rezende
+
+Orçamento inicial: R$ 724895.00
+Custo real atual: R$ 673970.33
+Desvio orçamentário: -7.03%
+Índice de Desempenho de Custo (CPI): 0.79
+Valor Agregado (EV): R$ 530577.74
+Estimativa para conclusão: R$ 246832.94
+Estimativa no término (EAC): R$ 920803.27
+Variação no término (VAC): R$ -195908.27
+
+Detalhamento por categoria:
+- Pessoal: R$ 330919.09 (49.1%)
+- Equipamentos: R$ 104610.82 (15.5%)
+- Software: R$ 87222.30 (12.9%)
+- Serviços: R$ 105048.07 (15.6%)
+- Outros: R$ 46170.05 (6.9%)

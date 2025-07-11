@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O conforto de concretizar seus projetos simplesmente (PROJ-0758)
+Data: 11/07/2025
+Gerente: Yan Santos
+
+Orçamento inicial: R$ 874876.00
+Custo real atual: R$ 242020.07
+Desvio orçamentário: -19.05%
+Índice de Desempenho de Custo (CPI): 0.96
+Valor Agregado (EV): R$ 231730.90
+Estimativa para conclusão: R$ 671701.61
+Estimativa no término (EAC): R$ 913721.67
+Variação no término (VAC): R$ -38845.67
+
+Detalhamento por categoria:
+- Pessoal: R$ 106592.40 (44.0%)
+- Equipamentos: R$ 39034.51 (16.1%)
+- Software: R$ 22947.47 (9.5%)
+- Serviços: R$ 50556.76 (20.9%)
+- Outros: R$ 22888.93 (9.5%)

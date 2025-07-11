@@ -1,0 +1,24 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A vantagem de evoluir sem preocupação (PROJ-0100)
+Data: 11/07/2025
+Gerente: Sr. Renan Oliveira
+
+Status atual: Em andamento
+Percentual de conclusão: 99.6%
+Data de início: 27/10/2023
+Data de término planejada: 10/10/2024
+Data de término real/prevista: 02/11/2024
+Atraso atual: 274 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 1.13
+Valor Planejado (PV): R$ 4489549.00
+Valor Agregado (EV): R$ 4473279.73
+
+Tarefas críticas:
+- Implementação do módulo de notificações
+- Implementação do módulo de exportação de dados
+- Configuração do ambiente de produção
+- Implementação do módulo de relatórios
+- Desenvolvimento da interface do usuário
+
+Tarefas atrasadas:

@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O conforto de inovar mais facilmente (PROJ-0771)
+Data: 11/07/2025
+Gerente: Rhavi Novaes
+
+Orçamento inicial: R$ 4408644.00
+Custo real atual: R$ 4558600.99
+Desvio orçamentário: 3.40%
+Índice de Desempenho de Custo (CPI): 0.97
+Valor Agregado (EV): R$ 4404235.36
+Estimativa para conclusão: R$ 4563.16
+Estimativa no término (EAC): R$ 4563164.16
+Variação no término (VAC): R$ -154520.16
+
+Detalhamento por categoria:
+- Pessoal: R$ 2166238.89 (47.5%)
+- Equipamentos: R$ 677697.57 (14.9%)
+- Software: R$ 610433.88 (13.4%)
+- Serviços: R$ 817837.78 (17.9%)
+- Outros: R$ 286392.88 (6.3%)

@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O direito de inovar sem preocupação (PROJ-0659)
+Data: 11/07/2025
+Gerente: Júlia Aragão
+
+Orçamento inicial: R$ 4996700.00
+Custo real atual: R$ 3303069.63
+Desvio orçamentário: -33.89%
+Índice de Desempenho de Custo (CPI): 0.80
+Valor Agregado (EV): R$ 2655373.87
+Estimativa para conclusão: R$ 2912419.72
+Estimativa no término (EAC): R$ 6215489.34
+Variação no término (VAC): R$ -1218789.34
+
+Detalhamento por categoria:
+- Pessoal: R$ 1590083.04 (48.1%)
+- Equipamentos: R$ 392574.99 (11.9%)
+- Software: R$ 441308.71 (13.4%)
+- Serviços: R$ 572148.68 (17.3%)
+- Outros: R$ 306954.22 (9.3%)

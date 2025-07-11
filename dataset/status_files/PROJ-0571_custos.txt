@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A arte de avançar naturalmente (PROJ-0571)
+Data: 11/07/2025
+Gerente: Maria Julia Cassiano
+
+Orçamento inicial: R$ 2043000.00
+Custo real atual: R$ 50775.23
+Desvio orçamentário: -11.08%
+Índice de Desempenho de Custo (CPI): 1.09
+Valor Agregado (EV): R$ 55115.55
+Estimativa para conclusão: R$ 1831339.36
+Estimativa no término (EAC): R$ 1882114.58
+Variação no término (VAC): R$ 160885.42
+
+Detalhamento por categoria:
+- Pessoal: R$ 23836.09 (46.9%)
+- Equipamentos: R$ 9246.68 (18.2%)
+- Software: R$ 6134.86 (12.1%)
+- Serviços: R$ 7290.19 (14.4%)
+- Outros: R$ 4267.41 (8.4%)

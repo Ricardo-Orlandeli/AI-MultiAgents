@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O poder de ganhar simplesmente (PROJ-0780)
+Data: 11/07/2025
+Gerente: Rafaela da Mota
+
+Orçamento inicial: R$ 325433.00
+Custo real atual: R$ 344270.84
+Desvio orçamentário: 5.79%
+Índice de Desempenho de Custo (CPI): 0.90
+Valor Agregado (EV): R$ 310238.92
+Estimativa para conclusão: R$ 16860.80
+Estimativa no término (EAC): R$ 361131.64
+Variação no término (VAC): R$ -35698.64
+
+Detalhamento por categoria:
+- Pessoal: R$ 176103.95 (51.2%)
+- Equipamentos: R$ 44923.09 (13.0%)
+- Software: R$ 37320.79 (10.8%)
+- Serviços: R$ 54900.97 (15.9%)
+- Outros: R$ 31022.04 (9.0%)

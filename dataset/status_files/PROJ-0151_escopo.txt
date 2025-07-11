@@ -1,0 +1,26 @@
+RELATÓRIO DE STATUS DE ESCOPO
+Projeto: O conforto de realizar seus sonhos em estado puro (PROJ-0151)
+Data: 11/07/2025
+Gerente: Camila Machado
+
+Escopo original: Sistema para o conforto de realizar seus sonhos em estado puro
+Houve mudança de escopo: Sim
+Descrição das mudanças: Adição de novos requisitos de segurança
+Impacto no cronograma: 42 dias
+Impacto no custo: R$ 104818.19
+
+Solicitações de mudança:
+- SCM-01: Mudança na arquitetura do sistema
+- SCM-02: Integração com sistema legado
+- SCM-03: Alteração nos requisitos de desempenho
+- SCM-04: Adição de funcionalidade de autenticação biométrica
+
+Requisitos atuais:
+- REQ-01: O sistema deve ter alta disponibilidade (99.9%)
+- REQ-02: O sistema deve ser compatível com navegadores modernos
+- REQ-03: O sistema deve permitir integração com APIs externas
+- REQ-04: O sistema deve ter alta disponibilidade (99.9%)
+- REQ-05: O sistema deve ter alta disponibilidade (99.9%)
+- REQ-06: O sistema deve ter interface responsiva
+- REQ-07: O sistema deve ter interface responsiva
+- REQ-08: O sistema deve processar transações em menos de 2 seconds

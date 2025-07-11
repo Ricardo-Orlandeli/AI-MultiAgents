@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A segurança de realizar seus sonhos com força total (PROJ-0983)
+Data: 11/07/2025
+Gerente: Antonella Moura
+
+Orçamento inicial: R$ 4780029.00
+Custo real atual: R$ 3901944.27
+Desvio orçamentário: -18.37%
+Índice de Desempenho de Custo (CPI): 1.00
+Valor Agregado (EV): R$ 3888095.03
+Estimativa para conclusão: R$ 895111.00
+Estimativa no término (EAC): R$ 4797055.28
+Variação no término (VAC): R$ -17026.28
+
+Detalhamento por categoria:
+- Pessoal: R$ 2111481.32 (54.1%)
+- Equipamentos: R$ 482770.90 (12.4%)
+- Software: R$ 362827.31 (9.3%)
+- Serviços: R$ 614533.84 (15.7%)
+- Outros: R$ 330330.90 (8.5%)

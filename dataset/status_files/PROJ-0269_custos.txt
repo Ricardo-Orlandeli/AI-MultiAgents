@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O direito de atingir seus objetivos naturalmente (PROJ-0269)
+Data: 11/07/2025
+Gerente: Kaique Rocha
+
+Orçamento inicial: R$ 3976674.00
+Custo real atual: R$ 3174527.64
+Desvio orçamentário: -20.17%
+Índice de Desempenho de Custo (CPI): 1.06
+Valor Agregado (EV): R$ 3356013.22
+Estimativa para conclusão: R$ 587096.85
+Estimativa no término (EAC): R$ 3761624.48
+Variação no término (VAC): R$ 215049.52
+
+Detalhamento por categoria:
+- Pessoal: R$ 1455792.19 (45.9%)
+- Equipamentos: R$ 560171.57 (17.6%)
+- Software: R$ 275501.31 (8.7%)
+- Serviços: R$ 598174.80 (18.8%)
+- Outros: R$ 284887.77 (9.0%)

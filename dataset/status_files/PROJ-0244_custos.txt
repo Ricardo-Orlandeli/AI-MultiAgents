@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A vantagem de atingir seus objetivos mais rapidamente (PROJ-0244)
+Data: 11/07/2025
+Gerente: Yuri da Mota
+
+Orçamento inicial: R$ 1334654.00
+Custo real atual: R$ 321423.32
+Desvio orçamentário: -2.25%
+Índice de Desempenho de Custo (CPI): 1.19
+Valor Agregado (EV): R$ 381061.78
+Estimativa para conclusão: R$ 804349.30
+Estimativa no término (EAC): R$ 1125772.62
+Variação no término (VAC): R$ 208881.38
+
+Detalhamento por categoria:
+- Pessoal: R$ 156852.46 (48.8%)
+- Equipamentos: R$ 42766.41 (13.3%)
+- Software: R$ 45854.90 (14.3%)
+- Serviços: R$ 58221.69 (18.1%)
+- Outros: R$ 17727.86 (5.5%)

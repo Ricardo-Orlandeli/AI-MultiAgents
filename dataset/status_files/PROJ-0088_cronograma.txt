@@ -1,0 +1,22 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: O prazer de realizar seus sonhos mais facilmente (PROJ-0088)
+Data: 11/07/2025
+Gerente: Marcela Ferreira
+
+Status atual: Em andamento
+Percentual de conclusão: 99.9%
+Data de início: 03/02/2024
+Data de término planejada: 29/07/2024
+Data de término real/prevista: 28/08/2024
+Atraso atual: 347 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 1.13
+Valor Planejado (PV): R$ 3160924.00
+Valor Agregado (EV): R$ 3157763.08
+
+Tarefas críticas:
+- Implementação do sistema de backup
+- Implementação do módulo de relatórios
+- Configuração da infraestrutura
+
+Tarefas atrasadas:

@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A vantagem de concretizar seus projetos direto da fonte (PROJ-0770)
+Data: 11/07/2025
+Gerente: Dra. Olívia Pastor
+
+Orçamento inicial: R$ 3436522.00
+Custo real atual: R$ 772254.80
+Desvio orçamentário: -32.17%
+Índice de Desempenho de Custo (CPI): 1.22
+Valor Agregado (EV): R$ 944776.11
+Estimativa para conclusão: R$ 2036739.39
+Estimativa no término (EAC): R$ 2808994.19
+Variação no término (VAC): R$ 627527.81
+
+Detalhamento por categoria:
+- Pessoal: R$ 350603.98 (45.4%)
+- Equipamentos: R$ 98088.26 (12.7%)
+- Software: R$ 91115.40 (11.8%)
+- Serviços: R$ 165540.75 (21.4%)
+- Outros: R$ 66906.41 (8.7%)

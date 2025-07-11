@@ -1,0 +1,24 @@
+RELATÓRIO DE STATUS DE ESCOPO
+Projeto: O direito de avançar em estado puro (PROJ-0856)
+Data: 11/07/2025
+Gerente: Alexia Moura
+
+Escopo original: Sistema para o direito de avançar em estado puro
+Houve mudança de escopo: Sim
+Descrição das mudanças: Expansão do escopo para incluir funcionalidades adicionais
+Impacto no cronograma: 28 dias
+Impacto no custo: R$ 161942.81
+
+Solicitações de mudança:
+- SCM-01: Alteração na interface do usuário
+- SCM-02: Mudança na arquitetura do sistema
+- SCM-03: Alteração nos requisitos de desempenho
+- SCM-04: Adição de funcionalidade de autenticação biométrica
+
+Requisitos atuais:
+- REQ-01: O sistema deve implementar criptografia de dados sensíveis
+- REQ-02: O sistema deve permitir integração com APIs externas
+- REQ-03: O sistema deve ser compatível com navegadores modernos
+- REQ-04: O sistema deve processar transações em menos de 2 seconds
+- REQ-05: O sistema deve implementar criptografia de dados sensíveis
+- REQ-06: O sistema deve implementar criptografia de dados sensíveis

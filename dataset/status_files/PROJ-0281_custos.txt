@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A segurança de atingir seus objetivos de maneira eficaz (PROJ-0281)
+Data: 11/07/2025
+Gerente: Leandro da Costa
+
+Orçamento inicial: R$ 1644089.00
+Custo real atual: R$ 1861242.28
+Desvio orçamentário: 13.21%
+Índice de Desempenho de Custo (CPI): 0.72
+Valor Agregado (EV): R$ 1344408.93
+Estimativa para conclusão: R$ 414886.57
+Estimativa no término (EAC): R$ 2276128.85
+Variação no término (VAC): R$ -632039.85
+
+Detalhamento por categoria:
+- Pessoal: R$ 950230.31 (51.1%)
+- Equipamentos: R$ 170714.33 (9.2%)
+- Software: R$ 249684.11 (13.4%)
+- Serviços: R$ 332631.29 (17.9%)
+- Outros: R$ 157982.24 (8.5%)

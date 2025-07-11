@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A arte de mudar naturalmente (PROJ-0485)
+Data: 11/07/2025
+Gerente: Benicio Gomes
+
+Orçamento inicial: R$ 2652825.00
+Custo real atual: R$ 2822723.88
+Desvio orçamentário: 6.40%
+Índice de Desempenho de Custo (CPI): 0.94
+Valor Agregado (EV): R$ 2650172.18
+Estimativa para conclusão: R$ 2825.55
+Estimativa no término (EAC): R$ 2825549.43
+Variação no término (VAC): R$ -172724.43
+
+Detalhamento por categoria:
+- Pessoal: R$ 1529785.66 (54.2%)
+- Equipamentos: R$ 349352.78 (12.4%)
+- Software: R$ 264756.95 (9.4%)
+- Serviços: R$ 461208.54 (16.3%)
+- Outros: R$ 217619.95 (7.7%)

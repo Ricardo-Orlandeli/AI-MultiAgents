@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE ESCOPO
+Projeto: O prazer de ganhar com confiança (PROJ-0141)
+Data: 11/07/2025
+Gerente: Léo Pacheco
+
+Escopo original: Sistema para o prazer de ganhar com confiança
+Houve mudança de escopo: Não
+Descrição das mudanças: N/A
+Impacto no cronograma: 0 dias
+Impacto no custo: R$ 0.00
+
+Solicitações de mudança:
+
+Requisitos atuais:
+- REQ-01: O sistema deve permitir exportação de dados em formato CSV
+- REQ-02: O sistema deve permitir exportação de dados em formato CSV
+- REQ-03: O sistema deve ser compatível com dispositivos móveis
+- REQ-04: O sistema deve permitir autenticação de usuários
+- REQ-05: O sistema deve permitir exportação de dados em formato CSV
+- REQ-06: O sistema deve permitir autenticação de usuários

@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O prazer de ganhar com força total (PROJ-0640)
+Data: 11/07/2025
+Gerente: Maria Helena das Neves
+
+Orçamento inicial: R$ 178312.00
+Custo real atual: R$ 168629.14
+Desvio orçamentário: 40.04%
+Índice de Desempenho de Custo (CPI): 1.06
+Valor Agregado (EV): R$ 178312.00
+Estimativa para conclusão: R$ 0.00
+Estimativa no término (EAC): R$ 168629.14
+Variação no término (VAC): R$ 9682.86
+
+Detalhamento por categoria:
+- Pessoal: R$ 100679.11 (59.7%)
+- Equipamentos: R$ 26115.33 (15.5%)
+- Software: R$ 9906.42 (5.9%)
+- Serviços: R$ 21078.24 (12.5%)
+- Outros: R$ 10850.04 (6.4%)

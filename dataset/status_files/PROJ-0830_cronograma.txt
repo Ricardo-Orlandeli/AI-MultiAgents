@@ -1,0 +1,22 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A liberdade de ganhar mais facilmente (PROJ-0830)
+Data: 11/07/2025
+Gerente: Gustavo Henrique Pinto
+
+Status atual: Em andamento
+Percentual de conclusão: 83.1%
+Data de início: 17/12/2024
+Data de término planejada: 10/02/2025
+Data de término real/prevista: 08/03/2025
+Atraso atual: 151 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 1.00
+Valor Planejado (PV): R$ 2215298.00
+Valor Agregado (EV): R$ 1840539.91
+
+Tarefas críticas:
+- Configuração do ambiente de produção
+- Desenvolvimento do painel administrativo
+- Implementação do módulo de análise de dados
+
+Tarefas atrasadas:

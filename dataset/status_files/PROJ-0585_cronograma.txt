@@ -1,0 +1,22 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A vantagem de avançar naturalmente (PROJ-0585)
+Data: 11/07/2025
+Gerente: Gustavo Henrique Leão
+
+Status atual: Em andamento
+Percentual de conclusão: 88.8%
+Data de início: 25/11/2024
+Data de término planejada: 13/04/2025
+Data de término real/prevista: 30/04/2025
+Atraso atual: 89 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 1.09
+Valor Planejado (PV): R$ 4955099.00
+Valor Agregado (EV): R$ 4401188.35
+
+Tarefas críticas:
+- Configuração do ambiente de produção
+- Testes de segurança
+- Implementação do módulo de exportação de dados
+
+Tarefas atrasadas:

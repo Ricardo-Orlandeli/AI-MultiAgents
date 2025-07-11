@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O conforto de avançar mais facilmente (PROJ-0385)
+Data: 11/07/2025
+Gerente: Anna Liz Guerra
+
+Orçamento inicial: R$ 78066.00
+Custo real atual: R$ 84684.96
+Desvio orçamentário: 8.48%
+Índice de Desempenho de Custo (CPI): 0.92
+Valor Agregado (EV): R$ 78066.00
+Estimativa para conclusão: R$ 0.00
+Estimativa no término (EAC): R$ 84684.96
+Variação no término (VAC): R$ -6618.96
+
+Detalhamento por categoria:
+- Pessoal: R$ 45316.47 (53.5%)
+- Equipamentos: R$ 13730.69 (16.2%)
+- Software: R$ 6291.58 (7.4%)
+- Serviços: R$ 13729.48 (16.2%)
+- Outros: R$ 5616.74 (6.6%)

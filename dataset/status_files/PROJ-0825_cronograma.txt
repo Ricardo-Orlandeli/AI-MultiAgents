@@ -1,0 +1,26 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: O poder de atingir seus objetivos sem preocupação (PROJ-0825)
+Data: 11/07/2025
+Gerente: Sofia Camargo
+
+Status atual: Em andamento
+Percentual de conclusão: 83.4%
+Data de início: 06/05/2024
+Data de término planejada: 20/03/2025
+Data de término real/prevista: 08/03/2025
+Atraso atual: 113 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 1.12
+Valor Planejado (PV): R$ 860108.00
+Valor Agregado (EV): R$ 717658.48
+
+Tarefas críticas:
+- Migração de dados legados
+- Desenvolvimento do módulo de autenticação
+- Desenvolvimento do painel administrativo
+- Desenvolvimento do módulo de autenticação
+- Implementação da API REST
+- Implementação do módulo de relatórios
+- Desenvolvimento do painel administrativo
+
+Tarefas atrasadas:

@@ -1,0 +1,29 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A arte de ganhar em estado puro (PROJ-0854)
+Data: 11/07/2025
+Gerente: Calebe Sousa
+
+Status atual: Atrasado
+Percentual de conclusão: 66.8%
+Data de início: 10/01/2024
+Data de término planejada: 08/05/2024
+Data de término real/prevista: 05/08/2024
+Atraso atual: 429 dias
+Motivo do atraso: Falhas em testes de aceitação
+Índice de Desempenho de Cronograma (SPI): 0.67
+Valor Planejado (PV): R$ 371146.00
+Valor Agregado (EV): R$ 247875.28
+
+Tarefas críticas:
+- Testes de aceitação do usuário
+- Desenvolvimento do módulo de autenticação
+- Implementação do módulo de análise de dados
+- Implementação do módulo de análise de dados
+- Implementação do módulo de notificações
+- Implementação do sistema de backup
+- Implementação do módulo de análise de dados
+
+Tarefas atrasadas:
+- Testes de aceitação do usuário
+- Implementação do módulo de análise de dados
+- Implementação do sistema de backup

@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A liberdade de avançar em estado puro (PROJ-0356)
+Data: 11/07/2025
+Gerente: Stella Cirino
+
+Orçamento inicial: R$ 4240270.00
+Custo real atual: R$ 2576546.69
+Desvio orçamentário: -39.24%
+Índice de Desempenho de Custo (CPI): 0.98
+Valor Agregado (EV): R$ 2518142.98
+Estimativa para conclusão: R$ 1762068.60
+Estimativa no término (EAC): R$ 4338615.30
+Variação no término (VAC): R$ -98345.30
+
+Detalhamento por categoria:
+- Pessoal: R$ 1382338.33 (53.7%)
+- Equipamentos: R$ 265152.95 (10.3%)
+- Software: R$ 323279.13 (12.5%)
+- Serviços: R$ 427604.06 (16.6%)
+- Outros: R$ 178172.23 (6.9%)

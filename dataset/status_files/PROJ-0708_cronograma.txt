@@ -1,0 +1,22 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: O conforto de atingir seus objetivos com confiança (PROJ-0708)
+Data: 11/07/2025
+Gerente: Maria Sophia Moura
+
+Status atual: Em andamento
+Percentual de conclusão: 68.6%
+Data de início: 05/02/2025
+Data de término planejada: 23/09/2025
+Data de término real/prevista: 16/09/2025
+Atraso atual: 0 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 0.99
+Valor Planejado (PV): R$ 1102781.63
+Valor Agregado (EV): R$ 1115483.57
+
+Tarefas críticas:
+- Desenvolvimento do painel administrativo
+- Testes de aceitação do usuário
+- Migração de dados legados
+
+Tarefas atrasadas:

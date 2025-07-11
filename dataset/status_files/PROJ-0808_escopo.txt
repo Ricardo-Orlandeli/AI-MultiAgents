@@ -1,0 +1,24 @@
+RELATÓRIO DE STATUS DE ESCOPO
+Projeto: A arte de mudar de maneira eficaz (PROJ-0808)
+Data: 11/07/2025
+Gerente: Dr. Arthur Macedo
+
+Escopo original: Sistema para a arte de mudar de maneira eficaz
+Houve mudança de escopo: Sim
+Descrição das mudanças: Redução do escopo devido a restrições orçamentárias
+Impacto no cronograma: 60 dias
+Impacto no custo: R$ 34017.05
+
+Solicitações de mudança:
+- SCM-01: Mudança na arquitetura do sistema
+- SCM-02: Alteração na interface do usuário
+- SCM-03: Adição de funcionalidade de autenticação biométrica
+- SCM-04: Implementação de módulo de exportação de dados
+- SCM-05: Adição de relatórios gerenciais
+
+Requisitos atuais:
+- REQ-01: O sistema deve ser compatível com dispositivos móveis
+- REQ-02: O sistema deve implementar criptografia de dados sensíveis
+- REQ-03: O sistema deve ter backup automático diário
+- REQ-04: O sistema deve ter controle de acesso baseado em perfis
+- REQ-05: O sistema deve registrar logs de auditoria

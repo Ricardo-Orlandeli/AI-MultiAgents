@@ -1,0 +1,25 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A arte de ganhar simplesmente (PROJ-0489)
+Data: 11/07/2025
+Gerente: Luana Correia
+
+Status atual: Em andamento
+Percentual de conclusão: 33.6%
+Data de início: 19/03/2025
+Data de término planejada: 24/12/2025
+Data de término real/prevista: 12/01/2026
+Atraso atual: 0 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 1.05
+Valor Planejado (PV): R$ 945376.35
+Valor Agregado (EV): R$ 780545.50
+
+Tarefas críticas:
+- Implementação do módulo de análise de dados
+- Testes de aceitação do usuário
+- Implementação do módulo de análise de dados
+- Testes de segurança
+- Migração de dados legados
+- Testes de segurança
+
+Tarefas atrasadas:

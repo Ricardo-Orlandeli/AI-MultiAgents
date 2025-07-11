@@ -1,0 +1,24 @@
+RELATÓRIO DE STATUS DE ESCOPO
+Projeto: O conforto de atingir seus objetivos antes de tudo (PROJ-0736)
+Data: 11/07/2025
+Gerente: Liz Mendes
+
+Escopo original: Sistema para o conforto de atingir seus objetivos antes de tudo
+Houve mudança de escopo: Sim
+Descrição das mudanças: Mudança na plataforma de implementação
+Impacto no cronograma: 35 dias
+Impacto no custo: R$ 60305.64
+
+Solicitações de mudança:
+- SCM-01: Alteração nos requisitos de desempenho
+
+Requisitos atuais:
+- REQ-01: O sistema deve ser escalável para suportar até 10.000 usuários simultâneos
+- REQ-02: O sistema deve registrar logs de auditoria
+- REQ-03: O sistema deve ser compatível com navegadores modernos
+- REQ-04: O sistema deve ter backup automático diário
+- REQ-05: O sistema deve permitir exportação de dados em formato CSV
+- REQ-06: O sistema deve permitir autenticação de usuários
+- REQ-07: O sistema deve ter interface responsiva
+- REQ-08: O sistema deve ser compatível com dispositivos móveis
+- REQ-09: O sistema deve ter interface responsiva

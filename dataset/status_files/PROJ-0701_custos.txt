@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O poder de ganhar com toda a tranquilidade (PROJ-0701)
+Data: 11/07/2025
+Gerente: Cecília Martins
+
+Orçamento inicial: R$ 4582988.00
+Custo real atual: R$ 4443793.86
+Desvio orçamentário: -3.04%
+Índice de Desempenho de Custo (CPI): 1.03
+Valor Agregado (EV): R$ 4582988.00
+Estimativa para conclusão: R$ 0.00
+Estimativa no término (EAC): R$ 4443793.86
+Variação no término (VAC): R$ 139194.14
+
+Detalhamento por categoria:
+- Pessoal: R$ 2420234.73 (54.5%)
+- Equipamentos: R$ 532409.20 (12.0%)
+- Software: R$ 354003.15 (8.0%)
+- Serviços: R$ 694379.12 (15.6%)
+- Outros: R$ 442767.67 (10.0%)

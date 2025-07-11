@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A possibilidade de evoluir antes de tudo (PROJ-0050)
+Data: 11/07/2025
+Gerente: Murilo Sá
+
+Orçamento inicial: R$ 3093849.00
+Custo real atual: R$ 2531577.27
+Desvio orçamentário: -1.43%
+Índice de Desempenho de Custo (CPI): 1.18
+Valor Agregado (EV): R$ 2982461.27
+Estimativa para conclusão: R$ 94548.30
+Estimativa no término (EAC): R$ 2626125.57
+Variação no término (VAC): R$ 467723.43
+
+Detalhamento por categoria:
+- Pessoal: R$ 1327949.52 (52.5%)
+- Equipamentos: R$ 322611.46 (12.7%)
+- Software: R$ 327564.72 (12.9%)
+- Serviços: R$ 323658.09 (12.8%)
+- Outros: R$ 229793.48 (9.1%)

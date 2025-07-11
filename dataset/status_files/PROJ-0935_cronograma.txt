@@ -1,0 +1,24 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A arte de ganhar em estado puro (PROJ-0935)
+Data: 11/07/2025
+Gerente: Antonella da Costa
+
+Status atual: Atrasado
+Percentual de conclusão: 79.1%
+Data de início: 12/04/2024
+Data de término planejada: 15/07/2024
+Data de término real/prevista: 09/08/2024
+Atraso atual: 361 dias
+Motivo do atraso: Atraso na entrega de componentes por fornecedores
+Índice de Desempenho de Cronograma (SPI): 0.79
+Valor Planejado (PV): R$ 4500751.00
+Valor Agregado (EV): R$ 3560848.38
+
+Tarefas críticas:
+- Integração com sistema de pagamentos
+- Testes de aceitação do usuário
+- Implementação do módulo de análise de dados
+
+Tarefas atrasadas:
+- Testes de aceitação do usuário
+- Implementação do módulo de análise de dados

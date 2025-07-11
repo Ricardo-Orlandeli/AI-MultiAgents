@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE ESCOPO
+Projeto: O conforto de concretizar seus projetos naturalmente (PROJ-0412)
+Data: 11/07/2025
+Gerente: Luísa Caldeira
+
+Escopo original: Sistema para o conforto de concretizar seus projetos naturalmente
+Houve mudança de escopo: Não
+Descrição das mudanças: N/A
+Impacto no cronograma: 0 dias
+Impacto no custo: R$ 0.00
+
+Solicitações de mudança:
+
+Requisitos atuais:
+- REQ-01: O sistema deve permitir integração com APIs externas
+- REQ-02: O sistema deve ser escalável para suportar até 10.000 usuários simultâneos
+- REQ-03: O sistema deve ter documentação completa
+- REQ-04: O sistema deve ter documentação completa
+- REQ-05: O sistema deve implementar criptografia de dados sensíveis
+- REQ-06: O sistema deve ser compatível com dispositivos móveis

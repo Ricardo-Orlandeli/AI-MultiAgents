@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O conforto de inovar com confiança (PROJ-0432)
+Data: 11/07/2025
+Gerente: Joana da Paz
+
+Orçamento inicial: R$ 4739463.00
+Custo real atual: R$ 3403594.90
+Desvio orçamentário: -28.19%
+Índice de Desempenho de Custo (CPI): 0.93
+Valor Agregado (EV): R$ 3176178.79
+Estimativa para conclusão: R$ 1675216.20
+Estimativa no término (EAC): R$ 5078811.11
+Variação no término (VAC): R$ -339348.11
+
+Detalhamento por categoria:
+- Pessoal: R$ 1840302.81 (54.1%)
+- Equipamentos: R$ 638485.72 (18.8%)
+- Software: R$ 330756.12 (9.7%)
+- Serviços: R$ 417395.84 (12.3%)
+- Outros: R$ 176654.41 (5.2%)

@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O direito de avançar em estado puro (PROJ-0856)
+Data: 11/07/2025
+Gerente: Alexia Moura
+
+Orçamento inicial: R$ 1011453.00
+Custo real atual: R$ 979596.22
+Desvio orçamentário: -3.15%
+Índice de Desempenho de Custo (CPI): 0.91
+Valor Agregado (EV): R$ 893739.47
+Estimativa para conclusão: R$ 129021.64
+Estimativa no término (EAC): R$ 1108617.85
+Variação no término (VAC): R$ -97164.85
+
+Detalhamento por categoria:
+- Pessoal: R$ 517781.36 (52.9%)
+- Equipamentos: R$ 179528.46 (18.3%)
+- Software: R$ 70826.86 (7.2%)
+- Serviços: R$ 126364.84 (12.9%)
+- Outros: R$ 85094.70 (8.7%)

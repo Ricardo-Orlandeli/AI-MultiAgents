@@ -1,0 +1,24 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: O conforto de avançar de maneira eficaz (PROJ-0680)
+Data: 11/07/2025
+Gerente: Isaac Nascimento
+
+Status atual: Atrasado
+Percentual de conclusão: 84.4%
+Data de início: 08/03/2025
+Data de término planejada: 19/05/2025
+Data de término real/prevista: 30/05/2025
+Atraso atual: 53 dias
+Motivo do atraso: Rotatividade de pessoal-chave
+Índice de Desempenho de Cronograma (SPI): 0.84
+Valor Planejado (PV): R$ 1336220.00
+Valor Agregado (EV): R$ 1127929.61
+
+Tarefas críticas:
+- Implementação do módulo de análise de dados
+- Implementação do módulo de análise de dados
+- Implementação do sistema de backup
+- Implementação do módulo de notificações
+
+Tarefas atrasadas:
+- Implementação do módulo de análise de dados

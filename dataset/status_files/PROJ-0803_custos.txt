@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A certeza de conseguir com confiança (PROJ-0803)
+Data: 11/07/2025
+Gerente: Luiz Miguel da Costa
+
+Orçamento inicial: R$ 564447.00
+Custo real atual: R$ 225272.91
+Desvio orçamentário: -14.72%
+Índice de Desempenho de Custo (CPI): 0.96
+Valor Agregado (EV): R$ 215526.17
+Estimativa para conclusão: R$ 364700.08
+Estimativa no término (EAC): R$ 589972.99
+Variação no término (VAC): R$ -25525.99
+
+Detalhamento por categoria:
+- Pessoal: R$ 105244.46 (46.7%)
+- Equipamentos: R$ 44864.04 (19.9%)
+- Software: R$ 30437.49 (13.5%)
+- Serviços: R$ 32968.75 (14.6%)
+- Outros: R$ 11758.17 (5.2%)

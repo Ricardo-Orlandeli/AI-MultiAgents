@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A simplicidade de evoluir simplesmente (PROJ-0984)
+Data: 11/07/2025
+Gerente: José da Costa
+
+Orçamento inicial: R$ 2830621.00
+Custo real atual: R$ 2518634.32
+Desvio orçamentário: -11.02%
+Índice de Desempenho de Custo (CPI): 1.12
+Valor Agregado (EV): R$ 2830621.00
+Estimativa para conclusão: R$ 0.00
+Estimativa no término (EAC): R$ 2518634.32
+Variação no término (VAC): R$ 311986.68
+
+Detalhamento por categoria:
+- Pessoal: R$ 1347013.40 (53.5%)
+- Equipamentos: R$ 449085.75 (17.8%)
+- Software: R$ 287750.86 (11.4%)
+- Serviços: R$ 250503.78 (9.9%)
+- Outros: R$ 184280.53 (7.3%)

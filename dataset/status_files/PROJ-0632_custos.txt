@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O conforto de avançar mais rapidamente (PROJ-0632)
+Data: 11/07/2025
+Gerente: Alana Nascimento
+
+Orçamento inicial: R$ 718305.00
+Custo real atual: R$ 698243.17
+Desvio orçamentário: -2.79%
+Índice de Desempenho de Custo (CPI): 1.03
+Valor Agregado (EV): R$ 717586.70
+Estimativa para conclusão: R$ 698.94
+Estimativa no término (EAC): R$ 698942.12
+Variação no término (VAC): R$ 19362.88
+
+Detalhamento por categoria:
+- Pessoal: R$ 370907.25 (53.1%)
+- Equipamentos: R$ 85140.73 (12.2%)
+- Software: R$ 79279.79 (11.4%)
+- Serviços: R$ 105597.83 (15.1%)
+- Outros: R$ 57317.58 (8.2%)

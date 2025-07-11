@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O direito de atingir seus objetivos mais rapidamente (PROJ-0777)
+Data: 11/07/2025
+Gerente: Marcelo Silveira
+
+Orçamento inicial: R$ 841848.00
+Custo real atual: R$ 772856.91
+Desvio orçamentário: -8.20%
+Índice de Desempenho de Custo (CPI): 0.98
+Valor Agregado (EV): R$ 757452.76
+Estimativa para conclusão: R$ 86111.57
+Estimativa no término (EAC): R$ 858968.47
+Variação no término (VAC): R$ -17120.47
+
+Detalhamento por categoria:
+- Pessoal: R$ 401407.29 (51.9%)
+- Equipamentos: R$ 135160.26 (17.5%)
+- Software: R$ 49067.71 (6.3%)
+- Serviços: R$ 107814.75 (14.0%)
+- Outros: R$ 79406.90 (10.3%)

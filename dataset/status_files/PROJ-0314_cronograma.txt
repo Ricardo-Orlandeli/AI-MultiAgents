@@ -1,0 +1,24 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A simplicidade de realizar seus sonhos com toda a tranquilidade (PROJ-0314)
+Data: 11/07/2025
+Gerente: Lavínia Pires
+
+Status atual: Concluído
+Percentual de conclusão: 100.0%
+Data de início: 08/04/2025
+Data de término planejada: 09/12/2025
+Data de término real/prevista: 02/12/2025
+Atraso atual: 0 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 1.00
+Valor Planejado (PV): R$ 59307.86
+Valor Agregado (EV): R$ 154579.00
+
+Tarefas críticas:
+- Integração com sistema de pagamentos
+- Migração de dados legados
+- Desenvolvimento da interface do usuário
+- Configuração do ambiente de produção
+- Implementação do módulo de análise de dados
+
+Tarefas atrasadas:

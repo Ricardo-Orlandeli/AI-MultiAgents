@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A certeza de concretizar seus projetos antes de tudo (PROJ-0528)
+Data: 11/07/2025
+Gerente: João Lucas Fogaça
+
+Orçamento inicial: R$ 1149952.00
+Custo real atual: R$ 1266723.34
+Desvio orçamentário: 321.18%
+Índice de Desempenho de Custo (CPI): 0.91
+Valor Agregado (EV): R$ 1149952.00
+Estimativa para conclusão: R$ 0.00
+Estimativa no término (EAC): R$ 1266723.34
+Variação no término (VAC): R$ -116771.34
+
+Detalhamento por categoria:
+- Pessoal: R$ 656055.60 (51.8%)
+- Equipamentos: R$ 214343.34 (16.9%)
+- Software: R$ 117405.27 (9.3%)
+- Serviços: R$ 190118.46 (15.0%)
+- Outros: R$ 88800.67 (7.0%)

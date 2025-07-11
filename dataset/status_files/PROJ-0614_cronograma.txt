@@ -1,0 +1,26 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A possibilidade de evoluir direto da fonte (PROJ-0614)
+Data: 11/07/2025
+Gerente: Thales Azevedo
+
+Status atual: Cancelado
+Percentual de conclusão: 33.1%
+Data de início: 27/02/2025
+Data de término planejada: 20/04/2025
+Data de término real/prevista: 16/03/2025
+Atraso atual: 82 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 0.33
+Valor Planejado (PV): R$ 4346900.00
+Valor Agregado (EV): R$ 1436849.93
+
+Tarefas críticas:
+- Implementação da API REST
+- Implementação do módulo de relatórios
+- Desenvolvimento do painel administrativo
+- Implementação do módulo de relatórios
+- Implementação do módulo de relatórios
+- Testes de segurança
+- Implementação do módulo de análise de dados
+
+Tarefas atrasadas:

@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O prazer de concretizar seus projetos com força total (PROJ-0157)
+Data: 11/07/2025
+Gerente: Ana Júlia Duarte
+
+Orçamento inicial: R$ 2303495.00
+Custo real atual: R$ 2606473.94
+Desvio orçamentário: 13.15%
+Índice de Desempenho de Custo (CPI): 0.88
+Valor Agregado (EV): R$ 2303495.00
+Estimativa para conclusão: R$ 0.00
+Estimativa no término (EAC): R$ 2606473.94
+Variação no término (VAC): R$ -302978.94
+
+Detalhamento por categoria:
+- Pessoal: R$ 1243480.76 (47.7%)
+- Equipamentos: R$ 456190.92 (17.5%)
+- Software: R$ 232100.10 (8.9%)
+- Serviços: R$ 459898.98 (17.6%)
+- Outros: R$ 214803.18 (8.2%)

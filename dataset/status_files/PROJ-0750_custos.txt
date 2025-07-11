@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A possibilidade de realizar seus sonhos mais rapidamente (PROJ-0750)
+Data: 11/07/2025
+Gerente: Hellena Casa Grande
+
+Orçamento inicial: R$ 2136557.00
+Custo real atual: R$ 2470234.79
+Desvio orçamentário: 15.62%
+Índice de Desempenho de Custo (CPI): 0.77
+Valor Agregado (EV): R$ 1893735.95
+Estimativa para conclusão: R$ 316741.62
+Estimativa no término (EAC): R$ 2786976.41
+Variação no término (VAC): R$ -650419.41
+
+Detalhamento por categoria:
+- Pessoal: R$ 1072540.45 (43.4%)
+- Equipamentos: R$ 527618.12 (21.4%)
+- Software: R$ 247130.21 (10.0%)
+- Serviços: R$ 440702.84 (17.8%)
+- Outros: R$ 182243.15 (7.4%)

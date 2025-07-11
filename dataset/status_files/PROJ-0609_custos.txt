@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A vantagem de inovar sem preocupação (PROJ-0609)
+Data: 11/07/2025
+Gerente: Maria Eduarda Martins
+
+Orçamento inicial: R$ 1009269.00
+Custo real atual: R$ 1013657.15
+Desvio orçamentário: 0.43%
+Índice de Desempenho de Custo (CPI): 0.85
+Valor Agregado (EV): R$ 865906.12
+Estimativa para conclusão: R$ 167825.13
+Estimativa no término (EAC): R$ 1181482.28
+Variação no término (VAC): R$ -172213.28
+
+Detalhamento por categoria:
+- Pessoal: R$ 540794.65 (53.4%)
+- Equipamentos: R$ 194585.92 (19.2%)
+- Software: R$ 89562.55 (8.8%)
+- Serviços: R$ 110709.56 (10.9%)
+- Outros: R$ 78004.47 (7.7%)

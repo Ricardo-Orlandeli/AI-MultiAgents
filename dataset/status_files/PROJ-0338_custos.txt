@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A liberdade de concretizar seus projetos mais rapidamente (PROJ-0338)
+Data: 11/07/2025
+Gerente: Gabriela Pereira
+
+Orçamento inicial: R$ 67883.00
+Custo real atual: R$ 60526.85
+Desvio orçamentário: -10.84%
+Índice de Desempenho de Custo (CPI): 0.95
+Valor Agregado (EV): R$ 57447.38
+Estimativa para conclusão: R$ 10995.02
+Estimativa no término (EAC): R$ 71521.87
+Variação no término (VAC): R$ -3638.87
+
+Detalhamento por categoria:
+- Pessoal: R$ 27855.33 (46.0%)
+- Equipamentos: R$ 8001.81 (13.2%)
+- Software: R$ 5134.42 (8.5%)
+- Serviços: R$ 13240.86 (21.9%)
+- Outros: R$ 6294.44 (10.4%)

@@ -1,0 +1,25 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: O conforto de inovar simplesmente (PROJ-0669)
+Data: 11/07/2025
+Gerente: Sr. Otávio Sales
+
+Status atual: Em andamento
+Percentual de conclusão: 99.9%
+Data de início: 07/03/2024
+Data de término planejada: 28/04/2024
+Data de término real/prevista: 20/05/2024
+Atraso atual: 439 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 0.95
+Valor Planejado (PV): R$ 4423322.00
+Valor Agregado (EV): R$ 4418898.68
+
+Tarefas críticas:
+- Implementação do módulo de notificações
+- Migração de dados legados
+- Testes de aceitação do usuário
+- Configuração da infraestrutura
+- Configuração do ambiente de produção
+- Desenvolvimento do módulo de autenticação
+
+Tarefas atrasadas:

@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A possibilidade de conseguir em estado puro (PROJ-0275)
+Data: 11/07/2025
+Gerente: Eduarda Peixoto
+
+Orçamento inicial: R$ 101399.00
+Custo real atual: R$ 63264.50
+Desvio orçamentário: -37.61%
+Índice de Desempenho de Custo (CPI): 0.99
+Valor Agregado (EV): R$ 62713.02
+Estimativa para conclusão: R$ 39026.17
+Estimativa no término (EAC): R$ 102290.68
+Variação no término (VAC): R$ -891.68
+
+Detalhamento por categoria:
+- Pessoal: R$ 30445.39 (48.1%)
+- Equipamentos: R$ 9130.03 (14.4%)
+- Software: R$ 8394.01 (13.3%)
+- Serviços: R$ 8677.13 (13.7%)
+- Outros: R$ 6617.95 (10.5%)

@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O conforto de avançar com toda a tranquilidade (PROJ-0370)
+Data: 11/07/2025
+Gerente: Luiz Miguel Ribeiro
+
+Orçamento inicial: R$ 2575167.00
+Custo real atual: R$ 2594724.67
+Desvio orçamentário: 0.76%
+Índice de Desempenho de Custo (CPI): 0.99
+Valor Agregado (EV): R$ 2572591.83
+Estimativa para conclusão: R$ 2597.32
+Estimativa no término (EAC): R$ 2597321.99
+Variação no término (VAC): R$ -22154.99
+
+Detalhamento por categoria:
+- Pessoal: R$ 1345593.56 (51.9%)
+- Equipamentos: R$ 294489.89 (11.3%)
+- Software: R$ 328868.27 (12.7%)
+- Serviços: R$ 431552.60 (16.6%)
+- Outros: R$ 194220.35 (7.5%)

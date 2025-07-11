@@ -1,0 +1,22 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: O direito de mudar com toda a tranquilidade (PROJ-0133)
+Data: 11/07/2025
+Gerente: Camila da Conceição
+
+Status atual: Em andamento
+Percentual de conclusão: 29.0%
+Data de início: 18/03/2025
+Data de término planejada: 31/01/2026
+Data de término real/prevista: 11/02/2026
+Atraso atual: 0 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 1.06
+Valor Planejado (PV): R$ 198022.79
+Valor Agregado (EV): R$ 159255.92
+
+Tarefas críticas:
+- Testes de aceitação do usuário
+- Desenvolvimento do módulo de autenticação
+- Implementação do módulo de análise de dados
+
+Tarefas atrasadas:

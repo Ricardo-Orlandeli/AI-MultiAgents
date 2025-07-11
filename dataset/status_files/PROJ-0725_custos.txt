@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O direito de concretizar seus projetos com confiança (PROJ-0725)
+Data: 11/07/2025
+Gerente: Dr. Ravi Lucca Gonçalves
+
+Orçamento inicial: R$ 4360358.00
+Custo real atual: R$ 4047505.22
+Desvio orçamentário: -7.17%
+Índice de Desempenho de Custo (CPI): 0.74
+Valor Agregado (EV): R$ 2979602.63
+Estimativa para conclusão: R$ 1875624.12
+Estimativa no término (EAC): R$ 5923129.34
+Variação no término (VAC): R$ -1562771.34
+
+Detalhamento por categoria:
+- Pessoal: R$ 2191013.20 (54.1%)
+- Equipamentos: R$ 451162.16 (11.1%)
+- Software: R$ 452889.08 (11.2%)
+- Serviços: R$ 739518.98 (18.3%)
+- Outros: R$ 212921.80 (5.3%)

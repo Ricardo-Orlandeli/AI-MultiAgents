@@ -1,0 +1,22 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A segurança de evoluir sem preocupação (PROJ-0455)
+Data: 11/07/2025
+Gerente: Davi Alves
+
+Status atual: Em andamento
+Percentual de conclusão: 99.9%
+Data de início: 16/08/2024
+Data de término planejada: 21/01/2025
+Data de término real/prevista: 04/02/2025
+Atraso atual: 171 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 1.06
+Valor Planejado (PV): R$ 1923270.00
+Valor Agregado (EV): R$ 1921346.73
+
+Tarefas críticas:
+- Implementação do módulo de notificações
+- Implementação do módulo de exportação de dados
+- Implementação do módulo de notificações
+
+Tarefas atrasadas:

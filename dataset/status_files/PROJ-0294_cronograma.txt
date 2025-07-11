@@ -1,0 +1,27 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A certeza de avançar simplesmente (PROJ-0294)
+Data: 11/07/2025
+Gerente: Dr. Ravy da Luz
+
+Status atual: Concluído
+Percentual de conclusão: 100.0%
+Data de início: 10/06/2024
+Data de término planejada: 07/09/2024
+Data de término real/prevista: 12/09/2024
+Atraso atual: 307 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 1.02
+Valor Planejado (PV): R$ 3387224.00
+Valor Agregado (EV): R$ 3387224.00
+
+Tarefas críticas:
+- Implementação do módulo de análise de dados
+- Implementação do módulo de notificações
+- Configuração da infraestrutura
+- Configuração da infraestrutura
+- Testes de aceitação do usuário
+- Implementação do sistema de backup
+- Desenvolvimento do painel administrativo
+- Testes de aceitação do usuário
+
+Tarefas atrasadas:

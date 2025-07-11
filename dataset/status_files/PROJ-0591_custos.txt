@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O prazer de inovar com força total (PROJ-0591)
+Data: 11/07/2025
+Gerente: Srta. Ana Laura Macedo
+
+Orçamento inicial: R$ 4256119.00
+Custo real atual: R$ 3322080.31
+Desvio orçamentário: -21.95%
+Índice de Desempenho de Custo (CPI): 1.10
+Valor Agregado (EV): R$ 3643106.77
+Estimativa para conclusão: R$ 558994.29
+Estimativa no término (EAC): R$ 3881074.59
+Variação no término (VAC): R$ 375044.41
+
+Detalhamento por categoria:
+- Pessoal: R$ 1654965.91 (49.8%)
+- Equipamentos: R$ 599406.76 (18.0%)
+- Software: R$ 280405.44 (8.4%)
+- Serviços: R$ 541786.46 (16.3%)
+- Outros: R$ 245515.73 (7.4%)

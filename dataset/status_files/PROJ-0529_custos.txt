@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O prazer de realizar seus sonhos com força total (PROJ-0529)
+Data: 11/07/2025
+Gerente: Breno Dias
+
+Orçamento inicial: R$ 1369806.00
+Custo real atual: R$ 1236448.95
+Desvio orçamentário: -9.74%
+Índice de Desempenho de Custo (CPI): 1.11
+Valor Agregado (EV): R$ 1369806.00
+Estimativa para conclusão: R$ 0.00
+Estimativa no término (EAC): R$ 1236448.95
+Variação no término (VAC): R$ 133357.05
+
+Detalhamento por categoria:
+- Pessoal: R$ 656570.60 (53.1%)
+- Equipamentos: R$ 149817.41 (12.1%)
+- Software: R$ 160103.39 (12.9%)
+- Serviços: R$ 160343.79 (13.0%)
+- Outros: R$ 109613.77 (8.9%)

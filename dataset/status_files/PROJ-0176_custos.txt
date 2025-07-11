@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A certeza de mudar com confiança (PROJ-0176)
+Data: 11/07/2025
+Gerente: Natália Dias
+
+Orçamento inicial: R$ 2549377.00
+Custo real atual: R$ 2648003.63
+Desvio orçamentário: 3.87%
+Índice de Desempenho de Custo (CPI): 0.72
+Valor Agregado (EV): R$ 1896136.78
+Estimativa para conclusão: R$ 912266.72
+Estimativa no término (EAC): R$ 3560270.35
+Variação no término (VAC): R$ -1010893.35
+
+Detalhamento por categoria:
+- Pessoal: R$ 1332056.71 (50.3%)
+- Equipamentos: R$ 485332.82 (18.3%)
+- Software: R$ 285027.04 (10.8%)
+- Serviços: R$ 365712.54 (13.8%)
+- Outros: R$ 179874.52 (6.8%)

@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A simplicidade de conseguir sem preocupação (PROJ-0602)
+Data: 11/07/2025
+Gerente: Luiz Felipe Casa Grande
+
+Orçamento inicial: R$ 4578701.00
+Custo real atual: R$ 4942964.57
+Desvio orçamentário: 7.96%
+Índice de Desempenho de Custo (CPI): 0.93
+Valor Agregado (EV): R$ 4574122.30
+Estimativa para conclusão: R$ 4947.91
+Estimativa no término (EAC): R$ 4947912.48
+Variação no término (VAC): R$ -369211.48
+
+Detalhamento por categoria:
+- Pessoal: R$ 2585143.71 (52.3%)
+- Equipamentos: R$ 720081.06 (14.6%)
+- Software: R$ 485280.40 (9.8%)
+- Serviços: R$ 740827.72 (15.0%)
+- Outros: R$ 411631.67 (8.3%)

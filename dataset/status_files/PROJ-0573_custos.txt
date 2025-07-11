@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A certeza de inovar sem preocupação (PROJ-0573)
+Data: 11/07/2025
+Gerente: Matheus Barros
+
+Orçamento inicial: R$ 3321435.00
+Custo real atual: R$ 4283098.87
+Desvio orçamentário: 28.95%
+Índice de Desempenho de Custo (CPI): 0.67
+Valor Agregado (EV): R$ 2869653.62
+Estimativa para conclusão: R$ 674305.88
+Estimativa no término (EAC): R$ 4957404.75
+Variação no término (VAC): R$ -1635969.75
+
+Detalhamento por categoria:
+- Pessoal: R$ 2422815.91 (56.6%)
+- Equipamentos: R$ 728663.33 (17.0%)
+- Software: R$ 313289.43 (7.3%)
+- Serviços: R$ 586154.67 (13.7%)
+- Outros: R$ 232175.52 (5.4%)

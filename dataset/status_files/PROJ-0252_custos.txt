@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O prazer de inovar direto da fonte (PROJ-0252)
+Data: 11/07/2025
+Gerente: Kevin Farias
+
+Orçamento inicial: R$ 2653452.00
+Custo real atual: R$ 3163533.53
+Desvio orçamentário: 19.22%
+Índice de Desempenho de Custo (CPI): 0.84
+Valor Agregado (EV): R$ 2647603.76
+Estimativa para conclusão: R$ 6987.87
+Estimativa no término (EAC): R$ 3170521.40
+Variação no término (VAC): R$ -517069.40
+
+Detalhamento por categoria:
+- Pessoal: R$ 1599798.70 (50.6%)
+- Equipamentos: R$ 385355.70 (12.2%)
+- Software: R$ 328873.49 (10.4%)
+- Serviços: R$ 581585.62 (18.4%)
+- Outros: R$ 267920.03 (8.5%)

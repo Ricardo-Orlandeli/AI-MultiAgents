@@ -1,0 +1,31 @@
+RELATÓRIO DE STATUS DE RISCOS
+Projeto: O prazer de concretizar seus projetos sem preocupação (PROJ-0399)
+Data: 11/07/2025
+Gerente: Brayan Macedo
+
+Riscos identificados:
+- R01: Atraso na entrega de componentes críticos
+  Probabilidade: 5/5, Impacto: 1/5, Nível: Baixo
+  Mitigação: Implementar plano de contingência
+
+- R02: Indisponibilidade de recursos especializados
+  Probabilidade: 4/5, Impacto: 5/5, Nível: Alto
+  Mitigação: Otimizar código e infraestrutura
+
+- R03: Rotatividade de pessoal-chave
+  Probabilidade: 5/5, Impacto: 5/5, Nível: Alto
+  Mitigação: Testar compatibilidade em diferentes ambientes
+
+Riscos ocorridos:
+- R03 (ocorrido em 18/02/2025)
+  Impacto real: Indisponibilidade temporária
+  Ações tomadas: Comunicação intensificada com stakeholders
+
+- R01 (ocorrido em 14/11/2024)
+  Impacto real: Perda de dados
+  Ações tomadas: Realocação de recursos
+
+- R02 (ocorrido em 09/04/2025)
+  Impacto real: Retrabalho significativo
+  Ações tomadas: Realocação de recursos
+

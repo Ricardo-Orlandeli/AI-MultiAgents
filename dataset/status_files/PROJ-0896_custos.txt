@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O prazer de atingir seus objetivos direto da fonte (PROJ-0896)
+Data: 11/07/2025
+Gerente: Vicente Cunha
+
+Orçamento inicial: R$ 3201793.00
+Custo real atual: R$ 2728593.25
+Desvio orçamentário: -14.78%
+Índice de Desempenho de Custo (CPI): 1.03
+Valor Agregado (EV): R$ 2818509.25
+Estimativa para conclusão: R$ 371056.25
+Estimativa no término (EAC): R$ 3099649.50
+Variação no término (VAC): R$ 102143.50
+
+Detalhamento por categoria:
+- Pessoal: R$ 1582053.96 (58.0%)
+- Equipamentos: R$ 436570.36 (16.0%)
+- Software: R$ 203532.66 (7.5%)
+- Serviços: R$ 348575.68 (12.8%)
+- Outros: R$ 157860.60 (5.8%)

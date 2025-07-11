@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O direito de inovar com confiança (PROJ-0743)
+Data: 11/07/2025
+Gerente: Dr. Bruno Novaes
+
+Orçamento inicial: R$ 4076466.00
+Custo real atual: R$ 2956336.78
+Desvio orçamentário: -27.48%
+Índice de Desempenho de Custo (CPI): 0.97
+Valor Agregado (EV): R$ 2874416.74
+Estimativa para conclusão: R$ 1236307.32
+Estimativa no término (EAC): R$ 4192644.10
+Variação no término (VAC): R$ -116178.10
+
+Detalhamento por categoria:
+- Pessoal: R$ 1467937.33 (49.7%)
+- Equipamentos: R$ 546759.65 (18.5%)
+- Software: R$ 282748.35 (9.6%)
+- Serviços: R$ 430961.29 (14.6%)
+- Outros: R$ 227930.15 (7.7%)

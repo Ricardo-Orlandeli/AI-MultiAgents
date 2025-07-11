@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A possibilidade de realizar seus sonhos com toda a tranquilidade (PROJ-0257)
+Data: 11/07/2025
+Gerente: Marina Rios
+
+Orçamento inicial: R$ 437366.00
+Custo real atual: R$ 56566.27
+Desvio orçamentário: -12.34%
+Índice de Desempenho de Custo (CPI): 1.23
+Valor Agregado (EV): R$ 69634.55
+Estimativa para conclusão: R$ 298719.46
+Estimativa no término (EAC): R$ 355285.72
+Variação no término (VAC): R$ 82080.28
+
+Detalhamento por categoria:
+- Pessoal: R$ 24777.32 (43.8%)
+- Equipamentos: R$ 9944.89 (17.6%)
+- Software: R$ 8057.56 (14.2%)
+- Serviços: R$ 9948.50 (17.6%)
+- Outros: R$ 3838.00 (6.8%)

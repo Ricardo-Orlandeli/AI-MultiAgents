@@ -1,0 +1,22 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A segurança de inovar naturalmente (PROJ-0516)
+Data: 11/07/2025
+Gerente: Kevin da Rosa
+
+Status atual: Em andamento
+Percentual de conclusão: 87.6%
+Data de início: 13/04/2024
+Data de término planejada: 12/12/2024
+Data de término real/prevista: 25/12/2024
+Atraso atual: 211 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 0.86
+Valor Planejado (PV): R$ 3741984.00
+Valor Agregado (EV): R$ 3277414.14
+
+Tarefas críticas:
+- Implementação do módulo de análise de dados
+- Desenvolvimento do painel administrativo
+- Implementação do módulo de notificações
+
+Tarefas atrasadas:

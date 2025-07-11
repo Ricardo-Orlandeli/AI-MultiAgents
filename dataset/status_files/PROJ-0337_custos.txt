@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O prazer de realizar seus sonhos de maneira eficaz (PROJ-0337)
+Data: 11/07/2025
+Gerente: Srta. Manuela Santos
+
+Orçamento inicial: R$ 349071.00
+Custo real atual: R$ 291117.80
+Desvio orçamentário: -7.40%
+Índice de Desempenho de Custo (CPI): 0.69
+Valor Agregado (EV): R$ 201386.18
+Estimativa para conclusão: R$ 213488.73
+Estimativa no término (EAC): R$ 504606.54
+Variação no término (VAC): R$ -155535.54
+
+Detalhamento por categoria:
+- Pessoal: R$ 171108.97 (58.8%)
+- Equipamentos: R$ 38323.40 (13.2%)
+- Software: R$ 16883.20 (5.8%)
+- Serviços: R$ 45986.86 (15.8%)
+- Outros: R$ 18815.37 (6.5%)

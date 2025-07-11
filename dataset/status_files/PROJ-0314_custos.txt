@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A simplicidade de realizar seus sonhos com toda a tranquilidade (PROJ-0314)
+Data: 11/07/2025
+Gerente: Lavínia Pires
+
+Orçamento inicial: R$ 154579.00
+Custo real atual: R$ 146949.22
+Desvio orçamentário: 147.77%
+Índice de Desempenho de Custo (CPI): 1.05
+Valor Agregado (EV): R$ 154579.00
+Estimativa para conclusão: R$ 0.00
+Estimativa no término (EAC): R$ 146949.22
+Variação no término (VAC): R$ 7629.78
+
+Detalhamento por categoria:
+- Pessoal: R$ 79571.19 (54.1%)
+- Equipamentos: R$ 23649.39 (16.1%)
+- Software: R$ 19033.13 (13.0%)
+- Serviços: R$ 17727.31 (12.1%)
+- Outros: R$ 6968.20 (4.7%)

@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A segurança de conseguir com força total (PROJ-0902)
+Data: 11/07/2025
+Gerente: Théo Rezende
+
+Orçamento inicial: R$ 1893802.00
+Custo real atual: R$ 1590575.62
+Desvio orçamentário: -16.01%
+Índice de Desempenho de Custo (CPI): 0.86
+Valor Agregado (EV): R$ 1375328.72
+Estimativa para conclusão: R$ 599617.35
+Estimativa no término (EAC): R$ 2190192.97
+Variação no término (VAC): R$ -296390.97
+
+Detalhamento por categoria:
+- Pessoal: R$ 790181.00 (49.7%)
+- Equipamentos: R$ 316285.14 (19.9%)
+- Software: R$ 146107.74 (9.2%)
+- Serviços: R$ 214139.00 (13.5%)
+- Outros: R$ 123862.75 (7.8%)

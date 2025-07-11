@@ -1,0 +1,27 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: O conforto de ganhar mais rapidamente (PROJ-0652)
+Data: 11/07/2025
+Gerente: Nicole Costela
+
+Status atual: Em andamento
+Percentual de conclusão: 49.6%
+Data de início: 17/02/2025
+Data de término planejada: 20/12/2025
+Data de término real/prevista: 08/12/2025
+Atraso atual: 0 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 1.06
+Valor Planejado (PV): R$ 1912256.94
+Valor Agregado (EV): R$ 2015171.81
+
+Tarefas críticas:
+- Migração de dados legados
+- Implementação do módulo de análise de dados
+- Testes de segurança
+- Desenvolvimento do painel administrativo
+- Desenvolvimento do módulo de autenticação
+- Migração de dados legados
+- Desenvolvimento da interface do usuário
+- Implementação do módulo de relatórios
+
+Tarefas atrasadas:

@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A segurança de conseguir antes de tudo (PROJ-0473)
+Data: 11/07/2025
+Gerente: Diego Lima
+
+Orçamento inicial: R$ 2847130.00
+Custo real atual: R$ 2103607.43
+Desvio orçamentário: -26.11%
+Índice de Desempenho de Custo (CPI): 0.99
+Valor Agregado (EV): R$ 2090269.22
+Estimativa para conclusão: R$ 761690.38
+Estimativa no término (EAC): R$ 2865297.81
+Variação no término (VAC): R$ -18167.81
+
+Detalhamento por categoria:
+- Pessoal: R$ 1135971.13 (54.0%)
+- Equipamentos: R$ 255576.84 (12.1%)
+- Software: R$ 170743.45 (8.1%)
+- Serviços: R$ 336002.37 (16.0%)
+- Outros: R$ 205313.63 (9.8%)

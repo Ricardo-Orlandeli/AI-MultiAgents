@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A vantagem de inovar de maneira eficaz (PROJ-0711)
+Data: 11/07/2025
+Gerente: Isabelly Pires
+
+Orçamento inicial: R$ 3470434.00
+Custo real atual: R$ 2483109.86
+Desvio orçamentário: -23.75%
+Índice de Desempenho de Custo (CPI): 1.11
+Valor Agregado (EV): R$ 2763733.10
+Estimativa para conclusão: R$ 634944.09
+Estimativa no término (EAC): R$ 3118053.95
+Variação no término (VAC): R$ 352380.05
+
+Detalhamento por categoria:
+- Pessoal: R$ 1406667.66 (56.6%)
+- Equipamentos: R$ 303108.85 (12.2%)
+- Software: R$ 208892.01 (8.4%)
+- Serviços: R$ 371488.22 (15.0%)
+- Outros: R$ 192953.11 (7.8%)

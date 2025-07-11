@@ -1,0 +1,23 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: O prazer de ganhar em estado puro (PROJ-0613)
+Data: 11/07/2025
+Gerente: Dra. Natália Cassiano
+
+Status atual: Cancelado
+Percentual de conclusão: 12.3%
+Data de início: 31/10/2023
+Data de término planejada: 11/12/2023
+Data de término real/prevista: 05/11/2023
+Atraso atual: 578 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 0.12
+Valor Planejado (PV): R$ 3123135.00
+Valor Agregado (EV): R$ 383859.38
+
+Tarefas críticas:
+- Implementação do módulo de exportação de dados
+- Integração com sistema de pagamentos
+- Implementação do módulo de análise de dados
+- Implementação do sistema de backup
+
+Tarefas atrasadas:

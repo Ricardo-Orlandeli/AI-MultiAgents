@@ -1,0 +1,26 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A arte de evoluir antes de tudo (PROJ-0530)
+Data: 11/07/2025
+Gerente: Luara Barros
+
+Status atual: Cancelado
+Percentual de conclusão: 90.0%
+Data de início: 14/09/2024
+Data de término planejada: 21/08/2025
+Data de término real/prevista: 17/07/2025
+Atraso atual: 0 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 1.02
+Valor Planejado (PV): R$ 4203223.46
+Valor Agregado (EV): R$ 4297710.11
+
+Tarefas críticas:
+- Migração de dados legados
+- Integração com sistema de pagamentos
+- Desenvolvimento do painel administrativo
+- Implementação do sistema de backup
+- Migração de dados legados
+- Implementação do módulo de relatórios
+- Testes de aceitação do usuário
+
+Tarefas atrasadas:

@@ -1,0 +1,19 @@
+RELATÓRIO DE STATUS DE ESCOPO
+Projeto: O prazer de concretizar seus projetos sem preocupação (PROJ-0399)
+Data: 11/07/2025
+Gerente: Brayan Macedo
+
+Escopo original: Sistema para o prazer de concretizar seus projetos sem preocupação
+Houve mudança de escopo: Não
+Descrição das mudanças: N/A
+Impacto no cronograma: 0 dias
+Impacto no custo: R$ 0.00
+
+Solicitações de mudança:
+
+Requisitos atuais:
+- REQ-01: O sistema deve implementar criptografia de dados sensíveis
+- REQ-02: O sistema deve registrar logs de auditoria
+- REQ-03: O sistema deve implementar criptografia de dados sensíveis
+- REQ-04: O sistema deve permitir autenticação de usuários
+- REQ-05: O sistema deve ter controle de acesso baseado em perfis

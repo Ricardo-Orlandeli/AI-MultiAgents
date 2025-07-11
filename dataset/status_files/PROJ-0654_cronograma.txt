@@ -1,0 +1,29 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A certeza de conseguir naturalmente (PROJ-0654)
+Data: 11/07/2025
+Gerente: Dr. Pietro Vargas
+
+Status atual: Atrasado
+Percentual de conclusão: 59.9%
+Data de início: 26/05/2024
+Data de término planejada: 25/09/2024
+Data de término real/prevista: 13/11/2024
+Atraso atual: 289 dias
+Motivo do atraso: Atraso na entrega de componentes por fornecedores
+Índice de Desempenho de Cronograma (SPI): 0.60
+Valor Planejado (PV): R$ 3065526.00
+Valor Agregado (EV): R$ 1837462.78
+
+Tarefas críticas:
+- Configuração da infraestrutura
+- Migração de dados legados
+- Implementação do módulo de relatórios
+- Implementação do módulo de exportação de dados
+- Implementação do módulo de notificações
+- Configuração do ambiente de produção
+- Implementação da API REST
+
+Tarefas atrasadas:
+- Implementação do módulo de exportação de dados
+- Implementação do módulo de relatórios
+- Implementação do módulo de notificações

@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A simplicidade de realizar seus sonhos naturalmente (PROJ-0899)
+Data: 11/07/2025
+Gerente: Sofia Rezende
+
+Orçamento inicial: R$ 722394.00
+Custo real atual: R$ 697087.73
+Desvio orçamentário: -3.50%
+Índice de Desempenho de Custo (CPI): 0.90
+Valor Agregado (EV): R$ 628694.33
+Estimativa para conclusão: R$ 103892.92
+Estimativa no término (EAC): R$ 800980.64
+Variação no término (VAC): R$ -78586.64
+
+Detalhamento por categoria:
+- Pessoal: R$ 368642.15 (52.9%)
+- Equipamentos: R$ 107333.67 (15.4%)
+- Software: R$ 38891.67 (5.6%)
+- Serviços: R$ 120844.35 (17.3%)
+- Outros: R$ 61375.89 (8.8%)

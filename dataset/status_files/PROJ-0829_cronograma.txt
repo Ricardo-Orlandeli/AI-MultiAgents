@@ -1,0 +1,27 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A liberdade de ganhar de maneira eficaz (PROJ-0829)
+Data: 11/07/2025
+Gerente: Sr. Benjamin da Luz
+
+Status atual: Em andamento
+Percentual de conclusão: 83.5%
+Data de início: 08/03/2025
+Data de término planejada: 07/07/2025
+Data de término real/prevista: 25/07/2025
+Atraso atual: 4 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 0.96
+Valor Planejado (PV): R$ 4983634.00
+Valor Agregado (EV): R$ 4160834.26
+
+Tarefas críticas:
+- Implementação do módulo de análise de dados
+- Implementação do módulo de relatórios
+- Desenvolvimento do módulo de autenticação
+- Implementação do módulo de exportação de dados
+- Desenvolvimento do painel administrativo
+- Implementação do módulo de exportação de dados
+- Configuração do ambiente de produção
+- Testes de aceitação do usuário
+
+Tarefas atrasadas:

@@ -1,0 +1,31 @@
+RELATÓRIO DE STATUS DE RISCOS
+Projeto: A certeza de avançar com confiança (PROJ-0942)
+Data: 11/07/2025
+Gerente: Alice Andrade
+
+Riscos identificados:
+- R01: Falhas de segurança
+  Probabilidade: 1/5, Impacto: 3/5, Nível: Baixo
+  Mitigação: Implementar plano de contingência
+
+- R02: Rotatividade de pessoal-chave
+  Probabilidade: 2/5, Impacto: 2/5, Nível: Baixo
+  Mitigação: Comunicar benefícios da mudança
+
+- R03: Rotatividade de pessoal-chave
+  Probabilidade: 2/5, Impacto: 5/5, Nível: Médio
+  Mitigação: Fortalecer medidas de segurança
+
+- R04: Falhas de segurança
+  Probabilidade: 5/5, Impacto: 3/5, Nível: Médio
+  Mitigação: Refinar estimativas com base em dados históricos
+
+Riscos ocorridos:
+- R01 (ocorrido em 23/06/2025)
+  Impacto real: Perda de recursos-chave
+  Ações tomadas: Implementação do plano de contingência
+
+- R03 (ocorrido em 21/10/2024)
+  Impacto real: Perda de dados
+  Ações tomadas: Implementação de controles adicionais
+

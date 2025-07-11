@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A certeza de atingir seus objetivos com confiança (PROJ-0179)
+Data: 11/07/2025
+Gerente: Otávio Ribeiro
+
+Orçamento inicial: R$ 910733.00
+Custo real atual: R$ 116343.71
+Desvio orçamentário: 26.27%
+Índice de Desempenho de Custo (CPI): 0.67
+Valor Agregado (EV): R$ 78387.77
+Estimativa para conclusão: R$ 1235372.88
+Estimativa no término (EAC): R$ 1351716.58
+Variação no término (VAC): R$ -440983.58
+
+Detalhamento por categoria:
+- Pessoal: R$ 68602.25 (59.0%)
+- Equipamentos: R$ 16248.48 (14.0%)
+- Software: R$ 11986.20 (10.3%)
+- Serviços: R$ 12187.59 (10.5%)
+- Outros: R$ 7319.17 (6.3%)

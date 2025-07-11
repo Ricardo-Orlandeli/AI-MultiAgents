@@ -1,0 +1,26 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: O direito de realizar seus sonhos mais rapidamente (PROJ-0487)
+Data: 11/07/2025
+Gerente: Renan Abreu
+
+Status atual: Em andamento
+Percentual de conclusão: 99.9%
+Data de início: 15/04/2024
+Data de término planejada: 08/02/2025
+Data de término real/prevista: 20/02/2025
+Atraso atual: 153 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 1.06
+Valor Planejado (PV): R$ 2343126.00
+Valor Agregado (EV): R$ 2340782.87
+
+Tarefas críticas:
+- Testes de segurança
+- Desenvolvimento do módulo de autenticação
+- Integração com sistema de pagamentos
+- Configuração da infraestrutura
+- Configuração do ambiente de produção
+- Configuração da infraestrutura
+- Configuração do ambiente de produção
+
+Tarefas atrasadas:

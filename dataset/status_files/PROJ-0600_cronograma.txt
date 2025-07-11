@@ -1,0 +1,23 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A simplicidade de inovar com confiança (PROJ-0600)
+Data: 11/07/2025
+Gerente: Ana Beatriz Moraes
+
+Status atual: Em andamento
+Percentual de conclusão: 84.3%
+Data de início: 27/01/2024
+Data de término planejada: 17/07/2024
+Data de término real/prevista: 16/07/2024
+Atraso atual: 359 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 1.09
+Valor Planejado (PV): R$ 2721602.00
+Valor Agregado (EV): R$ 2293748.63
+
+Tarefas críticas:
+- Desenvolvimento da interface do usuário
+- Desenvolvimento do módulo de autenticação
+- Implementação do módulo de notificações
+- Migração de dados legados
+
+Tarefas atrasadas:

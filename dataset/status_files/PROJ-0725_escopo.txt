@@ -1,0 +1,22 @@
+RELATÓRIO DE STATUS DE ESCOPO
+Projeto: O direito de concretizar seus projetos com confiança (PROJ-0725)
+Data: 11/07/2025
+Gerente: Dr. Ravi Lucca Gonçalves
+
+Escopo original: Sistema para o direito de concretizar seus projetos com confiança
+Houve mudança de escopo: Sim
+Descrição das mudanças: Adição de novos requisitos de segurança
+Impacto no cronograma: 48 dias
+Impacto no custo: R$ 669549.14
+
+Solicitações de mudança:
+- SCM-01: Alteração na interface do usuário
+
+Requisitos atuais:
+- REQ-01: O sistema deve ter documentação completa
+- REQ-02: O sistema deve processar transações em menos de 2 seconds
+- REQ-03: O sistema deve ter documentação completa
+- REQ-04: O sistema deve ser compatível com dispositivos móveis
+- REQ-05: O sistema deve ter interface responsiva
+- REQ-06: O sistema deve ter interface responsiva
+- REQ-07: O sistema deve ser compatível com dispositivos móveis

@@ -1,0 +1,27 @@
+RELATÓRIO DE STATUS DE RISCOS
+Projeto: A vantagem de mudar simplesmente (PROJ-0159)
+Data: 11/07/2025
+Gerente: Bento Cardoso
+
+Riscos identificados:
+- R01: Falhas em testes de aceitação
+  Probabilidade: 2/5, Impacto: 3/5, Nível: Baixo
+  Mitigação: Gerenciar dependências ativamente
+
+- R02: Problemas de desempenho
+  Probabilidade: 5/5, Impacto: 3/5, Nível: Médio
+  Mitigação: Fortalecer medidas de segurança
+
+- R03: Indisponibilidade de recursos especializados
+  Probabilidade: 1/5, Impacto: 5/5, Nível: Baixo
+  Mitigação: Implementar redundância de infraestrutura
+
+Riscos ocorridos:
+- R01 (ocorrido em 22/12/2024)
+  Impacto real: Perda de recursos-chave
+  Ações tomadas: Revisão do orçamento
+
+- R03 (ocorrido em 22/01/2025)
+  Impacto real: Perda de dados
+  Ações tomadas: Implementação do plano de contingência
+

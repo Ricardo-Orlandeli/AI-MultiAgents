@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O direito de evoluir de maneira eficaz (PROJ-0243)
+Data: 11/07/2025
+Gerente: Sarah Dias
+
+Orçamento inicial: R$ 1194226.00
+Custo real atual: R$ 1138674.75
+Desvio orçamentário: -4.65%
+Índice de Desempenho de Custo (CPI): 1.05
+Valor Agregado (EV): R$ 1194226.00
+Estimativa para conclusão: R$ 0.00
+Estimativa no término (EAC): R$ 1138674.75
+Variação no término (VAC): R$ 55551.25
+
+Detalhamento por categoria:
+- Pessoal: R$ 587300.38 (51.6%)
+- Equipamentos: R$ 141395.16 (12.4%)
+- Software: R$ 130010.20 (11.4%)
+- Serviços: R$ 165302.60 (14.5%)
+- Outros: R$ 114666.41 (10.1%)

@@ -1,0 +1,24 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A liberdade de avançar antes de tudo (PROJ-0437)
+Data: 11/07/2025
+Gerente: Ravi Borges
+
+Status atual: Em andamento
+Percentual de conclusão: 69.7%
+Data de início: 25/01/2025
+Data de término planejada: 25/09/2025
+Data de término real/prevista: 10/09/2025
+Atraso atual: 0 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 1.10
+Valor Planejado (PV): R$ 129802.98
+Valor Agregado (EV): R$ 131594.32
+
+Tarefas críticas:
+- Desenvolvimento da interface do usuário
+- Testes de aceitação do usuário
+- Implementação do sistema de backup
+- Migração de dados legados
+- Integração com sistema de pagamentos
+
+Tarefas atrasadas:

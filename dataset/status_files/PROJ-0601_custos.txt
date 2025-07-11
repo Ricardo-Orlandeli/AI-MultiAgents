@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O direito de ganhar em estado puro (PROJ-0601)
+Data: 11/07/2025
+Gerente: Alexia Teixeira
+
+Orçamento inicial: R$ 1645281.00
+Custo real atual: R$ 1717893.37
+Desvio orçamentário: 348.76%
+Índice de Desempenho de Custo (CPI): 0.77
+Valor Agregado (EV): R$ 1324839.52
+Estimativa para conclusão: R$ 415510.16
+Estimativa no término (EAC): R$ 2133403.53
+Variação no término (VAC): R$ -488122.53
+
+Detalhamento por categoria:
+- Pessoal: R$ 833205.85 (48.5%)
+- Equipamentos: R$ 257625.11 (15.0%)
+- Software: R$ 232740.10 (13.5%)
+- Serviços: R$ 243537.22 (14.2%)
+- Outros: R$ 150785.09 (8.8%)

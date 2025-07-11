@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O poder de atingir seus objetivos de maneira eficaz (PROJ-0451)
+Data: 11/07/2025
+Gerente: Sr. Théo Borges
+
+Orçamento inicial: R$ 1531280.00
+Custo real atual: R$ 1404211.00
+Desvio orçamentário: -8.30%
+Índice de Desempenho de Custo (CPI): 1.09
+Valor Agregado (EV): R$ 1529748.72
+Estimativa para conclusão: R$ 1405.62
+Estimativa no término (EAC): R$ 1405616.62
+Variação no término (VAC): R$ 125663.38
+
+Detalhamento por categoria:
+- Pessoal: R$ 653403.99 (46.5%)
+- Equipamentos: R$ 262293.62 (18.7%)
+- Software: R$ 199212.22 (14.2%)
+- Serviços: R$ 208867.83 (14.9%)
+- Outros: R$ 80433.33 (5.7%)

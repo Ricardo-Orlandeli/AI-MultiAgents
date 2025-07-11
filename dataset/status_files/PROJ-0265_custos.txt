@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A possibilidade de evoluir mais facilmente (PROJ-0265)
+Data: 11/07/2025
+Gerente: Gabriela Cardoso
+
+Orçamento inicial: R$ 1354603.00
+Custo real atual: R$ 1593869.11
+Desvio orçamentário: 17.66%
+Índice de Desempenho de Custo (CPI): 0.84
+Valor Agregado (EV): R$ 1340147.30
+Estimativa para conclusão: R$ 17192.50
+Estimativa no término (EAC): R$ 1611061.62
+Variação no término (VAC): R$ -256458.62
+
+Detalhamento por categoria:
+- Pessoal: R$ 773339.65 (48.5%)
+- Equipamentos: R$ 253672.02 (15.9%)
+- Software: R$ 190566.65 (12.0%)
+- Serviços: R$ 264899.98 (16.6%)
+- Outros: R$ 111390.80 (7.0%)

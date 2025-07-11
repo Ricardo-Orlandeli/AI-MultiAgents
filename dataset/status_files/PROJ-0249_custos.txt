@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A arte de atingir seus objetivos simplesmente (PROJ-0249)
+Data: 11/07/2025
+Gerente: Leandro Cirino
+
+Orçamento inicial: R$ 2162234.00
+Custo real atual: R$ 1761304.03
+Desvio orçamentário: -18.54%
+Índice de Desempenho de Custo (CPI): 0.81
+Valor Agregado (EV): R$ 1422348.68
+Estimativa para conclusão: R$ 916205.02
+Estimativa no término (EAC): R$ 2677509.05
+Variação no término (VAC): R$ -515275.05
+
+Detalhamento por categoria:
+- Pessoal: R$ 887102.34 (50.4%)
+- Equipamentos: R$ 264786.69 (15.0%)
+- Software: R$ 272811.55 (15.5%)
+- Serviços: R$ 215211.00 (12.2%)
+- Outros: R$ 121392.46 (6.9%)

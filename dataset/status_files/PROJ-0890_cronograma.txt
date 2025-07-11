@@ -1,0 +1,23 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: O conforto de avançar antes de tudo (PROJ-0890)
+Data: 11/07/2025
+Gerente: Agatha Campos
+
+Status atual: Em andamento
+Percentual de conclusão: 96.0%
+Data de início: 08/10/2024
+Data de término planejada: 02/04/2025
+Data de término real/prevista: 04/04/2025
+Atraso atual: 100 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 0.94
+Valor Planejado (PV): R$ 2329992.00
+Valor Agregado (EV): R$ 2236029.48
+
+Tarefas críticas:
+- Testes de aceitação do usuário
+- Configuração do ambiente de produção
+- Desenvolvimento do painel administrativo
+- Testes de aceitação do usuário
+
+Tarefas atrasadas:

@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O conforto de inovar simplesmente (PROJ-0669)
+Data: 11/07/2025
+Gerente: Sr. Otávio Sales
+
+Orçamento inicial: R$ 4423322.00
+Custo real atual: R$ 4030657.54
+Desvio orçamentário: -8.88%
+Índice de Desempenho de Custo (CPI): 1.10
+Valor Agregado (EV): R$ 4418898.68
+Estimativa para conclusão: R$ 4034.69
+Estimativa no término (EAC): R$ 4034692.23
+Variação no término (VAC): R$ 388629.77
+
+Detalhamento por categoria:
+- Pessoal: R$ 2185875.42 (54.2%)
+- Equipamentos: R$ 475928.26 (11.8%)
+- Software: R$ 424123.97 (10.5%)
+- Serviços: R$ 602666.01 (15.0%)
+- Outros: R$ 342063.88 (8.5%)

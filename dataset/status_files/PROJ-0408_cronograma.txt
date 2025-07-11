@@ -1,0 +1,23 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A arte de inovar naturalmente (PROJ-0408)
+Data: 11/07/2025
+Gerente: Theodoro Moura
+
+Status atual: Concluído
+Percentual de conclusão: 100.0%
+Data de início: 09/07/2025
+Data de término planejada: 02/07/2026
+Data de término real/prevista: 05/07/2026
+Atraso atual: 0 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 1.04
+Valor Planejado (PV): R$ 22819.68
+Valor Agregado (EV): R$ 4084722.00
+
+Tarefas críticas:
+- Desenvolvimento da interface do usuário
+- Implementação do sistema de backup
+- Desenvolvimento do módulo de autenticação
+- Implementação da API REST
+
+Tarefas atrasadas:

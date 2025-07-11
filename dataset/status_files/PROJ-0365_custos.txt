@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O poder de atingir seus objetivos sem preocupação (PROJ-0365)
+Data: 11/07/2025
+Gerente: Luiz Felipe Silva
+
+Orçamento inicial: R$ 2367950.00
+Custo real atual: R$ 631193.54
+Desvio orçamentário: -73.34%
+Índice de Desempenho de Custo (CPI): 0.70
+Valor Agregado (EV): R$ 442860.44
+Estimativa para conclusão: R$ 2743762.97
+Estimativa no término (EAC): R$ 3374956.50
+Variação no término (VAC): R$ -1007006.50
+
+Detalhamento por categoria:
+- Pessoal: R$ 356413.82 (56.5%)
+- Equipamentos: R$ 86066.90 (13.6%)
+- Software: R$ 83860.73 (13.3%)
+- Serviços: R$ 68164.02 (10.8%)
+- Outros: R$ 36688.07 (5.8%)

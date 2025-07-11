@@ -1,0 +1,22 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A vantagem de avançar com toda a tranquilidade (PROJ-0490)
+Data: 11/07/2025
+Gerente: Samuel Fonseca
+
+Status atual: Cancelado
+Percentual de conclusão: 15.8%
+Data de início: 12/06/2025
+Data de término planejada: 31/07/2025
+Data de término real/prevista: 19/06/2025
+Atraso atual: 0 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 0.27
+Valor Planejado (PV): R$ 2301996.33
+Valor Agregado (EV): R$ 614253.37
+
+Tarefas críticas:
+- Testes de aceitação do usuário
+- Desenvolvimento da interface do usuário
+- Testes de segurança
+
+Tarefas atrasadas:

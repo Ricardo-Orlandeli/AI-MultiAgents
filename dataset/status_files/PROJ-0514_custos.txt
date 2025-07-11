@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O direito de atingir seus objetivos sem preocupação (PROJ-0514)
+Data: 11/07/2025
+Gerente: Alice Martins
+
+Orçamento inicial: R$ 4610651.00
+Custo real atual: R$ 3580110.84
+Desvio orçamentário: -4.25%
+Índice de Desempenho de Custo (CPI): 1.20
+Valor Agregado (EV): R$ 4292368.62
+Estimativa para conclusão: R$ 265467.93
+Estimativa no término (EAC): R$ 3845578.77
+Variação no término (VAC): R$ 765072.23
+
+Detalhamento por categoria:
+- Pessoal: R$ 1895936.07 (53.0%)
+- Equipamentos: R$ 537660.50 (15.0%)
+- Software: R$ 233410.05 (6.5%)
+- Serviços: R$ 606302.11 (16.9%)
+- Outros: R$ 306802.12 (8.6%)

@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A segurança de conseguir sem preocupação (PROJ-0693)
+Data: 11/07/2025
+Gerente: Pietra Barros
+
+Orçamento inicial: R$ 3956544.00
+Custo real atual: R$ 3312299.80
+Desvio orçamentário: -16.28%
+Índice de Desempenho de Custo (CPI): 1.09
+Valor Agregado (EV): R$ 3604665.76
+Estimativa para conclusão: R$ 323338.22
+Estimativa no término (EAC): R$ 3635638.02
+Variação no término (VAC): R$ 320905.98
+
+Detalhamento por categoria:
+- Pessoal: R$ 1740769.03 (52.6%)
+- Equipamentos: R$ 400193.27 (12.1%)
+- Software: R$ 434141.05 (13.1%)
+- Serviços: R$ 486847.05 (14.7%)
+- Outros: R$ 250349.40 (7.6%)

@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O poder de mudar com toda a tranquilidade (PROJ-0296)
+Data: 11/07/2025
+Gerente: João Vitor Fonseca
+
+Orçamento inicial: R$ 329514.00
+Custo real atual: R$ 307123.57
+Desvio orçamentário: -6.79%
+Índice de Desempenho de Custo (CPI): 1.05
+Valor Agregado (EV): R$ 322429.21
+Estimativa para conclusão: R$ 6748.48
+Estimativa no término (EAC): R$ 313872.05
+Variação no término (VAC): R$ 15641.95
+
+Detalhamento por categoria:
+- Pessoal: R$ 168535.99 (54.9%)
+- Equipamentos: R$ 30914.68 (10.1%)
+- Software: R$ 40511.29 (13.2%)
+- Serviços: R$ 49485.01 (16.1%)
+- Outros: R$ 17676.60 (5.8%)

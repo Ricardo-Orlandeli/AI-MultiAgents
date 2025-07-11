@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A possibilidade de evoluir direto da fonte (PROJ-0363)
+Data: 11/07/2025
+Gerente: Eloá Brito
+
+Orçamento inicial: R$ 1555529.00
+Custo real atual: R$ 1468692.43
+Desvio orçamentário: -5.58%
+Índice de Desempenho de Custo (CPI): 1.06
+Valor Agregado (EV): R$ 1553973.47
+Estimativa para conclusão: R$ 1470.16
+Estimativa no término (EAC): R$ 1470162.59
+Variação no término (VAC): R$ 85366.41
+
+Detalhamento por categoria:
+- Pessoal: R$ 707302.60 (48.2%)
+- Equipamentos: R$ 177839.78 (12.1%)
+- Software: R$ 230296.59 (15.7%)
+- Serviços: R$ 249117.88 (17.0%)
+- Outros: R$ 104135.58 (7.1%)

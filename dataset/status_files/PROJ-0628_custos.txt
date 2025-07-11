@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O direito de avançar naturalmente (PROJ-0628)
+Data: 11/07/2025
+Gerente: Camila Andrade
+
+Orçamento inicial: R$ 871367.00
+Custo real atual: R$ 876518.04
+Desvio orçamentário: 0.59%
+Índice de Desempenho de Custo (CPI): 0.96
+Valor Agregado (EV): R$ 840994.24
+Estimativa para conclusão: R$ 31655.72
+Estimativa no término (EAC): R$ 908173.75
+Variação no término (VAC): R$ -36806.75
+
+Detalhamento por categoria:
+- Pessoal: R$ 405096.46 (46.2%)
+- Equipamentos: R$ 180748.76 (20.6%)
+- Software: R$ 122287.46 (14.0%)
+- Serviços: R$ 113150.72 (12.9%)
+- Outros: R$ 55234.64 (6.3%)

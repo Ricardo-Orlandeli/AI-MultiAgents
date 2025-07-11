@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O conforto de atingir seus objetivos de maneira eficaz (PROJ-0796)
+Data: 11/07/2025
+Gerente: Ana Júlia Araújo
+
+Orçamento inicial: R$ 1897105.00
+Custo real atual: R$ 1757495.43
+Desvio orçamentário: -7.36%
+Índice de Desempenho de Custo (CPI): 0.92
+Valor Agregado (EV): R$ 1623952.30
+Estimativa para conclusão: R$ 295614.98
+Estimativa no término (EAC): R$ 2053110.42
+Variação no término (VAC): R$ -156005.42
+
+Detalhamento por categoria:
+- Pessoal: R$ 873979.69 (49.7%)
+- Equipamentos: R$ 315746.90 (18.0%)
+- Software: R$ 214718.43 (12.2%)
+- Serviços: R$ 235279.42 (13.4%)
+- Outros: R$ 117771.00 (6.7%)

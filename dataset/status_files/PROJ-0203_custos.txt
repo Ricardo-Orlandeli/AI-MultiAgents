@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O poder de avançar em estado puro (PROJ-0203)
+Data: 11/07/2025
+Gerente: Ana Vitória Oliveira
+
+Orçamento inicial: R$ 4634829.00
+Custo real atual: R$ 3575314.46
+Desvio orçamentário: 3.35%
+Índice de Desempenho de Custo (CPI): 0.70
+Valor Agregado (EV): R$ 2515257.02
+Estimativa para conclusão: R$ 3012867.58
+Estimativa no término (EAC): R$ 6588182.04
+Variação no término (VAC): R$ -1953353.04
+
+Detalhamento por categoria:
+- Pessoal: R$ 1861022.05 (52.1%)
+- Equipamentos: R$ 617627.16 (17.3%)
+- Software: R$ 296144.45 (8.3%)
+- Serviços: R$ 582220.34 (16.3%)
+- Outros: R$ 218300.47 (6.1%)

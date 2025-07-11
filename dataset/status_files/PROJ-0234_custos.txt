@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A segurança de evoluir simplesmente (PROJ-0234)
+Data: 11/07/2025
+Gerente: Dr. Arthur Gabriel Duarte
+
+Orçamento inicial: R$ 4589204.00
+Custo real atual: R$ 4477062.81
+Desvio orçamentário: -2.44%
+Índice de Desempenho de Custo (CPI): 0.80
+Valor Agregado (EV): R$ 3582276.18
+Estimativa para conclusão: R$ 1258439.84
+Estimativa no término (EAC): R$ 5735502.65
+Variação no término (VAC): R$ -1146298.65
+
+Detalhamento por categoria:
+- Pessoal: R$ 2092807.03 (46.7%)
+- Equipamentos: R$ 516749.55 (11.5%)
+- Software: R$ 634361.00 (14.2%)
+- Serviços: R$ 916274.67 (20.5%)
+- Outros: R$ 316870.56 (7.1%)

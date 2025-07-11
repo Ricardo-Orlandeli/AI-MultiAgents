@@ -1,0 +1,27 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A possibilidade de avançar com força total (PROJ-0565)
+Data: 11/07/2025
+Gerente: Murilo Aragão
+
+Status atual: Em andamento
+Percentual de conclusão: 99.9%
+Data de início: 12/08/2023
+Data de término planejada: 26/09/2023
+Data de término real/prevista: 18/10/2023
+Atraso atual: 654 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 1.02
+Valor Planejado (PV): R$ 3893821.00
+Valor Agregado (EV): R$ 3889927.18
+
+Tarefas críticas:
+- Migração de dados legados
+- Implementação do módulo de notificações
+- Implementação do sistema de backup
+- Desenvolvimento do painel administrativo
+- Implementação do módulo de notificações
+- Implementação da API REST
+- Testes de aceitação do usuário
+- Configuração da infraestrutura
+
+Tarefas atrasadas:

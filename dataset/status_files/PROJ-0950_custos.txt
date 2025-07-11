@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O direito de concretizar seus projetos direto da fonte (PROJ-0950)
+Data: 11/07/2025
+Gerente: Gabrielly Guerra
+
+Orçamento inicial: R$ 4217229.00
+Custo real atual: R$ 3482056.59
+Desvio orçamentário: 205.68%
+Índice de Desempenho de Custo (CPI): 1.21
+Valor Agregado (EV): R$ 4217229.00
+Estimativa para conclusão: R$ 0.00
+Estimativa no término (EAC): R$ 3482056.59
+Variação no término (VAC): R$ 735172.41
+
+Detalhamento por categoria:
+- Pessoal: R$ 2049593.74 (58.9%)
+- Equipamentos: R$ 385692.46 (11.1%)
+- Software: R$ 227051.28 (6.5%)
+- Serviços: R$ 532098.35 (15.3%)
+- Outros: R$ 287620.76 (8.3%)

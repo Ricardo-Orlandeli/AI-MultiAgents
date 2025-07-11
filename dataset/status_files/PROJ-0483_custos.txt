@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A certeza de concretizar seus projetos em estado puro (PROJ-0483)
+Data: 11/07/2025
+Gerente: Clara Cavalcante
+
+Orçamento inicial: R$ 1564062.00
+Custo real atual: R$ 126233.58
+Desvio orçamentário: -30.91%
+Índice de Desempenho de Custo (CPI): 0.87
+Valor Agregado (EV): R$ 109347.49
+Estimativa para conclusão: R$ 1679360.07
+Estimativa no término (EAC): R$ 1805593.65
+Variação no término (VAC): R$ -241531.65
+
+Detalhamento por categoria:
+- Pessoal: R$ 71353.49 (56.5%)
+- Equipamentos: R$ 20137.07 (16.0%)
+- Software: R$ 10874.80 (8.6%)
+- Serviços: R$ 12615.10 (10.0%)
+- Outros: R$ 11253.10 (8.9%)

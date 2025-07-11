@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O direito de conseguir com toda a tranquilidade (PROJ-0717)
+Data: 11/07/2025
+Gerente: Theo Castro
+
+Orçamento inicial: R$ 3907713.00
+Custo real atual: R$ 991602.87
+Desvio orçamentário: -1.43%
+Índice de Desempenho de Custo (CPI): 1.12
+Valor Agregado (EV): R$ 1105990.84
+Estimativa para conclusão: R$ 2511951.84
+Estimativa no término (EAC): R$ 3503554.70
+Variação no término (VAC): R$ 404158.30
+
+Detalhamento por categoria:
+- Pessoal: R$ 491779.61 (49.6%)
+- Equipamentos: R$ 114932.49 (11.6%)
+- Software: R$ 144285.28 (14.6%)
+- Serviços: R$ 173169.96 (17.5%)
+- Outros: R$ 67435.51 (6.8%)

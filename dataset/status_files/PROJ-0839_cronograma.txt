@@ -1,0 +1,25 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A simplicidade de evoluir com força total (PROJ-0839)
+Data: 11/07/2025
+Gerente: Alice Castro
+
+Status atual: Em andamento
+Percentual de conclusão: 99.9%
+Data de início: 08/09/2023
+Data de término planejada: 10/02/2024
+Data de término real/prevista: 29/01/2024
+Atraso atual: 517 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 1.08
+Valor Planejado (PV): R$ 4581010.00
+Valor Agregado (EV): R$ 4576428.99
+
+Tarefas críticas:
+- Implementação do módulo de relatórios
+- Implementação do sistema de backup
+- Implementação do módulo de exportação de dados
+- Implementação da API REST
+- Implementação da API REST
+- Implementação do módulo de relatórios
+
+Tarefas atrasadas:

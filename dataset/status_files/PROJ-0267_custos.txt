@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A liberdade de avançar mais rapidamente (PROJ-0267)
+Data: 11/07/2025
+Gerente: Maria Clara Fernandes
+
+Orçamento inicial: R$ 1519313.00
+Custo real atual: R$ 1381815.81
+Desvio orçamentário: 594.76%
+Índice de Desempenho de Custo (CPI): 1.10
+Valor Agregado (EV): R$ 1519313.00
+Estimativa para conclusão: R$ 0.00
+Estimativa no término (EAC): R$ 1381815.81
+Variação no término (VAC): R$ 137497.19
+
+Detalhamento por categoria:
+- Pessoal: R$ 747933.53 (54.1%)
+- Equipamentos: R$ 187554.94 (13.6%)
+- Software: R$ 180891.92 (13.1%)
+- Serviços: R$ 158782.98 (11.5%)
+- Outros: R$ 106652.44 (7.7%)

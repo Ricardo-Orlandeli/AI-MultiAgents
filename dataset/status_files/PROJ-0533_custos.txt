@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O prazer de ganhar com força total (PROJ-0533)
+Data: 11/07/2025
+Gerente: Maria Flor Farias
+
+Orçamento inicial: R$ 2317384.00
+Custo real atual: R$ 2338952.77
+Desvio orçamentário: 637.23%
+Índice de Desempenho de Custo (CPI): 0.99
+Valor Agregado (EV): R$ 2317384.00
+Estimativa para conclusão: R$ 0.00
+Estimativa no término (EAC): R$ 2338952.77
+Variação no término (VAC): R$ -21568.77
+
+Detalhamento por categoria:
+- Pessoal: R$ 1290605.94 (55.2%)
+- Equipamentos: R$ 344790.68 (14.7%)
+- Software: R$ 152467.44 (6.5%)
+- Serviços: R$ 380082.28 (16.3%)
+- Outros: R$ 171006.42 (7.3%)

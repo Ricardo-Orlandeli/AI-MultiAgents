@@ -1,0 +1,23 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A arte de mudar com confiança (PROJ-0576)
+Data: 11/07/2025
+Gerente: Arthur Miguel Macedo
+
+Status atual: Concluído
+Percentual de conclusão: 100.0%
+Data de início: 02/12/2023
+Data de término planejada: 29/06/2024
+Data de término real/prevista: 10/07/2024
+Atraso atual: 377 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 0.97
+Valor Planejado (PV): R$ 3155449.00
+Valor Agregado (EV): R$ 3155449.00
+
+Tarefas críticas:
+- Configuração da infraestrutura
+- Desenvolvimento do painel administrativo
+- Migração de dados legados
+- Testes de segurança
+
+Tarefas atrasadas:

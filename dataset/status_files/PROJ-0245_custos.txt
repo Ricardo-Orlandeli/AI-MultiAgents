@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A vantagem de mudar com força total (PROJ-0245)
+Data: 11/07/2025
+Gerente: Evelyn Pastor
+
+Orçamento inicial: R$ 1906881.00
+Custo real atual: R$ 1854273.18
+Desvio orçamentário: -2.76%
+Índice de Desempenho de Custo (CPI): 0.90
+Valor Agregado (EV): R$ 1670703.38
+Estimativa para conclusão: R$ 262127.82
+Estimativa no término (EAC): R$ 2116401.00
+Variação no término (VAC): R$ -209520.00
+
+Detalhamento por categoria:
+- Pessoal: R$ 929270.45 (50.1%)
+- Equipamentos: R$ 295928.22 (16.0%)
+- Software: R$ 264031.32 (14.2%)
+- Serviços: R$ 210253.88 (11.3%)
+- Outros: R$ 154789.31 (8.3%)

@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O prazer de avançar mais rapidamente (PROJ-0198)
+Data: 11/07/2025
+Gerente: Ísis Vasconcelos
+
+Orçamento inicial: R$ 1642235.00
+Custo real atual: R$ 108884.02
+Desvio orçamentário: -24.34%
+Índice de Desempenho de Custo (CPI): 1.09
+Valor Agregado (EV): R$ 118515.40
+Estimativa para conclusão: R$ 1399891.51
+Estimativa no término (EAC): R$ 1508775.53
+Variação no término (VAC): R$ 133459.47
+
+Detalhamento por categoria:
+- Pessoal: R$ 58774.15 (54.0%)
+- Equipamentos: R$ 19396.10 (17.8%)
+- Software: R$ 6959.27 (6.4%)
+- Serviços: R$ 12153.06 (11.2%)
+- Outros: R$ 11601.43 (10.7%)

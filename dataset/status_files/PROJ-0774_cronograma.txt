@@ -1,0 +1,25 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: O direito de mudar com força total (PROJ-0774)
+Data: 11/07/2025
+Gerente: Lívia Gonçalves
+
+Status atual: Atrasado
+Percentual de conclusão: 29.4%
+Data de início: 30/03/2025
+Data de término planejada: 02/02/2026
+Data de término real/prevista: 22/05/2026
+Atraso atual: 0 dias
+Motivo do atraso: Problemas de integração com sistemas legados
+Índice de Desempenho de Cronograma (SPI): 0.88
+Valor Planejado (PV): R$ 1417217.67
+Valor Agregado (EV): R$ 1248996.95
+
+Tarefas críticas:
+- Desenvolvimento do painel administrativo
+- Integração com sistema de pagamentos
+- Testes de segurança
+
+Tarefas atrasadas:
+- Testes de segurança
+- Integração com sistema de pagamentos
+- Desenvolvimento do painel administrativo

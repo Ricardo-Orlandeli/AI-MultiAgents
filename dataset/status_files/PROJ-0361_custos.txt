@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A possibilidade de inovar simplesmente (PROJ-0361)
+Data: 11/07/2025
+Gerente: Henrique Ribeiro
+
+Orçamento inicial: R$ 2888092.00
+Custo real atual: R$ 2219648.58
+Desvio orçamentário: -23.14%
+Índice de Desempenho de Custo (CPI): 1.16
+Valor Agregado (EV): R$ 2570756.07
+Estimativa para conclusão: R$ 273994.98
+Estimativa no término (EAC): R$ 2493643.56
+Variação no término (VAC): R$ 394448.44
+
+Detalhamento por categoria:
+- Pessoal: R$ 1085426.18 (48.9%)
+- Equipamentos: R$ 442040.05 (19.9%)
+- Software: R$ 168004.81 (7.6%)
+- Serviços: R$ 316636.21 (14.3%)
+- Outros: R$ 207541.34 (9.4%)

@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O direito de ganhar com confiança (PROJ-0612)
+Data: 11/07/2025
+Gerente: Ana Carolina Moraes
+
+Orçamento inicial: R$ 611582.00
+Custo real atual: R$ 523412.63
+Desvio orçamentário: -13.59%
+Índice de Desempenho de Custo (CPI): 1.17
+Valor Agregado (EV): R$ 611582.00
+Estimativa para conclusão: R$ 0.00
+Estimativa no término (EAC): R$ 523412.63
+Variação no término (VAC): R$ 88169.37
+
+Detalhamento por categoria:
+- Pessoal: R$ 281413.18 (53.8%)
+- Equipamentos: R$ 62021.20 (11.8%)
+- Software: R$ 71961.67 (13.7%)
+- Serviços: R$ 65214.04 (12.5%)
+- Outros: R$ 42802.54 (8.2%)

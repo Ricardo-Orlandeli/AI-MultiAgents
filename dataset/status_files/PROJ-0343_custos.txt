@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A possibilidade de evoluir com confiança (PROJ-0343)
+Data: 11/07/2025
+Gerente: Kaique Barbosa
+
+Orçamento inicial: R$ 738960.00
+Custo real atual: R$ 254880.00
+Desvio orçamentário: -17.00%
+Índice de Desempenho de Custo (CPI): 1.13
+Valor Agregado (EV): R$ 287455.74
+Estimativa para conclusão: R$ 400337.81
+Estimativa no término (EAC): R$ 655217.81
+Variação no término (VAC): R$ 83742.19
+
+Detalhamento por categoria:
+- Pessoal: R$ 124745.74 (48.9%)
+- Equipamentos: R$ 42807.04 (16.8%)
+- Software: R$ 21950.94 (8.6%)
+- Serviços: R$ 40160.84 (15.8%)
+- Outros: R$ 25215.44 (9.9%)

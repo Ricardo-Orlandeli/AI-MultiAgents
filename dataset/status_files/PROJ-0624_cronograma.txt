@@ -1,0 +1,26 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A liberdade de atingir seus objetivos com toda a tranquilidade (PROJ-0624)
+Data: 11/07/2025
+Gerente: Henry Monteiro
+
+Status atual: Concluído
+Percentual de conclusão: 100.0%
+Data de início: 26/12/2023
+Data de término planejada: 31/08/2024
+Data de término real/prevista: 16/08/2024
+Atraso atual: 314 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 1.02
+Valor Planejado (PV): R$ 3380448.00
+Valor Agregado (EV): R$ 3380448.00
+
+Tarefas críticas:
+- Migração de dados legados
+- Integração com sistema de pagamentos
+- Migração de dados legados
+- Implementação do módulo de análise de dados
+- Implementação do módulo de análise de dados
+- Implementação do módulo de análise de dados
+- Integração com sistema de pagamentos
+
+Tarefas atrasadas:

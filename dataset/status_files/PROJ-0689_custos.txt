@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O conforto de mudar naturalmente (PROJ-0689)
+Data: 11/07/2025
+Gerente: Apollo Martins
+
+Orçamento inicial: R$ 3400719.00
+Custo real atual: R$ 2762552.94
+Desvio orçamentário: 94.96%
+Índice de Desempenho de Custo (CPI): 1.23
+Valor Agregado (EV): R$ 3400719.00
+Estimativa para conclusão: R$ 0.00
+Estimativa no término (EAC): R$ 2762552.94
+Variação no término (VAC): R$ 638166.06
+
+Detalhamento por categoria:
+- Pessoal: R$ 1339518.07 (48.5%)
+- Equipamentos: R$ 508497.39 (18.4%)
+- Software: R$ 290853.97 (10.5%)
+- Serviços: R$ 420444.15 (15.2%)
+- Outros: R$ 203239.37 (7.4%)
